@@ -1,0 +1,377 @@
+{
+  "generated_at": "2026-08-02T07:41:39.306896+00:00",
+  "snapshots": [
+    {
+      "date": "2026-08-02",
+      "path": "data/archive/2026-08-02.json",
+      "count": 95,
+      "generated_at": "2026-08-02T07:41:39.300254+00:00"
+    },
+    {
+      "date": "2026-08-01",
+      "path": "data/archive/2026-08-01.json",
+      "count": 95,
+      "generated_at": "2026-08-01T07:38:39.498661+00:00"
+    },
+    {
+      "date": "2026-07-31",
+      "path": "data/archive/2026-07-31.json",
+      "count": 95,
+      "generated_at": "2026-07-31T08:10:17.018367+00:00"
+    },
+    {
+      "date": "2026-07-30",
+      "path": "data/archive/2026-07-30.json",
+      "count": 95,
+      "generated_at": "2026-07-30T07:43:10.884522+00:00"
+    },
+    {
+      "date": "2026-07-29",
+      "path": "data/archive/2026-07-29.json",
+      "count": 95,
+      "generated_at": "2026-07-29T08:00:19.412035+00:00"
+    },
+    {
+      "date": "2026-07-28",
+      "path": "data/archive/2026-07-28.json",
+      "count": 95,
+      "generated_at": "2026-07-28T07:48:16.501712+00:00"
+    },
+    {
+      "date": "2026-07-27",
+      "path": "data/archive/2026-07-27.json",
+      "count": 95,
+      "generated_at": "2026-07-27T08:48:37.977907+00:00"
+    },
+    {
+      "date": "2026-07-26",
+      "path": "data/archive/2026-07-26.json",
+      "count": 95,
+      "generated_at": "2026-07-26T07:46:41.901623+00:00"
+    },
+    {
+      "date": "2026-07-25",
+      "path": "data/archive/2026-07-25.json",
+      "count": 95,
+      "generated_at": "2026-07-25T07:28:56.918068+00:00"
+    },
+    {
+      "date": "2026-07-24",
+      "path": "data/archive/2026-07-24.json",
+      "count": 95,
+      "generated_at": "2026-07-24T07:42:58.655728+00:00"
+    },
+    {
+      "date": "2026-07-23",
+      "path": "data/archive/2026-07-23.json",
+      "count": 95,
+      "generated_at": "2026-07-23T07:45:54.601862+00:00"
+    },
+    {
+      "date": "2026-07-22",
+      "path": "data/archive/2026-07-22.json",
+      "count": 95,
+      "generated_at": "2026-07-22T07:43:23.513559+00:00"
+    },
+    {
+      "date": "2026-07-21",
+      "path": "data/archive/2026-07-21.json",
+      "count": 95,
+      "generated_at": "2026-07-21T07:43:19.266648+00:00"
+    },
+    {
+      "date": "2026-07-20",
+      "path": "data/archive/2026-07-20.json",
+      "count": 95,
+      "generated_at": "2026-07-20T08:18:56.528520+00:00"
+    },
+    {
+      "date": "2026-07-19",
+      "path": "data/archive/2026-07-19.json",
+      "count": 95,
+      "generated_at": "2026-07-19T07:36:19.794774+00:00"
+    },
+    {
+      "date": "2026-07-18",
+      "path": "data/archive/2026-07-18.json",
+      "count": 95,
+      "generated_at": "2026-07-18T07:10:38.918166+00:00"
+    },
+    {
+      "date": "2026-07-17",
+      "path": "data/archive/2026-07-17.json",
+      "count": 95,
+      "generated_at": "2026-07-17T07:29:59.509535+00:00"
+    },
+    {
+      "date": "2026-07-16",
+      "path": "data/archive/2026-07-16.json",
+      "count": 95,
+      "generated_at": "2026-07-16T07:32:23.489551+00:00"
+    },
+    {
+      "date": "2026-07-15",
+      "path": "data/archive/2026-07-15.json",
+      "count": 95,
+      "generated_at": "2026-07-15T07:24:21.539517+00:00"
+    },
+    {
+      "date": "2026-07-14",
+      "path": "data/archive/2026-07-14.json",
+      "count": 95,
+      "generated_at": "2026-07-14T07:21:26.026966+00:00"
+    },
+    {
+      "date": "2026-07-13",
+      "path": "data/archive/2026-07-13.json",
+      "count": 95,
+      "generated_at": "2026-07-13T08:28:38.111741+00:00"
+    },
+    {
+      "date": "2026-07-12",
+      "path": "data/archive/2026-07-12.json",
+      "count": 95,
+      "generated_at": "2026-07-12T07:38:01.943737+00:00"
+    },
+    {
+      "date": "2026-07-11",
+      "path": "data/archive/2026-07-11.json",
+      "count": 95,
+      "generated_at": "2026-07-11T07:21:22.761817+00:00"
+    },
+    {
+      "date": "2026-07-10",
+      "path": "data/archive/2026-07-10.json",
+      "count": 95,
+      "generated_at": "2026-07-10T08:44:23.346446+00:00"
+    },
+    {
+      "date": "2026-07-09",
+      "path": "data/archive/2026-07-09.json",
+      "count": 95,
+      "generated_at": "2026-07-09T08:45:45.638104+00:00"
+    },
+    {
+      "date": "2026-07-08",
+      "path": "data/archive/2026-07-08.json",
+      "count": 95,
+      "generated_at": "2026-07-08T07:42:04.393528+00:00"
+    },
+    {
+      "date": "2026-07-07",
+      "path": "data/archive/2026-07-07.json",
+      "count": 95,
+      "generated_at": "2026-07-07T08:44:37.249998+00:00"
+    },
+    {
+      "date": "2026-07-06",
+      "path": "data/archive/2026-07-06.json",
+      "count": 95,
+      "generated_at": "2026-07-06T09:11:46.170154+00:00"
+    },
+    {
+      "date": "2026-07-05",
+      "path": "data/archive/2026-07-05.json",
+      "count": 95,
+      "generated_at": "2026-07-05T08:19:49.199875+00:00"
+    },
+    {
+      "date": "2026-07-04",
+      "path": "data/archive/2026-07-04.json",
+      "count": 95,
+      "generated_at": "2026-07-04T08:05:53.675808+00:00"
+    },
+    {
+      "date": "2026-07-03",
+      "path": "data/archive/2026-07-03.json",
+      "count": 95,
+      "generated_at": "2026-07-03T08:29:13.956759+00:00"
+    },
+    {
+      "date": "2026-07-02",
+      "path": "data/archive/2026-07-02.json",
+      "count": 59,
+      "generated_at": "2026-07-02T08:26:02.944973+00:00"
+    },
+    {
+      "date": "2026-07-01",
+      "path": "data/archive/2026-07-01.json",
+      "count": 59,
+      "generated_at": "2026-07-01T08:57:48.970552+00:00"
+    },
+    {
+      "date": "2026-06-30",
+      "path": "data/archive/2026-06-30.json",
+      "count": 95,
+      "generated_at": "2026-06-30T08:38:46.143188+00:00"
+    },
+    {
+      "date": "2026-06-29",
+      "path": "data/archive/2026-06-29.json",
+      "count": 95,
+      "generated_at": "2026-06-29T09:59:59.617890+00:00"
+    },
+    {
+      "date": "2026-06-28",
+      "path": "data/archive/2026-06-28.json",
+      "count": 95,
+      "generated_at": "2026-06-28T08:30:00.902391+00:00"
+    },
+    {
+      "date": "2026-06-27",
+      "path": "data/archive/2026-06-27.json",
+      "count": 95,
+      "generated_at": "2026-06-27T11:32:00.388038+00:00"
+    },
+    {
+      "date": "2026-06-26",
+      "path": "data/archive/2026-06-26.json",
+      "count": 95,
+      "generated_at": "2026-06-26T08:36:08.407739+00:00"
+    },
+    {
+      "date": "2026-06-24",
+      "path": "data/archive/2026-06-24.json",
+      "count": 95,
+      "generated_at": "2026-06-24T08:34:31.707610+00:00"
+    },
+    {
+      "date": "2026-06-22",
+      "path": "data/archive/2026-06-22.json",
+      "count": 95,
+      "generated_at": "2026-06-22T10:48:21.852912+00:00"
+    },
+    {
+      "date": "2026-06-21",
+      "path": "data/archive/2026-06-21.json",
+      "count": 95,
+      "generated_at": "2026-06-21T09:03:14.767923+00:00"
+    },
+    {
+      "date": "2026-06-20",
+      "path": "data/archive/2026-06-20.json",
+      "count": 95,
+      "generated_at": "2026-06-20T08:29:02.759702+00:00"
+    },
+    {
+      "date": "2026-06-18",
+      "path": "data/archive/2026-06-18.json",
+      "count": 95,
+      "generated_at": "2026-06-18T09:47:14.117139+00:00"
+    },
+    {
+      "date": "2026-06-17",
+      "path": "data/archive/2026-06-17.json",
+      "count": 95,
+      "generated_at": "2026-06-17T10:05:19.895237+00:00"
+    },
+    {
+      "date": "2026-06-16",
+      "path": "data/archive/2026-06-16.json",
+      "count": 95,
+      "generated_at": "2026-06-16T10:21:38.735712+00:00"
+    },
+    {
+      "date": "2026-06-11",
+      "path": "data/archive/2026-06-11.json",
+      "count": 95,
+      "generated_at": "2026-06-11T09:46:08.983579+00:00"
+    },
+    {
+      "date": "2026-06-09",
+      "path": "data/archive/2026-06-09.json",
+      "count": 95,
+      "generated_at": "2026-06-09T08:42:27.334463+00:00"
+    },
+    {
+      "date": "2026-06-08",
+      "path": "data/archive/2026-06-08.json",
+      "count": 95,
+      "generated_at": "2026-06-08T09:58:03.532264+00:00"
+    },
+    {
+      "date": "2026-06-06",
+      "path": "data/archive/2026-06-06.json",
+      "count": 95,
+      "generated_at": "2026-06-06T08:03:57.291037+00:00"
+    },
+    {
+      "date": "2026-06-03",
+      "path": "data/archive/2026-06-03.json",
+      "count": 95,
+      "generated_at": "2026-06-03T10:08:16.497353+00:00"
+    },
+    {
+      "date": "2026-06-02",
+      "path": "data/archive/2026-06-02.json",
+      "count": 95,
+      "generated_at": "2026-06-02T09:19:30.239623+00:00"
+    },
+    {
+      "date": "2026-06-01",
+      "path": "data/archive/2026-06-01.json",
+      "count": 95,
+      "generated_at": "2026-06-01T10:32:39.676683+00:00"
+    },
+    {
+      "date": "2026-05-31",
+      "path": "data/archive/2026-05-31.json",
+      "count": 95,
+      "generated_at": "2026-05-31T08:23:39.027729+00:00"
+    },
+    {
+      "date": "2026-05-30",
+      "path": "data/archive/2026-05-30.json",
+      "count": 95,
+      "generated_at": "2026-05-30T07:58:38.862985+00:00"
+    },
+    {
+      "date": "2026-05-29",
+      "path": "data/archive/2026-05-29.json",
+      "count": 95,
+      "generated_at": "2026-05-29T08:53:06.282015+00:00"
+    },
+    {
+      "date": "2026-05-28",
+      "path": "data/archive/2026-05-28.json",
+      "count": 95,
+      "generated_at": "2026-05-28T08:54:48.979618+00:00"
+    },
+    {
+      "date": "2026-05-27",
+      "path": "data/archive/2026-05-27.json",
+      "count": 95,
+      "generated_at": "2026-05-27T08:50:02.447594+00:00"
+    },
+    {
+      "date": "2026-05-26",
+      "path": "data/archive/2026-05-26.json",
+      "count": 95,
+      "generated_at": "2026-05-26T08:44:45.323310+00:00"
+    },
+    {
+      "date": "2026-05-24",
+      "path": "data/archive/2026-05-24.json",
+      "count": 95,
+      "generated_at": "2026-05-24T08:01:42.234498+00:00"
+    },
+    {
+      "date": "2026-05-23",
+      "path": "data/archive/2026-05-23.json",
+      "count": 95,
+      "generated_at": "2026-05-23T07:44:49.378724+00:00"
+    },
+    {
+      "date": "2026-05-21",
+      "path": "data/archive/2026-05-21.json",
+      "count": 95,
+      "generated_at": "2026-05-21T08:44:15.743349+00:00"
+    },
+    {
+      "date": "2026-05-20",
+      "path": "data/archive/2026-05-20.json",
+      "count": 95,
+      "generated_at": "2026-05-20T13:12:40.653534+00:00"
+    }
+  ]
+}
