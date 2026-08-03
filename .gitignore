@@ -9,3 +9,4 @@ venv/
 .vscode/
 *.swp
 *.swo
+.ndrt_feature_backup/

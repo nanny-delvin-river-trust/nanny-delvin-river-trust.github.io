@@ -1,0 +1,173 @@
+/* NDRT logo, sharing, install and footer additions */
+
+.logo-mark.logo-mark-image {
+  overflow: hidden;
+  padding: 0.08rem;
+  background: #ffffff;
+  border: 1px solid rgba(15, 94, 70, 0.12);
+}
+
+.logo-avatar {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 999px;
+}
+
+.site-tools {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.site-tool-button {
+  width: 2.45rem;
+  height: 2.45rem;
+  display: inline-grid;
+  place-items: center;
+  flex: 0 0 auto;
+  border: 1px solid rgba(15, 94, 70, 0.16);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.82);
+  color: var(--brand);
+  cursor: pointer;
+  transition:
+    transform var(--transition),
+    background var(--transition),
+    border-color var(--transition);
+}
+
+.site-tool-button:hover {
+  transform: translateY(-1px);
+  background: var(--accent);
+  border-color: rgba(15, 94, 70, 0.28);
+}
+
+.site-tool-button:focus-visible {
+  outline: 3px solid rgba(121, 181, 142, 0.42);
+  outline-offset: 2px;
+}
+
+.site-tool-button svg {
+  width: 1.15rem;
+  height: 1.15rem;
+  fill: currentColor;
+}
+
+.site-tool-button[hidden] {
+  display: none !important;
+}
+
+.site-toast {
+  position: fixed;
+  left: 50%;
+  bottom: 1.25rem;
+  z-index: 1000;
+  max-width: min(90vw, 34rem);
+  padding: 0.8rem 1rem;
+  border-radius: 999px;
+  background: #16342a;
+  color: #ffffff;
+  box-shadow: 0 16px 40px rgba(16, 48, 38, 0.22);
+  opacity: 0;
+  transform: translate(-50%, 1rem);
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.site-toast.is-visible {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+
+.site-dialog {
+  width: min(calc(100% - 2rem), 30rem);
+  padding: 0;
+  border: 0;
+  border-radius: 24px;
+  color: var(--text);
+  background: var(--surface);
+  box-shadow: 0 28px 80px rgba(16, 48, 38, 0.28);
+}
+
+.site-dialog::backdrop {
+  background: rgba(11, 35, 28, 0.48);
+  backdrop-filter: blur(4px);
+}
+
+.site-dialog-inner {
+  position: relative;
+  padding: 2rem;
+  text-align: center;
+}
+
+.site-dialog-inner h2 {
+  margin: 0.9rem 0 0.7rem;
+  color: var(--brand);
+}
+
+.site-dialog-logo {
+  width: 72px;
+  height: 72px;
+  margin: 0 auto;
+  border-radius: 999px;
+}
+
+.site-dialog-close {
+  position: absolute;
+  top: 0.65rem;
+  right: 0.8rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--muted);
+  font-size: 1.8rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.site-dialog-done {
+  margin-top: 0.65rem;
+}
+
+.site-footer .footer-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.footer-meta {
+  grid-column: 1 / -1;
+  padding-top: 1.4rem;
+  margin-top: 0.25rem;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.footer-meta p {
+  margin: 0.35rem 0;
+}
+
+.site-footer a:hover,
+.site-footer a:focus-visible {
+  color: var(--brand);
+  text-decoration: underline;
+}
+
+@media (max-width: 760px) {
+  .site-footer .footer-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .footer-meta {
+    grid-column: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .site-tool-button,
+  .site-toast {
+    transition: none;
+  }
+}

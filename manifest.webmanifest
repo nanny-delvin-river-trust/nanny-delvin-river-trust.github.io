@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "Nanny-Delvin Rivers Trust",
+  "short_name": "Nanny-Delvin",
+  "description": "Community-led catchment restoration, stewardship and catchment intelligence for the Nanny-Delvin system.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6FAF8",
+  "theme_color": "#0F5E46",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
