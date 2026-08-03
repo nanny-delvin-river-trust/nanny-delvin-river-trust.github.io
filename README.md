@@ -1,4 +1,4 @@
-# Nanny-Delvin Rivers Trust Website
+# Nanny-Delvin Rivers Trust Website 
 
 > **A prototype for community-supported catchment intelligence in the River Nanny and River Delvin catchments.**
 
