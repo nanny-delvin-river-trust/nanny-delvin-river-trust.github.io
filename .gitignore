@@ -4,9 +4,7 @@ __pycache__/
 .venv/
 .venv-*/
 venv/
-.site-update-backup/
 *.before-*
 .vscode/
 *.swp
 *.swo
-.ndrt_feature_backup/

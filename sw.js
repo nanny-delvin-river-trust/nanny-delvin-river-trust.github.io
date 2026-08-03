@@ -1,4 +1,4 @@
-const CACHE_NAME = "ndrt-site-v1";
+const CACHE_NAME = "ndrt-site-v3";
 const BASE = self.registration.scope;
 
 const CORE_PATHS = [
@@ -12,6 +12,8 @@ const CORE_PATHS = [
   "assets/css/ndrt.css",
   "assets/css/site-tools.css",
   "assets/js/site-tools.js",
+  "news/css/news.css",
+  "news/js/news.js",
   "assets/icons/favicon-32.png",
   "assets/icons/apple-touch-icon.png",
   "assets/icons/icon-192.png",
@@ -57,18 +59,28 @@ self.addEventListener("fetch", (event) => {
 
   if (requestUrl.origin !== scopeUrl.origin) return;
 
-  if (request.mode === "navigate") {
+  const isCodeAsset =
+    request.destination === "style" ||
+    request.destination === "script" ||
+    requestUrl.pathname.endsWith(".css") ||
+    requestUrl.pathname.endsWith(".js");
+
+  if (request.mode === "navigate" || isCodeAsset) {
     event.respondWith(
       fetch(request)
         .then((response) => {
-          const copy = response.clone();
-          caches.open(CACHE_NAME).then((cache) => cache.put(request, copy));
+          if (response && response.ok) {
+            const copy = response.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(request, copy));
+          }
           return response;
         })
         .catch(async () => {
           return (
             (await caches.match(request)) ||
-            (await caches.match(new URL("index.html", BASE).href))
+            (request.mode === "navigate"
+              ? await caches.match(new URL("index.html", BASE).href)
+              : Response.error())
           );
         })
     );

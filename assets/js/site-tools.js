@@ -48,17 +48,24 @@
     }, 3000);
   }
 
-  function shareIcon() {
-    return `
-      <svg viewBox="0 0 24 24" aria-hidden="true">
-        <path d="M18 8a3 3 0 1 0-2.83-4 3 3 0 0 0 .08 1.02L8.91 8.2a3 3 0 0 0-4.66 2.5 3 3 0 0 0 4.66 2.5l6.34 3.18A3 3 0 1 0 16.1 14.6l-6.34-3.17a3.1 3.1 0 0 0 0-.86l6.34-3.17A3 3 0 0 0 18 8Z"/>
-      </svg>`;
-  }
+  function icon(type) {
+    if (type === "share") {
+      return `
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M18 8a3 3 0 1 0-2.83-4 3 3 0 0 0 .08 1.02L8.91 8.2a3 3 0 0 0-4.66 2.5 3 3 0 0 0 4.66 2.5l6.34 3.18A3 3 0 1 0 16.1 14.6l-6.34-3.17a3.1 3.1 0 0 0 0-.86l6.34-3.17A3 3 0 0 0 18 8Z"/>
+        </svg>`;
+    }
 
-  function installIcon() {
+    if (type === "install") {
+      return `
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M12 3a1 1 0 0 1 1 1v8.59l2.3-2.3a1 1 0 1 1 1.4 1.42l-4 4a1 1 0 0 1-1.4 0l-4-4a1 1 0 1 1 1.4-1.42l2.3 2.3V4a1 1 0 0 1 1-1Zm-7 14a1 1 0 0 1 1 1v1h12v-1a1 1 0 1 1 2 0v2a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1Z"/>
+        </svg>`;
+    }
+
     return `
       <svg viewBox="0 0 24 24" aria-hidden="true">
-        <path d="M12 3a1 1 0 0 1 1 1v8.59l2.3-2.3a1 1 0 1 1 1.4 1.42l-4 4a1 1 0 0 1-1.4 0l-4-4a1 1 0 1 1 1.4-1.42l2.3 2.3V4a1 1 0 0 1 1-1Zm-7 14a1 1 0 0 1 1 1v1h12v-1a1 1 0 1 1 2 0v2a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1Z"/>
+        <path d="M4 7a1 1 0 0 1 1-1h14a1 1 0 1 1 0 2H5a1 1 0 0 1-1-1Zm0 5a1 1 0 0 1 1-1h14a1 1 0 1 1 0 2H5a1 1 0 0 1-1-1Zm0 5a1 1 0 0 1 1-1h14a1 1 0 1 1 0 2H5a1 1 0 0 1-1-1Z"/>
       </svg>`;
   }
 
@@ -165,7 +172,6 @@
       deferredPrompt.prompt();
       await deferredPrompt.userChoice;
       deferredPrompt = null;
-      updateInstallButton();
       return;
     }
 
@@ -175,18 +181,8 @@
     }
 
     showToast(
-      "Use your browser menu and choose Install app or Add to Home Screen."
+      "Use the browser menu and choose Install app or Add to Home Screen."
     );
-  }
-
-  function updateInstallButton() {
-    const button = document.querySelector("[data-install-site]");
-    if (!button) return;
-
-    const show =
-      !isStandalone && (Boolean(deferredPrompt) || isIOS);
-
-    button.hidden = !show;
   }
 
   function replaceLogoMarks() {
@@ -207,36 +203,85 @@
     });
   }
 
+  function makeButton(type, label, handler) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = `site-tool-button site-${type}-button`;
+    button.title = label;
+    button.setAttribute("aria-label", label);
+    button.innerHTML = icon(type);
+    button.addEventListener("click", handler);
+    return button;
+  }
+
+  function directChildWithClass(parent, className) {
+    return [...parent.children].find(
+      (child) => child.classList?.contains(className)
+    );
+  }
+
   function addNavigationTools() {
-    document.querySelectorAll(".nav-links").forEach((navigation) => {
-      if (navigation.querySelector(".site-tools")) return;
+    const navigations = document.querySelectorAll(".nav-links, .page-nav");
+
+    navigations.forEach((navigation, index) => {
+      const row =
+        navigation.closest(".nav-shell, .nav-wrap") ||
+        navigation.parentElement;
+
+      if (!row || directChildWithClass(row, "site-tools")) return;
+
+      if (!navigation.id) {
+        navigation.id = `site-navigation-${index + 1}`;
+      }
 
       const tools = document.createElement("span");
       tools.className = "site-tools";
 
-      const share = document.createElement("button");
-      share.type = "button";
-      share.className = "site-tool-button";
-      share.title = "Share this page";
-      share.setAttribute("aria-label", "Share this page");
-      share.innerHTML = shareIcon();
-      share.addEventListener("click", sharePage);
+      const share = makeButton(
+        "share",
+        "Share this page",
+        sharePage
+      );
 
-      const install = document.createElement("button");
-      install.type = "button";
-      install.className = "site-tool-button";
-      install.title = "Install this website";
-      install.setAttribute("aria-label", "Install this website");
+      const install = makeButton(
+        "install",
+        "Install this website",
+        installSite
+      );
       install.setAttribute("data-install-site", "");
-      install.hidden = true;
-      install.innerHTML = installIcon();
-      install.addEventListener("click", installSite);
 
-      tools.append(share, install);
-      navigation.appendChild(tools);
+      const menu = makeButton(
+        "menu",
+        "Open navigation",
+        () => {
+          const open = navigation.classList.toggle("is-open");
+          menu.setAttribute("aria-expanded", String(open));
+          menu.setAttribute(
+            "aria-label",
+            open ? "Close navigation" : "Open navigation"
+          );
+        }
+      );
+      menu.setAttribute("aria-controls", navigation.id);
+      menu.setAttribute("aria-expanded", "false");
+
+      tools.append(share, install, menu);
+      row.appendChild(tools);
+
+      navigation.addEventListener("click", (event) => {
+        if (!event.target.closest("a")) return;
+        navigation.classList.remove("is-open");
+        menu.setAttribute("aria-expanded", "false");
+        menu.setAttribute("aria-label", "Open navigation");
+      });
+
+      document.addEventListener("keydown", (event) => {
+        if (event.key !== "Escape") return;
+        navigation.classList.remove("is-open");
+        menu.setAttribute("aria-expanded", "false");
+        menu.setAttribute("aria-label", "Open navigation");
+      });
     });
-
-    updateInstallButton();
   }
 
   function registerServiceWorker() {
@@ -258,12 +303,10 @@
   window.addEventListener("beforeinstallprompt", (event) => {
     event.preventDefault();
     deferredPrompt = event;
-    updateInstallButton();
   });
 
   window.addEventListener("appinstalled", () => {
     deferredPrompt = null;
-    updateInstallButton();
     showToast("Nanny-Delvin was added to this device.");
   });
 

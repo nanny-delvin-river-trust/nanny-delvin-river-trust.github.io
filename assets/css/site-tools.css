@@ -171,3 +171,147 @@
     transition: none;
   }
 }
+
+
+
+/* NDRT MOBILE MENU HEADER START */
+.site-footer .footer-grid {
+  display: grid;
+}
+
+.site-menu-button {
+  display: none;
+}
+
+@media (max-width: 640px) {
+  .nav-shell,
+  .nav-wrap {
+    position: relative;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.45rem 0;
+    flex-wrap: nowrap;
+  }
+
+  .logo {
+    min-width: 0;
+    gap: 0.5rem;
+  }
+
+  .logo-mark {
+    width: 2rem;
+    height: 2rem;
+    flex: 0 0 auto;
+  }
+
+  .logo-text {
+    min-width: 0;
+    font-size: 0.9rem;
+    line-height: 1.02;
+  }
+
+  .logo-text small {
+    margin-top: 0.1rem;
+    font-size: 0.54rem;
+    letter-spacing: 0.09em;
+  }
+
+  .brand-block {
+    min-width: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  .site-tools {
+    position: static;
+    grid-column: 2;
+    grid-row: 1;
+    margin: 0;
+    gap: 0.18rem;
+  }
+
+  .site-tool-button {
+    width: 2rem;
+    height: 2rem;
+  }
+
+  .site-tool-button svg {
+    width: 0.98rem;
+    height: 0.98rem;
+  }
+
+  .site-menu-button {
+    display: inline-grid;
+  }
+
+  .nav-links,
+  .page-nav {
+    grid-column: 1 / -1;
+    width: 100%;
+    display: none;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.12rem;
+    margin: 0;
+    padding: 0.35rem 0 0.1rem;
+    border-top: 1px solid var(--border, rgba(0, 0, 0, 0.08));
+  }
+
+  .nav-links.is-open,
+  .page-nav.is-open {
+    display: flex;
+  }
+
+  .nav-links a,
+  .page-nav a {
+    width: 100%;
+    padding: 0.55rem 0.65rem;
+    border-radius: 0.75rem;
+    font-size: 0.9rem;
+    white-space: normal;
+  }
+}
+/* NDRT MOBILE MENU HEADER END */
+
+/* NDRT MOBILE HERO SPACING START */
+@media (max-width: 640px) {
+  .hero {
+    padding-top: 1.4rem;
+  }
+}
+/* NDRT MOBILE HERO SPACING END */
+
+/* NDRT COMPACT MOBILE STATS START */
+@media (max-width: 640px) {
+  .stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.65rem;
+    margin-top: 1.1rem;
+  }
+
+  .stat-card {
+    min-height: 0;
+    padding: 0.8rem 0.55rem;
+    border-radius: 14px;
+  }
+
+  .stat-card strong {
+    font-size: 1.35rem;
+    line-height: 1;
+  }
+
+  .stat-card span {
+    margin-top: 0.2rem;
+    font-size: 0.68rem;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+  }
+
+  .stat-card-risk {
+    border-bottom-width: 3px;
+  }
+}
+/* NDRT COMPACT MOBILE STATS END */
