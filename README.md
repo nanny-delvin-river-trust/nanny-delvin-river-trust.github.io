@@ -1,6 +1,6 @@
 # Nanny-Delvin Rivers Trust Website 
 
-> **A prototype for community-supported catchment intelligence in the River Nanny and River Delvin catchments.**
+> **The public website of the Nanny-Delvin Rivers Trust, supporting catchment restoration, stewardship and community-supported catchment intelligence.**
 
 This repository contains the public website and supporting digital resources for the Nanny-Delvin Rivers Trust.
 
@@ -8,9 +8,9 @@ It demonstrates how community engagement, structured citizen science, ecological
 
 ## Live website
 
-https://nanny-delvin-river-trust.github.io/
+https://nannydelvin.ie/
 
-> **Status:** Active prototype under continuous development through GitHub Pages.
+> **Status:** Live public website, continuously maintained through GitHub Pages.
 
 ## Why this repository exists
 
@@ -43,7 +43,7 @@ It is intended to evolve alongside the Trust's work and future projects.
 
 ## Community-supported catchment intelligence
 
-A central purpose of the prototype is to explore how structured community observations might complement professional and statutory monitoring.
+A central purpose of Nanny Watch is to explore how structured community observations might complement professional and statutory monitoring.
 
 The concept connects evidence such as:
 
@@ -202,6 +202,12 @@ The repository is intended to evolve through future contributions by the Trust a
 
 ## Contact
 
-The website is currently under development.
+Public website: https://nannydelvin.ie/
 
-Official Trust contact information will be added once the Trust's domain, email and organisational communication arrangements are operational.
+Current Trust email: nannydelvin@gmail.com
+
+The permanent domain email address info@nannydelvin.ie has been approved and will replace the current contact when the domain email service is operational.
+
+Registered entity: The Nanny And Delvin Rivers Trust Company Limited By Guarantee, CRO 789559.
+
+Registered office: National Ecology Centre Sonairte, Ninch, Laytown, Co. Meath, A92 D9XH, Ireland.
