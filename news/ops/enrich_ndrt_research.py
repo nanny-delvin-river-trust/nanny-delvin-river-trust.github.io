@@ -12,7 +12,7 @@ from urllib.parse import urlparse
 
 import requests
 
-ROOT = Path("demos/ndrt/news")
+ROOT = Path("news")
 DATA = ROOT / "data"
 ARCHIVE = DATA / "archive"
 LATEST = DATA / "news.json"
@@ -102,7 +102,7 @@ BAD_TERMS = [
 ]
 
 HEADERS = {
-    "User-Agent": "NDRTWaterRadar/0.2 (+https://salmonofdoubt.github.io/demos/ndrt/news/)"
+    "User-Agent": "NDRTWaterRadar/0.2 (+https://nannydelvin.ie/news/)"
 }
 
 def now_utc() -> datetime:
