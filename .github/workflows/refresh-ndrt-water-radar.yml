@@ -4,6 +4,12 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "21 5 * * *"
+  push:
+    paths:
+      - ".github/workflows/refresh-ndrt-water-radar.yml"
+      - "news/ops/**"
+      - "news/data/source-registry.json"
+      - "news/data/curated-items.json"
 
 permissions:
   contents: write
