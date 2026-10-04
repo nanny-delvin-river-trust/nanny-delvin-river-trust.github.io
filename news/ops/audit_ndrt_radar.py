@@ -25,6 +25,14 @@ HEADERS = {
     "User-Agent": "NDRTWaterRadarAudit/0.1 (+https://nannydelvin.ie/news/)"
 }
 
+LANE_ORDER = [
+    "ireland-catchment-practice",
+    "waterbody-evidence-alerts",
+    "planning-infrastructure",
+    "grants-opportunities",
+    "research-papers",
+]
+
 def now_utc() -> str:
     return datetime.now(timezone.utc).isoformat()
 
@@ -206,10 +214,16 @@ def build_weekly_digest() -> dict[str, Any]:
         for pressure in pressures:
             pressure_counts[pressure] = pressure_counts.get(pressure, 0) + 1
 
-    ranked = sorted(items, key=practical_score, reverse=True)
-
     digest_items = []
-    for item in ranked[:10]:
+    for lane in LANE_ORDER:
+        lane_items = [
+            item for item in items
+            if item_section(item) == lane
+        ]
+        if not lane_items:
+            continue
+
+        item = max(lane_items, key=practical_score)
         digest_items.append({
             "id": item.get("id"),
             "title": item.get("title"),
@@ -237,7 +251,7 @@ def build_weekly_digest() -> dict[str, Any]:
         "generated_at": now_utc(),
         "latest_generated_at": latest.get("generated_at"),
         "title": "NDRT weekly practical digest",
-        "summary": "Top practical signals ranked for Nanny-Delvin Rivers Trust action, monitoring, engagement, funding, and evidence use.",
+        "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
         "lane_counts": lane_counts,
         "top_pressure_categories": [
             {"pressure": pressure, "count": count}
