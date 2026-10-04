@@ -13,7 +13,7 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 
-ROOT = Path("demos/ndrt/news")
+ROOT = Path("news")
 DATA = ROOT / "data"
 REGISTRY = DATA / "source-registry.json"
 LATEST = DATA / "news.json"
@@ -22,7 +22,7 @@ SOURCE_HEALTH = DATA / "source-health.json"
 WEEKLY_DIGEST = DATA / "weekly-digest.json"
 
 HEADERS = {
-    "User-Agent": "NDRTWaterRadarAudit/0.1 (+https://salmonofdoubt.github.io/demos/ndrt/news/)"
+    "User-Agent": "NDRTWaterRadarAudit/0.1 (+https://nannydelvin.ie/news/)"
 }
 
 def now_utc() -> str:
