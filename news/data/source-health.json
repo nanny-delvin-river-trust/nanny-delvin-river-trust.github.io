@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-04T14:57:30.187326+00:00",
-  "latest_generated_at": "2026-10-04T14:57:18.583176+00:00",
+  "generated_at": "2026-10-04T15:22:59.790415+00:00",
+  "latest_generated_at": "2026-10-04T15:22:47.183846+00:00",
   "total_items": 95,
-  "total_sources": 30,
+  "total_sources": 33,
   "sources_active": 18,
-  "sources_checked_no_current_items": 11,
+  "sources_checked_no_current_items": 14,
   "sources_failed": 1,
   "items_by_section": {
     "research-papers": 36,
@@ -33,7 +33,7 @@
       "http_status": 200,
       "current_item_count": 2,
       "discovered_hint_count": 12,
-      "elapsed_ms": 70,
+      "elapsed_ms": 84,
       "error": null
     },
     {
@@ -48,7 +48,52 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 51,
-      "elapsed_ms": 91,
+      "elapsed_ms": 104,
+      "error": null
+    },
+    {
+      "id": "google-news-julianstown-traffic-relief",
+      "name": "Google News: Julianstown Traffic Relief Scheme",
+      "type": "rss",
+      "section": "planning-infrastructure",
+      "scope": "julianstown watched project local infrastructure",
+      "url": "https://news.google.com/rss/search?q=(%22Julianstown%20Traffic%20Relief%20Scheme%22%20OR%20%22Julianstown%20bypass%22%20OR%20(%22Julianstown%22%20%22R132%22)%20OR%20(%22Julianstown%22%20%22route%20option%22)%20OR%20(%22Julianstown%22%20%22route%20options%22)%20OR%20(%22Julianstown%22%20%22M1%22))&hl=en-IE&gl=IE&ceid=IE:en",
+      "host": "news.google.com",
+      "status": "checked-no-current-items",
+      "http_status": 200,
+      "current_item_count": 0,
+      "discovered_hint_count": 13,
+      "elapsed_ms": 75,
+      "error": null
+    },
+    {
+      "id": "google-news-east-meath-planning-infrastructure",
+      "name": "Google News: East Meath planning and infrastructure",
+      "type": "rss",
+      "section": "planning-infrastructure",
+      "scope": "east meath local planning infrastructure",
+      "url": "https://news.google.com/rss/search?q=(%22East%20Meath%22%20OR%20Julianstown%20OR%20Gormanston%20OR%20Stamullen%20OR%20Laytown%20OR%20Bettystown%20OR%20Mornington%20OR%20Balbriggan%20OR%20Naul)%20(bypass%20OR%20%22traffic%20relief%22%20OR%20%22road%20scheme%22%20OR%20bridge%20OR%20crossing%20OR%20culvert%20OR%20drainage%20OR%20%22route%20option%22%20OR%20%22route%20options%22%20OR%20corridor%20OR%20planning%20OR%20development%20OR%20EIAR%20OR%20EIA%20OR%20%22appropriate%20assessment%22%20OR%20NIS%20OR%20CPO)&hl=en-IE&gl=IE&ceid=IE:en",
+      "host": "news.google.com",
+      "status": "checked-no-current-items",
+      "http_status": 200,
+      "current_item_count": 0,
+      "discovered_hint_count": 58,
+      "elapsed_ms": 99,
+      "error": null
+    },
+    {
+      "id": "google-news-meath-council-julianstown",
+      "name": "Google News: Meath Council Julianstown scheme",
+      "type": "rss",
+      "section": "planning-infrastructure",
+      "scope": "meath county council julianstown official project watch",
+      "url": "https://news.google.com/rss/search?q=(%22Meath%20County%20Council%22%20OR%20Systra)%20(%22Julianstown%20Traffic%20Relief%20Scheme%22%20OR%20%22R132%20Julianstown%22%20OR%20Julianstown)&hl=en-IE&gl=IE&ceid=IE:en",
+      "host": "news.google.com",
+      "status": "checked-no-current-items",
+      "http_status": 200,
+      "current_item_count": 0,
+      "discovered_hint_count": 14,
+      "elapsed_ms": 75,
       "error": null
     },
     {
@@ -63,7 +108,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 74,
-      "elapsed_ms": 105,
+      "elapsed_ms": 108,
       "error": null
     },
     {
@@ -78,7 +123,7 @@
       "http_status": 200,
       "current_item_count": 4,
       "discovered_hint_count": 74,
-      "elapsed_ms": 99,
+      "elapsed_ms": 111,
       "error": null
     },
     {
@@ -93,7 +138,7 @@
       "http_status": 200,
       "current_item_count": 10,
       "discovered_hint_count": 100,
-      "elapsed_ms": 112,
+      "elapsed_ms": 123,
       "error": null
     },
     {
@@ -107,8 +152,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 3,
-      "discovered_hint_count": 68,
-      "elapsed_ms": 96,
+      "discovered_hint_count": 69,
+      "elapsed_ms": 107,
       "error": null
     },
     {
@@ -123,7 +168,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 66,
-      "elapsed_ms": 93,
+      "elapsed_ms": 105,
       "error": null
     },
     {
@@ -138,7 +183,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 48,
-      "elapsed_ms": 79,
+      "elapsed_ms": 88,
       "error": null
     },
     {
@@ -153,7 +198,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 76,
-      "elapsed_ms": 104,
+      "elapsed_ms": 114,
       "error": null
     },
     {
@@ -168,7 +213,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 93,
-      "elapsed_ms": 824,
+      "elapsed_ms": 569,
       "error": null
     },
     {
@@ -183,7 +228,7 @@
       "http_status": 307,
       "current_item_count": 0,
       "discovered_hint_count": 0,
-      "elapsed_ms": 97,
+      "elapsed_ms": 247,
       "error": null
     },
     {
@@ -198,7 +243,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 47,
-      "elapsed_ms": 87,
+      "elapsed_ms": 88,
       "error": null
     },
     {
@@ -213,7 +258,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 74,
-      "elapsed_ms": 97,
+      "elapsed_ms": 120,
       "error": null
     },
     {
@@ -228,7 +273,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 51,
-      "elapsed_ms": 82,
+      "elapsed_ms": 88,
       "error": null
     },
     {
@@ -243,7 +288,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 10,
-      "elapsed_ms": 67,
+      "elapsed_ms": 74,
       "error": null
     },
     {
@@ -258,7 +303,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 25,
-      "elapsed_ms": 71,
+      "elapsed_ms": 83,
       "error": null
     },
     {
@@ -273,7 +318,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 49,
-      "elapsed_ms": 84,
+      "elapsed_ms": 91,
       "error": null
     },
     {
@@ -288,7 +333,7 @@
       "http_status": 200,
       "current_item_count": 4,
       "discovered_hint_count": 49,
-      "elapsed_ms": 84,
+      "elapsed_ms": 93,
       "error": null
     },
     {
@@ -302,8 +347,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 48,
-      "elapsed_ms": 80,
+      "discovered_hint_count": 0,
+      "elapsed_ms": 67,
       "error": null
     },
     {
@@ -318,7 +363,7 @@
       "http_status": 200,
       "current_item_count": 5,
       "discovered_hint_count": 143,
-      "elapsed_ms": 1081,
+      "elapsed_ms": 1044,
       "error": null
     },
     {
@@ -333,7 +378,7 @@
       "http_status": 200,
       "current_item_count": 4,
       "discovered_hint_count": 114,
-      "elapsed_ms": 1109,
+      "elapsed_ms": 1003,
       "error": null
     },
     {
@@ -348,7 +393,7 @@
       "http_status": 200,
       "current_item_count": 4,
       "discovered_hint_count": 224,
-      "elapsed_ms": 417,
+      "elapsed_ms": 437,
       "error": null
     },
     {
@@ -363,7 +408,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 179,
-      "elapsed_ms": 1099,
+      "elapsed_ms": 875,
       "error": null
     },
     {
@@ -378,7 +423,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 422,
-      "elapsed_ms": 977,
+      "elapsed_ms": 970,
       "error": null
     },
     {
@@ -393,7 +438,7 @@
       "http_status": 200,
       "current_item_count": 2,
       "discovered_hint_count": 82,
-      "elapsed_ms": 694,
+      "elapsed_ms": 752,
       "error": null
     },
     {
@@ -408,7 +453,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 38,
-      "elapsed_ms": 1954,
+      "elapsed_ms": 2294,
       "error": null
     },
     {
@@ -423,7 +468,7 @@
       "http_status": 404,
       "current_item_count": 0,
       "discovered_hint_count": 0,
-      "elapsed_ms": 56,
+      "elapsed_ms": 145,
       "error": null
     },
     {
@@ -438,7 +483,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 105,
-      "elapsed_ms": 83,
+      "elapsed_ms": 125,
       "error": null
     },
     {
@@ -453,7 +498,7 @@
       "http_status": 200,
       "current_item_count": 11,
       "discovered_hint_count": 94,
-      "elapsed_ms": 742,
+      "elapsed_ms": 1004,
       "error": null
     },
     {
@@ -468,7 +513,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 109,
-      "elapsed_ms": 775,
+      "elapsed_ms": 1043,
       "error": null
     }
   ]

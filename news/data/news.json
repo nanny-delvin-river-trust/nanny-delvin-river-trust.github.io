@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T14:57:18.583176+00:00",
+  "generated_at": "2026-10-04T15:22:47.183846+00:00",
   "note": "Source-led daily radar for Nanny-Delvin: practical Irish catchment signals, waterbody evidence/alerts, grants/opportunities, and research ranked by Trust usefulness.",
   "sections": [
     {
@@ -11,6 +11,11 @@
       "id": "waterbody-evidence-alerts",
       "title": "Waterbody Evidence and Alerts",
       "description": "Useful evidence, incidents, monitoring signals, policy, research, and practice for rivers, lakes, estuaries, lagoons, wetlands, and connected waters."
+    },
+    {
+      "id": "planning-infrastructure",
+      "title": "Planning & Infrastructure affecting waters",
+      "description": "Local roads, route selection, bridges, crossings, drainage, development and planning signals that may interact with river corridors, riparian zones, floodplains, wetlands or catchment function."
     },
     {
       "id": "grants-opportunities",
@@ -2489,64 +2494,6 @@
       }
     },
     {
-      "id": "1810c13938f69abc",
-      "title": "River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland’s Waterways - Irish Wildlife Trust",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LN1VWaW1FNVhEbnRqaUdSMDBhMGZQT0pWMXl0YWZOQ3hCMjNEclFadjF5eHctSG1aeHV1M05IV3o5eE9rUWVXUW1hMnIxQQ?oc=5",
-      "summary": "River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland’s Waterways Irish Wildlife Trust",
-      "published": "2026-06-05",
-      "source_id": "google-news-ireland-river-water-quality",
-      "source_name": "Google News: Ireland river water quality",
-      "publisher": "Google News: Ireland river water quality",
-      "section": "ireland-catchment-practice",
-      "theme": "incident-alert",
-      "tags": [
-        "incident-alert"
-      ],
-      "score": 87,
-      "freshness_status": "reference",
-      "freshness_label": "121 days old · background",
-      "pressure_categories": [
-        "incident / alert"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
-    },
-    {
-      "id": "2513eeeb2ba21aee",
-      "title": "Press Release: River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland's Waterways - Irish Wildlife Trust",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kbDRuZFVCakxtc2s3X2N2R0ZleTF0R1draV91QXROY3ZjWUhtZUY1bjRDYmVJRzdhdi1qOEtHU1JndlNqd2FmZzRsQjh5QWFoWmEyZmo5TTFndkVnNU9lNw?oc=5",
-      "summary": "Press Release: River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland's Waterways Irish Wildlife Trust",
-      "published": "2026-06-05",
-      "source_id": "google-news-ireland-river-water-quality",
-      "source_name": "Google News: Ireland river water quality",
-      "publisher": "Google News: Ireland river water quality",
-      "section": "ireland-catchment-practice",
-      "theme": "incident-alert",
-      "tags": [
-        "incident-alert"
-      ],
-      "score": 87,
-      "freshness_status": "reference",
-      "freshness_label": "121 days old · background",
-      "pressure_categories": [
-        "incident / alert"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
-    },
-    {
       "id": "09e109d73c5e2985",
       "title": "Naul man angry over Delvin River pollution incidents - Irish Independent",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWRRRmtVMWJkQTJNNHRSdUpFcExILVVYeUtENWdhbDRSVU9VRnotZFBEektIVWN2TnJDbW9JYUg3WUV3S1FFLTkzbDZfNUJxQmZJX25zN2MwZzVhMGZ3dUhyRERMZVVjcjdMTDJLampSQ3BYWFlzeEFoV3U0MUpROWEzQ0V6ZmkxSkFnb1IxZ3ZKWXc1TmptZjdFX3ZHNWFGNHBqSzc1dS1lYTcyS1Fj?oc=5",
@@ -3191,9 +3138,9 @@
     },
     {
       "id": "f686ac1bae000339",
-      "title": "Newburn Riverside saltmarsh restoration begins - BBC",
+      "title": "Newburn Riverside saltmarsh restoration begins - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zdld1eW9JV2pabm1uQmhOZkxDQkdpemRzT0xHdUhxZmtMYXd2NFhSMk1RMGt2ZWdKYkVBXzRCZ1Y4djUxeHYzWnJLaVN4Sk5kQ2hucy1udDEwZw?oc=5",
-      "summary": "Newburn Riverside saltmarsh restoration begins BBC",
+      "summary": "Newburn Riverside saltmarsh restoration begins bbc.com",
       "published": "2026-07-06",
       "source_id": "google-news-nbs-water-ireland",
       "source_name": "Google News: Ireland water NbS",
@@ -3315,6 +3262,64 @@
         ]
       },
       "action_relevance": "General practical signal: may help the Trust track general catchment signal, policy, funding, monitoring, or community action."
+    },
+    {
+      "id": "1810c13938f69abc",
+      "title": "River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland’s Waterways - iwt.ie",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LN1VWaW1FNVhEbnRqaUdSMDBhMGZQT0pWMXl0YWZOQ3hCMjNEclFadjF5eHctSG1aeHV1M05IV3o5eE9rUWVXUW1hMnIxQQ?oc=5",
+      "summary": "River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland’s Waterways iwt.ie",
+      "published": "2026-06-05",
+      "source_id": "google-news-ireland-river-water-quality",
+      "source_name": "Google News: Ireland river water quality",
+      "publisher": "Google News: Ireland river water quality",
+      "section": "ireland-catchment-practice",
+      "theme": "incident-alert",
+      "tags": [
+        "incident-alert"
+      ],
+      "score": 77,
+      "freshness_status": "reference",
+      "freshness_label": "121 days old · background",
+      "pressure_categories": [
+        "incident / alert"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
+    },
+    {
+      "id": "2513eeeb2ba21aee",
+      "title": "Press Release: River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland's Waterways - iwt.ie",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kbDRuZFVCakxtc2s3X2N2R0ZleTF0R1draV91QXROY3ZjWUhtZUY1bjRDYmVJRzdhdi1qOEtHU1JndlNqd2FmZzRsQjh5QWFoWmEyZmo5TTFndkVnNU9lNw?oc=5",
+      "summary": "Press Release: River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland's Waterways iwt.ie",
+      "published": "2026-06-05",
+      "source_id": "google-news-ireland-river-water-quality",
+      "source_name": "Google News: Ireland river water quality",
+      "publisher": "Google News: Ireland river water quality",
+      "section": "ireland-catchment-practice",
+      "theme": "incident-alert",
+      "tags": [
+        "incident-alert"
+      ],
+      "score": 77,
+      "freshness_status": "reference",
+      "freshness_label": "121 days old · background",
+      "pressure_categories": [
+        "incident / alert"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
     },
     {
       "id": "01007cc0fd14cb7f",
