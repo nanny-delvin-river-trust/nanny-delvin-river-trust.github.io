@@ -327,8 +327,11 @@ function renderPracticalShortlist(items) {
   if (!els.shortlist) return;
 
   const shortlist = ACTION_LANES.map((lane, index) => {
-    const candidates = items
-      .filter((item) => itemSection(item) === lane.id)
+    const laneItems = items.filter((item) => itemSection(item) === lane.id);
+    const freshItems = lane.id === "research-papers"
+      ? []
+      : laneItems.filter((item) => item.freshness_status === "fresh");
+    const candidates = (freshItems.length ? freshItems : laneItems)
       .sort((a, b) => practicalSortScore(b) - practicalSortScore(a));
 
     if (!candidates.length) return null;
