@@ -6,9 +6,9 @@ It is not just a news feed. It is designed to help a rivers trust notice practic
 
 ## Public pages
 
-- Radar: https://salmonofdoubt.github.io/demos/ndrt/news/
-- Method page: https://salmonofdoubt.github.io/demos/ndrt/news/how-it-works/
-- NDRT microsite: https://salmonofdoubt.github.io/demos/ndrt/
+- Radar: https://nannydelvin.ie/news/
+- Method page: https://nannydelvin.ie/news/how-it-works/
+- NDRT microsite: https://nannydelvin.ie/
 
 ## Purpose
 
@@ -118,26 +118,26 @@ It can also be run manually from GitHub Actions.
 
 The workflow runs:
 
-- python demos/ndrt/news/ops/discover_ndrt_news.py
-- python demos/ndrt/news/ops/enrich_ndrt_research.py
-- python demos/ndrt/news/ops/audit_ndrt_radar.py
+- python news/ops/discover_ndrt_news.py
+- python news/ops/enrich_ndrt_research.py
+- python news/ops/audit_ndrt_radar.py
 
 It commits changed generated files:
 
-- demos/ndrt/news/data/news.json
-- demos/ndrt/news/data/archive/
-- demos/ndrt/news/data/source-health.json
-- demos/ndrt/news/data/weekly-digest.json
+- news/data/news.json
+- news/data/archive/
+- news/data/source-health.json
+- news/data/weekly-digest.json
 
 ## Local refresh
 
 From the repository root:
 
-    python3 -m pip install -r demos/ndrt/news/ops/requirements.txt
+    python3 -m pip install -r news/ops/requirements.txt
 
-    python3 demos/ndrt/news/ops/discover_ndrt_news.py
-    python3 demos/ndrt/news/ops/enrich_ndrt_research.py
-    python3 demos/ndrt/news/ops/audit_ndrt_radar.py
+    python3 news/ops/discover_ndrt_news.py
+    python3 news/ops/enrich_ndrt_research.py
+    python3 news/ops/audit_ndrt_radar.py
 
 Then serve locally:
 
@@ -145,19 +145,19 @@ Then serve locally:
 
 Open:
 
-- http://127.0.0.1:8000/demos/ndrt/news/
-- http://127.0.0.1:8000/demos/ndrt/news/how-it-works/
+- http://127.0.0.1:8000/news/
+- http://127.0.0.1:8000/news/how-it-works/
 
 ## Local sanity checks
 
-    python3 -m py_compile demos/ndrt/news/ops/discover_ndrt_news.py
-    python3 -m py_compile demos/ndrt/news/ops/enrich_ndrt_research.py
-    python3 -m py_compile demos/ndrt/news/ops/audit_ndrt_radar.py
+    python3 -m py_compile news/ops/discover_ndrt_news.py
+    python3 -m py_compile news/ops/enrich_ndrt_research.py
+    python3 -m py_compile news/ops/audit_ndrt_radar.py
 
-    python3 -m json.tool demos/ndrt/news/data/news.json >/dev/null
-    python3 -m json.tool demos/ndrt/news/data/source-health.json >/dev/null
-    python3 -m json.tool demos/ndrt/news/data/weekly-digest.json >/dev/null
-    python3 -m json.tool demos/ndrt/news/data/archive/index.json >/dev/null
+    python3 -m json.tool news/data/news.json >/dev/null
+    python3 -m json.tool news/data/source-health.json >/dev/null
+    python3 -m json.tool news/data/weekly-digest.json >/dev/null
+    python3 -m json.tool news/data/archive/index.json >/dev/null
 
 ## Ranking philosophy
 
@@ -230,7 +230,7 @@ Avoid adding unlimited watch terms without review. The stronger next step is edi
 
 ## File map
 
-demos/ndrt/news/
+news/
 ├── index.html
 ├── how-it-works/
 │   └── index.html
