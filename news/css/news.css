@@ -381,7 +381,7 @@ select {
 }
 
 
-/* Three-lane Nanny-Delvin News editorial layout */
+/* Five-lane Nanny-Delvin News editorial layout */
 .news-section-group {
   position: relative;
   display: grid;
@@ -560,6 +560,21 @@ select {
   cursor: pointer;
 }
 
+.lane-number {
+  color: #0b5b6f;
+  font-weight: 900;
+}
+
+.lane-name {
+  color: #0c321b;
+  font-weight: 760;
+}
+
+.lane-count {
+  color: rgba(20, 42, 31, 0.58);
+  font-weight: 700;
+}
+
 .result-lane-link:hover,
 .result-lane-link:focus {
   color: #0b5b6f;
@@ -647,8 +662,17 @@ select {
   color: #0b5b6f;
 }
 
+.shortlist-lane-label {
+  color: #0b5b6f;
+  font-size: 1rem;
+  font-weight: 900;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
 .shortlist-list a {
   color: #0c321b;
+  font-size: 1rem;
   font-weight: 850;
   text-decoration: none;
 }
