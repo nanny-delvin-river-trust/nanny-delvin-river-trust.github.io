@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-04T15:26:59.332891+00:00",
-  "latest_generated_at": "2026-10-04T15:26:47.181017+00:00",
+  "generated_at": "2026-10-04T15:28:01.034181+00:00",
+  "latest_generated_at": "2026-10-04T15:27:48.981039+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "Top practical signals ranked for Nanny-Delvin Rivers Trust action, monitoring, engagement, funding, and evidence use.",
   "lane_counts": {
-    "grants-opportunities": 26,
-    "planning-infrastructure": 12,
+    "planning-infrastructure": 22,
     "research-papers": 36,
-    "ireland-catchment-practice": 19,
-    "waterbody-evidence-alerts": 22
+    "grants-opportunities": 13,
+    "ireland-catchment-practice": 20,
+    "waterbody-evidence-alerts": 24
   },
   "top_pressure_categories": [
     {
       "pressure": "funding / grant",
-      "count": 39
+      "count": 36
     },
     {
       "pressure": "policy / governance",
@@ -29,11 +29,11 @@
     },
     {
       "pressure": "agricultural runoff",
-      "count": 26
+      "count": 27
     },
     {
       "pressure": "habitat / biodiversity",
-      "count": 26
+      "count": 27
     },
     {
       "pressure": "water quality",
@@ -49,7 +49,7 @@
     },
     {
       "pressure": "incident / alert",
-      "count": 8
+      "count": 7
     },
     {
       "pressure": "septic / domestic wastewater",
