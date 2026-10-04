@@ -24,7 +24,7 @@ CURATED = DATA / "curated-items.json"
 LATEST = DATA / "news.json"
 INDEX = ARCHIVE / "index.json"
 
-MAX_ITEMS = 55
+MAX_ITEMS = 75
 MIN_SCORE = 22
 CURRENT_WINDOW_DAYS = 90
 
@@ -91,6 +91,7 @@ THEMES = {
     "incident-alert": ["fish kill", "pollution incident", "do not swim", "bathing water", "algal bloom", "sewage overflow"],
     "septic-wastewater": ["septic tank", "septic tanks", "domestic wastewater", "on-site wastewater", "onsite wastewater", "private well", "groundwater contamination"],
     "grant": ["grant", "funding", "scheme", "call", "award", "opportunity", "programme"],
+    "planning-infrastructure": ["traffic relief", "bypass", "road scheme", "route option", "route options", "route selection", "bridge", "river crossing", "crossing", "culvert", "drainage", "corridor", "planning", "development", "eiar", "eia", "appropriate assessment", "nis", "cpo", "r132", "m1"],
 }
 
 GOOD_TERMS = {
@@ -176,6 +177,28 @@ GOOD_TERMS = {
     "Rivers Trust": 9,
     "WFD": 8,
     "RBMP": 8,
+    "traffic relief": 12,
+    "bypass": 12,
+    "road scheme": 10,
+    "route option": 12,
+    "route options": 12,
+    "route selection": 12,
+    "bridge": 9,
+    "river crossing": 18,
+    "crossing": 7,
+    "culvert": 12,
+    "drainage": 10,
+    "floodplain": 14,
+    "riparian": 14,
+    "hydromorphology": 14,
+    "EIAR": 12,
+    "EIA": 10,
+    "appropriate assessment": 12,
+    "NIS": 10,
+    "CPO": 6,
+    "R132": 16,
+    "M1": 8,
+    "Julianstown Traffic Relief Scheme": 28,
 }
 
 BAD_TERMS = [
@@ -271,6 +294,24 @@ def infer_operational_section(source_section: str, text: str) -> str:
     return source_section or "ireland-catchment-practice"
 
 
+PLANNING_INFRA_TERMS = [
+    "traffic relief", "bypass", "road scheme", "route option", "route options",
+    "route selection", "bridge", "crossing", "river crossing", "culvert", "drainage",
+    "road", "corridor", "planning", "development", "eiar", "eia",
+    "appropriate assessment", "nis", "cpo", "r132", "m1"
+]
+
+LOCAL_PLANNING_TERMS = [
+    "julianstown", "east meath", "gormanston", "stamullen", "laytown",
+    "bettystown", "mornington", "balbriggan", "naul", "river nanny",
+    "nanny river", "nanny estuary", "meath county council"
+]
+
+WATCHED_PROJECT_TERMS = [
+    "julianstown traffic relief scheme", "julianstown bypass",
+    "r132 julianstown", "julianstown traffic relief", "julianstown traffic plans"
+]
+
 def matches_core(text: str) -> bool:
     lowered = text.lower()
 
@@ -280,6 +321,18 @@ def matches_core(text: str) -> bool:
     water_terms = ["water", "aquatic", "freshwater", "coastal", "habitat", "biodiversity"]
     action_terms = ["monitoring", "restoration", "pollution", "grant", "funding", "community", "catchment"]
     return any(a in lowered for a in water_terms) and any(b in lowered for b in action_terms)
+
+def matches_planning_infrastructure(text: str, source: dict[str, Any]) -> bool:
+    lowered = text.lower()
+    if any(term in lowered for term in WATCHED_PROJECT_TERMS):
+        return True
+
+    if source.get("section") != "planning-infrastructure":
+        return False
+
+    has_local = any(term in lowered for term in LOCAL_PLANNING_TERMS) or "local infrastructure" in str(source.get("scope", "")).lower()
+    has_infrastructure = any(term in lowered for term in PLANNING_INFRA_TERMS)
+    return has_local and has_infrastructure
 
 def infer_theme(text: str) -> str:
     lowered = text.lower()
@@ -311,10 +364,13 @@ def score_item(item: RawItem) -> tuple[int, str, str, list[str]]:
     if any(term in lowered for term in BAD_TERMS):
         return 0, "reference", "Excluded as likely off-topic.", []
 
-    if not matches_core(text):
-        return 0, "reference", "No strong water/catchment/grant signal detected.", []
+    planning_match = matches_planning_infrastructure(text, item.source)
+    if not matches_core(text) and not planning_match:
+        return 0, "reference", "No strong water/catchment/grant or locally relevant planning signal detected.", []
 
     score = 18
+    if planning_match:
+        score += 22
 
     for pattern in CORE_PATTERNS:
         if re.search(pattern, lowered):
@@ -338,6 +394,8 @@ def score_item(item: RawItem) -> tuple[int, str, str, list[str]]:
         score += 10
     if "practice" in scope:
         score += 6
+    if section == "planning-infrastructure":
+        score += 8
 
     days = age_days(item.published)
 
