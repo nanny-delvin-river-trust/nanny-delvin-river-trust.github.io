@@ -16,7 +16,7 @@ import requests
 from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
 
-ROOT = Path("demos/ndrt/news")
+ROOT = Path("news")
 DATA = ROOT / "data"
 ARCHIVE = DATA / "archive"
 REGISTRY = DATA / "source-registry.json"
@@ -29,7 +29,7 @@ MIN_SCORE = 22
 CURRENT_WINDOW_DAYS = 90
 
 HEADERS = {
-    "User-Agent": "NDRTWaterRadar/0.1 (+https://salmonofdoubt.github.io/demos/ndrt/news/)"
+    "User-Agent": "NDRTWaterRadar/0.1 (+https://nannydelvin.ie/news/)"
 }
 
 CORE_PATTERNS = [
