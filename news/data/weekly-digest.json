@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T15:28:01.034181+00:00",
-  "latest_generated_at": "2026-10-04T15:27:48.981039+00:00",
+  "generated_at": "2026-10-04T15:29:13.063151+00:00",
+  "latest_generated_at": "2026-10-04T15:29:00.845936+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "Top practical signals ranked for Nanny-Delvin Rivers Trust action, monitoring, engagement, funding, and evidence use.",
   "lane_counts": {
@@ -11,10 +11,6 @@
     "waterbody-evidence-alerts": 24
   },
   "top_pressure_categories": [
-    {
-      "pressure": "funding / grant",
-      "count": 36
-    },
     {
       "pressure": "policy / governance",
       "count": 33
@@ -29,11 +25,11 @@
     },
     {
       "pressure": "agricultural runoff",
-      "count": 27
+      "count": 26
     },
     {
       "pressure": "habitat / biodiversity",
-      "count": 27
+      "count": 26
     },
     {
       "pressure": "water quality",
@@ -44,12 +40,16 @@
       "count": 24
     },
     {
+      "pressure": "funding / grant",
+      "count": 13
+    },
+    {
       "pressure": "nutrients",
       "count": 12
     },
     {
       "pressure": "incident / alert",
-      "count": 7
+      "count": 8
     },
     {
       "pressure": "septic / domestic wastewater",
@@ -94,39 +94,6 @@
       },
       "research_use_type": null,
       "action_relevance": "Funding signal for the Trust: check whether this can support septic / domestic wastewater, funding / grant, policy / governance, citizen science, engagement, or small catchment actions."
-    },
-    {
-      "id": "7214de15481363da",
-      "title": "Skip to main content",
-      "url": "https://www.epa.ie/our-services/monitoring--assessment/freshwater--marine/",
-      "section": "waterbody-evidence-alerts",
-      "source_name": "EPA Ireland Water",
-      "published": null,
-      "score": 95,
-      "practical_score": 148.0,
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "incident / alert",
-        "citizen science / monitoring",
-        "funding / grant",
-        "policy / governance",
-        "planning / infrastructure"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "opportunity_fit": {
-        "fit": "High",
-        "score": 75,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      },
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Funding signal for the Trust: check whether this can support incident / alert, citizen science / monitoring, funding / grant, citizen science, engagement, or small catchment actions."
     },
     {
       "id": "ec191fbb891667ed",
@@ -333,6 +300,34 @@
       "id": "635a732b3168613b",
       "title": "Plastic Pollution",
       "url": "https://theriverstrust.org/about-us/news?c=46709",
+      "section": "waterbody-evidence-alerts",
+      "source_name": "The Rivers Trust News",
+      "published": null,
+      "score": 100,
+      "practical_score": 143.0,
+      "freshness_label": "Date unknown",
+      "pressure_categories": [
+        "nutrients",
+        "habitat / biodiversity",
+        "citizen science / monitoring",
+        "policy / governance",
+        "NbS / restoration"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "opportunity_fit": null,
+      "research_use_type": "Monitoring method",
+      "action_relevance": "Monitoring signal: useful for shaping Nanny Watch methods, volunteer training, repeat observations, or field evidence protocols."
+    },
+    {
+      "id": "5439804a3bae6e06",
+      "title": "Policy & Advocacy",
+      "url": "https://theriverstrust.org/about-us/news?c=98799",
       "section": "waterbody-evidence-alerts",
       "source_name": "The Rivers Trust News",
       "published": null,
