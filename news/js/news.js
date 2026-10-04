@@ -13,6 +13,11 @@ const state = {
       intro: "Evidence, incidents, monitoring signals, research, and practice for rivers, lakes, estuaries, lagoons, wetlands, and connected waters."
     },
     {
+      id: "planning-infrastructure",
+      title: "Planning & Infrastructure affecting waters",
+      intro: "Local route selection, roads, bridges, crossings, drainage and planning signals that may interact with river corridors, riparian zones, floodplains or catchment function."
+    },
+    {
       id: "grants-opportunities",
       title: "Grants and Opportunities",
       intro: "Funding calls and support routes relevant to river trusts, catchment groups, citizen science, biodiversity, wetlands, and community water action."
@@ -209,6 +214,29 @@ function themeAliases(value) {
       "sewage overflow",
       "algal bloom",
       "bathing water"
+    ],
+    "planning-infrastructure": [
+      "planning-infrastructure",
+      "planning / infrastructure",
+      "traffic relief",
+      "bypass",
+      "road scheme",
+      "route option",
+      "route options",
+      "route selection",
+      "bridge",
+      "crossing",
+      "culvert",
+      "drainage",
+      "floodplain",
+      "riparian",
+      "eiar",
+      "eia",
+      "appropriate assessment",
+      "nis",
+      "cpo",
+      "r132",
+      "m1"
     ]
   };
 
@@ -281,6 +309,8 @@ function practicalSortScore(item) {
   if (item.freshness_status === "fresh") score += 8;
   if ((item.pressure_categories || []).includes("septic / domestic wastewater")) score += 8;
   if ((item.pressure_categories || []).includes("incident / alert")) score += 7;
+  if ((item.pressure_categories || []).includes("planning / infrastructure")) score += 7;
+  if (item.linkedin_story_candidate) score += 5;
 
   return score;
 }
@@ -327,6 +357,11 @@ function renderSummary(items) {
       id: "waterbody-evidence-alerts",
       label: "Evidence/alerts",
       count: items.filter((item) => itemSection(item) === "waterbody-evidence-alerts").length
+    },
+    {
+      id: "planning-infrastructure",
+      label: "Planning/infrastructure",
+      count: items.filter((item) => itemSection(item) === "planning-infrastructure").length
     },
     {
       id: "grants-opportunities",
