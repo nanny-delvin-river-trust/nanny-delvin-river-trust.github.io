@@ -90,7 +90,7 @@ THEMES = {
     "river-ecology": ["river ecology", "freshwater ecology", "aquatic ecology", "macroinvertebrates", "fish passage", "habitat restoration", "ecological status"],
     "incident-alert": ["fish kill", "pollution incident", "do not swim", "bathing water", "algal bloom", "sewage overflow"],
     "septic-wastewater": ["septic tank", "septic tanks", "domestic wastewater", "on-site wastewater", "onsite wastewater", "private well", "groundwater contamination"],
-    "grant": ["grant", "funding", "scheme", "call", "award", "opportunity", "programme"],
+    "grant": ["grant", "grants", "funding", "call for proposals", "applications open", "application deadline", "open call", "award", "awards"],
     "planning-infrastructure": ["traffic relief", "bypass", "road scheme", "route option", "route options", "route selection", "bridge", "river crossing", "crossing", "culvert", "drainage", "corridor", "planning", "development", "eiar", "eia", "appropriate assessment", "nis", "cpo", "r132", "m1"],
 }
 
@@ -787,15 +787,16 @@ def annotate_item(item: dict[str, Any]) -> dict[str, Any]:
     if grant_fit:
         item["opportunity_fit"] = grant_fit
 
-    research_use = research_use_type_for(text)
-    if research_use:
-        item["research_use_type"] = research_use
+    if item.get("section") != "planning-infrastructure":
+        research_use = research_use_type_for(text)
+        if research_use:
+            item["research_use_type"] = research_use
 
     if item.get("section") == "planning-infrastructure" and local.get("score", 0) >= 20:
         watched_project = any(term in text for term in WATCHED_PROJECT_TERMS)
         water_intersection = any(term in text for term in [
             "river nanny", "nanny river", "river", "riparian", "floodplain", "wetland",
-            "bridge", "crossing", "culvert", "drainage", "hydromorphology"
+            "culvert", "drainage", "hydromorphology"
         ])
         if watched_project or (local.get("score", 0) >= 45 and water_intersection):
             item["linkedin_story_candidate"] = True
