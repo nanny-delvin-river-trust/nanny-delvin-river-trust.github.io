@@ -11,6 +11,11 @@
       "description": "Useful evidence, incidents, monitoring signals, policy, research, and practice for rivers, lakes, estuaries, lagoons, wetlands, and connected waters."
     },
     {
+      "id": "planning-infrastructure",
+      "title": "Planning & Infrastructure affecting waters",
+      "description": "Local roads, route selection, bridges, crossings, drainage, development and planning signals that may interact with river corridors, riparian zones, floodplains, wetlands or catchment function."
+    },
+    {
       "id": "grants-opportunities",
       "title": "Grants and Opportunities",
       "description": "Funding calls, community grants, biodiversity funds, water-quality supports, catchment restoration funding, and open opportunities relevant to river trusts."
@@ -34,6 +39,33 @@
       "section": "ireland-catchment-practice",
       "scope": "east meath local",
       "trust": 0.78
+    },
+    {
+      "id": "google-news-julianstown-traffic-relief",
+      "name": "Google News: Julianstown Traffic Relief Scheme",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=(%22Julianstown%20Traffic%20Relief%20Scheme%22%20OR%20%22Julianstown%20bypass%22%20OR%20(%22Julianstown%22%20%22R132%22)%20OR%20(%22Julianstown%22%20%22route%20option%22)%20OR%20(%22Julianstown%22%20%22route%20options%22)%20OR%20(%22Julianstown%22%20%22M1%22))&hl=en-IE&gl=IE&ceid=IE:en",
+      "section": "planning-infrastructure",
+      "scope": "julianstown watched project local infrastructure",
+      "trust": 0.84
+    },
+    {
+      "id": "google-news-east-meath-planning-infrastructure",
+      "name": "Google News: East Meath planning and infrastructure",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=(%22East%20Meath%22%20OR%20Julianstown%20OR%20Gormanston%20OR%20Stamullen%20OR%20Laytown%20OR%20Bettystown%20OR%20Mornington%20OR%20Balbriggan%20OR%20Naul)%20(bypass%20OR%20%22traffic%20relief%22%20OR%20%22road%20scheme%22%20OR%20bridge%20OR%20crossing%20OR%20culvert%20OR%20drainage%20OR%20%22route%20option%22%20OR%20%22route%20options%22%20OR%20corridor%20OR%20planning%20OR%20development%20OR%20EIAR%20OR%20EIA%20OR%20%22appropriate%20assessment%22%20OR%20NIS%20OR%20CPO)&hl=en-IE&gl=IE&ceid=IE:en",
+      "section": "planning-infrastructure",
+      "scope": "east meath local planning infrastructure",
+      "trust": 0.78
+    },
+    {
+      "id": "google-news-meath-council-julianstown",
+      "name": "Google News: Meath Council Julianstown scheme",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=(%22Meath%20County%20Council%22%20OR%20Systra)%20(%22Julianstown%20Traffic%20Relief%20Scheme%22%20OR%20%22R132%20Julianstown%22%20OR%20Julianstown)&hl=en-IE&gl=IE&ceid=IE:en",
+      "section": "planning-infrastructure",
+      "scope": "meath county council julianstown official project watch",
+      "trust": 0.84
     },
     {
       "id": "google-news-fingal-north-county-water",
