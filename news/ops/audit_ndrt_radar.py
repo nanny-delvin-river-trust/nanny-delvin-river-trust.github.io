@@ -223,6 +223,14 @@ def build_weekly_digest() -> dict[str, Any]:
         if not lane_items:
             continue
 
+        if lane != "research-papers":
+            fresh_items = [
+                item for item in lane_items
+                if item.get("freshness_status") == "fresh"
+            ]
+            if fresh_items:
+                lane_items = fresh_items
+
         item = max(lane_items, key=practical_score)
         digest_items.append({
             "id": item.get("id"),
