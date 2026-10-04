@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:45:41.220852+00:00",
+  "generated_at": "2026-10-04T15:48:07.002845+00:00",
   "note": "Source-led daily radar for Nanny-Delvin: practical Irish catchment signals, waterbody evidence/alerts, grants/opportunities, and research ranked by Trust usefulness.",
   "sections": [
     {
@@ -2879,44 +2879,6 @@
       }
     },
     {
-      "id": "02c5cf74ff2eaa7b",
-      "title": "Funding announced for the rural water sector, improving drinking water quality - Meath Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzFqbkl3QjV3LWRpVGdhdUgtdm9OeXk5VFNYNnN1djIzNGFMT1NId21DNUZIQmZQRmt4OUhJUFBack40MXEzWEFJdVN1ZHNTQl95QU5UOFJRM3oyQnZmZDhhcFNZRGxiMjJJQThyQW0yNGd2ZHN3Z29KQkI4aGoweHVWZW94ZWFIaFN5ZDRSV2szeUZRd3Z0d1M3a3RRTEJXMFhfa2dRdzZrczlDRVptTFNaZXpySVN0eDJR?oc=5",
-      "summary": "Funding announced for the rural water sector, improving drinking water quality Meath Chronicle",
-      "published": "2026-07-27",
-      "source_id": "google-news-meath-louth-fingal-catchment",
-      "source_name": "Google News: Meath Louth Fingal catchment signals",
-      "publisher": "Google News: Meath Louth Fingal catchment signals",
-      "section": "grants-opportunities",
-      "theme": "water-quality",
-      "tags": [
-        "water-quality",
-        "grant"
-      ],
-      "score": 93,
-      "freshness_status": "fresh",
-      "freshness_label": "69 days old",
-      "pressure_categories": [
-        "funding / grant"
-      ],
-      "local_relevance": {
-        "score": 62,
-        "label": "High local relevance",
-        "matched_terms": [
-          "fingal",
-          "louth",
-          "meath"
-        ]
-      },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
-      "opportunity_fit": {
-        "fit": "Low",
-        "score": 53,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      }
-    },
-    {
       "id": "8ca1831d502d0bca",
       "title": "Major traffic relief scheme for Julianstown in Meath moves forward - Irish Independent",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRTRXY29hNGZRa2xFbERsbWRCY2o1SmNMQi1BRFhRalZtWVJwY3A0ampCRkVfODBlSEhuOUVVb3k5YVZVcndoTVBuSXdfc2M0STBxUENWcjIwMTV0anBKMmVaTktGRzkxSFNIRmk3S2RJRjN2XzFFTjA5OHVwY2RDSzY0ZnczdjZrV1pCd2FVc3BqSDRENktseE5STGhZaHdLdll2ZHo5YjBMSU1TdXpSbG5lN2JsTERjaV9aa3N0OVQ?oc=5",
@@ -3680,6 +3642,35 @@
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
       }
+    },
+    {
+      "id": "f361d44398b65818",
+      "title": "Ireland's septic tank problem - University College Dublin",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaTRsWG5VemdvWWo2VVFHWlRwOTNsdlZqQUpWVWpjdFEwSmkzYmJDR29EbV9TODNucEt5Vm9mVW1BTVlOSWdSZk5qSWRTUzFQMWFac3dVYkpqNnI0VXZhRm9CUWJDV0tGdzVoc281MGdBekhfcmE1dWZaTVpIYnQtNmRaRlJkUQ?oc=5",
+      "summary": "Ireland's septic tank problem University College Dublin",
+      "published": "2026-08-26",
+      "source_id": "google-news-septic-tank-grants-ireland",
+      "source_name": "Google News: septic tanks and domestic wastewater Ireland",
+      "publisher": "Google News: septic tanks and domestic wastewater Ireland",
+      "section": "waterbody-evidence-alerts",
+      "theme": "septic-wastewater",
+      "tags": [
+        "septic-wastewater"
+      ],
+      "score": 85,
+      "freshness_status": "fresh",
+      "freshness_label": "39 days old",
+      "pressure_categories": [
+        "septic / domestic wastewater"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Potential catchment-pressure signal: septic or domestic wastewater issues can affect groundwater, small streams, bathing waters, and local engagement priorities."
     },
     {
       "id": "ee2422d7ab141f0d",

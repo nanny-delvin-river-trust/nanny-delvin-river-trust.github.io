@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-04T15:45:54.203389+00:00",
-  "latest_generated_at": "2026-10-04T15:45:41.220852+00:00",
+  "generated_at": "2026-10-04T15:48:17.061863+00:00",
+  "latest_generated_at": "2026-10-04T15:48:07.002845+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
     "planning-infrastructure": 22,
     "research-papers": 36,
-    "grants-opportunities": 13,
+    "grants-opportunities": 12,
     "ireland-catchment-practice": 21,
-    "waterbody-evidence-alerts": 23
+    "waterbody-evidence-alerts": 24
   },
   "top_pressure_categories": [
     {
@@ -41,7 +41,7 @@
     },
     {
       "pressure": "funding / grant",
-      "count": 13
+      "count": 12
     },
     {
       "pressure": "nutrients",
@@ -52,63 +52,28 @@
       "count": 9
     },
     {
-      "pressure": "general catchment signal",
+      "pressure": "septic / domestic wastewater",
       "count": 5
     },
     {
-      "pressure": "septic / domestic wastewater",
-      "count": 4
+      "pressure": "general catchment signal",
+      "count": 5
     }
   ],
   "items": [
     {
-      "id": "ndrt-site-home",
-      "title": "Nanny-Delvin Rivers Trust case-study homepage",
-      "url": "https://nannydelvin.ie/",
+      "id": "f41921847d1879e6",
+      "title": "Northern Ireland farmer fined after slurry pollution causes fish kill - Water Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGRTSi1mOTNseVdXMmhOakhwemtMcEhQSm1PRU50MFNOZHAwNlpuY29JX1VtUWotSnFSckx2a0lYelhEbERsNHhwVWtyLWpWQjFWVUtDc1JxU2ZFcjFIUl9YSTVCRFpPaV9rUk1zM1JMMnkzakZiOEN2VDM5RTljY3pNMmliY2lkT01PdkhQNnhaYVdIZUpNazBsamNzSXJvQVV4QjBTdmtkcWx2N3E3TGRUbw?oc=5",
       "section": "ireland-catchment-practice",
-      "source_name": "NDRT microsite",
-      "published": null,
-      "score": 100,
-      "practical_score": 141.0,
-      "freshness_label": "Site reference",
+      "source_name": "Google News: Ireland river water quality",
+      "published": "2026-09-28",
+      "score": 90,
+      "practical_score": 129.0,
+      "freshness_label": "6 days old",
       "pressure_categories": [
-        "citizen science / monitoring",
-        "policy / governance",
-        "NbS / restoration"
-      ],
-      "local_relevance": {
-        "score": 100,
-        "label": "High local relevance",
-        "matched_terms": [
-          "Ireland",
-          "delvin",
-          "delvin river",
-          "nanny",
-          "nanny-delvin",
-          "nanny-delvin rivers trust",
-          "ndrt"
-        ]
-      },
-      "opportunity_fit": null,
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Monitoring signal: useful for shaping Nanny Watch methods, volunteer training, repeat observations, or field evidence protocols."
-    },
-    {
-      "id": "4f44253263213588",
-      "title": "Biodiversity Net Gain",
-      "url": "https://theriverstrust.org/about-us/news?c=101202",
-      "section": "waterbody-evidence-alerts",
-      "source_name": "The Rivers Trust News",
-      "published": null,
-      "score": 100,
-      "practical_score": 143.0,
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "nutrients",
-        "habitat / biodiversity",
-        "citizen science / monitoring",
-        "policy / governance",
-        "NbS / restoration"
+        "agricultural runoff",
+        "incident / alert"
       ],
       "local_relevance": {
         "score": 10,
@@ -118,8 +83,35 @@
         ]
       },
       "opportunity_fit": null,
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Monitoring signal: useful for shaping Nanny Watch methods, volunteer training, repeat observations, or field evidence protocols."
+      "research_use_type": null,
+      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
+    },
+    {
+      "id": "5821ef6dd0c20b6f",
+      "title": "Agri jobs: Meath water quality EIP seeks community animator - Irish Farmers Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUXZON2w4WXFFUUZYNmpwaXNEdkNFN3l5cldIajhBWXo0aDBPd0g3elFESFFoeW51bkRUaFZ1UHptVUVnaXVwcF9WVnRMbGIwODVKR1hPTlRRcUNsMkdOWlVuUXFUWk02SDhtYWFiTU5KMTBoRmZlRlRhYW9OSjJEOHE2VUthOHdHSGhrajk0X1VpVnBZQjN2cDkxVmgwR0N6UE5HLVViQ2M?oc=5",
+      "section": "waterbody-evidence-alerts",
+      "source_name": "Google News: Meath Louth Fingal catchment signals",
+      "published": "2026-10-03",
+      "score": 89,
+      "practical_score": 129.0,
+      "freshness_label": "1 days old",
+      "pressure_categories": [
+        "agricultural runoff"
+      ],
+      "local_relevance": {
+        "score": 72,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "fingal",
+          "louth",
+          "meath"
+        ]
+      },
+      "opportunity_fit": null,
+      "research_use_type": null,
+      "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
     },
     {
       "id": "b0251d564a177c36",
