@@ -30,6 +30,14 @@ const state = {
   ]
 };
 
+const ACTION_LANES = [
+  { id: "ireland-catchment-practice", label: "Irish practice" },
+  { id: "waterbody-evidence-alerts", label: "Evidence/alerts" },
+  { id: "planning-infrastructure", label: "Planning/infrastructure" },
+  { id: "grants-opportunities", label: "Grants" },
+  { id: "research-papers", label: "Research" }
+];
+
 const els = {
   list: document.getElementById("newsList"),
   summary: document.getElementById("summary"),
@@ -318,9 +326,19 @@ function practicalSortScore(item) {
 function renderPracticalShortlist(items) {
   if (!els.shortlist) return;
 
-  const shortlist = [...items]
-    .sort((a, b) => practicalSortScore(b) - practicalSortScore(a))
-    .slice(0, 5);
+  const shortlist = ACTION_LANES.map((lane, index) => {
+    const candidates = items
+      .filter((item) => itemSection(item) === lane.id)
+      .sort((a, b) => practicalSortScore(b) - practicalSortScore(a));
+
+    if (!candidates.length) return null;
+
+    return {
+      ...candidates[0],
+      shortlistLaneLabel: lane.label,
+      shortlistLaneNumber: index + 1
+    };
+  }).filter(Boolean);
 
   if (!shortlist.length) {
     els.shortlist.innerHTML = "";
@@ -331,11 +349,12 @@ function renderPracticalShortlist(items) {
     <section class="shortlist-card" aria-label="Top practical signals">
       <div class="shortlist-heading">
         <p class="eyebrow">Today’s practical shortlist</p>
-        <h3>Top signals for Trust action</h3>
+        <h3>Top signal from each lane</h3>
       </div>
       <ol class="shortlist-list">
         ${shortlist.map((item) => `
           <li>
+            <span class="mini-label">Lane ${escapeHtml(item.shortlistLaneNumber)} · ${escapeHtml(item.shortlistLaneLabel)}</span>
             <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a>
             <p>${escapeHtml(item.action_relevance || "Useful signal for Trust review.")}</p>
           </li>
@@ -347,33 +366,11 @@ function renderPracticalShortlist(items) {
 
 
 function renderSummary(items) {
-  const lanes = [
-    {
-      id: "ireland-catchment-practice",
-      label: "Irish practice",
-      count: items.filter((item) => itemSection(item) === "ireland-catchment-practice").length
-    },
-    {
-      id: "waterbody-evidence-alerts",
-      label: "Evidence/alerts",
-      count: items.filter((item) => itemSection(item) === "waterbody-evidence-alerts").length
-    },
-    {
-      id: "planning-infrastructure",
-      label: "Planning/infrastructure",
-      count: items.filter((item) => itemSection(item) === "planning-infrastructure").length
-    },
-    {
-      id: "grants-opportunities",
-      label: "Grants",
-      count: items.filter((item) => itemSection(item) === "grants-opportunities").length
-    },
-    {
-      id: "research-papers",
-      label: "Research",
-      count: items.filter((item) => itemSection(item) === "research-papers").length
-    }
-  ];
+  const lanes = ACTION_LANES.map((lane, index) => ({
+    ...lane,
+    number: index + 1,
+    count: items.filter((item) => itemSection(item) === lane.id).length
+  }));
 
   els.summary.innerHTML = `
     <div class="result-stripe" aria-label="Current lane counts">
@@ -384,9 +381,9 @@ function renderSummary(items) {
           class="result-lane-link"
           data-lane-target="${escapeHtml(lane.id)}"
           ${lane.count ? "" : "disabled"}
-          aria-label="Jump to ${escapeHtml(lane.label)} lane"
+          aria-label="Jump to lane ${lane.number}, ${escapeHtml(lane.label)}"
         >
-          <strong>${lane.count}</strong> ${escapeHtml(lane.label)}
+          ${lane.number}. <strong>${lane.count}</strong> ${escapeHtml(lane.label)}
         </button>
       `).join("")}
     </div>
@@ -559,14 +556,8 @@ els.summary.addEventListener("click", (event) => {
 
 
 function sectionLabel(section) {
-  const labels = {
-    "ireland-catchment-practice": "Irish practice",
-    "waterbody-evidence-alerts": "Evidence/alerts",
-    "grants-opportunities": "Grants",
-    "research-papers": "Research"
-  };
-
-  return labels[section] || clean(section || "unknown").replaceAll("-", " ");
+  return ACTION_LANES.find((lane) => lane.id === section)?.label
+    || clean(section || "unknown").replaceAll("-", " ");
 }
 
 function renderWeeklyDigest(data) {
@@ -585,7 +576,7 @@ function renderWeeklyDigest(data) {
 
   els.digest.innerHTML = `
     <p class="eyebrow">Weekly digest</p>
-    <h2>Top practical signals</h2>
+    <h2>One top signal per lane</h2>
     <ol class="ops-list">
       ${items.map((item) => `
         <li>
