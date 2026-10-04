@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-04T15:29:13.063151+00:00",
-  "latest_generated_at": "2026-10-04T15:29:00.845936+00:00",
+  "generated_at": "2026-10-04T15:45:54.203389+00:00",
+  "latest_generated_at": "2026-10-04T15:45:41.220852+00:00",
   "title": "NDRT weekly practical digest",
-  "summary": "Top practical signals ranked for Nanny-Delvin Rivers Trust action, monitoring, engagement, funding, and evidence use.",
+  "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
     "planning-infrastructure": 22,
     "research-papers": 36,
     "grants-opportunities": 13,
-    "ireland-catchment-practice": 20,
-    "waterbody-evidence-alerts": 24
+    "ireland-catchment-practice": 21,
+    "waterbody-evidence-alerts": 23
   },
   "top_pressure_categories": [
     {
@@ -25,7 +25,7 @@
     },
     {
       "pressure": "agricultural runoff",
-      "count": 26
+      "count": 27
     },
     {
       "pressure": "habitat / biodiversity",
@@ -49,18 +49,108 @@
     },
     {
       "pressure": "incident / alert",
-      "count": 8
-    },
-    {
-      "pressure": "septic / domestic wastewater",
-      "count": 5
+      "count": 9
     },
     {
       "pressure": "general catchment signal",
       "count": 5
+    },
+    {
+      "pressure": "septic / domestic wastewater",
+      "count": 4
     }
   ],
   "items": [
+    {
+      "id": "ndrt-site-home",
+      "title": "Nanny-Delvin Rivers Trust case-study homepage",
+      "url": "https://nannydelvin.ie/",
+      "section": "ireland-catchment-practice",
+      "source_name": "NDRT microsite",
+      "published": null,
+      "score": 100,
+      "practical_score": 141.0,
+      "freshness_label": "Site reference",
+      "pressure_categories": [
+        "citizen science / monitoring",
+        "policy / governance",
+        "NbS / restoration"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "delvin",
+          "delvin river",
+          "nanny",
+          "nanny-delvin",
+          "nanny-delvin rivers trust",
+          "ndrt"
+        ]
+      },
+      "opportunity_fit": null,
+      "research_use_type": "Monitoring method",
+      "action_relevance": "Monitoring signal: useful for shaping Nanny Watch methods, volunteer training, repeat observations, or field evidence protocols."
+    },
+    {
+      "id": "4f44253263213588",
+      "title": "Biodiversity Net Gain",
+      "url": "https://theriverstrust.org/about-us/news?c=101202",
+      "section": "waterbody-evidence-alerts",
+      "source_name": "The Rivers Trust News",
+      "published": null,
+      "score": 100,
+      "practical_score": 143.0,
+      "freshness_label": "Date unknown",
+      "pressure_categories": [
+        "nutrients",
+        "habitat / biodiversity",
+        "citizen science / monitoring",
+        "policy / governance",
+        "NbS / restoration"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "opportunity_fit": null,
+      "research_use_type": "Monitoring method",
+      "action_relevance": "Monitoring signal: useful for shaping Nanny Watch methods, volunteer training, repeat observations, or field evidence protocols."
+    },
+    {
+      "id": "b0251d564a177c36",
+      "title": "Julianstown Traffic Relief Scheme at heart of new residents’ group - Drogheda Life",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVZlVGFaTVRSTGZEemFob1E3ZkRCQ2NuaXU0M2ktdW5rR1lCWU1QWFBZYzJ1N3JCV2w4dTRRdVlidmFvaDVBVkNGVjNTSlk5QTNPanlzM3Z6dU5GMjdxSm9QSjlZTF9sWmxoanNKTEZiVEZZLWEweE9KZHRIWWJrVEc0Rm1oQQ?oc=5",
+      "section": "planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "published": "2026-09-29",
+      "score": 100,
+      "practical_score": 135.0,
+      "freshness_label": "5 days old",
+      "pressure_categories": [
+        "planning / infrastructure"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "delvin",
+          "east meath",
+          "julianstown",
+          "julianstown traffic relief scheme",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "opportunity_fit": null,
+      "research_use_type": null,
+      "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred."
+    },
     {
       "id": "c15944002653fd1a",
       "title": "Louth TD Erin McGreehan urges expansion of septic tank repair grants - Irish Independent",
@@ -96,261 +186,26 @@
       "action_relevance": "Funding signal for the Trust: check whether this can support septic / domestic wastewater, funding / grant, policy / governance, citizen science, engagement, or small catchment actions."
     },
     {
-      "id": "ec191fbb891667ed",
-      "title": "Skip to main content",
-      "url": "https://www.fisheriesireland.ie/news",
-      "section": "grants-opportunities",
-      "source_name": "Inland Fisheries Ireland",
-      "published": null,
+      "id": "7c9dbea881190d14",
+      "title": "Making informed choices: implementing nature-based solutions for effective freshwater management in temperate catchments",
+      "url": "https://doi.org/10.1016/j.nbsj.2026.100367",
+      "section": "research-papers",
+      "source_name": "Nature-Based Solutions",
+      "published": "2026-07-22",
       "score": 100,
-      "practical_score": 147.0,
-      "freshness_label": "Date unknown",
+      "practical_score": 142.0,
+      "freshness_label": "2026 · 0 citations · open access",
       "pressure_categories": [
+        "water quality",
         "agricultural runoff",
-        "habitat / biodiversity",
-        "incident / alert",
-        "funding / grant",
-        "planning / infrastructure"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "opportunity_fit": {
-        "fit": "Medium",
-        "score": 71,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      },
-      "research_use_type": null,
-      "action_relevance": "Funding signal for the Trust: check whether this can support agricultural runoff, habitat / biodiversity, incident / alert, citizen science, engagement, or small catchment actions."
-    },
-    {
-      "id": "4f44253263213588",
-      "title": "Biodiversity Net Gain",
-      "url": "https://theriverstrust.org/about-us/news?c=101202",
-      "section": "waterbody-evidence-alerts",
-      "source_name": "The Rivers Trust News",
-      "published": null,
-      "score": 100,
-      "practical_score": 143.0,
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "nutrients",
-        "habitat / biodiversity",
+        "NbS / restoration",
         "citizen science / monitoring",
-        "policy / governance",
-        "NbS / restoration"
+        "habitat / biodiversity"
       ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
+      "local_relevance": null,
       "opportunity_fit": null,
       "research_use_type": "Monitoring method",
-      "action_relevance": "Monitoring signal: useful for shaping Nanny Watch methods, volunteer training, repeat observations, or field evidence protocols."
-    },
-    {
-      "id": "e7c5419887f19cb2",
-      "title": "Community Engagement",
-      "url": "https://theriverstrust.org/about-us/news?c=5235",
-      "section": "waterbody-evidence-alerts",
-      "source_name": "The Rivers Trust News",
-      "published": null,
-      "score": 100,
-      "practical_score": 143.0,
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "nutrients",
-        "habitat / biodiversity",
-        "citizen science / monitoring",
-        "policy / governance",
-        "NbS / restoration"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "opportunity_fit": null,
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Monitoring signal: useful for shaping Nanny Watch methods, volunteer training, repeat observations, or field evidence protocols."
-    },
-    {
-      "id": "eb715ea248c86af1",
-      "title": "Nature-Based Solutions",
-      "url": "https://theriverstrust.org/about-us/news?c=33585",
-      "section": "waterbody-evidence-alerts",
-      "source_name": "The Rivers Trust News",
-      "published": null,
-      "score": 100,
-      "practical_score": 143.0,
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "nutrients",
-        "habitat / biodiversity",
-        "citizen science / monitoring",
-        "policy / governance",
-        "NbS / restoration"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "opportunity_fit": null,
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Monitoring signal: useful for shaping Nanny Watch methods, volunteer training, repeat observations, or field evidence protocols."
-    },
-    {
-      "id": "88af00feef889694",
-      "title": "Northern Ireland",
-      "url": "https://theriverstrust.org/about-us/news?c=46717",
-      "section": "waterbody-evidence-alerts",
-      "source_name": "The Rivers Trust News",
-      "published": null,
-      "score": 100,
-      "practical_score": 143.0,
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "nutrients",
-        "habitat / biodiversity",
-        "citizen science / monitoring",
-        "policy / governance",
-        "NbS / restoration"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "opportunity_fit": null,
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Monitoring signal: useful for shaping Nanny Watch methods, volunteer training, repeat observations, or field evidence protocols."
-    },
-    {
-      "id": "ec8f30afea9b62a7",
-      "title": "Nutrient Neutrality",
-      "url": "https://theriverstrust.org/about-us/news?c=46939",
-      "section": "waterbody-evidence-alerts",
-      "source_name": "The Rivers Trust News",
-      "published": null,
-      "score": 100,
-      "practical_score": 143.0,
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "nutrients",
-        "habitat / biodiversity",
-        "citizen science / monitoring",
-        "policy / governance",
-        "NbS / restoration"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "opportunity_fit": null,
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Monitoring signal: useful for shaping Nanny Watch methods, volunteer training, repeat observations, or field evidence protocols."
-    },
-    {
-      "id": "b573912aa50f6be0",
-      "title": "Planning and Infrastructure Bill",
-      "url": "https://theriverstrust.org/about-us/news?c=101203",
-      "section": "waterbody-evidence-alerts",
-      "source_name": "The Rivers Trust News",
-      "published": null,
-      "score": 100,
-      "practical_score": 143.0,
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "nutrients",
-        "habitat / biodiversity",
-        "citizen science / monitoring",
-        "policy / governance",
-        "NbS / restoration"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "opportunity_fit": null,
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Monitoring signal: useful for shaping Nanny Watch methods, volunteer training, repeat observations, or field evidence protocols."
-    },
-    {
-      "id": "635a732b3168613b",
-      "title": "Plastic Pollution",
-      "url": "https://theriverstrust.org/about-us/news?c=46709",
-      "section": "waterbody-evidence-alerts",
-      "source_name": "The Rivers Trust News",
-      "published": null,
-      "score": 100,
-      "practical_score": 143.0,
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "nutrients",
-        "habitat / biodiversity",
-        "citizen science / monitoring",
-        "policy / governance",
-        "NbS / restoration"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "opportunity_fit": null,
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Monitoring signal: useful for shaping Nanny Watch methods, volunteer training, repeat observations, or field evidence protocols."
-    },
-    {
-      "id": "5439804a3bae6e06",
-      "title": "Policy & Advocacy",
-      "url": "https://theriverstrust.org/about-us/news?c=98799",
-      "section": "waterbody-evidence-alerts",
-      "source_name": "The Rivers Trust News",
-      "published": null,
-      "score": 100,
-      "practical_score": 143.0,
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "nutrients",
-        "habitat / biodiversity",
-        "citizen science / monitoring",
-        "policy / governance",
-        "NbS / restoration"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "opportunity_fit": null,
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Monitoring signal: useful for shaping Nanny Watch methods, volunteer training, repeat observations, or field evidence protocols."
+      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
     }
   ]
 }

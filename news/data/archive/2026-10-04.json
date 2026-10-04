@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:29:00.845936+00:00",
+  "generated_at": "2026-10-04T15:45:41.220852+00:00",
   "note": "Source-led daily radar for Nanny-Delvin: practical Irish catchment signals, waterbody evidence/alerts, grants/opportunities, and research ranked by Trust usefulness.",
   "sections": [
     {
@@ -3682,35 +3682,6 @@
       }
     },
     {
-      "id": "f361d44398b65818",
-      "title": "Ireland's septic tank problem - University College Dublin",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaTRsWG5VemdvWWo2VVFHWlRwOTNsdlZqQUpWVWpjdFEwSmkzYmJDR29EbV9TODNucEt5Vm9mVW1BTVlOSWdSZk5qSWRTUzFQMWFac3dVYkpqNnI0VXZhRm9CUWJDV0tGdzVoc281MGdBekhfcmE1dWZaTVpIYnQtNmRaRlJkUQ?oc=5",
-      "summary": "Ireland's septic tank problem University College Dublin",
-      "published": "2026-08-26",
-      "source_id": "google-news-septic-tank-grants-ireland",
-      "source_name": "Google News: septic tanks and domestic wastewater Ireland",
-      "publisher": "Google News: septic tanks and domestic wastewater Ireland",
-      "section": "waterbody-evidence-alerts",
-      "theme": "septic-wastewater",
-      "tags": [
-        "septic-wastewater"
-      ],
-      "score": 85,
-      "freshness_status": "fresh",
-      "freshness_label": "39 days old",
-      "pressure_categories": [
-        "septic / domestic wastewater"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Potential catchment-pressure signal: septic or domestic wastewater issues can affect groundwater, small streams, bathing waters, and local engagement priorities."
-    },
-    {
       "id": "ee2422d7ab141f0d",
       "title": "Licensing & Permitting",
       "url": "https://www.epa.ie/our-services/licensing/",
@@ -4141,6 +4112,37 @@
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
       }
+    },
+    {
+      "id": "4ba0462bf57e1ce6",
+      "title": "Farmer convicted for water pollution offence that led to fish kill - Agriland UK",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdnJSd3FGQjRqUFIxc25jSnl4cHYyY29xM3BScmdWbGQ2UFdsdXNaaVBsUUFWMWVsX0Ixc0M1N1hqLUJpYjV1RlQwdldjUXBiM3BXSFVxRm1JeTFBVEh1NTQ0NEpVUkZYN296U1RkbU1qTUNOMmdpSDh1dWJ3QmM3VEQyQ1NzaFdaSW9rWU03VlRiVWttOGVtWkxpQjVaRUZrdUh3cUt0NDlxOEk?oc=5",
+      "summary": "Farmer convicted for water pollution offence that led to fish kill Agriland UK",
+      "published": "2026-09-25",
+      "source_id": "google-news-ireland-river-water-quality",
+      "source_name": "Google News: Ireland river water quality",
+      "publisher": "Google News: Ireland river water quality",
+      "section": "ireland-catchment-practice",
+      "theme": "water-quality",
+      "tags": [
+        "water-quality",
+        "incident-alert"
+      ],
+      "score": 78,
+      "freshness_status": "fresh",
+      "freshness_label": "9 days old",
+      "pressure_categories": [
+        "agricultural runoff",
+        "incident / alert"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
     }
   ]
 }
