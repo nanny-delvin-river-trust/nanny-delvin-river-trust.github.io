@@ -258,9 +258,9 @@ def age_days(iso_date: str | None) -> int | None:
 
 
 TRUE_GRANT_TERMS = [
-    "grant", "grants", "funding", "fund", "funds", "scheme", "call for proposals",
-    "applications open", "application deadline", "deadline", "eligible", "eligibility",
-    "award", "awards", "programme", "program", "community water development fund",
+    "grant", "grants", "funding", "fund", "funds", "call for proposals",
+    "applications open", "application deadline", "funding deadline", "eligible", "eligibility",
+    "award", "awards", "community water development fund",
     "heritage council", "life calls", "open call", "small grants", "biodiversity fund"
 ]
 
@@ -280,6 +280,10 @@ def likely_grant_false_positive(text: str) -> bool:
 
 def infer_operational_section(source_section: str, text: str) -> str:
     lowered = text.lower()
+
+    # Local planning/infrastructure is a distinct watch lane even when a project is called a "scheme".
+    if source_section == "planning-infrastructure":
+        return "planning-infrastructure"
 
     # Grants must be real opportunities, not merely from a grant-watch source.
     if source_section == "grants-opportunities":
@@ -610,7 +614,8 @@ PRESSURE_RULES = {
         "q-value", "sampling", "field observation"
     ],
     "funding / grant": [
-        "grant", "funding", "scheme", "call", "award", "programme", "opportunity"
+        "grant", "grants", "funding", "fund", "funds", "call for proposals",
+        "applications open", "application deadline", "open call", "award", "awards"
     ],
     "policy / governance": [
         "policy", "governance", "lawpro", "epa", "npws", "water framework directive",
