@@ -357,7 +357,7 @@ function renderPracticalShortlist(items) {
       <ol class="shortlist-list">
         ${shortlist.map((item) => `
           <li>
-            <span class="mini-label">Lane ${escapeHtml(item.shortlistLaneNumber)} · ${escapeHtml(item.shortlistLaneLabel)}</span>
+            <span class="shortlist-lane-label">${escapeHtml(item.shortlistLaneLabel)} <span aria-hidden="true">—</span></span>
             <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a>
             <p>${escapeHtml(item.action_relevance || "Useful signal for Trust review.")}</p>
           </li>
@@ -386,7 +386,9 @@ function renderSummary(items) {
           ${lane.count ? "" : "disabled"}
           aria-label="Jump to lane ${lane.number}, ${escapeHtml(lane.label)}"
         >
-          ${lane.number}. <strong>${lane.count}</strong> ${escapeHtml(lane.label)}
+          <strong class="lane-number">${lane.number}.</strong>
+          <span class="lane-name">${escapeHtml(lane.label)}</span>
+          <span class="lane-count">(${lane.count})</span>
         </button>
       `).join("")}
     </div>
@@ -543,7 +545,13 @@ function jumpToResultLane(targetId) {
   const target = document.getElementById(targetId);
   if (!target) return;
 
-  target.scrollIntoView({ behavior: "smooth", block: "start" });
+  const header = document.querySelector(".site-header");
+  const headerOffset = (header?.getBoundingClientRect().height || 58) + 14;
+  const top = Math.max(0, target.getBoundingClientRect().top + window.scrollY - headerOffset);
+
+  // Lane navigation should be immediate even though ordinary page scrolling is smooth.
+  window.scrollTo({ top, left: 0, behavior: "instant" });
+  history.replaceState(null, "", `#${targetId}`);
 
   target.classList.add("lane-focus-pulse");
   window.setTimeout(() => target.classList.remove("lane-focus-pulse"), 900);
