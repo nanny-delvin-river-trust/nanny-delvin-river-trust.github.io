@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T15:23:52.307170+00:00",
-  "latest_generated_at": "2026-10-04T15:23:42.841513+00:00",
+  "generated_at": "2026-10-04T15:26:59.332891+00:00",
+  "latest_generated_at": "2026-10-04T15:26:47.181017+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "Top practical signals ranked for Nanny-Delvin Rivers Trust action, monitoring, engagement, funding, and evidence use.",
   "lane_counts": {
@@ -24,6 +24,10 @@
       "count": 32
     },
     {
+      "pressure": "planning / infrastructure",
+      "count": 30
+    },
+    {
       "pressure": "agricultural runoff",
       "count": 26
     },
@@ -44,10 +48,6 @@
       "count": 12
     },
     {
-      "pressure": "general catchment signal",
-      "count": 9
-    },
-    {
       "pressure": "incident / alert",
       "count": 8
     },
@@ -56,8 +56,8 @@
       "count": 5
     },
     {
-      "pressure": "sediment / hydromorphology",
-      "count": 4
+      "pressure": "general catchment signal",
+      "count": 5
     }
   ],
   "items": [
@@ -103,13 +103,14 @@
       "source_name": "EPA Ireland Water",
       "published": null,
       "score": 95,
-      "practical_score": 145.0,
+      "practical_score": 148.0,
       "freshness_label": "Date unknown",
       "pressure_categories": [
         "incident / alert",
         "citizen science / monitoring",
         "funding / grant",
-        "policy / governance"
+        "policy / governance",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 10,
@@ -135,13 +136,14 @@
       "source_name": "Inland Fisheries Ireland",
       "published": null,
       "score": 100,
-      "practical_score": 144.0,
+      "practical_score": 147.0,
       "freshness_label": "Date unknown",
       "pressure_categories": [
         "agricultural runoff",
         "habitat / biodiversity",
         "incident / alert",
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 10,

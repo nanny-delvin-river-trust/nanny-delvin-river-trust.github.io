@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:23:42.841513+00:00",
+  "generated_at": "2026-10-04T15:26:47.181017+00:00",
   "note": "Source-led daily radar for Nanny-Delvin: practical Irish catchment signals, waterbody evidence/alerts, grants/opportunities, and research ranked by Trust usefulness.",
   "sections": [
     {
@@ -50,7 +50,8 @@
       "freshness_status": "fresh",
       "freshness_label": "5 days old",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -59,12 +60,13 @@
           "delvin",
           "east meath",
           "julianstown",
+          "julianstown traffic relief scheme",
           "meath",
           "nanny",
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 35,
@@ -92,7 +94,8 @@
       "freshness_status": "fresh",
       "freshness_label": "5 days old",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -107,7 +110,7 @@
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 45,
@@ -134,7 +137,7 @@
       "freshness_status": "fresh",
       "freshness_label": "8 days old",
       "pressure_categories": [
-        "general catchment signal"
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -149,7 +152,13 @@
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
+      "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred.",
+      "linkedin_story_candidate": true,
+      "cross_pollination": {
+        "target": "water-nbs-story-radar",
+        "status": "candidate",
+        "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
+      }
     },
     {
       "id": "532cf8685669d419",
@@ -171,7 +180,8 @@
       "freshness_status": "fresh",
       "freshness_label": "18 days old",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -186,7 +196,7 @@
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 45,
@@ -213,7 +223,7 @@
       "freshness_status": "fresh",
       "freshness_label": "20 days old",
       "pressure_categories": [
-        "general catchment signal"
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -227,7 +237,7 @@
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
+      "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred."
     },
     {
       "id": "64ce489e9a7ee108",
@@ -249,7 +259,8 @@
       "freshness_status": "fresh",
       "freshness_label": "27 days old",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -257,18 +268,25 @@
         "matched_terms": [
           "delvin",
           "julianstown",
+          "julianstown traffic relief scheme",
           "nanny",
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 35,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
       },
-      "research_use_type": "Review / evidence synthesis"
+      "research_use_type": "Review / evidence synthesis",
+      "linkedin_story_candidate": true,
+      "cross_pollination": {
+        "target": "water-nbs-story-radar",
+        "status": "candidate",
+        "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
+      }
     },
     {
       "id": "130744f3fa347ba3",
@@ -289,7 +307,8 @@
       "freshness_status": "fresh",
       "freshness_label": "33 days old",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -298,16 +317,23 @@
           "Ireland",
           "delvin",
           "julianstown",
+          "julianstown traffic relief scheme",
           "nanny",
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 45,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      },
+      "linkedin_story_candidate": true,
+      "cross_pollination": {
+        "target": "water-nbs-story-radar",
+        "status": "candidate",
+        "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
       }
     },
     {
@@ -329,7 +355,8 @@
       "freshness_status": "fresh",
       "freshness_label": "47 days old",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -338,17 +365,24 @@
           "Ireland",
           "delvin",
           "julianstown",
+          "julianstown traffic relief scheme",
           "meath",
           "nanny",
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 45,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      },
+      "linkedin_story_candidate": true,
+      "cross_pollination": {
+        "target": "water-nbs-story-radar",
+        "status": "candidate",
+        "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
       }
     },
     {
@@ -371,7 +405,8 @@
       "freshness_status": "fresh",
       "freshness_label": "62 days old",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -379,12 +414,13 @@
         "matched_terms": [
           "delvin",
           "julianstown",
+          "julianstown traffic relief scheme",
           "meath",
           "nanny",
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 35,
@@ -412,7 +448,8 @@
       "freshness_status": "fresh",
       "freshness_label": "66 days old",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -420,11 +457,12 @@
         "matched_terms": [
           "delvin",
           "julianstown",
+          "julianstown traffic relief scheme",
           "nanny",
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 35,
@@ -451,7 +489,7 @@
       "freshness_status": "fresh",
       "freshness_label": "68 days old",
       "pressure_categories": [
-        "general catchment signal"
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -466,7 +504,13 @@
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
+      "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred.",
+      "linkedin_story_candidate": true,
+      "cross_pollination": {
+        "target": "water-nbs-story-radar",
+        "status": "candidate",
+        "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
+      }
     },
     {
       "id": "c61c76feb7abb9fa",
@@ -488,7 +532,8 @@
       "freshness_status": "fresh",
       "freshness_label": "74 days old",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -502,7 +547,7 @@
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 35,
@@ -567,7 +612,8 @@
       "freshness_status": "fresh",
       "freshness_label": "75 days old",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -576,16 +622,23 @@
           "Ireland",
           "delvin",
           "julianstown",
+          "julianstown traffic relief scheme",
           "nanny",
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 45,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      },
+      "linkedin_story_candidate": true,
+      "cross_pollination": {
+        "target": "water-nbs-story-radar",
+        "status": "candidate",
+        "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
       }
     },
     {
@@ -608,7 +661,8 @@
       "freshness_status": "fresh",
       "freshness_label": "77 days old",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -616,16 +670,23 @@
         "matched_terms": [
           "delvin",
           "julianstown",
+          "julianstown traffic relief scheme",
           "nanny",
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 53,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      },
+      "linkedin_story_candidate": true,
+      "cross_pollination": {
+        "target": "water-nbs-story-radar",
+        "status": "candidate",
+        "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
       }
     },
     {
@@ -689,7 +750,8 @@
       "freshness_status": "reference",
       "freshness_label": "108 days old · background",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -698,12 +760,13 @@
           "delvin",
           "east meath",
           "julianstown",
+          "julianstown traffic relief scheme",
           "meath",
           "nanny",
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 35,
@@ -731,7 +794,8 @@
       "freshness_status": "reference",
       "freshness_label": "194 days old · background",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -740,12 +804,13 @@
           "delvin",
           "east meath",
           "julianstown",
+          "julianstown traffic relief scheme",
           "meath",
           "nanny",
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 35,
@@ -773,7 +838,8 @@
       "freshness_status": "reference",
       "freshness_label": "195 days old · background",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -782,12 +848,13 @@
           "delvin",
           "east meath",
           "julianstown",
+          "julianstown traffic relief scheme",
           "meath",
           "nanny",
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 35,
@@ -815,7 +882,8 @@
       "freshness_status": "reference",
       "freshness_label": "228 days old · background",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -824,11 +892,12 @@
           "Ireland",
           "delvin",
           "julianstown",
+          "julianstown traffic relief scheme",
           "nanny",
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 45,
@@ -2123,7 +2192,8 @@
         "agricultural runoff",
         "habitat / biodiversity",
         "incident / alert",
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 10,
@@ -2588,7 +2658,8 @@
       "freshness_status": "fresh",
       "freshness_label": "74 days old",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -2596,16 +2667,23 @@
         "matched_terms": [
           "delvin",
           "julianstown",
+          "julianstown traffic relief scheme",
           "nanny",
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 35,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      },
+      "linkedin_story_candidate": true,
+      "cross_pollination": {
+        "target": "water-nbs-story-radar",
+        "status": "candidate",
+        "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
       }
     },
     {
@@ -2737,7 +2815,8 @@
       "freshness_label": "Date unknown",
       "pressure_categories": [
         "funding / grant",
-        "policy / governance"
+        "policy / governance",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 10,
@@ -2746,7 +2825,7 @@
           "Ireland"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, policy / governance, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Medium",
         "score": 63,
@@ -2849,7 +2928,8 @@
         "incident / alert",
         "citizen science / monitoring",
         "funding / grant",
-        "policy / governance"
+        "policy / governance",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 10,
@@ -2886,7 +2966,8 @@
       "freshness_status": "fresh",
       "freshness_label": "61 days old",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -2894,16 +2975,23 @@
         "matched_terms": [
           "delvin",
           "julianstown",
+          "julianstown traffic relief scheme",
           "nanny",
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 35,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      },
+      "linkedin_story_candidate": true,
+      "cross_pollination": {
+        "target": "water-nbs-story-radar",
+        "status": "candidate",
+        "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
       }
     },
     {
@@ -2964,7 +3052,8 @@
       "freshness_status": "reference",
       "freshness_label": "297 days old · background",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -2979,7 +3068,7 @@
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 45,
@@ -3076,7 +3165,8 @@
       "freshness_status": "reference",
       "freshness_label": "144 days old · background",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 100,
@@ -3091,12 +3181,18 @@
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Low",
         "score": 45,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      },
+      "linkedin_story_candidate": true,
+      "cross_pollination": {
+        "target": "water-nbs-story-radar",
+        "status": "candidate",
+        "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
       }
     },
     {
@@ -3600,7 +3696,8 @@
       "pressure_categories": [
         "agricultural runoff",
         "funding / grant",
-        "policy / governance"
+        "policy / governance",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 10,
@@ -3772,7 +3869,8 @@
       "freshness_label": "Date unknown",
       "pressure_categories": [
         "funding / grant",
-        "policy / governance"
+        "policy / governance",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 10,
@@ -3781,7 +3879,7 @@
           "Ireland"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, policy / governance, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Medium",
         "score": 63,
@@ -3810,7 +3908,8 @@
       "freshness_label": "Date unknown",
       "pressure_categories": [
         "funding / grant",
-        "policy / governance"
+        "policy / governance",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 10,
@@ -3819,7 +3918,7 @@
           "Ireland"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, policy / governance, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Medium",
         "score": 63,
@@ -3908,14 +4007,15 @@
       "freshness_status": "reference",
       "freshness_label": "Date unknown",
       "pressure_categories": [
-        "funding / grant"
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 0,
         "label": "Transferable relevance",
         "matched_terms": []
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, planning / infrastructure, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Medium",
         "score": 67,
@@ -4003,7 +4103,7 @@
       "freshness_status": "reference",
       "freshness_label": "97 days old · background",
       "pressure_categories": [
-        "general catchment signal"
+        "planning / infrastructure"
       ],
       "local_relevance": {
         "score": 10,
@@ -4012,7 +4112,7 @@
           "Ireland"
         ]
       },
-      "action_relevance": "General practical signal: may help the Trust track general catchment signal, policy, funding, monitoring, or community action."
+      "action_relevance": "General practical signal: may help the Trust track planning / infrastructure, policy, funding, monitoring, or community action."
     },
     {
       "id": "dc53ce2152fac277",

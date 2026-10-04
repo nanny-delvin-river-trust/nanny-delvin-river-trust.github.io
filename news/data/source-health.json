@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T15:23:52.305531+00:00",
-  "latest_generated_at": "2026-10-04T15:23:42.841513+00:00",
+  "generated_at": "2026-10-04T15:26:59.331017+00:00",
+  "latest_generated_at": "2026-10-04T15:26:47.181017+00:00",
   "total_items": 115,
   "total_sources": 33,
   "sources_active": 17,
@@ -34,7 +34,7 @@
       "http_status": 200,
       "current_item_count": 2,
       "discovered_hint_count": 12,
-      "elapsed_ms": 32,
+      "elapsed_ms": 85,
       "error": null
     },
     {
@@ -49,7 +49,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 51,
-      "elapsed_ms": 43,
+      "elapsed_ms": 95,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "http_status": 200,
       "current_item_count": 10,
       "discovered_hint_count": 13,
-      "elapsed_ms": 27,
+      "elapsed_ms": 84,
       "error": null
     },
     {
@@ -78,8 +78,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 12,
-      "discovered_hint_count": 57,
-      "elapsed_ms": 47,
+      "discovered_hint_count": 58,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 14,
-      "elapsed_ms": 29,
+      "elapsed_ms": 67,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 74,
-      "elapsed_ms": 60,
+      "elapsed_ms": 104,
       "error": null
     },
     {
@@ -124,7 +124,7 @@
       "http_status": 200,
       "current_item_count": 4,
       "discovered_hint_count": 74,
-      "elapsed_ms": 48,
+      "elapsed_ms": 102,
       "error": null
     },
     {
@@ -139,7 +139,7 @@
       "http_status": 200,
       "current_item_count": 9,
       "discovered_hint_count": 100,
-      "elapsed_ms": 59,
+      "elapsed_ms": 111,
       "error": null
     },
     {
@@ -154,7 +154,7 @@
       "http_status": 200,
       "current_item_count": 2,
       "discovered_hint_count": 69,
-      "elapsed_ms": 48,
+      "elapsed_ms": 97,
       "error": null
     },
     {
@@ -169,7 +169,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 66,
-      "elapsed_ms": 54,
+      "elapsed_ms": 99,
       "error": null
     },
     {
@@ -184,7 +184,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 48,
-      "elapsed_ms": 41,
+      "elapsed_ms": 84,
       "error": null
     },
     {
@@ -199,7 +199,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 76,
-      "elapsed_ms": 52,
+      "elapsed_ms": 98,
       "error": null
     },
     {
@@ -214,7 +214,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 93,
-      "elapsed_ms": 564,
+      "elapsed_ms": 824,
       "error": null
     },
     {
@@ -229,7 +229,7 @@
       "http_status": 307,
       "current_item_count": 0,
       "discovered_hint_count": 0,
-      "elapsed_ms": 134,
+      "elapsed_ms": 111,
       "error": null
     },
     {
@@ -243,8 +243,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 1,
-      "discovered_hint_count": 46,
-      "elapsed_ms": 47,
+      "discovered_hint_count": 47,
+      "elapsed_ms": 88,
       "error": null
     },
     {
@@ -259,7 +259,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 74,
-      "elapsed_ms": 50,
+      "elapsed_ms": 102,
       "error": null
     },
     {
@@ -274,7 +274,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 51,
-      "elapsed_ms": 42,
+      "elapsed_ms": 81,
       "error": null
     },
     {
@@ -289,7 +289,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 10,
-      "elapsed_ms": 26,
+      "elapsed_ms": 64,
       "error": null
     },
     {
@@ -304,7 +304,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 25,
-      "elapsed_ms": 31,
+      "elapsed_ms": 72,
       "error": null
     },
     {
@@ -319,7 +319,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 49,
-      "elapsed_ms": 40,
+      "elapsed_ms": 81,
       "error": null
     },
     {
@@ -334,7 +334,7 @@
       "http_status": 200,
       "current_item_count": 4,
       "discovered_hint_count": 49,
-      "elapsed_ms": 41,
+      "elapsed_ms": 82,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 48,
-      "elapsed_ms": 42,
+      "elapsed_ms": 93,
       "error": null
     },
     {
@@ -364,7 +364,7 @@
       "http_status": 200,
       "current_item_count": 5,
       "discovered_hint_count": 143,
-      "elapsed_ms": 916,
+      "elapsed_ms": 1151,
       "error": null
     },
     {
@@ -379,7 +379,7 @@
       "http_status": 200,
       "current_item_count": 4,
       "discovered_hint_count": 114,
-      "elapsed_ms": 816,
+      "elapsed_ms": 1150,
       "error": null
     },
     {
@@ -394,7 +394,7 @@
       "http_status": 200,
       "current_item_count": 6,
       "discovered_hint_count": 224,
-      "elapsed_ms": 260,
+      "elapsed_ms": 473,
       "error": null
     },
     {
@@ -409,7 +409,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 179,
-      "elapsed_ms": 817,
+      "elapsed_ms": 950,
       "error": null
     },
     {
@@ -424,7 +424,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 422,
-      "elapsed_ms": 772,
+      "elapsed_ms": 1000,
       "error": null
     },
     {
@@ -439,7 +439,7 @@
       "http_status": 200,
       "current_item_count": 3,
       "discovered_hint_count": 82,
-      "elapsed_ms": 610,
+      "elapsed_ms": 838,
       "error": null
     },
     {
@@ -454,7 +454,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 38,
-      "elapsed_ms": 1977,
+      "elapsed_ms": 1905,
       "error": null
     },
     {
@@ -469,7 +469,7 @@
       "http_status": 404,
       "current_item_count": 0,
       "discovered_hint_count": 0,
-      "elapsed_ms": 103,
+      "elapsed_ms": 66,
       "error": null
     },
     {
@@ -484,7 +484,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 105,
-      "elapsed_ms": 57,
+      "elapsed_ms": 73,
       "error": null
     },
     {
@@ -499,7 +499,7 @@
       "http_status": 200,
       "current_item_count": 11,
       "discovered_hint_count": 94,
-      "elapsed_ms": 620,
+      "elapsed_ms": 834,
       "error": null
     },
     {
@@ -514,7 +514,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 109,
-      "elapsed_ms": 791,
+      "elapsed_ms": 798,
       "error": null
     }
   ]
