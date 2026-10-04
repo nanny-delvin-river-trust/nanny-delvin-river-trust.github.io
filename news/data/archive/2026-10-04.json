@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:22:47.183846+00:00",
+  "generated_at": "2026-10-04T15:23:42.841513+00:00",
   "note": "Source-led daily radar for Nanny-Delvin: practical Irish catchment signals, waterbody evidence/alerts, grants/opportunities, and research ranked by Trust usefulness.",
   "sections": [
     {
@@ -28,8 +28,488 @@
       "description": "Scholarly evidence ranked for practical Nanny-Delvin usefulness: Ireland first, comparable temperate systems second, and transferable NbS / water-quality evidence where it helps action."
     }
   ],
-  "count": 95,
+  "count": 115,
   "items": [
+    {
+      "id": "b0251d564a177c36",
+      "title": "Julianstown Traffic Relief Scheme at heart of new residents’ group - Drogheda Life",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVZlVGFaTVRSTGZEemFob1E3ZkRCQ2NuaXU0M2ktdW5rR1lCWU1QWFBZYzJ1N3JCV2w4dTRRdVlidmFvaDVBVkNGVjNTSlk5QTNPanlzM3Z6dU5GMjdxSm9QSjlZTF9sWmxoanNKTEZiVEZZLWEweE9KZHRIWWJrVEc0Rm1oQQ?oc=5",
+      "summary": "Julianstown Traffic Relief Scheme at heart of new residents’ group Drogheda Life",
+      "published": "2026-09-29",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "grants-opportunities",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "5 days old",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "delvin",
+          "east meath",
+          "julianstown",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 35,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "6e195c2d7f590b8c",
+      "title": "New Julianstown Village Association calls for urgent progress on traffic relief scheme - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU2dMX3FtWDhDZWx2WmtoaXJkcFhuY3pyRnBobXJSX2NTeHAwdnF5RS1HQ1AtdzZiOVRsUnVLVzV1cERDbWpCLTNRbGsyUVQ4Y1hjSWZQSVlHYkpCNThJUTFkSTFfTm1CaktOcFFTc1AxUkQ0LTFlMHQzdTF4VkRiMHNhLXhKenRzUXdoNUlwdUdtdFhHM3pqNzVGeHowYU03X1RwYTdzM3N0NHRLMG85RWVGRUZqSk9GWGZLOHFKZ1RZdFMyVlR2WVFodDBTeE9oNXZhVDZjRW1xMlk?oc=5",
+      "summary": "New Julianstown Village Association calls for urgent progress on traffic relief scheme Irish Independent",
+      "published": "2026-09-29",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "grants-opportunities",
+      "theme": "grant",
+      "tags": [
+        "nanny-delvin-local",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "5 days old",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "delvin",
+          "east meath",
+          "julianstown",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 45,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "6223c49b56432c66",
+      "title": "Proposal for Julianstown bypass and public realm works enjoys widespread support - The Irish Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNTFINUFPY2gyRF9ZLXBlbzVZQ2xUa3NQNnhCNXB0cDRZTnlnY3dFTzIzcDlqLXRnZTJMQUxhUUlvT0x3UG55Y2ozMU9Oc0RPVGVJbXNIejFOdnphWWczcldGOWFOYU1zaGhyNDVMOGlJc29ZODhJZzZZUE92dkpkRFQzdGJqb0FpejdCN09xblpSbFl6TWlzZjlFMTFvTGdtS2VoNmRaVzJJMWhralo3SkRwNGZEbnlVV3FRZ2NNSjNDYngtZElqa05nQ243M05N?oc=5",
+      "summary": "Proposal for Julianstown bypass and public realm works enjoys widespread support The Irish Times",
+      "published": "2026-09-26",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "planning-infrastructure",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "8 days old",
+      "pressure_categories": [
+        "general catchment signal"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "delvin",
+          "east meath",
+          "julianstown",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
+    },
+    {
+      "id": "532cf8685669d419",
+      "title": "€9m Balbriggan road scheme gets green light with up to 1,200 jobs promised - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU0xWSVNaMDdyV0ZWRFB3NEgzQS1IQUptZXg4YzBZYllsRjBOUEpQdmRybmtUZ2piMHVGR29GYWMtQWZINTFZY014ZzhjSHJqV1ZrRFlpMTg5UnVWVkZuYTNId08waDZWZTJwbVlQQnFyODByN1FLLXdCeXNhMkh3amMzQXIxMjIxbDFVY2xabnRmRnUzSFU1SnRLR1dDQzlUcmNaQXNMN1ZFbWdCS0RSUnpyTmU4ZENScjM3ZnhDbXlELTVSYUUzbGFB?oc=5",
+      "summary": "€9m Balbriggan road scheme gets green light with up to 1,200 jobs promised Irish Independent",
+      "published": "2026-09-16",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "grants-opportunities",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "18 days old",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "balbriggan",
+          "delvin",
+          "east meath",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 45,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "490e83c525854e5c",
+      "title": "Councillors back no confidence motion in traffic relief options for East Meath village plagued by congestion - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSlBPbmF4RmRuTkptQXBZbVVnX09OUEJkNW1QXzBnYlFsdEpETWJZbUt1RnViVWVHcS0yZTRrYmFOYjNlMFMzX2ZFVllBN0txMzhCRHNJSWJ2MmtyOUJ4dkNlOFk3cWtMMThUZVZXUnIxc2pwT2ZUYXB4TU1xVU03eUl4WXRyTW9LaGZzRWxxTFlidjRQd2NMc1ZSS21wczlnb3ZYcm9iNklJbmZyaHliUHZtUGNjdm9KU0IwMGNNcmZNNEdTWTdROF8wdWZUZUJjeGRqR0dOenhvSzVfYnN3VVoyTklTTmRLdXBDU0dkWEx5dlVxc3hUcg?oc=5",
+      "summary": "Councillors back no confidence motion in traffic relief options for East Meath village plagued by congestion Irish Independent",
+      "published": "2026-09-14",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "planning-infrastructure",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "20 days old",
+      "pressure_categories": [
+        "general catchment signal"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "delvin",
+          "east meath",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
+    },
+    {
+      "id": "64ce489e9a7ee108",
+      "title": "Julianstown meeting calls for wider review before traffic relief route is chosen - Drogheda Life",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zZVJNWFRKMkhDQ1FHR2RONGxBbFdybUE5RWt3VGgxZnFiWVBqSW9ncWRKQzl2akplTkFBa3E1ZlY3bHdFc2laTHdlZ1BEQW9kNFR1bk9NS1l0ODB4VTNQM0NPdUwtRlA1eXRfN3VrSWZMeEhHUnR3RTFjZmM?oc=5",
+      "summary": "Julianstown meeting calls for wider review before traffic relief route is chosen Drogheda Life",
+      "published": "2026-09-07",
+      "source_id": "google-news-julianstown-traffic-relief",
+      "source_name": "Google News: Julianstown Traffic Relief Scheme",
+      "publisher": "Google News: Julianstown Traffic Relief Scheme",
+      "section": "planning-infrastructure",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "27 days old",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "delvin",
+          "julianstown",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 35,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      },
+      "research_use_type": "Review / evidence synthesis"
+    },
+    {
+      "id": "130744f3fa347ba3",
+      "title": "Julianstown traffic relief debate turns to M1 access alternatives - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGRpQWNOQkYycmtWblQ4ZzBUUGkwamNleXJhMU1QZTdBQUNkRU85aXBZVVRNM3VLMkZIdVB3N19OYVJ6ZFprQXpMZmlrcFVHd1FtTTdhTDJkc3FiRXpXLWFMYUVDYko5Q2xnZF9XU1pjbGUweWF5TVRfSXAzTi13Q01YVGkybFZhdjg0cVRuVV9EeUdNWkFrX29WN0I5SmMtTzUybXNSeTdOelVTbTdvdkhGM3dsWERScUVIc0xLMA?oc=5",
+      "summary": "Julianstown traffic relief debate turns to M1 access alternatives Irish Independent",
+      "published": "2026-09-01",
+      "source_id": "google-news-julianstown-traffic-relief",
+      "source_name": "Google News: Julianstown Traffic Relief Scheme",
+      "publisher": "Google News: Julianstown Traffic Relief Scheme",
+      "section": "planning-infrastructure",
+      "theme": "planning-infrastructure",
+      "tags": [
+        "nanny-delvin-local",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "33 days old",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "delvin",
+          "julianstown",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 45,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "fb7a546d9769361c",
+      "title": "Meath residents query how wide range of Julianstown traffic solutions came down to choice of four bypass routes - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVml4ZjZuZTlEOUZURjltdE9vaUh6aEpiLUg4cTlkTW1ncG1SeHdnMzdEdnZGMnRRN2RSZDFTbWlwSThLT01reTFMMkxRMFlHd2FIa1FKdGJ2R2lOaDljczE0QldFaG9SN0RKRHFHQ19kcEtqQkpIaFJkTTJPSWstWmlycHZCMTVqNU9MNTBvaHNzTHpUZnR4TmxZRTcxV1VfNmdVZ211S2cxZ21IWlRZdkFRYUo1ZWpUdUZIUFROWmVybjNsOU5DMVQxU0xsZnhDZ2JLb0xWVzctWTV4cFpRakVPdjJ3V3JOMXdOVWM3N1BJd1FqbDRIbDF5ckI?oc=5",
+      "summary": "Meath residents query how wide range of Julianstown traffic solutions came down to choice of four bypass routes Irish Independent",
+      "published": "2026-08-18",
+      "source_id": "google-news-julianstown-traffic-relief",
+      "source_name": "Google News: Julianstown Traffic Relief Scheme",
+      "publisher": "Google News: Julianstown Traffic Relief Scheme",
+      "section": "planning-infrastructure",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "47 days old",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "delvin",
+          "julianstown",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 45,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "940414233ae785a9",
+      "title": "'No to another bypass' ... Julianstown residents want all Traffic Relief Scheme options explored - Meath Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbmtFMHZrWDA3dUFNS2lha2JLeTN5X2VoeGtYM3c1MzRLYmE3b0pZbGVNWE9ZNGhiNVQ4T29VWnBhbkNzN3VtRkk0MzVONnJ6NWNsblA0a1haVVpoSmNvTmhqTW1RejZyeWZtR3dxUWR2TFM5V3k3Y2FnVDE1WGVqU29SbWNpblBXMXBqbTM5dUV5Y0tiQ0hxNFZvVkMzRWtIU1lrdl9wVXJ4NGZJbS1Od0ZUeE93LTRNTlBSeEV2bWNtUnNpWnhuUE4zQmg?oc=5",
+      "summary": "'No to another bypass' ... Julianstown residents want all Traffic Relief Scheme options explored Meath Chronicle",
+      "published": "2026-08-03",
+      "source_id": "google-news-julianstown-traffic-relief",
+      "source_name": "Google News: Julianstown Traffic Relief Scheme",
+      "publisher": "Google News: Julianstown Traffic Relief Scheme",
+      "section": "grants-opportunities",
+      "theme": "planning-infrastructure",
+      "tags": [
+        "nanny-delvin-local",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "62 days old",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "delvin",
+          "julianstown",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 35,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "659f7a7d803f4c6a",
+      "title": "Third Julianstown public meeting calls for traffic relief scheme to be paused - Drogheda Life",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMExoOGtJM0RlMkVSdHpIanhIOEx6ZHNxOXB3elMzeURvRUZIVV95NUl4X2hJR0xJaTZDYS15VU1vRXJFMk1UNFBnWndscDJrQUxEWDdQTWd6UVg2SFVhLVowS2tmeXdhX3B5ZzI1LVJvelMxb1BBTmRyeFBlcnNZS09xV0xQQU9IX1NFbkN2UkZwU3B2UnhsZ254bHN3MTVhWk14TEtn?oc=5",
+      "summary": "Third Julianstown public meeting calls for traffic relief scheme to be paused Drogheda Life",
+      "published": "2026-07-30",
+      "source_id": "google-news-julianstown-traffic-relief",
+      "source_name": "Google News: Julianstown Traffic Relief Scheme",
+      "publisher": "Google News: Julianstown Traffic Relief Scheme",
+      "section": "grants-opportunities",
+      "theme": "grant",
+      "tags": [
+        "nanny-delvin-local",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "66 days old",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "delvin",
+          "julianstown",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 35,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "7fd9e1e6fe6d8ae7",
+      "title": "‘Not another bypass’: Meath locals gather at packed public meeting on Julianstown traffic relief - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQS0F6WmpDZDJGcnBPZmdZYUlUcER5ZXk2RjhSU24zNVBfRldUT3hEVXdTNi1lZl96bWNSNXlITWxaZmxrV3RlblNON29mVXVYU3k4NXNmanBVMmVGQXhLRDFBUmFyTU0zTDFRWU9yZzRVOHc0azZIYlhaWHBlblZwcFlkNHYtaTFJWFd6VmctSWk5VEVGYXl3X19Ta0V1d1luS184bnpWRXJNbS1tdkE3a2FveHQyYk1MOHFZdmh3ME5fTkxmY3NZaVZJakxUVFd2ck9pMFNFOEVxWGsxWUtIRURyYy0?oc=5",
+      "summary": "‘Not another bypass’: Meath locals gather at packed public meeting on Julianstown traffic relief Irish Independent",
+      "published": "2026-07-28",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "planning-infrastructure",
+      "theme": "planning-infrastructure",
+      "tags": [
+        "nanny-delvin-local",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "68 days old",
+      "pressure_categories": [
+        "general catchment signal"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "delvin",
+          "east meath",
+          "julianstown",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
+    },
+    {
+      "id": "c61c76feb7abb9fa",
+      "title": "Packed Julianstown meeting calls for fair and transparent traffic relief process - Drogheda Life",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0NWZmhGX3k1NjgzRnVma2kwc29LTGMtdkpVa0p3aGxGQVRtbXdNSEc4ZXV4MndvT3lUU1RyUjdwcUZLWDNOS2dFak53MEI0NHZkZXZMei1BRlIweElCV2VKUHVPTkUtNGJyOVk0WDlwakRnSjJfMGh3emNaNkxQaV9oUVRxQ1g3V1lETDItWlNOVWRaQ1kyVDY2LUdTbDdHVkpicjBWMi1lQQ?oc=5",
+      "summary": "Packed Julianstown meeting calls for fair and transparent traffic relief process Drogheda Life",
+      "published": "2026-07-22",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "planning-infrastructure",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "74 days old",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "delvin",
+          "east meath",
+          "julianstown",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 35,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
     {
       "id": "7c9dbea881190d14",
       "title": "Making informed choices: implementing nature-based solutions for effective freshwater management in temperate catchments",
@@ -68,6 +548,87 @@
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
     },
     {
+      "id": "c4ededa33daaed89",
+      "title": "Stephen McKee calls for rethink on Julianstown bypass options - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJHWDF5dHh0MkRpRVRGX0NFZ0pvdUpIcXMydDFxZTFrUHZnZ1V0dWFlTzNNVGhSMEh4dHlEbUhJWXF4c3FjYUhtdnFMVk5XMjdHYTk5T1M1MWpmM0dSbExFdkpkQ3NZNkNmWlBtUUhjQTlpLTNXc0g0QTRIUWRJUzA4a204MGJWYkd2VmpCYk50TDhqUm1MY19ZeDRwZHJ0NGRrNUJPZlpTQjRTa0c3NXgtc0NabklrX3c?oc=5",
+      "summary": "Stephen McKee calls for rethink on Julianstown bypass options Irish Independent",
+      "published": "2026-07-21",
+      "source_id": "google-news-julianstown-traffic-relief",
+      "source_name": "Google News: Julianstown Traffic Relief Scheme",
+      "publisher": "Google News: Julianstown Traffic Relief Scheme",
+      "section": "planning-infrastructure",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "75 days old",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "delvin",
+          "julianstown",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 45,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "f67432ca111bcedd",
+      "title": "Community Campaign Calls for Julianstown Traffic Relief Process to be Paused Pending Full Transparency - Drogheda Life",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMk5IX0ZsSDgzaE0wQ181LWlJWlNiUjhIaTYtcmZURW1MaGVhcXBjN2tFNnIwZVVmS09NcFVVOF80NnUyR3dITXh2VDIxdm1icHdkWG1ZbGVndlhLWWJaa3VONENyNlVZb3gxQktSVlpweVFvQVRwN25xdFVIbnNZNE5ZUTZRa1NCUUZuNzQyZUhjLTQ0MDVLVFBwX3VjZlBENnlRSXd1UTFsSjN4VXVlSW5LNnZGZ25kMEdoUThmd2dVeDNmZUFz?oc=5",
+      "summary": "Community Campaign Calls for Julianstown Traffic Relief Process to be Paused Pending Full Transparency Drogheda Life",
+      "published": "2026-07-19",
+      "source_id": "google-news-julianstown-traffic-relief",
+      "source_name": "Google News: Julianstown Traffic Relief Scheme",
+      "publisher": "Google News: Julianstown Traffic Relief Scheme",
+      "section": "planning-infrastructure",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "77 days old",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "delvin",
+          "julianstown",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 53,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
       "id": "c15944002653fd1a",
       "title": "Louth TD Erin McGreehan urges expansion of septic tank repair grants - Irish Independent",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjI2U3E3Nnl4a3d2bUdhdVdOcXdEZjJoWEx2OUpna2xNdElaa2duTEgxZlBpSHBwNERWYXBPbUlBeGt6R2huT3A0SUNHNTVsd25KdVlyLUo2bDZQMHBFd1ZSU3h0UDl1WS1PRm9ieEwxZzNqNDFEb1RiRE8xU0xYWUVTS1RETTl4RnhZN3JpTWZWLVlZQUE2NnZWbXFZb1VDdVpfWGtWcDVLTWZiZlZWdDdWRFgyekEwTkNaRFZaTENLVTQ?oc=5",
@@ -104,6 +665,173 @@
       "opportunity_fit": {
         "fit": "Medium",
         "score": 63,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "9ce089912b98a5f1",
+      "title": "Four potential route options remain under consideration for the long-awaited Julianstown Traffic Relief Scheme - Meath Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRzhqcy1DUjN0RFRxdlVhRDlhR213R0NMSWdtT2RxRlZ0V1ZnU1l0NXhSSEdyaFhkUWVLYVo3Q0hod2pxR0JqeTBKXzFZcVhLWHVBUGpfZFVyVVBYRzVGMk94S3hic0dWMmgyM0g5S1E0M1ZCWmR3Qnp3QWJYSUxUb1J2SmxuZVFwX3U5V3k4OHZBeUp6QnVVbWwwU3pXaHE3ZVNMRVFMcFpsbHZUU1RxZzkwMnlGTWdnTThOTUVqRTNaZU0zb0xNdmpEekxJYmZwU0JsYXJGbVFmNE9YMUZtME12cHcyWTQ?oc=5",
+      "summary": "Four potential route options remain under consideration for the long-awaited Julianstown Traffic Relief Scheme Meath Chronicle",
+      "published": "2026-06-18",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "grants-opportunities",
+      "theme": "planning-infrastructure",
+      "tags": [
+        "nanny-delvin-local",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "108 days old · background",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "delvin",
+          "east meath",
+          "julianstown",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 35,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "4da5f9a59ef7ca10",
+      "title": "East Meath residents urged to participate in public consultation on the Julianstown Traffic Relief Scheme - Meath Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd1d5dzhPZXJRZW5VYXlmS2VjUGhiWXhBMkh3YkpsdUxCWXJxaU96MVBtXy1zQ2F5ek9IdlRRcVZoLXBYWEpEcnlMQjllYmJyekFRc3RxMU5YVWR4RXhzcmpCbXRkWEVDazMyREVURVNUWXIwNnJPaEpZRGR3Uk1rNUxHQkFBS2tJSTFLVVY3QlNjR1c2WFU1bEtfa0VUaW9ieHhsN3dSRUNibDN5cWNDU1NOOTVsZFFjM29XdGtER2RwSWI2VlE1cnl6U2JzTFZkUGlnczQ4NXdKUjNieEw3Tg?oc=5",
+      "summary": "East Meath residents urged to participate in public consultation on the Julianstown Traffic Relief Scheme Meath Chronicle",
+      "published": "2026-03-24",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "grants-opportunities",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "194 days old · background",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "delvin",
+          "east meath",
+          "julianstown",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 35,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "a790b05cf4e4395f",
+      "title": "Public urged to have say on Julianstown Traffic Relief Scheme before deadline - Drogheda Life",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGl3Z2YzUk1xUktSRDhSYnJrdFNUTVdkUlUtRzR1TTRFQ1pXQXlRNUxIbllVR3l1V1A5NGlCX0tIT21xSl8yRXhkdXA3NnREOVBHdzB6RGlTNGhKUWRMa0RvWVZadkhmOFFReUF3TEU1NnQwM0FhS3V4MjliaDNIaUdnU1NzeFNvTnFTb2JJV2ZkWF9yRUc3clFBS01oTUZLR0JiTDdB?oc=5",
+      "summary": "Public urged to have say on Julianstown Traffic Relief Scheme before deadline Drogheda Life",
+      "published": "2026-03-23",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "grants-opportunities",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "195 days old · background",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "delvin",
+          "east meath",
+          "julianstown",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 35,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "29913173ccaac150",
+      "title": "Have your say: Julianstown traffic relief scheme seeks input on local constraints - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaGZaa3FQcnkyRFVBSzJRejlXSDJ6SmJkNlpVV2xBSTdPM0cxalNiOUFocTFOSG1lNXp6RThnOEIwYjUyOWpCbVRFb3psNEQyb1hSMlJtQ1JQSk5Eak9WLVBEZGpjZEdORmtEQVhrNExiNUNaMmxnQmQ3Y216YVBRYWxXRXJmeHItaU11T3NxY05UZHVXTXBjZzJJSW9wUnRFakUwWC1FNlZWbElLb2NrR3BMUC1fLV84SlVFYUxsMi1jamZNTHZUUGxCb3habkd1cnBV?oc=5",
+      "summary": "Have your say: Julianstown traffic relief scheme seeks input on local constraints Irish Independent",
+      "published": "2026-02-18",
+      "source_id": "google-news-julianstown-traffic-relief",
+      "source_name": "Google News: Julianstown Traffic Relief Scheme",
+      "publisher": "Google News: Julianstown Traffic Relief Scheme",
+      "section": "grants-opportunities",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "228 days old · background",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "delvin",
+          "julianstown",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 45,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
       }
@@ -1234,7 +1962,8 @@
       "theme": "catchment",
       "tags": [
         "catchment",
-        "grant"
+        "grant",
+        "planning-infrastructure"
       ],
       "score": 100,
       "freshness_status": "reference",
@@ -1271,7 +2000,8 @@
       "theme": "catchment",
       "tags": [
         "catchment",
-        "grant"
+        "grant",
+        "planning-infrastructure"
       ],
       "score": 100,
       "freshness_status": "reference",
@@ -1370,6 +2100,47 @@
       "research_use_type": "Monitoring method"
     },
     {
+      "id": "ec191fbb891667ed",
+      "title": "Skip to main content",
+      "url": "https://www.fisheriesireland.ie/news",
+      "summary": "Skip to main content Social Media Facebook Instagram LinkedIn Twitter YouTube Secondary Navigation News Research Publications Careers Search this site Main navigation + - What we do Protection Conservation and development Angling support Education and Outreach Barrier Mitigation + - Who we are Our organisation How we can help Sustainability Contact us + - Our services Public services Business services Funding Fish species Menu Menu Off-canvas Main navigation + - What we do + - Protection + - Enforcement case studies Illegal Bass fishing Chlorine fish kill Dead Brown Trout Adapting poaching patrols Moy protection exercise + - Prosecutions Coarse fishing Angler patrol Nets at sea Gravel extraction Search warrant Gathering evidence Equipment and technology Eel trap and transport Managing fish counter + - Environmental Protection Environmental Function Roads and Bridges Agriculture Guide For",
+      "published": null,
+      "source_id": "inland-fisheries-ireland",
+      "source_name": "Inland Fisheries Ireland",
+      "publisher": "Inland Fisheries Ireland",
+      "section": "grants-opportunities",
+      "theme": "biodiversity",
+      "tags": [
+        "biodiversity",
+        "incident-alert",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "Date unknown",
+      "pressure_categories": [
+        "agricultural runoff",
+        "habitat / biodiversity",
+        "incident / alert",
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support agricultural runoff, habitat / biodiversity, incident / alert, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Medium",
+        "score": 71,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
       "id": "4f44253263213588",
       "title": "Biodiversity Net Gain",
       "url": "https://theriverstrust.org/about-us/news?c=101202",
@@ -1385,7 +2156,8 @@
         "water-quality",
         "citizen-science",
         "wetland-nbs",
-        "biodiversity"
+        "biodiversity",
+        "planning-infrastructure"
       ],
       "score": 100,
       "freshness_status": "reference",
@@ -1423,7 +2195,8 @@
         "water-quality",
         "citizen-science",
         "wetland-nbs",
-        "biodiversity"
+        "biodiversity",
+        "planning-infrastructure"
       ],
       "score": 100,
       "freshness_status": "reference",
@@ -1461,7 +2234,8 @@
         "water-quality",
         "citizen-science",
         "wetland-nbs",
-        "biodiversity"
+        "biodiversity",
+        "planning-infrastructure"
       ],
       "score": 100,
       "freshness_status": "reference",
@@ -1499,7 +2273,8 @@
         "water-quality",
         "citizen-science",
         "wetland-nbs",
-        "biodiversity"
+        "biodiversity",
+        "planning-infrastructure"
       ],
       "score": 100,
       "freshness_status": "reference",
@@ -1537,7 +2312,8 @@
         "water-quality",
         "citizen-science",
         "wetland-nbs",
-        "biodiversity"
+        "biodiversity",
+        "planning-infrastructure"
       ],
       "score": 100,
       "freshness_status": "reference",
@@ -1575,7 +2351,8 @@
         "water-quality",
         "citizen-science",
         "wetland-nbs",
-        "biodiversity"
+        "biodiversity",
+        "planning-infrastructure"
       ],
       "score": 100,
       "freshness_status": "reference",
@@ -1613,7 +2390,8 @@
         "water-quality",
         "citizen-science",
         "wetland-nbs",
-        "biodiversity"
+        "biodiversity",
+        "planning-infrastructure"
       ],
       "score": 100,
       "freshness_status": "reference",
@@ -1651,7 +2429,8 @@
         "water-quality",
         "citizen-science",
         "wetland-nbs",
-        "biodiversity"
+        "biodiversity",
+        "planning-infrastructure"
       ],
       "score": 100,
       "freshness_status": "reference",
@@ -1689,7 +2468,8 @@
         "water-quality",
         "citizen-science",
         "wetland-nbs",
-        "biodiversity"
+        "biodiversity",
+        "planning-infrastructure"
       ],
       "score": 100,
       "freshness_status": "reference",
@@ -1727,7 +2507,8 @@
         "water-quality",
         "citizen-science",
         "wetland-nbs",
-        "biodiversity"
+        "biodiversity",
+        "planning-infrastructure"
       ],
       "score": 100,
       "freshness_status": "reference",
@@ -1765,7 +2546,8 @@
         "water-quality",
         "citizen-science",
         "wetland-nbs",
-        "biodiversity"
+        "biodiversity",
+        "planning-infrastructure"
       ],
       "score": 100,
       "freshness_status": "reference",
@@ -1786,6 +2568,45 @@
       },
       "action_relevance": "Monitoring signal: useful for shaping Nanny Watch methods, volunteer training, repeat observations, or field evidence protocols.",
       "research_use_type": "Monitoring method"
+    },
+    {
+      "id": "1dd78f74f9e40971",
+      "title": "McKee questions whether Julianstown bypass options will ease local traffic - Drogheda Life",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUjZWLXlUWTJxcUlGWXktQzN5NXV5QWtGMldEcHdQV2VkTWxURDVNOUpseWlPM0JFMTVaeUNGY0lDa0RQb3V6RFZIVFRNeW41LUxHQndOcDVsTjgwNzc2OUVubXpnSUw5dW1wOTdBckViUGE0YTY5M2E2cFFxdVJMdlhMY2hZMUdLd2w5dFVWSEhrMWdwTmtLaw?oc=5",
+      "summary": "McKee questions whether Julianstown bypass options will ease local traffic Drogheda Life",
+      "published": "2026-07-22",
+      "source_id": "google-news-julianstown-traffic-relief",
+      "source_name": "Google News: Julianstown Traffic Relief Scheme",
+      "publisher": "Google News: Julianstown Traffic Relief Scheme",
+      "section": "planning-infrastructure",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "planning-infrastructure"
+      ],
+      "score": 98,
+      "freshness_status": "fresh",
+      "freshness_label": "74 days old",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "delvin",
+          "julianstown",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 35,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
     },
     {
       "id": "c20677d6d5b0f4eb",
@@ -1896,6 +2717,44 @@
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
     },
     {
+      "id": "7f8daa5ce415afd4",
+      "title": "Welcome to the River Basin Management Service River Basin Management Service is the new name for the Local Authority Waters Programme (LAWPRO). New name, same organisation with the same dedication to protecting and improving Ireland’s natur",
+      "url": "https://riverbasin.ie/river-basin-management-service-announced-as-new-name-for-local-authority-waters-programme/",
+      "summary": "Welcome to the River Basin Management Service River Basin Management Service is the new name for the Local Authority Waters Programme (LAWPRO). New name, same organisation with the same dedication to protecting and improving Ireland’s natural waters. Learn more!",
+      "published": null,
+      "source_id": "lawpro",
+      "source_name": "LAWPRO",
+      "publisher": "LAWPRO",
+      "section": "grants-opportunities",
+      "theme": "catchment",
+      "tags": [
+        "catchment",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 96,
+      "freshness_status": "reference",
+      "freshness_label": "Date unknown",
+      "pressure_categories": [
+        "funding / grant",
+        "policy / governance"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Medium",
+        "score": 63,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
       "id": "3d8e0f86484add7f",
       "title": "Ecosystem Service Modelling to Support Nature-Based Flood Water Management in the Vietnamese Mekong River Delta",
       "url": "https://doi.org/10.3390/su132413549",
@@ -1966,6 +2825,88 @@
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, sediment / hydromorphology, citizen science / monitoring."
     },
     {
+      "id": "7214de15481363da",
+      "title": "Skip to main content",
+      "url": "https://www.epa.ie/our-services/monitoring--assessment/freshwater--marine/",
+      "summary": "Skip to main content Open mobile menu Close mobile menu Environment & You Skip to Our Services tab Air Climate change Circular Economy Drinking water Freshwater and Marine Noise Radiation Radon Wastewater Environment & You Explore your relationship with the environment and action you can take. Our Services Skip to Publications tab Licensing & Permitting Air Climate Change Freshwater & Marine Genetically Modified Organisms Industrial Emissions Licensing (IED) Integrated Pollution Control (IPC) Licensing Radiation Waste water Waste Search for a Licence/Permit Compliance & Enforcement Make an Environmental Complaint LEAP Online – public access to compliance and enforcement records Drinking water Freshwater & Marine Waste Waste water Industrial and waste compliance Local Authority Environmental Performance Prosecutions and Penalties Monitoring & Assessment Air Assessment Bathing Water Circul",
+      "published": null,
+      "source_id": "epa-water",
+      "source_name": "EPA Ireland Water",
+      "publisher": "EPA Ireland Water",
+      "section": "waterbody-evidence-alerts",
+      "theme": "water-quality",
+      "tags": [
+        "water-quality",
+        "citizen-science",
+        "incident-alert",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 95,
+      "freshness_status": "reference",
+      "freshness_label": "Date unknown",
+      "pressure_categories": [
+        "incident / alert",
+        "citizen science / monitoring",
+        "funding / grant",
+        "policy / governance"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support incident / alert, citizen science / monitoring, funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "High",
+        "score": 75,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      },
+      "research_use_type": "Monitoring method"
+    },
+    {
+      "id": "ca5cfbaafc3124be",
+      "title": "Stephen McKee calls for fresh consultation on Julianstown traffic plans - Drogheda Life",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNC1RUDFzSDhob2JNRF80MmxlYmVETkZxaVRJNVh2dXdEblNMRWdqYUZLT1VyNDRnaFk3MTFrRFVpYjkycThaYUl5RE1aZ1RRaWZvNkNTYzJQcGRoaHpuTjkwbUFyRTlTV0lHTDZUODNmRlcyXzRPMzkweUN5SGpMYnlnZ1R1QTBIcENUVXh0U1NCRjdvUHRGU0R1X2pFdw?oc=5",
+      "summary": "Stephen McKee calls for fresh consultation on Julianstown traffic plans Drogheda Life",
+      "published": "2026-08-04",
+      "source_id": "google-news-julianstown-traffic-relief",
+      "source_name": "Google News: Julianstown Traffic Relief Scheme",
+      "publisher": "Google News: Julianstown Traffic Relief Scheme",
+      "section": "planning-infrastructure",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "grant"
+      ],
+      "score": 94,
+      "freshness_status": "fresh",
+      "freshness_label": "61 days old",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "delvin",
+          "julianstown",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 35,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
       "id": "02c5cf74ff2eaa7b",
       "title": "Funding announced for the rural water sector, improving drinking water quality - Meath Chronicle",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzFqbkl3QjV3LWRpVGdhdUgtdm9OeXk5VFNYNnN1djIzNGFMT1NId21DNUZIQmZQRmt4OUhJUFBack40MXEzWEFJdVN1ZHNTQl95QU5UOFJRM3oyQnZmZDhhcFNZRGxiMjJJQThyQW0yNGd2ZHN3Z29KQkI4aGoweHVWZW94ZWFIaFN5ZDRSV2szeUZRd3Z0d1M3a3RRTEJXMFhfa2dRdzZrczlDRVptTFNaZXpySVN0eDJR?oc=5",
@@ -1999,6 +2940,49 @@
       "opportunity_fit": {
         "fit": "Low",
         "score": 53,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "8ca1831d502d0bca",
+      "title": "Major traffic relief scheme for Julianstown in Meath moves forward - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRTRXY29hNGZRa2xFbERsbWRCY2o1SmNMQi1BRFhRalZtWVJwY3A0ampCRkVfODBlSEhuOUVVb3k5YVZVcndoTVBuSXdfc2M0STBxUENWcjIwMTV0anBKMmVaTktGRzkxSFNIRmk3S2RJRjN2XzFFTjA5OHVwY2RDSzY0ZnczdjZrV1pCd2FVc3BqSDRENktseE5STGhZaHdLdll2ZHo5YjBMSU1TdXpSbG5lN2JsTERjaV9aa3N0OVQ?oc=5",
+      "summary": "Major traffic relief scheme for Julianstown in Meath moves forward Irish Independent",
+      "published": "2025-12-11",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "grants-opportunities",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 93,
+      "freshness_status": "reference",
+      "freshness_label": "297 days old · background",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "delvin",
+          "east meath",
+          "julianstown",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 45,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
       }
@@ -2071,6 +3055,49 @@
       ],
       "research_use_type": "Supporting evidence",
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, habitat / biodiversity."
+    },
+    {
+      "id": "bbaef8519f815e4a",
+      "title": "Calls for safer pedestrian access under Laytown railway bridge after ‘near miss’ - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdXhOZ0pLUW5BSVZXZTF2UDNKMGtGVU9HbEpuaXNRUW1rWU56blZDMnZRWm0yRVdCRkNpMTBibnU5eUpnNW56VlNKaXNHVG93WUdKX3ltcjY5M0h0a0h4VlJfb2tlaGNRN3puSTI0bXFROWFqMndvRndkYXBkdnpSZEJEMmctN1lMb1gxN3puUFRueGtUV3FndDJ4emttSTFpRUpYM1V6V2FMb3JfdmZiSlBGVEhMZkduVm1LS2ZmbHlER0tMeXVvWDY3ZU9uTnpBR3I3RE1RWFZueGRMOHkwSlJtSQ?oc=5",
+      "summary": "Calls for safer pedestrian access under Laytown railway bridge after ‘near miss’ Irish Independent",
+      "published": "2026-05-13",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "planning-infrastructure",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 92,
+      "freshness_status": "reference",
+      "freshness_label": "144 days old · background",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "delvin",
+          "east meath",
+          "laytown",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 45,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
     },
     {
       "id": "41f984755e4ecb54",
@@ -2494,6 +3521,103 @@
       }
     },
     {
+      "id": "1810c13938f69abc",
+      "title": "River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland’s Waterways - Irish Wildlife Trust",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LN1VWaW1FNVhEbnRqaUdSMDBhMGZQT0pWMXl0YWZOQ3hCMjNEclFadjF5eHctSG1aeHV1M05IV3o5eE9rUWVXUW1hMnIxQQ?oc=5",
+      "summary": "River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland’s Waterways Irish Wildlife Trust",
+      "published": "2026-06-05",
+      "source_id": "google-news-ireland-river-water-quality",
+      "source_name": "Google News: Ireland river water quality",
+      "publisher": "Google News: Ireland river water quality",
+      "section": "ireland-catchment-practice",
+      "theme": "incident-alert",
+      "tags": [
+        "incident-alert"
+      ],
+      "score": 87,
+      "freshness_status": "reference",
+      "freshness_label": "121 days old · background",
+      "pressure_categories": [
+        "incident / alert"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
+    },
+    {
+      "id": "2513eeeb2ba21aee",
+      "title": "Press Release: River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland's Waterways - Irish Wildlife Trust",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kbDRuZFVCakxtc2s3X2N2R0ZleTF0R1draV91QXROY3ZjWUhtZUY1bjRDYmVJRzdhdi1qOEtHU1JndlNqd2FmZzRsQjh5QWFoWmEyZmo5TTFndkVnNU9lNw?oc=5",
+      "summary": "Press Release: River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland's Waterways Irish Wildlife Trust",
+      "published": "2026-06-05",
+      "source_id": "google-news-ireland-river-water-quality",
+      "source_name": "Google News: Ireland river water quality",
+      "publisher": "Google News: Ireland river water quality",
+      "section": "ireland-catchment-practice",
+      "theme": "incident-alert",
+      "tags": [
+        "incident-alert"
+      ],
+      "score": 87,
+      "freshness_status": "reference",
+      "freshness_label": "121 days old · background",
+      "pressure_categories": [
+        "incident / alert"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
+    },
+    {
+      "id": "01007cc0fd14cb7f",
+      "title": "Minister Muir announces £380,000 in funding to improve water quality - Department of Agriculture, Environment and Rural Affairs",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1I2allLUjA0SVJ3M1pGYkhHVmdDYTRMR2RVY243QzNVbGtYY3Z5Nk9QVGxZeDdNdnRjNGY0cHBoRGdJNmpHM1hKdldEc2t5ZzBfRGlXZTVsUWRPM2YxNjNOWW1EMFNueHNMNGt5RUtkU1Q1TER5bm0xQTFGbVIxbmNUQkUxaUpDMlpydWdpUTBCSHFjYjVvTXl5OA?oc=5",
+      "summary": "Minister Muir announces £380,000 in funding to improve water quality Department of Agriculture, Environment and Rural Affairs",
+      "published": "2026-05-21",
+      "source_id": "google-news-ireland-river-water-quality",
+      "source_name": "Google News: Ireland river water quality",
+      "publisher": "Google News: Ireland river water quality",
+      "section": "grants-opportunities",
+      "theme": "water-quality",
+      "tags": [
+        "water-quality",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 87,
+      "freshness_status": "reference",
+      "freshness_label": "136 days old · background",
+      "pressure_categories": [
+        "agricultural runoff",
+        "funding / grant",
+        "policy / governance"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support agricultural runoff, funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Medium",
+        "score": 63,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
       "id": "09e109d73c5e2985",
       "title": "Naul man angry over Delvin River pollution incidents - Irish Independent",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWRRRmtVMWJkQTJNNHRSdUpFcExILVVYeUtENWdhbDRSVU9VRnotZFBEektIVWN2TnJDbW9JYUg3WUV3S1FFLTkzbDZfNUJxQmZJX25zN2MwZzVhMGZ3dUhyRERMZVVjcjdMTDJLampSQ3BYWFlzeEFoV3U0MUpROWEzQ0V6ZmkxSkFnb1IxZ3ZKWXc1TmptZjdFX3ZHNWFGNHBqSzc1dS1lYTcyS1Fj?oc=5",
@@ -2599,43 +3723,6 @@
       }
     },
     {
-      "id": "7f8daa5ce415afd4",
-      "title": "Welcome to the River Basin Management Service River Basin Management Service is the new name for the Local Authority Waters Programme (LAWPRO). New name, same organisation with the same dedication to protecting and improving Ireland’s natur",
-      "url": "https://riverbasin.ie/river-basin-management-service-announced-as-new-name-for-local-authority-waters-programme/",
-      "summary": "Welcome to the River Basin Management Service River Basin Management Service is the new name for the Local Authority Waters Programme (LAWPRO). New name, same organisation with the same dedication to protecting and improving Ireland’s natural waters. Learn more!",
-      "published": null,
-      "source_id": "lawpro",
-      "source_name": "LAWPRO",
-      "publisher": "LAWPRO",
-      "section": "grants-opportunities",
-      "theme": "catchment",
-      "tags": [
-        "catchment",
-        "grant"
-      ],
-      "score": 86,
-      "freshness_status": "reference",
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "funding / grant",
-        "policy / governance"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
-      "opportunity_fit": {
-        "fit": "Medium",
-        "score": 63,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      }
-    },
-    {
       "id": "f361d44398b65818",
       "title": "Ireland's septic tank problem - University College Dublin",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaTRsWG5VemdvWWo2VVFHWlRwOTNsdlZqQUpWVWpjdFEwSmkzYmJDR29EbV9TODNucEt5Vm9mVW1BTVlOSWdSZk5qSWRTUzFQMWFac3dVYkpqNnI0VXZhRm9CUWJDV0tGdzVoc281MGdBekhfcmE1dWZaTVpIYnQtNmRaRlJkUQ?oc=5",
@@ -2665,48 +3752,10 @@
       "action_relevance": "Potential catchment-pressure signal: septic or domestic wastewater issues can affect groundwater, small streams, bathing waters, and local engagement priorities."
     },
     {
-      "id": "fafd7c3c87c66b20",
-      "title": "Meath projects to benefit from €73,000 water quality funding - Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPblVYRUdOTmFCSW9RNzZtMG8xV1E4Q1hsWXlwMVU5MUZaUzZ3Zl92S1VkWnd0UTNId0tMZllHbF8wbUt6dEdfN3k1N1pES2NtMGd1N25VcDd1eTBBeU9DeTRNSmh1LWhnNlFodmNhdkExdFRtVWtaUDQ1VUdiUnY0eE54VS1icWQ1OTIzOURNemp0SWxzeGM2b21yOGtEMFJFUXBYZXRqTjdfMTFzUm9VMWJORnNwUQ?oc=5",
-      "summary": "Meath projects to benefit from €73,000 water quality funding Irish Independent",
-      "published": "2026-04-27",
-      "source_id": "google-news-east-meath-water",
-      "source_name": "Google News: East Meath water and ecology",
-      "publisher": "Google News: East Meath water and ecology",
-      "section": "grants-opportunities",
-      "theme": "water-quality",
-      "tags": [
-        "water-quality",
-        "grant"
-      ],
-      "score": 85,
-      "freshness_status": "reference",
-      "freshness_label": "160 days old · background",
-      "pressure_categories": [
-        "funding / grant"
-      ],
-      "local_relevance": {
-        "score": 62,
-        "label": "High local relevance",
-        "matched_terms": [
-          "Ireland",
-          "east meath",
-          "meath"
-        ]
-      },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
-      "opportunity_fit": {
-        "fit": "Medium",
-        "score": 63,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      }
-    },
-    {
-      "id": "7214de15481363da",
-      "title": "Skip to main content",
-      "url": "https://www.epa.ie/our-services/monitoring--assessment/freshwater--marine/",
-      "summary": "Skip to main content Open mobile menu Close mobile menu Environment & You Skip to Our Services tab Air Climate change Circular Economy Drinking water Freshwater and Marine Noise Radiation Radon Wastewater Environment & You Explore your relationship with the environment and action you can take. Our Services Skip to Publications tab Licensing & Permitting Air Climate Change Freshwater & Marine Genetically Modified Organisms Industrial Emissions Licensing (IED) Integrated Pollution Control (IPC) Licensing Radiation Waste water Waste Search for a Licence/Permit Compliance & Enforcement Make an Environmental Complaint LEAP Online – public access to compliance and enforcement records Drinking water Freshwater & Marine Waste Waste water Industrial and waste compliance Local Authority Environmental Performance Prosecutions and Penalties Monitoring & Assessment Air Assessment Bathing Water Circul",
+      "id": "ee2422d7ab141f0d",
+      "title": "Licensing & Permitting",
+      "url": "https://www.epa.ie/our-services/licensing/",
+      "summary": "Licensing & Permitting Air Climate Change Freshwater & Marine Genetically Modified Organisms Industrial Emissions Licensing (IED) Integrated Pollution Control (IPC) Licensing Radiation Waste water Waste Search for a Licence/Permit",
       "published": null,
       "source_id": "epa-water",
       "source_name": "EPA Ireland Water",
@@ -2715,16 +3764,13 @@
       "theme": "water-quality",
       "tags": [
         "water-quality",
-        "citizen-science",
-        "incident-alert",
-        "grant"
+        "grant",
+        "planning-infrastructure"
       ],
       "score": 85,
       "freshness_status": "reference",
       "freshness_label": "Date unknown",
       "pressure_categories": [
-        "incident / alert",
-        "citizen science / monitoring",
         "funding / grant",
         "policy / governance"
       ],
@@ -2735,14 +3781,51 @@
           "Ireland"
         ]
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support incident / alert, citizen science / monitoring, funding / grant, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
-        "fit": "High",
-        "score": 75,
+        "fit": "Medium",
+        "score": 63,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "520ef05ca293032d",
+      "title": "Licensing & Permitting",
+      "url": "https://www.epa.ie/publications/licensing--permitting/",
+      "summary": "Licensing & Permitting Air Climate Change Freshwater & Marine Genetically Modified Organisms Industrial Emissions Directive Integrated Pollution Control Waste Waste water",
+      "published": null,
+      "source_id": "epa-water",
+      "source_name": "EPA Ireland Water",
+      "publisher": "EPA Ireland Water",
+      "section": "waterbody-evidence-alerts",
+      "theme": "water-quality",
+      "tags": [
+        "water-quality",
+        "grant",
+        "planning-infrastructure"
+      ],
+      "score": 85,
+      "freshness_status": "reference",
+      "freshness_label": "Date unknown",
+      "pressure_categories": [
+        "funding / grant",
+        "policy / governance"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
       },
-      "research_use_type": "Monitoring method"
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Medium",
+        "score": 63,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
     },
     {
       "id": "87f6c0ecfdf91928",
@@ -2807,41 +3890,35 @@
       "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
     },
     {
-      "id": "ec191fbb891667ed",
-      "title": "Skip to main content",
-      "url": "https://www.fisheriesireland.ie/news",
-      "summary": "Skip to main content Social Media Facebook Instagram LinkedIn Twitter YouTube Secondary Navigation News Research Publications Careers Search this site Main navigation + - What we do Protection Conservation and development Angling support Education and Outreach Barrier Mitigation + - Who we are Our organisation How we can help Sustainability Contact us + - Our services Public services Business services Funding Fish species Menu Menu Off-canvas Main navigation + - What we do + - Protection + - Enforcement case studies Illegal Bass fishing Chlorine fish kill Dead Brown Trout Adapting poaching patrols Moy protection exercise + - Prosecutions Coarse fishing Angler patrol Nets at sea Gravel extraction Search warrant Gathering evidence Equipment and technology Eel trap and transport Managing fish counter + - Environmental Protection Environmental Function Roads and Bridges Agriculture Guide For",
+      "id": "d676088be1038aa9",
+      "title": "Community Heritage Grant Scheme An annual grant scheme for community groups and not-for-profit non-governmental organisations to protect, share, and celebrate the heritage that matters to your community. The 2027 scheme is now open.",
+      "url": "https://www.heritagecouncil.ie/funding/community-heritage-grant-scheme-2",
+      "summary": "Community Heritage Grant Scheme An annual grant scheme for community groups and not-for-profit non-governmental organisations to protect, share, and celebrate the heritage that matters to your community. The 2027 scheme is now open.",
       "published": null,
-      "source_id": "inland-fisheries-ireland",
-      "source_name": "Inland Fisheries Ireland",
-      "publisher": "Inland Fisheries Ireland",
+      "source_id": "heritage-council-funding",
+      "source_name": "Heritage Council Funding",
+      "publisher": "Heritage Council Funding",
       "section": "grants-opportunities",
-      "theme": "biodiversity",
+      "theme": "grant",
       "tags": [
-        "biodiversity",
-        "incident-alert",
-        "grant"
+        "grant",
+        "planning-infrastructure"
       ],
-      "score": 84,
+      "score": 85,
       "freshness_status": "reference",
       "freshness_label": "Date unknown",
       "pressure_categories": [
-        "agricultural runoff",
-        "habitat / biodiversity",
-        "incident / alert",
         "funding / grant"
       ],
       "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
+        "score": 0,
+        "label": "Transferable relevance",
+        "matched_terms": []
       },
-      "action_relevance": "Funding signal for the Trust: check whether this can support agricultural runoff, habitat / biodiversity, incident / alert, citizen science, engagement, or small catchment actions.",
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Medium",
-        "score": 71,
+        "score": 67,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
       }
@@ -2895,6 +3972,36 @@
       "score": 83,
       "freshness_status": "reference",
       "freshness_label": "Date unknown",
+      "pressure_categories": [
+        "general catchment signal"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "General practical signal: may help the Trust track general catchment signal, policy, funding, monitoring, or community action."
+    },
+    {
+      "id": "33a327b9f6297285",
+      "title": "Major river pollution fines of €10,000 ‘nowhere near enough’, says minister - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdThxM3VPLVhNX1N5OU5UMXBuZXczT1ZzNTZjWlUtYy1QOVFXT3ROWDFCcmRESjRMbmZSc3JrNnRXdHV3MER5UmQ4Um9qaWlhS3M0cnhxMGxjeU5YdElobENtLWtYNGhVeWJ2X1lXY0F6dDRUSXgxbXBhN3RPelBBX1o4ZFhvRkFFeXRYaDhhQlFfRE02eVBXamRJdTcwT2EtaENqaVRyc1lkdXJlaTZOTHI5RDJ3OTlFSnByTmJIVQ?oc=5",
+      "summary": "Major river pollution fines of €10,000 ‘nowhere near enough’, says minister Irish Independent",
+      "published": "2026-06-29",
+      "source_id": "google-news-ireland-river-water-quality",
+      "source_name": "Google News: Ireland river water quality",
+      "publisher": "Google News: Ireland river water quality",
+      "section": "ireland-catchment-practice",
+      "theme": "water-quality",
+      "tags": [
+        "water-quality",
+        "planning-infrastructure"
+      ],
+      "score": 82,
+      "freshness_status": "reference",
+      "freshness_label": "97 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3098,260 +4205,6 @@
         ]
       },
       "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
-      "opportunity_fit": {
-        "fit": "Medium",
-        "score": 63,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      }
-    },
-    {
-      "id": "4ba0462bf57e1ce6",
-      "title": "Farmer convicted for water pollution offence that led to fish kill - Agriland UK",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdnJSd3FGQjRqUFIxc25jSnl4cHYyY29xM3BScmdWbGQ2UFdsdXNaaVBsUUFWMWVsX0Ixc0M1N1hqLUJpYjV1RlQwdldjUXBiM3BXSFVxRm1JeTFBVEh1NTQ0NEpVUkZYN296U1RkbU1qTUNOMmdpSDh1dWJ3QmM3VEQyQ1NzaFdaSW9rWU03VlRiVWttOGVtWkxpQjVaRUZrdUh3cUt0NDlxOEk?oc=5",
-      "summary": "Farmer convicted for water pollution offence that led to fish kill Agriland UK",
-      "published": "2026-09-25",
-      "source_id": "google-news-ireland-river-water-quality",
-      "source_name": "Google News: Ireland river water quality",
-      "publisher": "Google News: Ireland river water quality",
-      "section": "ireland-catchment-practice",
-      "theme": "water-quality",
-      "tags": [
-        "water-quality",
-        "incident-alert"
-      ],
-      "score": 78,
-      "freshness_status": "fresh",
-      "freshness_label": "9 days old",
-      "pressure_categories": [
-        "agricultural runoff",
-        "incident / alert"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
-    },
-    {
-      "id": "f686ac1bae000339",
-      "title": "Newburn Riverside saltmarsh restoration begins - bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zdld1eW9JV2pabm1uQmhOZkxDQkdpemRzT0xHdUhxZmtMYXd2NFhSMk1RMGt2ZWdKYkVBXzRCZ1Y4djUxeHYzWnJLaVN4Sk5kQ2hucy1udDEwZw?oc=5",
-      "summary": "Newburn Riverside saltmarsh restoration begins bbc.com",
-      "published": "2026-07-06",
-      "source_id": "google-news-nbs-water-ireland",
-      "source_name": "Google News: Ireland water NbS",
-      "publisher": "Google News: Ireland water NbS",
-      "section": "ireland-catchment-practice",
-      "theme": "river-restoration",
-      "tags": [
-        "river-restoration",
-        "estuary-lagoon"
-      ],
-      "score": 78,
-      "freshness_status": "fresh",
-      "freshness_label": "90 days old",
-      "pressure_categories": [
-        "habitat / biodiversity"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "General practical signal: may help the Trust track habitat / biodiversity, policy, funding, monitoring, or community action."
-    },
-    {
-      "id": "b13145b10c9a9305",
-      "title": "Macra calls for more funding in TAMS for water quality measures - Agriland",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXNHZGthMUxFS2hQRmdSV1hkMTk2bFg4cVNvOHp0Vzh0LThtVkxPekhvRFVoRG9IaUJSY284dVI0aXU4V1VGTzY1N0VmSjRlRUNBdHBOa1EtY2Z0eTBqNHEtOHdiM0JWelpXbkQ2eWNFRUlSZWs0dlh4bzVXdmJVUDJjTVNJS2VjS2VkQTBOdjQ3X2Rpa19sVWk4NDJWbWVyN3R3?oc=5",
-      "summary": "Macra calls for more funding in TAMS for water quality measures Agriland",
-      "published": "2026-06-24",
-      "source_id": "google-news-community-water-grants",
-      "source_name": "Google News: water and biodiversity grants Ireland",
-      "publisher": "Google News: water and biodiversity grants Ireland",
-      "section": "grants-opportunities",
-      "theme": "grant",
-      "tags": [
-        "water-quality",
-        "grant"
-      ],
-      "score": 77,
-      "freshness_status": "reference",
-      "freshness_label": "102 days old · background",
-      "pressure_categories": [
-        "habitat / biodiversity",
-        "funding / grant"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Funding signal for the Trust: check whether this can support habitat / biodiversity, funding / grant, citizen science, engagement, or small catchment actions.",
-      "opportunity_fit": {
-        "fit": "High",
-        "score": 77,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      }
-    },
-    {
-      "id": "0f6cfead59686ff7",
-      "title": "Wetland Restoration Will Provide Greatest Benefit To Ireland's Threatened Birds - afloat.ie",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNS0xNDJIYkVFN1NaVzJOTGhjb25SVUhjRHZFTjhJeE1tcHZqZlhpZXNKbzNMMnV3Uk1KajFhN0NyMUZEZ3dDQUJwSElqSGdUcmZGeGZXakw5RlhIeWhheVg1YzRKaUMwQWNpZkZRdHF2WlJNRnpNdjV5b0VrZFhfMy1TQ21SXzc2NzdCUXNrelJmV09WVFpxOW9RTjBldktBcFB1SUNyWlc4TlVkVnBRbjNqNUM1VEtONkRKRlpvNk5ya2F0NWJ1Z0o2TDVodld1aXFzY1BPanAtcWc?oc=5",
-      "summary": "Wetland Restoration Will Provide Greatest Benefit To Ireland's Threatened Birds afloat.ie",
-      "published": "2026-06-19",
-      "source_id": "google-news-estuary-lagoon-ireland",
-      "source_name": "Google News: Ireland estuaries and lagoons",
-      "publisher": "Google News: Ireland estuaries and lagoons",
-      "section": "waterbody-evidence-alerts",
-      "theme": "river-restoration",
-      "tags": [
-        "river-restoration",
-        "wetland-nbs"
-      ],
-      "score": 77,
-      "freshness_status": "reference",
-      "freshness_label": "107 days old · background",
-      "pressure_categories": [
-        "habitat / biodiversity",
-        "NbS / restoration"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures."
-    },
-    {
-      "id": "b064758e805572df",
-      "title": "Pollution from farms and wastewater keep Ireland's water quality so poor, watchdog says - The Journal",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX2NLRFc4cGIxTjJQWWM4MlRMN3d0TGRhM3dIaVFPSlBhM3hGX1lsTzN4WVJmM1gycWFUby1leF9sQWR2bU9aZWl5SmxBQU1KbmZ5WUkxazhlMUdtNHlFVTVaRWNld3NDUmFWTUlIRG1GX1kzeXdYcTkwdUdYdXpfUVJ4OTZ6ZE0?oc=5",
-      "summary": "Pollution from farms and wastewater keep Ireland's water quality so poor, watchdog says The Journal",
-      "published": "2026-06-17",
-      "source_id": "google-news-ireland-river-water-quality",
-      "source_name": "Google News: Ireland river water quality",
-      "publisher": "Google News: Ireland river water quality",
-      "section": "ireland-catchment-practice",
-      "theme": "water-quality",
-      "tags": [
-        "water-quality"
-      ],
-      "score": 77,
-      "freshness_status": "reference",
-      "freshness_label": "109 days old · background",
-      "pressure_categories": [
-        "general catchment signal"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "General practical signal: may help the Trust track general catchment signal, policy, funding, monitoring, or community action."
-    },
-    {
-      "id": "1810c13938f69abc",
-      "title": "River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland’s Waterways - iwt.ie",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LN1VWaW1FNVhEbnRqaUdSMDBhMGZQT0pWMXl0YWZOQ3hCMjNEclFadjF5eHctSG1aeHV1M05IV3o5eE9rUWVXUW1hMnIxQQ?oc=5",
-      "summary": "River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland’s Waterways iwt.ie",
-      "published": "2026-06-05",
-      "source_id": "google-news-ireland-river-water-quality",
-      "source_name": "Google News: Ireland river water quality",
-      "publisher": "Google News: Ireland river water quality",
-      "section": "ireland-catchment-practice",
-      "theme": "incident-alert",
-      "tags": [
-        "incident-alert"
-      ],
-      "score": 77,
-      "freshness_status": "reference",
-      "freshness_label": "121 days old · background",
-      "pressure_categories": [
-        "incident / alert"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
-    },
-    {
-      "id": "2513eeeb2ba21aee",
-      "title": "Press Release: River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland's Waterways - iwt.ie",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kbDRuZFVCakxtc2s3X2N2R0ZleTF0R1draV91QXROY3ZjWUhtZUY1bjRDYmVJRzdhdi1qOEtHU1JndlNqd2FmZzRsQjh5QWFoWmEyZmo5TTFndkVnNU9lNw?oc=5",
-      "summary": "Press Release: River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland's Waterways iwt.ie",
-      "published": "2026-06-05",
-      "source_id": "google-news-ireland-river-water-quality",
-      "source_name": "Google News: Ireland river water quality",
-      "publisher": "Google News: Ireland river water quality",
-      "section": "ireland-catchment-practice",
-      "theme": "incident-alert",
-      "tags": [
-        "incident-alert"
-      ],
-      "score": 77,
-      "freshness_status": "reference",
-      "freshness_label": "121 days old · background",
-      "pressure_categories": [
-        "incident / alert"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
-    },
-    {
-      "id": "01007cc0fd14cb7f",
-      "title": "Minister Muir announces £380,000 in funding to improve water quality - Department of Agriculture, Environment and Rural Affairs",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1I2allLUjA0SVJ3M1pGYkhHVmdDYTRMR2RVY243QzNVbGtYY3Z5Nk9QVGxZeDdNdnRjNGY0cHBoRGdJNmpHM1hKdldEc2t5ZzBfRGlXZTVsUWRPM2YxNjNOWW1EMFNueHNMNGt5RUtkU1Q1TER5bm0xQTFGbVIxbmNUQkUxaUpDMlpydWdpUTBCSHFjYjVvTXl5OA?oc=5",
-      "summary": "Minister Muir announces £380,000 in funding to improve water quality Department of Agriculture, Environment and Rural Affairs",
-      "published": "2026-05-21",
-      "source_id": "google-news-ireland-river-water-quality",
-      "source_name": "Google News: Ireland river water quality",
-      "publisher": "Google News: Ireland river water quality",
-      "section": "grants-opportunities",
-      "theme": "water-quality",
-      "tags": [
-        "water-quality",
-        "grant"
-      ],
-      "score": 77,
-      "freshness_status": "reference",
-      "freshness_label": "136 days old · background",
-      "pressure_categories": [
-        "agricultural runoff",
-        "funding / grant",
-        "policy / governance"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Funding signal for the Trust: check whether this can support agricultural runoff, funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
       "opportunity_fit": {
         "fit": "Medium",
         "score": 63,
