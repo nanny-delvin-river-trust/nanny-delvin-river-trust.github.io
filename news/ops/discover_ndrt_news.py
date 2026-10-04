@@ -523,6 +523,9 @@ LOCAL_RELEVANCE_TERMS = {
     "stamullen": 28,
     "gormanston": 28,
     "julianstown": 30,
+    "julianstown traffic relief scheme": 52,
+    "r132 julianstown": 48,
+    "r132": 18,
     "laytown": 26,
     "bettystown": 26,
     "mornington": 24,
@@ -612,6 +615,12 @@ PRESSURE_RULES = {
     "policy / governance": [
         "policy", "governance", "lawpro", "epa", "npws", "water framework directive",
         "wfd", "rbmp", "river basin management"
+    ],
+    "planning / infrastructure": [
+        "traffic relief", "bypass", "road scheme", "route option", "route options",
+        "route selection", "bridge", "river crossing", "crossing", "culvert", "drainage",
+        "floodplain", "riparian", "hydromorphology", "eiar", "eia",
+        "appropriate assessment", "nis", "cpo", "r132", "m1"
     ],
     "NbS / restoration": [
         "nature-based", "nature based", "riparian buffer", "constructed wetland",
@@ -712,6 +721,9 @@ def action_relevance_for(item: dict[str, Any], pressures: list[str], local: dict
     if grant_fit:
         return f"Funding signal for the Trust: check whether this can support {pressure_text}, citizen science, engagement, or small catchment actions."
 
+    if section == "planning-infrastructure":
+        return "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred."
+
     if "invasive species" in pressures:
         return "Ecological pressure signal: invasive species such as Spartina, knotweed, balsam, or aquatic invaders can affect habitats, access, estuary condition, and restoration priorities."
 
@@ -773,6 +785,20 @@ def annotate_item(item: dict[str, Any]) -> dict[str, Any]:
     research_use = research_use_type_for(text)
     if research_use:
         item["research_use_type"] = research_use
+
+    if item.get("section") == "planning-infrastructure" and local.get("score", 0) >= 20:
+        watched_project = any(term in text for term in WATCHED_PROJECT_TERMS)
+        water_intersection = any(term in text for term in [
+            "river nanny", "nanny river", "river", "riparian", "floodplain", "wetland",
+            "bridge", "crossing", "culvert", "drainage", "hydromorphology"
+        ])
+        if watched_project or (local.get("score", 0) >= 45 and water_intersection):
+            item["linkedin_story_candidate"] = True
+            item["cross_pollination"] = {
+                "target": "water-nbs-story-radar",
+                "status": "candidate",
+                "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
+            }
 
     # Locality boost, but do not let it swamp all other scoring.
     if local["score"] >= 45:
@@ -886,7 +912,7 @@ def main() -> None:
 
     latest = {
         "generated_at": now_utc().isoformat(),
-        "note": "Source-led daily radar for Nanny-Delvin: Irish catchment practice, waterbody evidence/alerts, and grants/opportunities.",
+        "note": "Source-led daily radar for Nanny-Delvin: Irish catchment practice, planning/infrastructure affecting waters, waterbody evidence/alerts, grants/opportunities, and practical research.",
         "sections": sections,
         "count": len(items),
         "items": items,
