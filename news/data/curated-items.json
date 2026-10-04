@@ -3,7 +3,7 @@
     {
       "id": "ndrt-site-citizen-science",
       "title": "Nanny-Delvin Rivers Trust citizen science hub",
-      "url": "https://salmonofdoubt.github.io/demos/ndrt/citizen-science.html",
+      "url": "https://nannydelvin.ie/citizen-science.html",
       "summary": "The operational citizen-science hub for Nanny Watch, field observation, CSSI-oriented monitoring, practical pathways, and community catchment engagement.",
       "published": null,
       "source_id": "ndrt-site",
@@ -19,7 +19,7 @@
     {
       "id": "ndrt-site-home",
       "title": "Nanny-Delvin Rivers Trust case-study homepage",
-      "url": "https://salmonofdoubt.github.io/demos/ndrt/",
+      "url": "https://nannydelvin.ie/",
       "summary": "The public-facing NDRT microsite framing catchment restoration, local hubs, nature-based action, citizen science, and estuary stewardship.",
       "published": null,
       "source_id": "ndrt-site",
