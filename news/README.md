@@ -18,12 +18,13 @@ Does this help the Trust decide what to do, monitor, fund, explain, or avoid?
 
 The radar therefore prioritises practical usefulness over exhaustive coverage.
 
-## Four lanes
+## Five lanes
 
 | Lane | Purpose |
 |---|---|
 | Ireland Catchment Practice | Irish catchment, restoration, water-quality, citizen-science, and community-action signals. |
 | Waterbody Evidence and Alerts | Incidents, ecology, invasive species, river ecology, estuaries, lagoons, septic tanks, slurry timing, and monitoring signals. |
+| Planning & Infrastructure affecting waters | Local route selection, road schemes, bridges, crossings, drainage and planning signals that may interact with river corridors, riparian zones, floodplains or catchment function. |
 | Grants and Opportunities | Funding calls and support routes relevant to river trusts, biodiversity, education, citizen science, wetlands, and water quality. |
 | Practical Research Papers and Reviews | Research ranked for practical usefulness, with Ireland first, comparable temperate systems second, and transferable NbS evidence where useful. |
 
@@ -69,6 +70,7 @@ The radar watches for:
 - NbS / restoration
 - funding / grant
 - policy / governance
+- planning / infrastructure
 - habitat / biodiversity
 - estuary / lagoon
 
@@ -173,6 +175,10 @@ The radar is intentionally practical. It prioritises:
 8. Research usefulness.
 
 A highly relevant local or Irish practical signal may outrank a generic research item.
+
+For local planning and infrastructure, retrieval is deliberately broader than environmental keyword search. The radar first retrieves locally relevant schemes and route-selection signals, then screens them for possible catchment interaction. This prevents road, bridge or planning stories from disappearing merely because a headline does not contain words such as "river" or "biodiversity".
+
+Selected local planning items can also be marked as possible wider case studies for the separate Water NbS Story Radar. That handoff is editorial only: it signals a question worth checking, not proof of ecological impact.
 
 ## Grant logic
 
