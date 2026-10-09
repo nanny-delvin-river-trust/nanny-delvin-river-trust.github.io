@@ -1,18 +1,26 @@
 {
-  "generated_at": "2026-10-08T12:07:05.290305+00:00",
-  "latest_generated_at": "2026-10-08T12:06:52.494198+00:00",
+  "generated_at": "2026-10-09T11:58:56.794806+00:00",
+  "latest_generated_at": "2026-10-09T11:58:44.609255+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
-    "planning-infrastructure": 22,
+    "planning-infrastructure": 21,
+    "waterbody-evidence-alerts": 27,
     "research-papers": 36,
-    "grants-opportunities": 14,
     "ireland-catchment-practice": 17,
-    "waterbody-evidence-alerts": 26
+    "grants-opportunities": 14
   },
   "top_pressure_categories": [
     {
       "pressure": "NbS / restoration",
+      "count": 38
+    },
+    {
+      "pressure": "agricultural runoff",
+      "count": 37
+    },
+    {
+      "pressure": "water quality",
       "count": 33
     },
     {
@@ -21,23 +29,15 @@
     },
     {
       "pressure": "planning / infrastructure",
-      "count": 31
-    },
-    {
-      "pressure": "agricultural runoff",
-      "count": 27
-    },
-    {
-      "pressure": "water quality",
-      "count": 25
+      "count": 30
     },
     {
       "pressure": "habitat / biodiversity",
-      "count": 25
+      "count": 23
     },
     {
       "pressure": "citizen science / monitoring",
-      "count": 24
+      "count": 22
     },
     {
       "pressure": "funding / grant",
@@ -48,16 +48,16 @@
       "count": 12
     },
     {
-      "pressure": "septic / domestic wastewater",
-      "count": 7
+      "pressure": "incident / alert",
+      "count": 8
     },
     {
-      "pressure": "incident / alert",
-      "count": 7
+      "pressure": "septic / domestic wastewater",
+      "count": 8
     },
     {
       "pressure": "sediment / hydromorphology",
-      "count": 4
+      "count": 7
     }
   ],
   "items": [
@@ -70,7 +70,7 @@
       "published": "2026-09-28",
       "score": 90,
       "practical_score": 129.0,
-      "freshness_label": "10 days old",
+      "freshness_label": "11 days old",
       "pressure_categories": [
         "agricultural runoff",
         "incident / alert"
@@ -95,7 +95,7 @@
       "published": "2026-10-03",
       "score": 89,
       "practical_score": 129.0,
-      "freshness_label": "5 days old",
+      "freshness_label": "6 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -114,15 +114,15 @@
       "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
     },
     {
-      "id": "b0251d564a177c36",
-      "title": "Julianstown Traffic Relief Scheme at heart of new residents’ group - Drogheda Life",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVZlVGFaTVRSTGZEemFob1E3ZkRCQ2NuaXU0M2ktdW5rR1lCWU1QWFBZYzJ1N3JCV2w4dTRRdVlidmFvaDVBVkNGVjNTSlk5QTNPanlzM3Z6dU5GMjdxSm9QSjlZTF9sWmxoanNKTEZiVEZZLWEweE9KZHRIWWJrVEc0Rm1oQQ?oc=5",
+      "id": "6e195c2d7f590b8c",
+      "title": "New Julianstown Village Association calls for urgent progress on traffic relief scheme - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU2dMX3FtWDhDZWx2WmtoaXJkcFhuY3pyRnBobXJSX2NTeHAwdnF5RS1HQ1AtdzZiOVRsUnVLVzV1cERDbWpCLTNRbGsyUVQ4Y1hjSWZQSVlHYkpCNThJUTFkSTFfTm1CaktOcFFTc1AxUkQ0LTFlMHQzdTF4VkRiMHNhLXhKenRzUXdoNUlwdUdtdFhHM3pqNzVGeHowYU03X1RwYTdzM3N0NHRLMG85RWVGRUZqSk9GWGZLOHFKZ1RZdFMyVlR2WVFodDBTeE9oNXZhVDZjRW1xMlk?oc=5",
       "section": "planning-infrastructure",
       "source_name": "Google News: East Meath planning and infrastructure",
       "published": "2026-09-29",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "9 days old",
+      "freshness_label": "10 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -130,10 +130,10 @@
         "score": 100,
         "label": "High local relevance",
         "matched_terms": [
+          "Ireland",
           "delvin",
           "east meath",
           "julianstown",
-          "julianstown traffic relief scheme",
           "meath",
           "nanny",
           "nanny-delvin"
@@ -144,60 +144,57 @@
       "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred."
     },
     {
-      "id": "c15944002653fd1a",
-      "title": "Louth TD Erin McGreehan urges expansion of septic tank repair grants - Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjI2U3E3Nnl4a3d2bUdhdVdOcXdEZjJoWEx2OUpna2xNdElaa2duTEgxZlBpSHBwNERWYXBPbUlBeGt6R2huT3A0SUNHNTVsd25KdVlyLUo2bDZQMHBFd1ZSU3h0UDl1WS1PRm9ieEwxZzNqNDFEb1RiRE8xU0xYWUVTS1RETTl4RnhZN3JpTWZWLVlZQUE2NnZWbXFZb1VDdVpfWGtWcDVLTWZiZlZWdDdWRFgyekEwTkNaRFZaTENLVTQ?oc=5",
+      "id": "02c5cf74ff2eaa7b",
+      "title": "Funding announced for the rural water sector, improving drinking water quality - Meath Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzFqbkl3QjV3LWRpVGdhdUgtdm9OeXk5VFNYNnN1djIzNGFMT1NId21DNUZIQmZQRmt4OUhJUFBack40MXEzWEFJdVN1ZHNTQl95QU5UOFJRM3oyQnZmZDhhcFNZRGxiMjJJQThyQW0yNGd2ZHN3Z29KQkI4aGoweHVWZW94ZWFIaFN5ZDRSV2szeUZRd3Z0d1M3a3RRTEJXMFhfa2dRdzZrczlDRVptTFNaZXpySVN0eDJR?oc=5",
       "section": "grants-opportunities",
       "source_name": "Google News: Meath Louth Fingal catchment signals",
-      "published": "2026-07-10",
-      "score": 100,
-      "practical_score": 154.0,
-      "freshness_label": "90 days old",
+      "published": "2026-07-27",
+      "score": 93,
+      "practical_score": 128.0,
+      "freshness_label": "74 days old",
       "pressure_categories": [
-        "septic / domestic wastewater",
-        "funding / grant",
-        "policy / governance"
+        "funding / grant"
       ],
       "local_relevance": {
-        "score": 72,
+        "score": 62,
         "label": "High local relevance",
         "matched_terms": [
-          "Ireland",
           "fingal",
           "louth",
           "meath"
         ]
       },
       "opportunity_fit": {
-        "fit": "Medium",
-        "score": 63,
+        "fit": "Low",
+        "score": 53,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
       },
       "research_use_type": null,
-      "action_relevance": "Funding signal for the Trust: check whether this can support septic / domestic wastewater, funding / grant, policy / governance, citizen science, engagement, or small catchment actions."
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions."
     },
     {
-      "id": "7c9dbea881190d14",
-      "title": "Making informed choices: implementing nature-based solutions for effective freshwater management in temperate catchments",
-      "url": "https://doi.org/10.1016/j.nbsj.2026.100367",
+      "id": "2ba35c94b1962cac",
+      "title": "Riparian Buffers as a Critical Landscape Feature: Insights for Riverscape Conservation and Policy Renovations",
+      "url": "https://doi.org/10.3390/d14030172",
       "section": "research-papers",
-      "source_name": "Nature-Based Solutions",
-      "published": "2026-07-22",
+      "source_name": "Diversity",
+      "published": "2022-02-27",
       "score": 100,
       "practical_score": 142.0,
-      "freshness_label": "2026 · 0 citations · open access",
+      "freshness_label": "2022 · 152 citations · open access",
       "pressure_categories": [
         "water quality",
         "agricultural runoff",
+        "sediment / hydromorphology",
         "NbS / restoration",
-        "citizen science / monitoring",
         "habitat / biodiversity"
       ],
       "local_relevance": null,
       "opportunity_fit": null,
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, sediment / hydromorphology."
     }
   ]
 }
