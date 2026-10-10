@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-09T11:58:56.794806+00:00",
-  "latest_generated_at": "2026-10-09T11:58:44.609255+00:00",
+  "generated_at": "2026-10-10T11:15:17.983122+00:00",
+  "latest_generated_at": "2026-10-10T11:15:07.508201+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
-    "planning-infrastructure": 21,
-    "waterbody-evidence-alerts": 27,
+    "planning-infrastructure": 20,
+    "ireland-catchment-practice": 19,
     "research-papers": 36,
-    "ireland-catchment-practice": 17,
-    "grants-opportunities": 14
+    "grants-opportunities": 14,
+    "waterbody-evidence-alerts": 26
   },
   "top_pressure_categories": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "pressure": "agricultural runoff",
-      "count": 37
+      "count": 38
     },
     {
       "pressure": "water quality",
@@ -29,7 +29,7 @@
     },
     {
       "pressure": "planning / infrastructure",
-      "count": 30
+      "count": 29
     },
     {
       "pressure": "habitat / biodiversity",
@@ -49,7 +49,7 @@
     },
     {
       "pressure": "incident / alert",
-      "count": 8
+      "count": 9
     },
     {
       "pressure": "septic / domestic wastewater",
@@ -70,7 +70,7 @@
       "published": "2026-09-28",
       "score": 90,
       "practical_score": 129.0,
-      "freshness_label": "11 days old",
+      "freshness_label": "12 days old",
       "pressure_categories": [
         "agricultural runoff",
         "incident / alert"
@@ -95,7 +95,7 @@
       "published": "2026-10-03",
       "score": 89,
       "practical_score": 129.0,
-      "freshness_label": "6 days old",
+      "freshness_label": "7 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -122,7 +122,7 @@
       "published": "2026-09-29",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "10 days old",
+      "freshness_label": "11 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -152,7 +152,7 @@
       "published": "2026-07-27",
       "score": 93,
       "practical_score": 128.0,
-      "freshness_label": "74 days old",
+      "freshness_label": "75 days old",
       "pressure_categories": [
         "funding / grant"
       ],
