@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T11:15:07.508201+00:00",
+  "generated_at": "2026-10-11T11:28:31.516730+00:00",
   "note": "Source-led daily radar for Nanny-Delvin: practical Irish catchment signals, waterbody evidence/alerts, grants/opportunities, and research ranked by Trust usefulness.",
   "sections": [
     {
@@ -47,7 +47,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "11 days old",
+      "freshness_label": "12 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -83,7 +83,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "14 days old",
+      "freshness_label": "15 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -125,7 +125,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "24 days old",
+      "freshness_label": "25 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -161,7 +161,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "26 days old",
+      "freshness_label": "27 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -196,7 +196,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "39 days old",
+      "freshness_label": "40 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -237,7 +237,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "53 days old",
+      "freshness_label": "54 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -279,7 +279,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "68 days old",
+      "freshness_label": "69 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -320,7 +320,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "72 days old",
+      "freshness_label": "73 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -360,7 +360,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "74 days old",
+      "freshness_label": "75 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -402,7 +402,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "80 days old",
+      "freshness_label": "81 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -437,7 +437,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "81 days old",
+      "freshness_label": "82 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -478,7 +478,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "83 days old",
+      "freshness_label": "84 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -518,49 +518,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "114 days old · background",
-      "pressure_categories": [
-        "planning / infrastructure"
-      ],
-      "local_relevance": {
-        "score": 100,
-        "label": "High local relevance",
-        "matched_terms": [
-          "delvin",
-          "east meath",
-          "julianstown",
-          "julianstown traffic relief scheme",
-          "meath",
-          "nanny",
-          "nanny-delvin"
-        ]
-      },
-      "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred.",
-      "linkedin_story_candidate": true,
-      "cross_pollination": {
-        "target": "water-nbs-story-radar",
-        "status": "candidate",
-        "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
-      }
-    },
-    {
-      "id": "4da5f9a59ef7ca10",
-      "title": "East Meath residents urged to participate in public consultation on the Julianstown Traffic Relief Scheme - Meath Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd1d5dzhPZXJRZW5VYXlmS2VjUGhiWXhBMkh3YkpsdUxCWXJxaU96MVBtXy1zQ2F5ek9IdlRRcVZoLXBYWEpEcnlMQjllYmJyekFRc3RxMU5YVWR4RXhzcmpCbXRkWEVDazMyREVURVNUWXIwNnJPaEpZRGR3Uk1rNUxHQkFBS2tJSTFLVVY3QlNjR1c2WFU1bEtfa0VUaW9ieHhsN3dSRUNibDN5cWNDU1NOOTVsZFFjM29XdGtER2RwSWI2VlE1cnl6U2JzTFZkUGlnczQ4NXdKUjNieEw3Tg?oc=5",
-      "summary": "East Meath residents urged to participate in public consultation on the Julianstown Traffic Relief Scheme Meath Chronicle",
-      "published": "2026-03-24",
-      "source_id": "google-news-east-meath-planning-infrastructure",
-      "source_name": "Google News: East Meath planning and infrastructure",
-      "publisher": "Google News: East Meath planning and infrastructure",
-      "section": "planning-infrastructure",
-      "theme": "nanny-delvin-local",
-      "tags": [
-        "nanny-delvin-local",
-        "planning-infrastructure"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "200 days old · background",
+      "freshness_label": "115 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -602,7 +560,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "201 days old · background",
+      "freshness_label": "202 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -644,7 +602,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "234 days old · background",
+      "freshness_label": "235 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -686,7 +644,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "417 days old · background",
+      "freshness_label": "418 days old · background",
       "pressure_categories": [
         "nutrients",
         "habitat / biodiversity",
@@ -1338,41 +1296,6 @@
       ],
       "research_use_type": "Supporting evidence",
       "action_relevance": "Research signal: background evidence that may support practical catchment action around water quality, agricultural runoff, NbS / restoration."
-    },
-    {
-      "id": "8aa051169b877afa",
-      "title": "Runoff pH Influences Nutrient Removal Efficacy of Floating Treatment Wetland Systems",
-      "url": "https://doi.org/10.21273/horttech04299-19",
-      "summary": "Floating treatment wetlands (FTWs), a modified constructed wetland technology, can be deployed in ponds for the treatment of nursery and greenhouse irrigation runoff. The pH of nursery and greenhouse operation irrigation water varies from 3.3 to 10.4 across the United States. Water flow rate, plant species selection, and variable nutrient inputs influence the remediation efficacy of FTWs and may interact with the pH of inflow water to change nutrient remediation dynamics. Therefore, an experiment was designed to quantify the effect of pH on the growth and nutrient uptake capacity of three macrophyte species using a mesocosm FTW system. ‘Rising Sun’ japanese iris ( Iris ensata ), bushy bluestem ( Andropogon glomeratus ), and maidencane ( Panicum hemitomon ) were grown for two 6-week periods and exposed to five pH treatment levels representing the range of nursery and greenhouse irrigation runoff, 4.5, 5.5, 6.5, 7.2, and 8.5, for a total",
-      "published": "2019-10-02",
-      "source_id": "openalex",
-      "source_name": "HortTechnology",
-      "publisher": "HortTechnology",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2019 · 13 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.21273/horttech04299-19",
-      "cited_by_count": 13,
-      "openalex_id": "https://openalex.org/W2977725467",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "NbS / restoration",
-        "habitat / biodiversity"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
     },
     {
       "id": "7c67db657d90ff3c",
@@ -2492,7 +2415,7 @@
       ],
       "score": 98,
       "freshness_status": "fresh",
-      "freshness_label": "80 days old",
+      "freshness_label": "81 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2514,6 +2437,42 @@
         "status": "candidate",
         "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
       }
+    },
+    {
+      "id": "5d6b6c5c3f4b2372",
+      "title": "Soil erosion, sediment sources, connectivity and suspended sediment yields in UK temperate agricultural catchments: Discrepancies and reconciliation of field-based measurements",
+      "url": "https://doi.org/10.1016/j.jenvman.2023.119810",
+      "summary": "Robust understanding of the fine-grained sediment cascades of temperate agricultural catchments is essential for supporting targeted management for addressing the widely reported sediment problem. Within the UK, many independent field-based measurements of soil erosion, sediment sources and catchment suspended sediment yields have been published. However, attempts to review and assess the compatibility of these measurements are limited. The data available suggest that landscape scale net soil erosion rates (∼38 t km−2 yr−1 for arable and ∼26 t km−2 yr−1 grassland) are comparable to the typical suspended sediment yield of a UK catchment (∼44 t km2 yr−1). This finding cannot, however, be reconciled easily with current prevailing knowledge that agricultural topsoils dominate sediment contributions to watercourses, and that catchment sediment delivery ratios are typically low. Channel bank erosion rates can be high at landscape scale (27 km",
+      "published": "2023-12-14",
+      "source_id": "openalex",
+      "source_name": "Journal of Environmental Management",
+      "publisher": "Journal of Environmental Management",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access",
+        "temperate-transfer"
+      ],
+      "score": 97,
+      "freshness_status": "reference",
+      "freshness_label": "2023 · 29 citations · open access",
+      "practical_fit": "High practical fit · Comparable temperate relevance",
+      "geographic_relevance": "Comparable temperate relevance",
+      "doi": "https://doi.org/10.1016/j.jenvman.2023.119810",
+      "cited_by_count": 29,
+      "openalex_id": "https://openalex.org/W4389734089",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "sediment / hydromorphology",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, sediment / hydromorphology."
     },
     {
       "id": "5691d937ae8ea9e6",
@@ -2670,7 +2629,7 @@
       ],
       "score": 94,
       "freshness_status": "fresh",
-      "freshness_label": "67 days old",
+      "freshness_label": "68 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2710,7 +2669,7 @@
       ],
       "score": 93,
       "freshness_status": "fresh",
-      "freshness_label": "75 days old",
+      "freshness_label": "76 days old",
       "pressure_categories": [
         "funding / grant"
       ],
@@ -2748,7 +2707,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "92 days old · background",
+      "freshness_label": "93 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant",
@@ -2789,7 +2748,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "303 days old · background",
+      "freshness_label": "304 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2824,7 +2783,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "429 days old · background",
+      "freshness_label": "430 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -2859,7 +2818,7 @@
       ],
       "score": 92,
       "freshness_status": "reference",
-      "freshness_label": "150 days old · background",
+      "freshness_label": "151 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3033,7 +2992,7 @@
       ],
       "score": 90,
       "freshness_status": "fresh",
-      "freshness_label": "12 days old",
+      "freshness_label": "13 days old",
       "pressure_categories": [
         "agricultural runoff",
         "incident / alert"
@@ -3063,7 +3022,7 @@
       ],
       "score": 90,
       "freshness_status": "fresh",
-      "freshness_label": "85 days old",
+      "freshness_label": "86 days old",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3092,7 +3051,7 @@
       ],
       "score": 90,
       "freshness_status": "reference",
-      "freshness_label": "144 days old · background",
+      "freshness_label": "145 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater"
       ],
@@ -3156,7 +3115,7 @@
       ],
       "score": 89,
       "freshness_status": "fresh",
-      "freshness_label": "7 days old",
+      "freshness_label": "8 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -3190,7 +3149,7 @@
       ],
       "score": 89,
       "freshness_status": "reference",
-      "freshness_label": "141 days old · background",
+      "freshness_label": "142 days old · background",
       "pressure_categories": [
         "funding / grant",
         "planning / infrastructure"
@@ -3294,7 +3253,7 @@
       ],
       "score": 88,
       "freshness_status": "reference",
-      "freshness_label": "108 days old · background",
+      "freshness_label": "109 days old · background",
       "pressure_categories": [
         "manure / slurry timing",
         "slurry-manure-timing",
@@ -3328,7 +3287,7 @@
       ],
       "score": 88,
       "freshness_status": "reference",
-      "freshness_label": "115 days old · background",
+      "freshness_label": "116 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3395,7 +3354,7 @@
       ],
       "score": 87,
       "freshness_status": "reference",
-      "freshness_label": "127 days old · background",
+      "freshness_label": "128 days old · background",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -3424,7 +3383,7 @@
       ],
       "score": 87,
       "freshness_status": "reference",
-      "freshness_label": "127 days old · background",
+      "freshness_label": "128 days old · background",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -3455,7 +3414,7 @@
       ],
       "score": 87,
       "freshness_status": "reference",
-      "freshness_label": "142 days old · background",
+      "freshness_label": "143 days old · background",
       "pressure_categories": [
         "agricultural runoff",
         "funding / grant",
@@ -3530,7 +3489,7 @@
       ],
       "score": 87,
       "freshness_status": "reference",
-      "freshness_label": "2310 days old · background",
+      "freshness_label": "2311 days old · background",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -3565,7 +3524,7 @@
       ],
       "score": 86,
       "freshness_status": "reference",
-      "freshness_label": "115 days old · background",
+      "freshness_label": "116 days old · background",
       "pressure_categories": [
         "citizen science / monitoring"
       ],
@@ -3595,7 +3554,7 @@
       ],
       "score": 85,
       "freshness_status": "fresh",
-      "freshness_label": "45 days old",
+      "freshness_label": "46 days old",
       "pressure_categories": [
         "septic / domestic wastewater"
       ],
@@ -3624,7 +3583,7 @@
       ],
       "score": 85,
       "freshness_status": "fresh",
-      "freshness_label": "45 days old",
+      "freshness_label": "46 days old",
       "pressure_categories": [
         "septic / domestic wastewater"
       ],
@@ -3654,7 +3613,7 @@
       ],
       "score": 85,
       "freshness_status": "reference",
-      "freshness_label": "885 days old · background",
+      "freshness_label": "886 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant"
@@ -3844,7 +3803,7 @@
       ],
       "score": 83,
       "freshness_status": "reference",
-      "freshness_label": "512 days old · background",
+      "freshness_label": "513 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant"
@@ -3942,7 +3901,7 @@
       ],
       "score": 82,
       "freshness_status": "reference",
-      "freshness_label": "103 days old · background",
+      "freshness_label": "104 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3971,7 +3930,7 @@
       ],
       "score": 81,
       "freshness_status": "reference",
-      "freshness_label": "144 days old · background",
+      "freshness_label": "145 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "policy / governance"
@@ -4001,7 +3960,7 @@
       ],
       "score": 81,
       "freshness_status": "reference",
-      "freshness_label": "144 days old · background",
+      "freshness_label": "145 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "policy / governance"
@@ -4125,7 +4084,7 @@
       ],
       "score": 78,
       "freshness_status": "fresh",
-      "freshness_label": "15 days old",
+      "freshness_label": "16 days old",
       "pressure_categories": [
         "agricultural runoff",
         "incident / alert"
@@ -4138,6 +4097,43 @@
         ]
       },
       "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
+    },
+    {
+      "id": "b13145b10c9a9305",
+      "title": "Macra calls for more funding in TAMS for water quality measures - Agriland",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXNHZGthMUxFS2hQRmdSV1hkMTk2bFg4cVNvOHp0Vzh0LThtVkxPekhvRFVoRG9IaUJSY284dVI0aXU4V1VGTzY1N0VmSjRlRUNBdHBOa1EtY2Z0eTBqNHEtOHdiM0JWelpXbkQ2eWNFRUlSZWs0dlh4bzVXdmJVUDJjTVNJS2VjS2VkQTBOdjQ3X2Rpa19sVWk4NDJWbWVyN3R3?oc=5",
+      "summary": "Macra calls for more funding in TAMS for water quality measures Agriland",
+      "published": "2026-06-24",
+      "source_id": "google-news-community-water-grants",
+      "source_name": "Google News: water and biodiversity grants Ireland",
+      "publisher": "Google News: water and biodiversity grants Ireland",
+      "section": "grants-opportunities",
+      "theme": "water-quality",
+      "tags": [
+        "water-quality",
+        "grant"
+      ],
+      "score": 77,
+      "freshness_status": "reference",
+      "freshness_label": "109 days old · background",
+      "pressure_categories": [
+        "habitat / biodiversity",
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support habitat / biodiversity, funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "High",
+        "score": 77,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
     }
   ]
 }
