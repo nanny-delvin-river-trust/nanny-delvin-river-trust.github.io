@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:55:28.984701+00:00",
+  "generated_at": "2026-10-20T10:10:32.788749+00:00",
   "note": "Source-led daily radar for Nanny-Delvin: practical Irish catchment signals, waterbody evidence/alerts, grants/opportunities, and research ranked by Trust usefulness.",
   "sections": [
     {
@@ -47,7 +47,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "5 days old",
+      "freshness_label": "6 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -82,7 +82,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "6 days old",
+      "freshness_label": "7 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -124,7 +124,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "20 days old",
+      "freshness_label": "21 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -160,7 +160,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "20 days old",
+      "freshness_label": "21 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -202,7 +202,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "23 days old",
+      "freshness_label": "24 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -244,7 +244,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "33 days old",
+      "freshness_label": "34 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -280,7 +280,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "35 days old",
+      "freshness_label": "36 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -315,7 +315,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "42 days old",
+      "freshness_label": "43 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -355,7 +355,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "48 days old",
+      "freshness_label": "49 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -396,7 +396,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "62 days old",
+      "freshness_label": "63 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -438,7 +438,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "77 days old",
+      "freshness_label": "78 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -479,7 +479,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "81 days old",
+      "freshness_label": "82 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -519,7 +519,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "83 days old",
+      "freshness_label": "84 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -561,7 +561,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "89 days old",
+      "freshness_label": "90 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -595,8 +595,8 @@
         "planning-infrastructure"
       ],
       "score": 100,
-      "freshness_status": "fresh",
-      "freshness_label": "90 days old",
+      "freshness_status": "reference",
+      "freshness_label": "91 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -638,7 +638,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "92 days old · background",
+      "freshness_label": "93 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -678,7 +678,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "123 days old · background",
+      "freshness_label": "124 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -720,7 +720,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "210 days old · background",
+      "freshness_label": "211 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -762,7 +762,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "243 days old · background",
+      "freshness_label": "244 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -804,7 +804,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "426 days old · background",
+      "freshness_label": "427 days old · background",
       "pressure_categories": [
         "nutrients",
         "habitat / biodiversity",
@@ -2615,7 +2615,7 @@
       ],
       "score": 98,
       "freshness_status": "fresh",
-      "freshness_label": "89 days old",
+      "freshness_label": "90 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2691,7 +2691,7 @@
       ],
       "score": 96,
       "freshness_status": "reference",
-      "freshness_label": "137 days old · background",
+      "freshness_label": "138 days old · background",
       "pressure_categories": [
         "river ecology",
         "funding / grant",
@@ -2867,7 +2867,7 @@
       ],
       "score": 94,
       "freshness_status": "fresh",
-      "freshness_label": "76 days old",
+      "freshness_label": "77 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2907,7 +2907,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "101 days old · background",
+      "freshness_label": "102 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant",
@@ -2948,7 +2948,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "312 days old · background",
+      "freshness_label": "313 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2983,7 +2983,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "438 days old · background",
+      "freshness_label": "439 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3018,7 +3018,7 @@
       ],
       "score": 92,
       "freshness_status": "reference",
-      "freshness_label": "159 days old · background",
+      "freshness_label": "160 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3054,7 +3054,7 @@
       ],
       "score": 92,
       "freshness_status": "reference",
-      "freshness_label": "355 days old · background",
+      "freshness_label": "356 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3175,43 +3175,6 @@
       "research_use_type": "Policy / governance"
     },
     {
-      "id": "e0e50cd1e532cb65",
-      "title": "16 Louth projects receive funding under Environmental Action Fund - Ireland Live News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2F2UHZqX3Npb1ZncFcxMkFtUXIzU3B5Ti13UkNMZVdEWm1nWDhESUdIYWJocUpTbzZKdnNjQWpNVlBBYjlPS0pfM3pEM0ZjeWZQdGt6OEdHS0RSaFpmRnZGd3djUVhoeTQ4dGE3bmpEZ1dmWXcyNFMzU3RobDY4b1c5OGFTMnJJNWJ1dlBOYnhiY0RuY2lkTHJ4RHEzaEgxQlFKOUhNSUtGZkw5VXdoSWtaY0VFUXl0?oc=5",
-      "summary": "16 Louth projects receive funding under Environmental Action Fund Ireland Live News",
-      "published": "2026-10-16",
-      "source_id": "google-news-community-water-grants",
-      "source_name": "Google News: water and biodiversity grants Ireland",
-      "publisher": "Google News: water and biodiversity grants Ireland",
-      "section": "grants-opportunities",
-      "theme": "grant",
-      "tags": [
-        "grant"
-      ],
-      "score": 91,
-      "freshness_status": "fresh",
-      "freshness_label": "3 days old",
-      "pressure_categories": [
-        "habitat / biodiversity",
-        "funding / grant"
-      ],
-      "local_relevance": {
-        "score": 32,
-        "label": "Moderate local relevance",
-        "matched_terms": [
-          "Ireland",
-          "louth"
-        ]
-      },
-      "action_relevance": "Funding signal for the Trust: check whether this can support habitat / biodiversity, funding / grant, citizen science, engagement, or small catchment actions.",
-      "opportunity_fit": {
-        "fit": "High",
-        "score": 77,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      }
-    },
-    {
       "id": "406f30a93c5e2e09",
       "title": "Potential for Hybrid Poplar Riparian Buffers to Provide Ecosystem Services in Three Watersheds with Contrasting Agricultural Land Use",
       "url": "https://doi.org/10.3390/f7020037",
@@ -3245,35 +3208,6 @@
       ],
       "research_use_type": "Review / evidence synthesis",
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
-    },
-    {
-      "id": "009fd7cf0c55d70e",
-      "title": "Almost six out of ten septic tanks fail inspection, putting Ireland's drinking water wells and rivers at risk - Water Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT1JYLVNZLUFQSVA2WERCWHR5NDJsc2NZZXRvV2JadzNmYmthSEExbHJPQkxqb3ZpcS0zWEtQUTJRbTlUOHd3Z3ZPcmVNR1NXTEpyLTBTTk5UR2JDVTM4cGlYSnZjV3EyYl9YRTRWbE1CSmNyU3FKVUtJck1PMC0zcEJhbGlxMnc1X2xqWVM5UUQwUW5ENTVvdjRoQXVrNjhCQVRkNTk1TVd0Z1BMdVdCcWVWRjBZcGdwbE82T2RhZC14RW02R0VPeUc1Y3U3WmFzRjdJSGo2QUFKUVdESFRKbFN5MmtaUQ?oc=5",
-      "summary": "Almost six out of ten septic tanks fail inspection, putting Ireland's drinking water wells and rivers at risk Water Magazine",
-      "published": "2026-05-19",
-      "source_id": "google-news-septic-tank-grants-ireland",
-      "source_name": "Google News: septic tanks and domestic wastewater Ireland",
-      "publisher": "Google News: septic tanks and domestic wastewater Ireland",
-      "section": "waterbody-evidence-alerts",
-      "theme": "septic-wastewater",
-      "tags": [
-        "septic-wastewater"
-      ],
-      "score": 90,
-      "freshness_status": "reference",
-      "freshness_label": "153 days old · background",
-      "pressure_categories": [
-        "septic / domestic wastewater"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Potential catchment-pressure signal: septic or domestic wastewater issues can affect groundwater, small streams, bathing waters, and local engagement priorities."
     },
     {
       "id": "4771a9e3024f4d2b",
@@ -3326,7 +3260,7 @@
       ],
       "score": 89,
       "freshness_status": "fresh",
-      "freshness_label": "16 days old",
+      "freshness_label": "17 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -3359,7 +3293,7 @@
       ],
       "score": 89,
       "freshness_status": "fresh",
-      "freshness_label": "27 days old",
+      "freshness_label": "28 days old",
       "pressure_categories": [
         "agricultural runoff",
         "policy / governance"
@@ -3442,6 +3376,40 @@
       }
     },
     {
+      "id": "247bb9eb6be5fc58",
+      "title": "Closed-period slurry spreading linked to river pollution in Meath study - Irish Examiner",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wS2Z1QVdEeF8tZU5fQVdMNEw2NGhDNjNGOW5TdThQaEpUQ3F6cWcySGpWaXY2dGdwd1pOMEtlbFJ2MWs0cE9mT25laG9YZ203SHp1M2hodVl2eTVuRTRhSnFKZlBKLVU?oc=5",
+      "summary": "Closed-period slurry spreading linked to river pollution in Meath study Irish Examiner",
+      "published": "2026-06-24",
+      "source_id": "google-news-meath-louth-fingal-catchment",
+      "source_name": "Google News: Meath Louth Fingal catchment signals",
+      "publisher": "Google News: Meath Louth Fingal catchment signals",
+      "section": "waterbody-evidence-alerts",
+      "theme": "water-quality",
+      "tags": [
+        "water-quality"
+      ],
+      "score": 88,
+      "freshness_status": "reference",
+      "freshness_label": "118 days old · background",
+      "pressure_categories": [
+        "manure / slurry timing",
+        "slurry-manure-timing",
+        "agricultural runoff"
+      ],
+      "local_relevance": {
+        "score": 72,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "fingal",
+          "louth",
+          "meath"
+        ]
+      },
+      "action_relevance": "Agricultural timing signal: slurry or manure may be legally spread while rainfall/runoff risk is still high, which is directly relevant to nutrients, sediment pathways, farmer engagement, and catchment messaging."
+    },
+    {
       "id": "54ce0e64714ac964",
       "title": "Ireland’s ‘best rivers’ continue to deteriorate in water quality - The Irish Times",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWVZSDRWUUlFcTBzTlJwX2dwa3htV0l4RHFkYVlNeU1BcFB2U3ZzakFaeDVNZW9KVVBBbjlvVmlFTGcxSmd1Q3ZWS1B0ZzdsVjVsdEt0MVpoQm1sVWdtZXFuU3hBaERkVmsxUjJJbm1YekkxcE1leUMwWnkydjNncFhoRkZ1ODVrY1pKWmpMZ3RDS3ZEZmJ6THJOeGNvSWJQY0p5cFozRlBuNjNQVjEtdVNPeU9RRk1sZjNVXzFJX3ZFSHBGV0R3ZW5HTQ?oc=5",
@@ -3457,7 +3425,7 @@
       ],
       "score": 88,
       "freshness_status": "reference",
-      "freshness_label": "124 days old · background",
+      "freshness_label": "125 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3526,7 +3494,7 @@
       ],
       "score": 87,
       "freshness_status": "reference",
-      "freshness_label": "151 days old · background",
+      "freshness_label": "152 days old · background",
       "pressure_categories": [
         "agricultural runoff",
         "funding / grant",
@@ -3599,7 +3567,7 @@
       ],
       "score": 85,
       "freshness_status": "fresh",
-      "freshness_label": "27 days old",
+      "freshness_label": "28 days old",
       "pressure_categories": [
         "agricultural runoff",
         "policy / governance"
@@ -3614,9 +3582,9 @@
       "action_relevance": "General practical signal: may help the Trust track agricultural runoff, policy / governance, policy, funding, monitoring, or community action."
     },
     {
-      "id": "f361d44398b65818",
+      "id": "c52d191b7337e86a",
       "title": "Ireland's septic tank problem - University College Dublin",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaTRsWG5VemdvWWo2VVFHWlRwOTNsdlZqQUpWVWpjdFEwSmkzYmJDR29EbV9TODNucEt5Vm9mVW1BTVlOSWdSZk5qSWRTUzFQMWFac3dVYkpqNnI0VXZhRm9CUWJDV0tGdzVoc281MGdBekhfcmE1dWZaTVpIYnQtNmRaRlJkUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zOG9SeEtSRzlvWkxvOFdQa2g4U1FYYzRDaVd1V1RWLU1TNk10NExtMGlPTUdWOHh1OTQ1MGNkN3NUU2VxeUxwdHl0OVFSeWs0dWtUUU0tZjMyb3NqczBZakJWMlB1b0Q1S3p3Y1NDTEItaV9LSjFjNUUyd29PUQ?oc=5",
       "summary": "Ireland's septic tank problem University College Dublin",
       "published": "2026-08-26",
       "source_id": "google-news-septic-tank-grants-ireland",
@@ -3629,36 +3597,7 @@
       ],
       "score": 85,
       "freshness_status": "fresh",
-      "freshness_label": "54 days old",
-      "pressure_categories": [
-        "septic / domestic wastewater"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Potential catchment-pressure signal: septic or domestic wastewater issues can affect groundwater, small streams, bathing waters, and local engagement priorities."
-    },
-    {
-      "id": "c52d191b7337e86a",
-      "title": "Ireland's septic tank problem - University College Dublin",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zOG9SeEtSRzlvWkxvOFdQa2g4U1FYYzRDaVd1V1RWLU1TNk10NExtMGlPTUdWOHh1OTQ1MGNkN3NUU2VxeUxwdHl0OVFSeWs0dWtUUU0tZjMyb3NqczBZakJWMlB1b0Q1S3p3Y1NDTEItaV9LSjFjNUUyd29PUQ?oc=5",
-      "summary": "Ireland's septic tank problem University College Dublin",
-      "published": "2026-08-26",
-      "source_id": "google-news-septic-tanks-ireland",
-      "source_name": "Google News: septic tanks Ireland",
-      "publisher": "Google News: septic tanks Ireland",
-      "section": "waterbody-evidence-alerts",
-      "theme": "septic-wastewater",
-      "tags": [
-        "septic-wastewater"
-      ],
-      "score": 85,
-      "freshness_status": "fresh",
-      "freshness_label": "54 days old",
+      "freshness_label": "55 days old",
       "pressure_categories": [
         "septic / domestic wastewater"
       ],
@@ -3688,7 +3627,7 @@
       ],
       "score": 85,
       "freshness_status": "reference",
-      "freshness_label": "894 days old · background",
+      "freshness_label": "895 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant"
@@ -3877,7 +3816,7 @@
       ],
       "score": 83,
       "freshness_status": "fresh",
-      "freshness_label": "60 days old",
+      "freshness_label": "61 days old",
       "pressure_categories": [
         "habitat / biodiversity"
       ],
@@ -3906,7 +3845,7 @@
       ],
       "score": 83,
       "freshness_status": "reference",
-      "freshness_label": "136 days old · background",
+      "freshness_label": "137 days old · background",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -3935,7 +3874,7 @@
       ],
       "score": 83,
       "freshness_status": "reference",
-      "freshness_label": "136 days old · background",
+      "freshness_label": "137 days old · background",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -4025,7 +3964,7 @@
       ],
       "score": 81,
       "freshness_status": "reference",
-      "freshness_label": "124 days old · background",
+      "freshness_label": "125 days old · background",
       "pressure_categories": [
         "policy / governance"
       ],
@@ -4054,7 +3993,7 @@
       ],
       "score": 81,
       "freshness_status": "reference",
-      "freshness_label": "153 days old · background",
+      "freshness_label": "154 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "policy / governance"
@@ -4084,7 +4023,7 @@
       ],
       "score": 81,
       "freshness_status": "reference",
-      "freshness_label": "153 days old · background",
+      "freshness_label": "154 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "policy / governance"
@@ -4155,6 +4094,75 @@
         "matched_terms": []
       },
       "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures."
+    },
+    {
+      "id": "c0bf376e23da6e77",
+      "title": "River Basin Management Service launches Catchment Support Fund 2027",
+      "url": "https://riverbasin.ie/river-basin-management-service-launches-catchment-support-fund-2027/",
+      "summary": "River Basin Management Service launches Catchment Support Fund 2027",
+      "published": null,
+      "source_id": "lawpro",
+      "source_name": "LAWPRO",
+      "publisher": "LAWPRO",
+      "section": "grants-opportunities",
+      "theme": "catchment",
+      "tags": [
+        "catchment"
+      ],
+      "score": 80,
+      "freshness_status": "reference",
+      "freshness_label": "Date unknown",
+      "pressure_categories": [
+        "funding / grant",
+        "policy / governance"
+      ],
+      "local_relevance": {
+        "score": 0,
+        "label": "Transferable relevance",
+        "matched_terms": []
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 53,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "21cb28869d35cf6d",
+      "title": "Apply for funding via our Grants Portal here",
+      "url": "https://communityfoundation.smartsimple.ie/s_Login.jsp?lang=1&prole=0",
+      "summary": "Apply for funding via our Grants Portal here",
+      "published": null,
+      "source_id": "community-foundation-ireland-grants",
+      "source_name": "Community Foundation Ireland Grants",
+      "publisher": "Community Foundation Ireland Grants",
+      "section": "grants-opportunities",
+      "theme": "grant",
+      "tags": [
+        "grant"
+      ],
+      "score": 80,
+      "freshness_status": "reference",
+      "freshness_label": "Date unknown",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Medium",
+        "score": 63,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
     }
   ]
 }

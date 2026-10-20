@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-19T10:55:41.582945+00:00",
-  "latest_generated_at": "2026-10-19T10:55:28.984701+00:00",
+  "generated_at": "2026-10-20T10:10:45.141974+00:00",
+  "latest_generated_at": "2026-10-20T10:10:32.788749+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
     "planning-infrastructure": 23,
     "ireland-catchment-practice": 16,
     "research-papers": 36,
-    "grants-opportunities": 13,
-    "waterbody-evidence-alerts": 27
+    "grants-opportunities": 14,
+    "waterbody-evidence-alerts": 26
   },
   "top_pressure_categories": [
     {
@@ -17,11 +17,11 @@
     },
     {
       "pressure": "agricultural runoff",
-      "count": 37
+      "count": 38
     },
     {
       "pressure": "policy / governance",
-      "count": 36
+      "count": 37
     },
     {
       "pressure": "water quality",
@@ -33,7 +33,7 @@
     },
     {
       "pressure": "habitat / biodiversity",
-      "count": 24
+      "count": 23
     },
     {
       "pressure": "citizen science / monitoring",
@@ -41,7 +41,7 @@
     },
     {
       "pressure": "funding / grant",
-      "count": 14
+      "count": 15
     },
     {
       "pressure": "nutrients",
@@ -52,12 +52,12 @@
       "count": 8
     },
     {
-      "pressure": "septic / domestic wastewater",
-      "count": 7
-    },
-    {
       "pressure": "incident / alert",
       "count": 6
+    },
+    {
+      "pressure": "septic / domestic wastewater",
+      "count": 5
     }
   ],
   "items": [
@@ -70,7 +70,7 @@
       "published": "2026-09-22",
       "score": 89,
       "practical_score": 123.0,
-      "freshness_label": "27 days old",
+      "freshness_label": "28 days old",
       "pressure_categories": [
         "agricultural runoff",
         "policy / governance"
@@ -95,7 +95,7 @@
       "published": "2026-10-03",
       "score": 89,
       "practical_score": 129.0,
-      "freshness_label": "16 days old",
+      "freshness_label": "17 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -122,7 +122,7 @@
       "published": "2026-10-14",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "5 days old",
+      "freshness_label": "6 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -143,35 +143,37 @@
       "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred."
     },
     {
-      "id": "e0e50cd1e532cb65",
-      "title": "16 Louth projects receive funding under Environmental Action Fund - Ireland Live News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2F2UHZqX3Npb1ZncFcxMkFtUXIzU3B5Ti13UkNMZVdEWm1nWDhESUdIYWJocUpTbzZKdnNjQWpNVlBBYjlPS0pfM3pEM0ZjeWZQdGt6OEdHS0RSaFpmRnZGd3djUVhoeTQ4dGE3bmpEZ1dmWXcyNFMzU3RobDY4b1c5OGFTMnJJNWJ1dlBOYnhiY0RuY2lkTHJ4RHEzaEgxQlFKOUhNSUtGZkw5VXdoSWtaY0VFUXl0?oc=5",
+      "id": "ec191fbb891667ed",
+      "title": "Skip to main content",
+      "url": "https://www.fisheriesireland.ie/news",
       "section": "grants-opportunities",
-      "source_name": "Google News: water and biodiversity grants Ireland",
-      "published": "2026-10-16",
-      "score": 91,
-      "practical_score": 137.0,
-      "freshness_label": "3 days old",
+      "source_name": "Inland Fisheries Ireland",
+      "published": null,
+      "score": 100,
+      "practical_score": 147.0,
+      "freshness_label": "Date unknown",
       "pressure_categories": [
+        "agricultural runoff",
         "habitat / biodiversity",
-        "funding / grant"
+        "incident / alert",
+        "funding / grant",
+        "planning / infrastructure"
       ],
       "local_relevance": {
-        "score": 32,
-        "label": "Moderate local relevance",
+        "score": 10,
+        "label": "Ireland-wide relevance",
         "matched_terms": [
-          "Ireland",
-          "louth"
+          "Ireland"
         ]
       },
       "opportunity_fit": {
-        "fit": "High",
-        "score": 77,
+        "fit": "Medium",
+        "score": 71,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
       },
       "research_use_type": null,
-      "action_relevance": "Funding signal for the Trust: check whether this can support habitat / biodiversity, funding / grant, citizen science, engagement, or small catchment actions."
+      "action_relevance": "Funding signal for the Trust: check whether this can support agricultural runoff, habitat / biodiversity, incident / alert, citizen science, engagement, or small catchment actions."
     },
     {
       "id": "2ba35c94b1962cac",
