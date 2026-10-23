@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:19:14.900502+00:00",
+  "generated_at": "2026-10-23T10:13:14.788728+00:00",
   "note": "Source-led daily radar for Nanny-Delvin: practical Irish catchment signals, waterbody evidence/alerts, grants/opportunities, and research ranked by Trust usefulness.",
   "sections": [
     {
@@ -31,6 +31,83 @@
   "count": 115,
   "items": [
     {
+      "id": "56b9c538d44d60e6",
+      "title": "Road layout and limited land availability may hamper safe pedestrian crossing works at Laytown station, cllrs told - Meath Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbkNSeGNWMW9BdFpvejVtZjd2aGdxMnlndF9Da2ZEYWgxRy11WVAycUJIQk0wRW5aamRrcDJINWdlVXdZdGQxeUZ0bHZsek9GQng0b2JKV0t1dUdYeGUtWjNjNkFOMnNmNEQ1UnBDSlR3MnNic1plVGRCUGwtVDE0cEVpNzVYYXhMR21jcjN0WFFjX1RuVjE2VFhJOVZzSExyZmkyNktLM2xWTF9RVW0tTlpmbF9ySWFvVHZCN2FyaEl3MVBsV1dGZ2M0YVVBTkdKa2lfNkNQekFaN2NLOWlKbkpkQ1hxRDhkU3lV?oc=5",
+      "summary": "Road layout and limited land availability may hamper safe pedestrian crossing works at Laytown station, cllrs told Meath Chronicle",
+      "published": "2026-10-14",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "planning-infrastructure",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "9 days old",
+      "pressure_categories": [
+        "planning / infrastructure"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "delvin",
+          "east meath",
+          "laytown",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred."
+    },
+    {
+      "id": "b87558ef7a1709f1",
+      "title": "Julianstown Traffic Relief Scheme backed after HGV vote, residents say - Drogheda Life",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzNEZjUEJIekhhTWJFUXVQMTRMQ0tFYTgtNXpIUjc1aEJveVUtS3ppeDQzSHpjMHozM2ExTjdPalR5YzhKa3hyY21EQzA4U1Y3NmVBZGFSeXBGLU9MVExwYmM0RzFuX3A2THZqeE50OVV0dl9LeTlj?oc=5",
+      "summary": "Julianstown Traffic Relief Scheme backed after HGV vote, residents say Drogheda Life",
+      "published": "2026-10-13",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "planning-infrastructure",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "10 days old",
+      "pressure_categories": [
+        "planning / infrastructure"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "delvin",
+          "east meath",
+          "julianstown",
+          "julianstown traffic relief scheme",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred.",
+      "linkedin_story_candidate": true,
+      "cross_pollination": {
+        "target": "water-nbs-story-radar",
+        "status": "candidate",
+        "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
+      }
+    },
+    {
       "id": "b0251d564a177c36",
       "title": "Julianstown Traffic Relief Scheme at heart of new residents’ group - Drogheda Life",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVZlVGFaTVRSTGZEemFob1E3ZkRCQ2NuaXU0M2ktdW5rR1lCWU1QWFBZYzJ1N3JCV2w4dTRRdVlidmFvaDVBVkNGVjNTSlk5QTNPanlzM3Z6dU5GMjdxSm9QSjlZTF9sWmxoanNKTEZiVEZZLWEweE9KZHRIWWJrVEc0Rm1oQQ?oc=5",
@@ -47,7 +124,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "23 days old",
+      "freshness_label": "24 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -89,7 +166,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "23 days old",
+      "freshness_label": "24 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -125,7 +202,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "26 days old",
+      "freshness_label": "27 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -167,7 +244,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "36 days old",
+      "freshness_label": "37 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -177,6 +254,41 @@
         "matched_terms": [
           "Ireland",
           "balbriggan",
+          "delvin",
+          "east meath",
+          "meath",
+          "nanny",
+          "nanny-delvin"
+        ]
+      },
+      "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred."
+    },
+    {
+      "id": "490e83c525854e5c",
+      "title": "Councillors back no confidence motion in traffic relief options for East Meath village plagued by congestion - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSlBPbmF4RmRuTkptQXBZbVVnX09OUEJkNW1QXzBnYlFsdEpETWJZbUt1RnViVWVHcS0yZTRrYmFOYjNlMFMzX2ZFVllBN0txMzhCRHNJSWJ2MmtyOUJ4dkNlOFk3cWtMMThUZVZXUnIxc2pwT2ZUYXB4TU1xVU03eUl4WXRyTW9LaGZzRWxxTFlidjRQd2NMc1ZSS21wczlnb3ZYcm9iNklJbmZyaHliUHZtUGNjdm9KU0IwMGNNcmZNNEdTWTdROF8wdWZUZUJjeGRqR0dOenhvSzVfYnN3VVoyTklTTmRLdXBDU0dkWEx5dlVxc3hUcg?oc=5",
+      "summary": "Councillors back no confidence motion in traffic relief options for East Meath village plagued by congestion Irish Independent",
+      "published": "2026-09-14",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "planning-infrastructure",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "planning-infrastructure"
+      ],
+      "score": 100,
+      "freshness_status": "fresh",
+      "freshness_label": "39 days old",
+      "pressure_categories": [
+        "planning / infrastructure"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
           "delvin",
           "east meath",
           "meath",
@@ -203,7 +315,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "45 days old",
+      "freshness_label": "46 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -243,7 +355,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "51 days old",
+      "freshness_label": "52 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -284,7 +396,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "65 days old",
+      "freshness_label": "66 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -326,7 +438,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "80 days old",
+      "freshness_label": "81 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -367,7 +479,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "84 days old",
+      "freshness_label": "85 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -407,7 +519,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "86 days old",
+      "freshness_label": "87 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -449,7 +561,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "93 days old · background",
+      "freshness_label": "94 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -491,7 +603,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "95 days old · background",
+      "freshness_label": "96 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -502,48 +614,6 @@
           "delvin",
           "julianstown",
           "julianstown traffic relief scheme",
-          "nanny",
-          "nanny-delvin"
-        ]
-      },
-      "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred.",
-      "linkedin_story_candidate": true,
-      "cross_pollination": {
-        "target": "water-nbs-story-radar",
-        "status": "candidate",
-        "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
-      }
-    },
-    {
-      "id": "9ce089912b98a5f1",
-      "title": "Four potential route options remain under consideration for the long-awaited Julianstown Traffic Relief Scheme - Meath Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRzhqcy1DUjN0RFRxdlVhRDlhR213R0NMSWdtT2RxRlZ0V1ZnU1l0NXhSSEdyaFhkUWVLYVo3Q0hod2pxR0JqeTBKXzFZcVhLWHVBUGpfZFVyVVBYRzVGMk94S3hic0dWMmgyM0g5S1E0M1ZCWmR3Qnp3QWJYSUxUb1J2SmxuZVFwX3U5V3k4OHZBeUp6QnVVbWwwU3pXaHE3ZVNMRVFMcFpsbHZUU1RxZzkwMnlGTWdnTThOTUVqRTNaZU0zb0xNdmpEekxJYmZwU0JsYXJGbVFmNE9YMUZtME12cHcyWTQ?oc=5",
-      "summary": "Four potential route options remain under consideration for the long-awaited Julianstown Traffic Relief Scheme Meath Chronicle",
-      "published": "2026-06-18",
-      "source_id": "google-news-east-meath-planning-infrastructure",
-      "source_name": "Google News: East Meath planning and infrastructure",
-      "publisher": "Google News: East Meath planning and infrastructure",
-      "section": "planning-infrastructure",
-      "theme": "planning-infrastructure",
-      "tags": [
-        "nanny-delvin-local",
-        "planning-infrastructure"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "126 days old · background",
-      "pressure_categories": [
-        "planning / infrastructure"
-      ],
-      "local_relevance": {
-        "score": 100,
-        "label": "High local relevance",
-        "matched_terms": [
-          "delvin",
-          "east meath",
-          "julianstown",
-          "julianstown traffic relief scheme",
-          "meath",
           "nanny",
           "nanny-delvin"
         ]
@@ -573,7 +643,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "213 days old · background",
+      "freshness_label": "214 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -615,7 +685,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "246 days old · background",
+      "freshness_label": "247 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -657,7 +727,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "429 days old · background",
+      "freshness_label": "430 days old · background",
       "pressure_categories": [
         "nutrients",
         "habitat / biodiversity",
@@ -907,11 +977,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2022 · 152 citations · open access",
+      "freshness_label": "2022 · 153 citations · open access",
       "practical_fit": "High practical fit · General transferable evidence",
       "geographic_relevance": "General transferable evidence",
       "doi": "https://doi.org/10.3390/d14030172",
-      "cited_by_count": 152,
+      "cited_by_count": 153,
       "openalex_id": "https://openalex.org/W4214656466",
       "pressure_categories": [
         "water quality",
@@ -1192,11 +1262,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2020 · 52 citations · open access",
+      "freshness_label": "2020 · 54 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.1002/jeq2.20155",
-      "cited_by_count": 52,
+      "cited_by_count": 54,
       "openalex_id": "https://openalex.org/W3088387940",
       "pressure_categories": [
         "water quality",
@@ -1443,11 +1513,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2016 · 256 citations · open access",
+      "freshness_label": "2016 · 257 citations · open access",
       "practical_fit": "High practical fit · Ireland / direct relevance",
       "geographic_relevance": "Ireland / direct relevance",
       "doi": "https://doi.org/10.1186/s13750-016-0060-0",
-      "cited_by_count": 256,
+      "cited_by_count": 257,
       "openalex_id": "https://openalex.org/W2109326402",
       "pressure_categories": [
         "water quality",
@@ -2452,6 +2522,43 @@
       "research_use_type": "Monitoring method"
     },
     {
+      "id": "5f3c4be5d3c063d0",
+      "title": "£3.7bn plan to halt sewage pollution in Lake District ‘jewel’ Windermere - The Irish News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWpkcHBZZFgyUEstcnhnWlRsaVJZQWVLMTRhUmJxbkN6aXFuT1JoQlI1LWlSSjZYUW5RZzRpWlgtcGJtbG5Mc1ZPZ25Ja05RYnlRRjBVR0Q0OVYzT3gzUVVnTmh3SVRwazhyT1lKR3ktREJWNktNNGhTZi0yczdZSXV0bVRyN3E4clVBNzNocVFNWUtDd1NJUGtPb3VpUXNlMjVSQkIydFZLbGZ5eUlqRG45ekNsVllCU0JUblU5Q0VrOWFEeU5GYQ?oc=5",
+      "summary": "£3.7bn plan to halt sewage pollution in Lake District ‘jewel’ Windermere The Irish News",
+      "published": "2026-10-21",
+      "source_id": "google-news-community-water-grants",
+      "source_name": "Google News: water and biodiversity grants Ireland",
+      "publisher": "Google News: water and biodiversity grants Ireland",
+      "section": "waterbody-evidence-alerts",
+      "theme": "water-quality",
+      "tags": [
+        "water-quality",
+        "lake"
+      ],
+      "score": 98,
+      "freshness_status": "fresh",
+      "freshness_label": "2 days old",
+      "pressure_categories": [
+        "habitat / biodiversity",
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support habitat / biodiversity, funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "High",
+        "score": 77,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
       "id": "eacb66a6299c9e28",
       "title": "Louth County Council told first sign of life evident in River Glyde after 20,000 fish kill - Irish Independent",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzZrVlZDRndycFNvWVlfZThjWkM1TUtOOGZ4RUNYeTc4TzRGeFpMZmZjcWtBXy0wb1VPUDQ5dG1Ea3hnQVlXTVlDWEY3d21ZeTRNN3hJbTdFc2gwWTFyX2xhVzR1VC1tMDFiS3RxeG9BWWZNb1NyUThUNW1LTGQyVXFBU0REMW9kZHR4X1VfYVB2eUIydkFDSzdmb29OYUF3aWFzZjdKWnFLZ1RaRm1YVlJleFVUYXJTUUhBUlEydDZxVE9oQ0F5aDE2dmI0M0FpZzFpRTJ1ZTk3UHRRWXRR?oc=5",
@@ -2467,7 +2574,7 @@
       ],
       "score": 97,
       "freshness_status": "fresh",
-      "freshness_label": "30 days old",
+      "freshness_label": "31 days old",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -2537,7 +2644,7 @@
       ],
       "score": 96,
       "freshness_status": "reference",
-      "freshness_label": "140 days old · background",
+      "freshness_label": "141 days old · background",
       "pressure_categories": [
         "river ecology",
         "funding / grant",
@@ -2713,7 +2820,7 @@
       ],
       "score": 94,
       "freshness_status": "fresh",
-      "freshness_label": "79 days old",
+      "freshness_label": "80 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2737,47 +2844,6 @@
       }
     },
     {
-      "id": "c15944002653fd1a",
-      "title": "Louth TD Erin McGreehan urges expansion of septic tank repair grants - Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjI2U3E3Nnl4a3d2bUdhdVdOcXdEZjJoWEx2OUpna2xNdElaa2duTEgxZlBpSHBwNERWYXBPbUlBeGt6R2huT3A0SUNHNTVsd25KdVlyLUo2bDZQMHBFd1ZSU3h0UDl1WS1PRm9ieEwxZzNqNDFEb1RiRE8xU0xYWUVTS1RETTl4RnhZN3JpTWZWLVlZQUE2NnZWbXFZb1VDdVpfWGtWcDVLTWZiZlZWdDdWRFgyekEwTkNaRFZaTENLVTQ?oc=5",
-      "summary": "Louth TD Erin McGreehan urges expansion of septic tank repair grants Irish Independent",
-      "published": "2026-07-10",
-      "source_id": "google-news-meath-louth-fingal-catchment",
-      "source_name": "Google News: Meath Louth Fingal catchment signals",
-      "publisher": "Google News: Meath Louth Fingal catchment signals",
-      "section": "grants-opportunities",
-      "theme": "grant",
-      "tags": [
-        "septic-wastewater",
-        "grant"
-      ],
-      "score": 93,
-      "freshness_status": "reference",
-      "freshness_label": "104 days old · background",
-      "pressure_categories": [
-        "septic / domestic wastewater",
-        "funding / grant",
-        "policy / governance"
-      ],
-      "local_relevance": {
-        "score": 72,
-        "label": "High local relevance",
-        "matched_terms": [
-          "Ireland",
-          "fingal",
-          "louth",
-          "meath"
-        ]
-      },
-      "action_relevance": "Funding signal for the Trust: check whether this can support septic / domestic wastewater, funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
-      "opportunity_fit": {
-        "fit": "Medium",
-        "score": 63,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      }
-    },
-    {
       "id": "8ca1831d502d0bca",
       "title": "Major traffic relief scheme for Julianstown in Meath moves forward - Irish Independent",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRTRXY29hNGZRa2xFbERsbWRCY2o1SmNMQi1BRFhRalZtWVJwY3A0ampCRkVfODBlSEhuOUVVb3k5YVZVcndoTVBuSXdfc2M0STBxUENWcjIwMTV0anBKMmVaTktGRzkxSFNIRmk3S2RJRjN2XzFFTjA5OHVwY2RDSzY0ZnczdjZrV1pCd2FVc3BqSDRENktseE5STGhZaHdLdll2ZHo5YjBMSU1TdXpSbG5lN2JsTERjaV9aa3N0OVQ?oc=5",
@@ -2794,7 +2860,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "315 days old · background",
+      "freshness_label": "316 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2829,7 +2895,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "441 days old · background",
+      "freshness_label": "442 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -2864,7 +2930,7 @@
       ],
       "score": 92,
       "freshness_status": "reference",
-      "freshness_label": "162 days old · background",
+      "freshness_label": "163 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2900,7 +2966,7 @@
       ],
       "score": 92,
       "freshness_status": "reference",
-      "freshness_label": "358 days old · background",
+      "freshness_label": "359 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3037,7 +3103,7 @@
       ],
       "score": 91,
       "freshness_status": "reference",
-      "freshness_label": "92 days old · background",
+      "freshness_label": "93 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3106,7 +3172,7 @@
       ],
       "score": 90,
       "freshness_status": "reference",
-      "freshness_label": "156 days old · background",
+      "freshness_label": "157 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater"
       ],
@@ -3155,41 +3221,6 @@
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
     },
     {
-      "id": "eb2788abced8f997",
-      "title": "East Meath Bridge Club - Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVJFZXhBZzFKTEpRbGw2RzlHQ29QeDJrQ2poUGpsblI2bU5yWHkxU2haUFZYQ2t5dXMzdWFfa3VtUXlPNm5mZEhYb21PYVV6b3ZQTEVFXzBSVlVMaGU1WEJ4VVRrR19rSEZfbzlMY1UyS204OUlhUVdhYmxlU0hiMDB3c2NXUjlSTy1JY2RvQ2JTcllfY0doRQ?oc=5",
-      "summary": "East Meath Bridge Club Irish Independent",
-      "published": "2011-01-19",
-      "source_id": "google-news-east-meath-planning-infrastructure",
-      "source_name": "Google News: East Meath planning and infrastructure",
-      "publisher": "Google News: East Meath planning and infrastructure",
-      "section": "planning-infrastructure",
-      "theme": "nanny-delvin-local",
-      "tags": [
-        "nanny-delvin-local",
-        "planning-infrastructure"
-      ],
-      "score": 90,
-      "freshness_status": "reference",
-      "freshness_label": "5755 days old · background",
-      "pressure_categories": [
-        "planning / infrastructure"
-      ],
-      "local_relevance": {
-        "score": 100,
-        "label": "High local relevance",
-        "matched_terms": [
-          "Ireland",
-          "delvin",
-          "east meath",
-          "meath",
-          "nanny",
-          "nanny-delvin"
-        ]
-      },
-      "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred."
-    },
-    {
       "id": "5821ef6dd0c20b6f",
       "title": "Agri jobs: Meath water quality EIP seeks community animator - Irish Farmers Journal",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUXZON2w4WXFFUUZYNmpwaXNEdkNFN3l5cldIajhBWXo0aDBPd0g3elFESFFoeW51bkRUaFZ1UHptVUVnaXVwcF9WVnRMbGIwODVKR1hPTlRRcUNsMkdOWlVuUXFUWk02SDhtYWFiTU5KMTBoRmZlRlRhYW9OSjJEOHE2VUthOHdHSGhrajk0X1VpVnBZQjN2cDkxVmgwR0N6UE5HLVViQ2M?oc=5",
@@ -3205,7 +3236,7 @@
       ],
       "score": 89,
       "freshness_status": "fresh",
-      "freshness_label": "19 days old",
+      "freshness_label": "20 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -3238,7 +3269,7 @@
       ],
       "score": 89,
       "freshness_status": "fresh",
-      "freshness_label": "30 days old",
+      "freshness_label": "31 days old",
       "pressure_categories": [
         "agricultural runoff",
         "policy / governance"
@@ -3336,7 +3367,7 @@
       ],
       "score": 88,
       "freshness_status": "reference",
-      "freshness_label": "120 days old · background",
+      "freshness_label": "121 days old · background",
       "pressure_categories": [
         "manure / slurry timing",
         "slurry-manure-timing",
@@ -3370,7 +3401,7 @@
       ],
       "score": 88,
       "freshness_status": "reference",
-      "freshness_label": "127 days old · background",
+      "freshness_label": "128 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3439,7 +3470,7 @@
       ],
       "score": 87,
       "freshness_status": "reference",
-      "freshness_label": "154 days old · background",
+      "freshness_label": "155 days old · background",
       "pressure_categories": [
         "agricultural runoff",
         "funding / grant",
@@ -3514,7 +3545,7 @@
       ],
       "score": 87,
       "freshness_status": "reference",
-      "freshness_label": "2322 days old · background",
+      "freshness_label": "2323 days old · background",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -3549,7 +3580,7 @@
       ],
       "score": 86,
       "freshness_status": "reference",
-      "freshness_label": "127 days old · background",
+      "freshness_label": "128 days old · background",
       "pressure_categories": [
         "citizen science / monitoring"
       ],
@@ -3579,7 +3610,7 @@
       ],
       "score": 85,
       "freshness_status": "fresh",
-      "freshness_label": "30 days old",
+      "freshness_label": "31 days old",
       "pressure_categories": [
         "agricultural runoff",
         "policy / governance"
@@ -3609,7 +3640,7 @@
       ],
       "score": 85,
       "freshness_status": "fresh",
-      "freshness_label": "57 days old",
+      "freshness_label": "58 days old",
       "pressure_categories": [
         "septic / domestic wastewater"
       ],
@@ -3639,7 +3670,7 @@
       ],
       "score": 85,
       "freshness_status": "reference",
-      "freshness_label": "897 days old · background",
+      "freshness_label": "898 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant"
@@ -3828,7 +3859,7 @@
       ],
       "score": 83,
       "freshness_status": "reference",
-      "freshness_label": "139 days old · background",
+      "freshness_label": "140 days old · background",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -3857,7 +3888,7 @@
       ],
       "score": 83,
       "freshness_status": "reference",
-      "freshness_label": "139 days old · background",
+      "freshness_label": "140 days old · background",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -3932,35 +3963,6 @@
       "action_relevance": "General practical signal: may help the Trust track general catchment signal, policy, funding, monitoring, or community action."
     },
     {
-      "id": "dc53ce2152fac277",
-      "title": "EPA says Ireland’s water quality still ‘unsatisfactory’ as 2025 report finds no overall improvement - Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMHk2TUtadWV0UXg4RlJJMWtNSHFnZXVqSzdmN2NSN1VBdmptTUs3UnhRRGNmcFBHem1ocXY3S1lRYlo1dENPMERNQ2xlZUFxYjZxaGRkV3U0d0FxR1p5RXhNV1N4WHFObU9tQkZRZm16eEtxZ2E3RGl5RFhOZl81VHhRMEVYSUdEV2hJYl92b3RYVnhPYVVRVlU5ZXZsajlLMXJCXzlpM0hmR1pUUHhHZ1VsaG5ZVlBzMkJUSnFmM3NnWU9EbHRaVWJIc2lpY1Y2V19qN1dISFpKQy1IZU1sVXB1NEljdw?oc=5",
-      "summary": "EPA says Ireland’s water quality still ‘unsatisfactory’ as 2025 report finds no overall improvement Irish Independent",
-      "published": "2026-06-17",
-      "source_id": "google-news-ireland-river-water-quality",
-      "source_name": "Google News: Ireland river water quality",
-      "publisher": "Google News: Ireland river water quality",
-      "section": "ireland-catchment-practice",
-      "theme": "water-quality",
-      "tags": [
-        "water-quality"
-      ],
-      "score": 81,
-      "freshness_status": "reference",
-      "freshness_label": "127 days old · background",
-      "pressure_categories": [
-        "policy / governance"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "General practical signal: may help the Trust track policy / governance, policy, funding, monitoring, or community action."
-    },
-    {
       "id": "ec769a75b6057f8e",
       "title": "Almost 60% of septic tanks failed inspection last year, EPA report finds - Irish Examiner",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oUmM0SmIxeVBhWmE3ZTEtSFJ1ZTJvWGJLa1A0N3ZueTZWOEh6dHB0c0pXY21uY1kzaHdqbmhFelE5Z3hQMWsxS0lzNjB5cUlHYVRGMXVXcWZyNk9Hdk5lMkhORQ?oc=5",
@@ -3976,7 +3978,7 @@
       ],
       "score": 81,
       "freshness_status": "reference",
-      "freshness_label": "156 days old · background",
+      "freshness_label": "157 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "policy / governance"
@@ -4006,7 +4008,7 @@
       ],
       "score": 81,
       "freshness_status": "reference",
-      "freshness_label": "156 days old · background",
+      "freshness_label": "157 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "policy / governance"

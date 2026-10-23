@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-22T10:19:26.251959+00:00",
-  "latest_generated_at": "2026-10-22T10:19:14.900502+00:00",
+  "generated_at": "2026-10-23T10:13:27.775693+00:00",
+  "latest_generated_at": "2026-10-23T10:13:14.788728+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
-    "planning-infrastructure": 20,
-    "ireland-catchment-practice": 18,
+    "planning-infrastructure": 21,
+    "ireland-catchment-practice": 17,
     "research-papers": 36,
-    "grants-opportunities": 14,
-    "waterbody-evidence-alerts": 27
+    "grants-opportunities": 13,
+    "waterbody-evidence-alerts": 28
   },
   "top_pressure_categories": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "pressure": "policy / governance",
-      "count": 37
+      "count": 35
     },
     {
       "pressure": "water quality",
@@ -29,11 +29,11 @@
     },
     {
       "pressure": "planning / infrastructure",
-      "count": 28
+      "count": 29
     },
     {
       "pressure": "habitat / biodiversity",
-      "count": 22
+      "count": 23
     },
     {
       "pressure": "citizen science / monitoring",
@@ -57,7 +57,7 @@
     },
     {
       "pressure": "septic / domestic wastewater",
-      "count": 6
+      "count": 5
     }
   ],
   "items": [
@@ -70,7 +70,7 @@
       "published": "2026-09-22",
       "score": 89,
       "practical_score": 123.0,
-      "freshness_label": "30 days old",
+      "freshness_label": "31 days old",
       "pressure_categories": [
         "agricultural runoff",
         "policy / governance"
@@ -87,43 +87,45 @@
       "action_relevance": "General practical signal: may help the Trust track agricultural runoff, policy / governance, policy, funding, monitoring, or community action."
     },
     {
-      "id": "eacb66a6299c9e28",
-      "title": "Louth County Council told first sign of life evident in River Glyde after 20,000 fish kill - Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzZrVlZDRndycFNvWVlfZThjWkM1TUtOOGZ4RUNYeTc4TzRGeFpMZmZjcWtBXy0wb1VPUDQ5dG1Ea3hnQVlXTVlDWEY3d21ZeTRNN3hJbTdFc2gwWTFyX2xhVzR1VC1tMDFiS3RxeG9BWWZNb1NyUThUNW1LTGQyVXFBU0REMW9kZHR4X1VfYVB2eUIydkFDSzdmb29OYUF3aWFzZjdKWnFLZ1RaRm1YVlJleFVUYXJTUUhBUlEydDZxVE9oQ0F5aDE2dmI0M0FpZzFpRTJ1ZTk3UHRRWXRR?oc=5",
+      "id": "5f3c4be5d3c063d0",
+      "title": "£3.7bn plan to halt sewage pollution in Lake District ‘jewel’ Windermere - The Irish News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWpkcHBZZFgyUEstcnhnWlRsaVJZQWVLMTRhUmJxbkN6aXFuT1JoQlI1LWlSSjZYUW5RZzRpWlgtcGJtbG5Mc1ZPZ25Ja05RYnlRRjBVR0Q0OVYzT3gzUVVnTmh3SVRwazhyT1lKR3ktREJWNktNNGhTZi0yczdZSXV0bVRyN3E4clVBNzNocVFNWUtDd1NJUGtPb3VpUXNlMjVSQkIydFZLbGZ5eUlqRG45ekNsVllCU0JUblU5Q0VrOWFEeU5GYQ?oc=5",
       "section": "waterbody-evidence-alerts",
-      "source_name": "Google News: Meath Louth Fingal catchment signals",
-      "published": "2026-09-22",
-      "score": 97,
-      "practical_score": 137.0,
-      "freshness_label": "30 days old",
+      "source_name": "Google News: water and biodiversity grants Ireland",
+      "published": "2026-10-21",
+      "score": 98,
+      "practical_score": 141.0,
+      "freshness_label": "2 days old",
       "pressure_categories": [
-        "incident / alert"
+        "habitat / biodiversity",
+        "funding / grant"
       ],
       "local_relevance": {
-        "score": 90,
-        "label": "High local relevance",
+        "score": 10,
+        "label": "Ireland-wide relevance",
         "matched_terms": [
-          "Ireland",
-          "fingal",
-          "louth",
-          "louth county council",
-          "meath"
+          "Ireland"
         ]
       },
-      "opportunity_fit": null,
+      "opportunity_fit": {
+        "fit": "High",
+        "score": 77,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      },
       "research_use_type": null,
-      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
+      "action_relevance": "Funding signal for the Trust: check whether this can support habitat / biodiversity, funding / grant, citizen science, engagement, or small catchment actions."
     },
     {
-      "id": "b0251d564a177c36",
-      "title": "Julianstown Traffic Relief Scheme at heart of new residents’ group - Drogheda Life",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVZlVGFaTVRSTGZEemFob1E3ZkRCQ2NuaXU0M2ktdW5rR1lCWU1QWFBZYzJ1N3JCV2w4dTRRdVlidmFvaDVBVkNGVjNTSlk5QTNPanlzM3Z6dU5GMjdxSm9QSjlZTF9sWmxoanNKTEZiVEZZLWEweE9KZHRIWWJrVEc0Rm1oQQ?oc=5",
+      "id": "56b9c538d44d60e6",
+      "title": "Road layout and limited land availability may hamper safe pedestrian crossing works at Laytown station, cllrs told - Meath Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbkNSeGNWMW9BdFpvejVtZjd2aGdxMnlndF9Da2ZEYWgxRy11WVAycUJIQk0wRW5aamRrcDJINWdlVXdZdGQxeUZ0bHZsek9GQng0b2JKV0t1dUdYeGUtWjNjNkFOMnNmNEQ1UnBDSlR3MnNic1plVGRCUGwtVDE0cEVpNzVYYXhMR21jcjN0WFFjX1RuVjE2VFhJOVZzSExyZmkyNktLM2xWTF9RVW0tTlpmbF9ySWFvVHZCN2FyaEl3MVBsV1dGZ2M0YVVBTkdKa2lfNkNQekFaN2NLOWlKbkpkQ1hxRDhkU3lV?oc=5",
       "section": "planning-infrastructure",
       "source_name": "Google News: East Meath planning and infrastructure",
-      "published": "2026-09-29",
+      "published": "2026-10-14",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "23 days old",
+      "freshness_label": "9 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -133,8 +135,7 @@
         "matched_terms": [
           "delvin",
           "east meath",
-          "julianstown",
-          "julianstown traffic relief scheme",
+          "laytown",
           "meath",
           "nanny",
           "nanny-delvin"
@@ -186,7 +187,7 @@
       "published": "2022-02-27",
       "score": 100,
       "practical_score": 142.0,
-      "freshness_label": "2022 · 152 citations · open access",
+      "freshness_label": "2022 · 153 citations · open access",
       "pressure_categories": [
         "water quality",
         "agricultural runoff",
