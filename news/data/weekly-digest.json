@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T10:13:27.775693+00:00",
-  "latest_generated_at": "2026-10-23T10:13:14.788728+00:00",
+  "generated_at": "2026-10-24T09:38:02.163710+00:00",
+  "latest_generated_at": "2026-10-24T09:37:50.346426+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
     "planning-infrastructure": 21,
-    "ireland-catchment-practice": 17,
+    "grants-opportunities": 14,
+    "ireland-catchment-practice": 16,
     "research-papers": 36,
-    "grants-opportunities": 13,
     "waterbody-evidence-alerts": 28
   },
   "top_pressure_categories": [
@@ -17,7 +17,7 @@
     },
     {
       "pressure": "agricultural runoff",
-      "count": 38
+      "count": 39
     },
     {
       "pressure": "policy / governance",
@@ -29,11 +29,11 @@
     },
     {
       "pressure": "planning / infrastructure",
-      "count": 29
+      "count": 28
     },
     {
       "pressure": "habitat / biodiversity",
-      "count": 23
+      "count": 24
     },
     {
       "pressure": "citizen science / monitoring",
@@ -52,12 +52,12 @@
       "count": 8
     },
     {
-      "pressure": "incident / alert",
-      "count": 8
+      "pressure": "septic / domestic wastewater",
+      "count": 7
     },
     {
-      "pressure": "septic / domestic wastewater",
-      "count": 5
+      "pressure": "incident / alert",
+      "count": 7
     }
   ],
   "items": [
@@ -70,7 +70,7 @@
       "published": "2026-09-22",
       "score": 89,
       "practical_score": 123.0,
-      "freshness_label": "31 days old",
+      "freshness_label": "32 days old",
       "pressure_categories": [
         "agricultural runoff",
         "policy / governance"
@@ -87,34 +87,32 @@
       "action_relevance": "General practical signal: may help the Trust track agricultural runoff, policy / governance, policy, funding, monitoring, or community action."
     },
     {
-      "id": "5f3c4be5d3c063d0",
-      "title": "£3.7bn plan to halt sewage pollution in Lake District ‘jewel’ Windermere - The Irish News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWpkcHBZZFgyUEstcnhnWlRsaVJZQWVLMTRhUmJxbkN6aXFuT1JoQlI1LWlSSjZYUW5RZzRpWlgtcGJtbG5Mc1ZPZ25Ja05RYnlRRjBVR0Q0OVYzT3gzUVVnTmh3SVRwazhyT1lKR3ktREJWNktNNGhTZi0yczdZSXV0bVRyN3E4clVBNzNocVFNWUtDd1NJUGtPb3VpUXNlMjVSQkIydFZLbGZ5eUlqRG45ekNsVllCU0JUblU5Q0VrOWFEeU5GYQ?oc=5",
+      "id": "eacb66a6299c9e28",
+      "title": "Louth County Council told first sign of life evident in River Glyde after 20,000 fish kill - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzZrVlZDRndycFNvWVlfZThjWkM1TUtOOGZ4RUNYeTc4TzRGeFpMZmZjcWtBXy0wb1VPUDQ5dG1Ea3hnQVlXTVlDWEY3d21ZeTRNN3hJbTdFc2gwWTFyX2xhVzR1VC1tMDFiS3RxeG9BWWZNb1NyUThUNW1LTGQyVXFBU0REMW9kZHR4X1VfYVB2eUIydkFDSzdmb29OYUF3aWFzZjdKWnFLZ1RaRm1YVlJleFVUYXJTUUhBUlEydDZxVE9oQ0F5aDE2dmI0M0FpZzFpRTJ1ZTk3UHRRWXRR?oc=5",
       "section": "waterbody-evidence-alerts",
-      "source_name": "Google News: water and biodiversity grants Ireland",
-      "published": "2026-10-21",
-      "score": 98,
-      "practical_score": 141.0,
-      "freshness_label": "2 days old",
+      "source_name": "Google News: Meath Louth Fingal catchment signals",
+      "published": "2026-09-22",
+      "score": 97,
+      "practical_score": 137.0,
+      "freshness_label": "32 days old",
       "pressure_categories": [
-        "habitat / biodiversity",
-        "funding / grant"
+        "incident / alert"
       ],
       "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
+        "score": 90,
+        "label": "High local relevance",
         "matched_terms": [
-          "Ireland"
+          "Ireland",
+          "fingal",
+          "louth",
+          "louth county council",
+          "meath"
         ]
       },
-      "opportunity_fit": {
-        "fit": "High",
-        "score": 77,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      },
+      "opportunity_fit": null,
       "research_use_type": null,
-      "action_relevance": "Funding signal for the Trust: check whether this can support habitat / biodiversity, funding / grant, citizen science, engagement, or small catchment actions."
+      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
     },
     {
       "id": "56b9c538d44d60e6",
@@ -125,7 +123,7 @@
       "published": "2026-10-14",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "9 days old",
+      "freshness_label": "10 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],

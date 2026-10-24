@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:13:14.788728+00:00",
+  "generated_at": "2026-10-24T09:37:50.346426+00:00",
   "note": "Source-led daily radar for Nanny-Delvin: practical Irish catchment signals, waterbody evidence/alerts, grants/opportunities, and research ranked by Trust usefulness.",
   "sections": [
     {
@@ -47,7 +47,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "9 days old",
+      "freshness_label": "10 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -82,7 +82,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "10 days old",
+      "freshness_label": "11 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -124,7 +124,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "24 days old",
+      "freshness_label": "25 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -166,7 +166,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "24 days old",
+      "freshness_label": "25 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -202,7 +202,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "27 days old",
+      "freshness_label": "28 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -244,7 +244,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "37 days old",
+      "freshness_label": "38 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -280,7 +280,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "39 days old",
+      "freshness_label": "40 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -315,7 +315,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "46 days old",
+      "freshness_label": "47 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -355,7 +355,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "52 days old",
+      "freshness_label": "53 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -396,7 +396,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "66 days old",
+      "freshness_label": "67 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -438,7 +438,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "81 days old",
+      "freshness_label": "82 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -479,7 +479,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "85 days old",
+      "freshness_label": "86 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -519,7 +519,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "87 days old",
+      "freshness_label": "88 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -561,7 +561,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "94 days old · background",
+      "freshness_label": "95 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -603,7 +603,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "96 days old · background",
+      "freshness_label": "97 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -627,6 +627,45 @@
       }
     },
     {
+      "id": "c15944002653fd1a",
+      "title": "Louth TD Erin McGreehan urges expansion of septic tank repair grants - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjI2U3E3Nnl4a3d2bUdhdVdOcXdEZjJoWEx2OUpna2xNdElaa2duTEgxZlBpSHBwNERWYXBPbUlBeGt6R2huT3A0SUNHNTVsd25KdVlyLUo2bDZQMHBFd1ZSU3h0UDl1WS1PRm9ieEwxZzNqNDFEb1RiRE8xU0xYWUVTS1RETTl4RnhZN3JpTWZWLVlZQUE2NnZWbXFZb1VDdVpfWGtWcDVLTWZiZlZWdDdWRFgyekEwTkNaRFZaTENLVTQ?oc=5",
+      "summary": "Louth TD Erin McGreehan urges expansion of septic tank repair grants Irish Independent",
+      "published": "2026-07-10",
+      "source_id": "google-news-septic-tank-grants-ireland",
+      "source_name": "Google News: septic tanks and domestic wastewater Ireland",
+      "publisher": "Google News: septic tanks and domestic wastewater Ireland",
+      "section": "grants-opportunities",
+      "theme": "grant",
+      "tags": [
+        "septic-wastewater",
+        "grant"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "106 days old · background",
+      "pressure_categories": [
+        "septic / domestic wastewater",
+        "funding / grant",
+        "policy / governance"
+      ],
+      "local_relevance": {
+        "score": 32,
+        "label": "Moderate local relevance",
+        "matched_terms": [
+          "Ireland",
+          "louth"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support septic / domestic wastewater, funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Medium",
+        "score": 63,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
       "id": "a790b05cf4e4395f",
       "title": "Public urged to have say on Julianstown Traffic Relief Scheme before deadline - Drogheda Life",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGl3Z2YzUk1xUktSRDhSYnJrdFNUTVdkUlUtRzR1TTRFQ1pXQXlRNUxIbllVR3l1V1A5NGlCX0tIT21xSl8yRXhkdXA3NnREOVBHdzB6RGlTNGhKUWRMa0RvWVZadkhmOFFReUF3TEU1NnQwM0FhS3V4MjliaDNIaUdnU1NzeFNvTnFTb2JJV2ZkWF9yRUc3clFBS01oTUZLR0JiTDdB?oc=5",
@@ -643,7 +682,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "214 days old · background",
+      "freshness_label": "215 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -685,7 +724,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "247 days old · background",
+      "freshness_label": "248 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -727,7 +766,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "430 days old · background",
+      "freshness_label": "431 days old · background",
       "pressure_categories": [
         "nutrients",
         "habitat / biodiversity",
@@ -2522,43 +2561,6 @@
       "research_use_type": "Monitoring method"
     },
     {
-      "id": "5f3c4be5d3c063d0",
-      "title": "£3.7bn plan to halt sewage pollution in Lake District ‘jewel’ Windermere - The Irish News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWpkcHBZZFgyUEstcnhnWlRsaVJZQWVLMTRhUmJxbkN6aXFuT1JoQlI1LWlSSjZYUW5RZzRpWlgtcGJtbG5Mc1ZPZ25Ja05RYnlRRjBVR0Q0OVYzT3gzUVVnTmh3SVRwazhyT1lKR3ktREJWNktNNGhTZi0yczdZSXV0bVRyN3E4clVBNzNocVFNWUtDd1NJUGtPb3VpUXNlMjVSQkIydFZLbGZ5eUlqRG45ekNsVllCU0JUblU5Q0VrOWFEeU5GYQ?oc=5",
-      "summary": "£3.7bn plan to halt sewage pollution in Lake District ‘jewel’ Windermere The Irish News",
-      "published": "2026-10-21",
-      "source_id": "google-news-community-water-grants",
-      "source_name": "Google News: water and biodiversity grants Ireland",
-      "publisher": "Google News: water and biodiversity grants Ireland",
-      "section": "waterbody-evidence-alerts",
-      "theme": "water-quality",
-      "tags": [
-        "water-quality",
-        "lake"
-      ],
-      "score": 98,
-      "freshness_status": "fresh",
-      "freshness_label": "2 days old",
-      "pressure_categories": [
-        "habitat / biodiversity",
-        "funding / grant"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Funding signal for the Trust: check whether this can support habitat / biodiversity, funding / grant, citizen science, engagement, or small catchment actions.",
-      "opportunity_fit": {
-        "fit": "High",
-        "score": 77,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      }
-    },
-    {
       "id": "eacb66a6299c9e28",
       "title": "Louth County Council told first sign of life evident in River Glyde after 20,000 fish kill - Irish Independent",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzZrVlZDRndycFNvWVlfZThjWkM1TUtOOGZ4RUNYeTc4TzRGeFpMZmZjcWtBXy0wb1VPUDQ5dG1Ea3hnQVlXTVlDWEY3d21ZeTRNN3hJbTdFc2gwWTFyX2xhVzR1VC1tMDFiS3RxeG9BWWZNb1NyUThUNW1LTGQyVXFBU0REMW9kZHR4X1VfYVB2eUIydkFDSzdmb29OYUF3aWFzZjdKWnFLZ1RaRm1YVlJleFVUYXJTUUhBUlEydDZxVE9oQ0F5aDE2dmI0M0FpZzFpRTJ1ZTk3UHRRWXRR?oc=5",
@@ -2574,7 +2576,7 @@
       ],
       "score": 97,
       "freshness_status": "fresh",
-      "freshness_label": "31 days old",
+      "freshness_label": "32 days old",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -2644,7 +2646,7 @@
       ],
       "score": 96,
       "freshness_status": "reference",
-      "freshness_label": "141 days old · background",
+      "freshness_label": "142 days old · background",
       "pressure_categories": [
         "river ecology",
         "funding / grant",
@@ -2738,37 +2740,6 @@
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
     },
     {
-      "id": "7f8daa5ce415afd4",
-      "title": "Welcome to the River Basin Management Service River Basin Management Service is the new name for the Local Authority Waters Programme (LAWPRO). New name, same organisation with the same dedication to protecting and improving Ireland’s natur",
-      "url": "https://riverbasin.ie/river-basin-management-service-announced-as-new-name-for-local-authority-waters-programme/",
-      "summary": "Welcome to the River Basin Management Service River Basin Management Service is the new name for the Local Authority Waters Programme (LAWPRO). New name, same organisation with the same dedication to protecting and improving Ireland’s natural waters. Learn more!",
-      "published": null,
-      "source_id": "lawpro",
-      "source_name": "LAWPRO",
-      "publisher": "LAWPRO",
-      "section": "ireland-catchment-practice",
-      "theme": "catchment",
-      "tags": [
-        "catchment",
-        "planning-infrastructure"
-      ],
-      "score": 96,
-      "freshness_status": "reference",
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "policy / governance",
-        "planning / infrastructure"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "General practical signal: may help the Trust track policy / governance, planning / infrastructure, policy, funding, monitoring, or community action."
-    },
-    {
       "id": "7214de15481363da",
       "title": "Skip to main content",
       "url": "https://www.epa.ie/our-services/monitoring--assessment/freshwater--marine/",
@@ -2820,7 +2791,7 @@
       ],
       "score": 94,
       "freshness_status": "fresh",
-      "freshness_label": "80 days old",
+      "freshness_label": "81 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2860,7 +2831,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "316 days old · background",
+      "freshness_label": "317 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2895,7 +2866,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "442 days old · background",
+      "freshness_label": "443 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -2930,7 +2901,7 @@
       ],
       "score": 92,
       "freshness_status": "reference",
-      "freshness_label": "163 days old · background",
+      "freshness_label": "164 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2966,7 +2937,7 @@
       ],
       "score": 92,
       "freshness_status": "reference",
-      "freshness_label": "359 days old · background",
+      "freshness_label": "360 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3103,7 +3074,7 @@
       ],
       "score": 91,
       "freshness_status": "reference",
-      "freshness_label": "93 days old · background",
+      "freshness_label": "94 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3172,7 +3143,7 @@
       ],
       "score": 90,
       "freshness_status": "reference",
-      "freshness_label": "157 days old · background",
+      "freshness_label": "158 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater"
       ],
@@ -3236,7 +3207,7 @@
       ],
       "score": 89,
       "freshness_status": "fresh",
-      "freshness_label": "20 days old",
+      "freshness_label": "21 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -3269,7 +3240,7 @@
       ],
       "score": 89,
       "freshness_status": "fresh",
-      "freshness_label": "31 days old",
+      "freshness_label": "32 days old",
       "pressure_categories": [
         "agricultural runoff",
         "policy / governance"
@@ -3352,6 +3323,37 @@
       }
     },
     {
+      "id": "dc69883252f20230",
+      "title": "Protecting the River Licky: Farmer-led action supporting water quality and Freshwater Pearl Mussel habitat - Farming Life",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPXzU3Z3ctMFJRa3Z0WUY5MmRueGZZZXFKSjVYTTFXMUVuOG9XRm9JU2xESEpWbnJ2RWtUeUpYZ09QYW03N01GUTdieHltUFNicWRJM1ZTczdfNzdwVjNQMlhsa3E4MFNpX2Jva2dXRmpLTmZPdWt2NTczR0R3dHdmV0RXVHRScDlaWC0wOEd1M0RucE1udHdqXzhqQnVOc0duYnhtREZ6ZHZ5dHdSZmJsb3A3Q2p2VTFKTXNtSzljcFJrZG5NUFNIaWhGMWNSWHg4aC15ak9JejBJRGpvNVk0STVGak9sZw?oc=5",
+      "summary": "Protecting the River Licky: Farmer-led action supporting water quality and Freshwater Pearl Mussel habitat Farming Life",
+      "published": "2026-10-23",
+      "source_id": "google-news-ireland-river-water-quality",
+      "source_name": "Google News: Ireland river water quality",
+      "publisher": "Google News: Ireland river water quality",
+      "section": "ireland-catchment-practice",
+      "theme": "water-quality",
+      "tags": [
+        "water-quality",
+        "biodiversity"
+      ],
+      "score": 88,
+      "freshness_status": "fresh",
+      "freshness_label": "1 days old",
+      "pressure_categories": [
+        "agricultural runoff",
+        "habitat / biodiversity"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "General practical signal: may help the Trust track agricultural runoff, habitat / biodiversity, policy, funding, monitoring, or community action."
+    },
+    {
       "id": "247bb9eb6be5fc58",
       "title": "Closed-period slurry spreading linked to river pollution in Meath study - Irish Examiner",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wS2Z1QVdEeF8tZU5fQVdMNEw2NGhDNjNGOW5TdThQaEpUQ3F6cWcySGpWaXY2dGdwd1pOMEtlbFJ2MWs0cE9mT25laG9YZ203SHp1M2hodVl2eTVuRTRhSnFKZlBKLVU?oc=5",
@@ -3367,7 +3369,7 @@
       ],
       "score": 88,
       "freshness_status": "reference",
-      "freshness_label": "121 days old · background",
+      "freshness_label": "122 days old · background",
       "pressure_categories": [
         "manure / slurry timing",
         "slurry-manure-timing",
@@ -3401,7 +3403,7 @@
       ],
       "score": 88,
       "freshness_status": "reference",
-      "freshness_label": "128 days old · background",
+      "freshness_label": "129 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3470,7 +3472,7 @@
       ],
       "score": 87,
       "freshness_status": "reference",
-      "freshness_label": "155 days old · background",
+      "freshness_label": "156 days old · background",
       "pressure_categories": [
         "agricultural runoff",
         "funding / grant",
@@ -3528,40 +3530,42 @@
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
     },
     {
-      "id": "09e109d73c5e2985",
-      "title": "Naul man angry over Delvin River pollution incidents - Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWRRRmtVMWJkQTJNNHRSdUpFcExILVVYeUtENWdhbDRSVU9VRnotZFBEektIVWN2TnJDbW9JYUg3WUV3S1FFLTkzbDZfNUJxQmZJX25zN2MwZzVhMGZ3dUhyRERMZVVjcjdMTDJLampSQ3BYWFlzeEFoV3U0MUpROWEzQ0V6ZmkxSkFnb1IxZ3ZKWXc1TmptZjdFX3ZHNWFGNHBqSzc1dS1lYTcyS1Fj?oc=5",
-      "summary": "Naul man angry over Delvin River pollution incidents Irish Independent",
-      "published": "2020-06-13",
-      "source_id": "google-news-nanny-delvin-local",
-      "source_name": "Google News: Nanny-Delvin local catchment",
-      "publisher": "Google News: Nanny-Delvin local catchment",
-      "section": "ireland-catchment-practice",
-      "theme": "nanny-delvin-local",
+      "id": "319ab2f2bc69a72a",
+      "title": "Waters and Communities Special Award Winner Announced Ballinahown Community Development in Co. Westmeath have claimed the water quality award at the National TidyTowns Competition in Croke Park. Learn more about the winners!",
+      "url": "https://riverbasin.ie/ballinahown-community-group-claims-national-water-quality-prize-at-supervalu-tidytowns-national-awards/",
+      "summary": "Waters and Communities Special Award Winner Announced Ballinahown Community Development in Co. Westmeath have claimed the water quality award at the National TidyTowns Competition in Croke Park. Learn more about the winners!",
+      "published": null,
+      "source_id": "lawpro",
+      "source_name": "LAWPRO",
+      "publisher": "LAWPRO",
+      "section": "grants-opportunities",
+      "theme": "water-quality",
       "tags": [
-        "nanny-delvin-local",
         "water-quality",
-        "incident-alert"
+        "grant",
+        "planning-infrastructure"
       ],
       "score": 87,
       "freshness_status": "reference",
-      "freshness_label": "2323 days old · background",
+      "freshness_label": "Date unknown",
       "pressure_categories": [
-        "incident / alert"
+        "funding / grant",
+        "policy / governance"
       ],
       "local_relevance": {
-        "score": 100,
-        "label": "High local relevance",
+        "score": 22,
+        "label": "Moderate local relevance",
         "matched_terms": [
-          "Ireland",
-          "delvin",
-          "delvin river",
-          "nanny",
-          "nanny-delvin",
-          "naul"
+          "meath"
         ]
       },
-      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Medium",
+        "score": 71,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
     },
     {
       "id": "0d99c6155835fe77",
@@ -3580,7 +3584,7 @@
       ],
       "score": 86,
       "freshness_status": "reference",
-      "freshness_label": "128 days old · background",
+      "freshness_label": "129 days old · background",
       "pressure_categories": [
         "citizen science / monitoring"
       ],
@@ -3610,7 +3614,7 @@
       ],
       "score": 85,
       "freshness_status": "fresh",
-      "freshness_label": "31 days old",
+      "freshness_label": "32 days old",
       "pressure_categories": [
         "agricultural runoff",
         "policy / governance"
@@ -3640,7 +3644,7 @@
       ],
       "score": 85,
       "freshness_status": "fresh",
-      "freshness_label": "58 days old",
+      "freshness_label": "59 days old",
       "pressure_categories": [
         "septic / domestic wastewater"
       ],
@@ -3670,7 +3674,7 @@
       ],
       "score": 85,
       "freshness_status": "reference",
-      "freshness_label": "898 days old · background",
+      "freshness_label": "899 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant"
@@ -3844,6 +3848,35 @@
       }
     },
     {
+      "id": "de5bfa2d4ef1d061",
+      "title": "Free Heritage Week event in Tralee to highlight Ireland’s wildlife and wetland conservation - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR0Jyc0ZPM0lLVUp1bTJRd3RneElIand1b0F2Ukdka1pjVUpDVWxaYlFDZzRTZnR5QUFsNjdQN1dmUWExQ09MRzllN0hOVXM3WFEybFpfX3J0U1RTZUV0bnBjN004UWpjQ1BmaE9XbmlnbnNyLVl5Z3lwOUhiYXVtR0NZVWJRUzl2RHBCWVpDWUZCQWZsclhFbzU4RGJ3OUliYVloQmNMaHhHbnpxdG1BOFdYNnFQMmFmNVYtcHB2WmJiVzk0TFRmRVpHazdBTzVrZ3poNUtDMW9sN0dFY285UA?oc=5",
+      "summary": "Free Heritage Week event in Tralee to highlight Ireland’s wildlife and wetland conservation Irish Independent",
+      "published": "2026-08-20",
+      "source_id": "google-news-estuary-lagoon-ireland",
+      "source_name": "Google News: Ireland estuaries and lagoons",
+      "publisher": "Google News: Ireland estuaries and lagoons",
+      "section": "waterbody-evidence-alerts",
+      "theme": "wetland-nbs",
+      "tags": [
+        "wetland-nbs"
+      ],
+      "score": 83,
+      "freshness_status": "fresh",
+      "freshness_label": "65 days old",
+      "pressure_categories": [
+        "habitat / biodiversity"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "General practical signal: may help the Trust track habitat / biodiversity, policy, funding, monitoring, or community action."
+    },
+    {
       "id": "1810c13938f69abc",
       "title": "River Glyde Fish Kill Exposes Ongoing Failure to Protect Ireland’s Waterways - Irish Wildlife Trust",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LN1VWaW1FNVhEbnRqaUdSMDBhMGZQT0pWMXl0YWZOQ3hCMjNEclFadjF5eHctSG1aeHV1M05IV3o5eE9rUWVXUW1hMnIxQQ?oc=5",
@@ -3859,7 +3892,7 @@
       ],
       "score": 83,
       "freshness_status": "reference",
-      "freshness_label": "140 days old · background",
+      "freshness_label": "141 days old · background",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -3888,7 +3921,7 @@
       ],
       "score": 83,
       "freshness_status": "reference",
-      "freshness_label": "140 days old · background",
+      "freshness_label": "141 days old · background",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -3900,6 +3933,43 @@
         ]
       },
       "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
+    },
+    {
+      "id": "3ee2cf1ee3f5eee3",
+      "title": "Calls for Government to introduce better grant system to upgrade septic tanks - Radio Kerry",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV1BoUzAzX242UHlEWS05WXhYdjYyeTdaR3o2ODZCWmJyamNlMnRWMkd2bWxmRWpVZUlTZ0dEN0VNMGJMZHFTZmV6akhqeUxLaktzOEgxVTV2b1JPUS1USFE4R2xKN1Fydi1pVmxIQVR3TWRSVnpMVVdSREQ0T0JkTC1aRGRudTUwS3BkTm1zZFFJX2k2RWphMnNpdlhWNzdXQ0xaTWJEYkJPdmprN093MThlZXBzdw?oc=5",
+      "summary": "Calls for Government to introduce better grant system to upgrade septic tanks Radio Kerry",
+      "published": "2025-05-16",
+      "source_id": "google-news-septic-tank-grants-ireland",
+      "source_name": "Google News: septic tanks and domestic wastewater Ireland",
+      "publisher": "Google News: septic tanks and domestic wastewater Ireland",
+      "section": "grants-opportunities",
+      "theme": "septic-wastewater",
+      "tags": [
+        "septic-wastewater",
+        "grant"
+      ],
+      "score": 83,
+      "freshness_status": "reference",
+      "freshness_label": "526 days old · background",
+      "pressure_categories": [
+        "septic / domestic wastewater",
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support septic / domestic wastewater, funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Medium",
+        "score": 63,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
     },
     {
       "id": "c2d1907c71dc4d72",
@@ -3978,7 +4048,7 @@
       ],
       "score": 81,
       "freshness_status": "reference",
-      "freshness_label": "157 days old · background",
+      "freshness_label": "158 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "policy / governance"
@@ -4008,7 +4078,7 @@
       ],
       "score": 81,
       "freshness_status": "reference",
-      "freshness_label": "157 days old · background",
+      "freshness_label": "158 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "policy / governance"
@@ -4079,75 +4149,6 @@
         "matched_terms": []
       },
       "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures."
-    },
-    {
-      "id": "c0bf376e23da6e77",
-      "title": "River Basin Management Service launches Catchment Support Fund 2027",
-      "url": "https://riverbasin.ie/river-basin-management-service-launches-catchment-support-fund-2027/",
-      "summary": "River Basin Management Service launches Catchment Support Fund 2027",
-      "published": null,
-      "source_id": "lawpro",
-      "source_name": "LAWPRO",
-      "publisher": "LAWPRO",
-      "section": "grants-opportunities",
-      "theme": "catchment",
-      "tags": [
-        "catchment"
-      ],
-      "score": 80,
-      "freshness_status": "reference",
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "funding / grant",
-        "policy / governance"
-      ],
-      "local_relevance": {
-        "score": 0,
-        "label": "Transferable relevance",
-        "matched_terms": []
-      },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
-      "opportunity_fit": {
-        "fit": "Low",
-        "score": 53,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      }
-    },
-    {
-      "id": "21cb28869d35cf6d",
-      "title": "Apply for funding via our Grants Portal here",
-      "url": "https://communityfoundation.smartsimple.ie/s_Login.jsp?lang=1&prole=0",
-      "summary": "Apply for funding via our Grants Portal here",
-      "published": null,
-      "source_id": "community-foundation-ireland-grants",
-      "source_name": "Community Foundation Ireland Grants",
-      "publisher": "Community Foundation Ireland Grants",
-      "section": "grants-opportunities",
-      "theme": "grant",
-      "tags": [
-        "grant"
-      ],
-      "score": 80,
-      "freshness_status": "reference",
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "funding / grant"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
-      "opportunity_fit": {
-        "fit": "Medium",
-        "score": 63,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      }
     }
   ]
 }
