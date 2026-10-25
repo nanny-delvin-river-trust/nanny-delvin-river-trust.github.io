@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T09:37:50.346426+00:00",
+  "generated_at": "2026-10-25T09:55:21.897220+00:00",
   "note": "Source-led daily radar for Nanny-Delvin: practical Irish catchment signals, waterbody evidence/alerts, grants/opportunities, and research ranked by Trust usefulness.",
   "sections": [
     {
@@ -47,7 +47,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "10 days old",
+      "freshness_label": "11 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -82,7 +82,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "11 days old",
+      "freshness_label": "12 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -124,7 +124,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "25 days old",
+      "freshness_label": "26 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -166,7 +166,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "25 days old",
+      "freshness_label": "26 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -202,7 +202,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "28 days old",
+      "freshness_label": "29 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -244,7 +244,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "38 days old",
+      "freshness_label": "39 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -280,7 +280,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "40 days old",
+      "freshness_label": "41 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -315,7 +315,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "47 days old",
+      "freshness_label": "48 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -355,7 +355,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "53 days old",
+      "freshness_label": "54 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -396,7 +396,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "67 days old",
+      "freshness_label": "68 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -427,9 +427,9 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbmtFMHZrWDA3dUFNS2lha2JLeTN5X2VoeGtYM3c1MzRLYmE3b0pZbGVNWE9ZNGhiNVQ4T29VWnBhbkNzN3VtRkk0MzVONnJ6NWNsblA0a1haVVpoSmNvTmhqTW1RejZyeWZtR3dxUWR2TFM5V3k3Y2FnVDE1WGVqU29SbWNpblBXMXBqbTM5dUV5Y0tiQ0hxNFZvVkMzRWtIU1lrdl9wVXJ4NGZJbS1Od0ZUeE93LTRNTlBSeEV2bWNtUnNpWnhuUE4zQmg?oc=5",
       "summary": "'No to another bypass' ... Julianstown residents want all Traffic Relief Scheme options explored Meath Chronicle",
       "published": "2026-08-03",
-      "source_id": "google-news-julianstown-traffic-relief",
-      "source_name": "Google News: Julianstown Traffic Relief Scheme",
-      "publisher": "Google News: Julianstown Traffic Relief Scheme",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
       "section": "planning-infrastructure",
       "theme": "planning-infrastructure",
       "tags": [
@@ -438,7 +438,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "82 days old",
+      "freshness_label": "83 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -447,20 +447,14 @@
         "label": "High local relevance",
         "matched_terms": [
           "delvin",
+          "east meath",
           "julianstown",
-          "julianstown traffic relief scheme",
           "meath",
           "nanny",
           "nanny-delvin"
         ]
       },
-      "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred.",
-      "linkedin_story_candidate": true,
-      "cross_pollination": {
-        "target": "water-nbs-story-radar",
-        "status": "candidate",
-        "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
-      }
+      "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred."
     },
     {
       "id": "659f7a7d803f4c6a",
@@ -479,7 +473,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "86 days old",
+      "freshness_label": "87 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -519,7 +513,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "88 days old",
+      "freshness_label": "89 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -561,7 +555,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "95 days old · background",
+      "freshness_label": "96 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -603,7 +597,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "97 days old · background",
+      "freshness_label": "98 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -627,45 +621,6 @@
       }
     },
     {
-      "id": "c15944002653fd1a",
-      "title": "Louth TD Erin McGreehan urges expansion of septic tank repair grants - Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjI2U3E3Nnl4a3d2bUdhdVdOcXdEZjJoWEx2OUpna2xNdElaa2duTEgxZlBpSHBwNERWYXBPbUlBeGt6R2huT3A0SUNHNTVsd25KdVlyLUo2bDZQMHBFd1ZSU3h0UDl1WS1PRm9ieEwxZzNqNDFEb1RiRE8xU0xYWUVTS1RETTl4RnhZN3JpTWZWLVlZQUE2NnZWbXFZb1VDdVpfWGtWcDVLTWZiZlZWdDdWRFgyekEwTkNaRFZaTENLVTQ?oc=5",
-      "summary": "Louth TD Erin McGreehan urges expansion of septic tank repair grants Irish Independent",
-      "published": "2026-07-10",
-      "source_id": "google-news-septic-tank-grants-ireland",
-      "source_name": "Google News: septic tanks and domestic wastewater Ireland",
-      "publisher": "Google News: septic tanks and domestic wastewater Ireland",
-      "section": "grants-opportunities",
-      "theme": "grant",
-      "tags": [
-        "septic-wastewater",
-        "grant"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "106 days old · background",
-      "pressure_categories": [
-        "septic / domestic wastewater",
-        "funding / grant",
-        "policy / governance"
-      ],
-      "local_relevance": {
-        "score": 32,
-        "label": "Moderate local relevance",
-        "matched_terms": [
-          "Ireland",
-          "louth"
-        ]
-      },
-      "action_relevance": "Funding signal for the Trust: check whether this can support septic / domestic wastewater, funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
-      "opportunity_fit": {
-        "fit": "Medium",
-        "score": 63,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      }
-    },
-    {
       "id": "a790b05cf4e4395f",
       "title": "Public urged to have say on Julianstown Traffic Relief Scheme before deadline - Drogheda Life",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGl3Z2YzUk1xUktSRDhSYnJrdFNUTVdkUlUtRzR1TTRFQ1pXQXlRNUxIbllVR3l1V1A5NGlCX0tIT21xSl8yRXhkdXA3NnREOVBHdzB6RGlTNGhKUWRMa0RvWVZadkhmOFFReUF3TEU1NnQwM0FhS3V4MjliaDNIaUdnU1NzeFNvTnFTb2JJV2ZkWF9yRUc3clFBS01oTUZLR0JiTDdB?oc=5",
@@ -682,7 +637,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "215 days old · background",
+      "freshness_label": "216 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -724,7 +679,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "248 days old · background",
+      "freshness_label": "249 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -766,7 +721,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "431 days old · background",
+      "freshness_label": "432 days old · background",
       "pressure_categories": [
         "nutrients",
         "habitat / biodiversity",
@@ -1385,6 +1340,41 @@
       "action_relevance": "Research signal: background evidence that may support practical catchment action around water quality, agricultural runoff, NbS / restoration."
     },
     {
+      "id": "8aa051169b877afa",
+      "title": "Runoff pH Influences Nutrient Removal Efficacy of Floating Treatment Wetland Systems",
+      "url": "https://doi.org/10.21273/horttech04299-19",
+      "summary": "Floating treatment wetlands (FTWs), a modified constructed wetland technology, can be deployed in ponds for the treatment of nursery and greenhouse irrigation runoff. The pH of nursery and greenhouse operation irrigation water varies from 3.3 to 10.4 across the United States. Water flow rate, plant species selection, and variable nutrient inputs influence the remediation efficacy of FTWs and may interact with the pH of inflow water to change nutrient remediation dynamics. Therefore, an experiment was designed to quantify the effect of pH on the growth and nutrient uptake capacity of three macrophyte species using a mesocosm FTW system. ‘Rising Sun’ japanese iris ( Iris ensata ), bushy bluestem ( Andropogon glomeratus ), and maidencane ( Panicum hemitomon ) were grown for two 6-week periods and exposed to five pH treatment levels representing the range of nursery and greenhouse irrigation runoff, 4.5, 5.5, 6.5, 7.2, and 8.5, for a total",
+      "published": "2019-10-02",
+      "source_id": "openalex",
+      "source_name": "HortTechnology",
+      "publisher": "HortTechnology",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "constructed-wetland",
+        "nutrients",
+        "open-access"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "2019 · 14 citations · open access",
+      "practical_fit": "High practical fit · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.21273/horttech04299-19",
+      "cited_by_count": 14,
+      "openalex_id": "https://openalex.org/W2977725467",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "NbS / restoration",
+        "habitat / biodiversity"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
+    },
+    {
       "id": "7c67db657d90ff3c",
       "title": "Towards ecologically functional riparian zones: A meta-analysis to develop guidelines for protecting ecosystem functions and biodiversity in agricultural landscapes",
       "url": "https://doi.org/10.1016/j.jenvman.2019.109391",
@@ -1405,11 +1395,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2019 · 198 citations · open access",
+      "freshness_label": "2019 · 199 citations · open access",
       "practical_fit": "High practical fit · General transferable evidence",
       "geographic_relevance": "General transferable evidence",
       "doi": "https://doi.org/10.1016/j.jenvman.2019.109391",
-      "cited_by_count": 198,
+      "cited_by_count": 199,
       "openalex_id": "https://openalex.org/W2969870655",
       "pressure_categories": [
         "water quality",
@@ -1600,43 +1590,6 @@
       ],
       "research_use_type": "Review / evidence synthesis",
       "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, sediment / hydromorphology, NbS / restoration."
-    },
-    {
-      "id": "c90cf87dfb58ed01",
-      "title": "Understanding the controls on deposited fine sediment in the streams of agricultural catchments",
-      "url": "https://doi.org/10.1016/j.scitotenv.2015.12.079",
-      "summary": "Excessive sediment pressure on aquatic habitats is of global concern. A unique dataset, comprising instantaneous measurements of deposited fine sediment in 230 agricultural streams across England and Wales, was analysed in relation to 20 potential explanatory catchment and channel variables. The most effective explanatory variable for the amount of deposited sediment was found to be stream power, calculated for bankfull flow and used to index the capacity of the stream to transport sediment. Both stream power and velocity category were highly significant (p ≪ 0.001), explaining some 57% variation in total fine sediment mass. Modelled sediment pressure, predominantly from agriculture, was marginally significant (p<0.05) and explained a further 1% variation. The relationship was slightly stronger for erosional zones, providing 62% explanation overall. In the case of the deposited surface drape, stream power was again found to be the most",
-      "published": "2016-01-12",
-      "source_id": "openalex",
-      "source_name": "The Science of The Total Environment",
-      "publisher": "The Science of The Total Environment",
-      "section": "research-papers",
-      "theme": "water-quality",
-      "tags": [
-        "research",
-        "ireland",
-        "water-quality",
-        "catchment",
-        "agriculture",
-        "open-access",
-        "highly-cited",
-        "temperate-transfer"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2016 · 106 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.1016/j.scitotenv.2015.12.079",
-      "cited_by_count": 106,
-      "openalex_id": "https://openalex.org/W2233060789",
-      "pressure_categories": [
-        "agricultural runoff",
-        "sediment / hydromorphology",
-        "habitat / biodiversity"
-      ],
-      "research_use_type": "Supporting evidence",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for agricultural runoff, sediment / hydromorphology, habitat / biodiversity."
     },
     {
       "id": "e70f709b159f48ee",
@@ -2576,7 +2529,7 @@
       ],
       "score": 97,
       "freshness_status": "fresh",
-      "freshness_label": "32 days old",
+      "freshness_label": "33 days old",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -2646,7 +2599,7 @@
       ],
       "score": 96,
       "freshness_status": "reference",
-      "freshness_label": "142 days old · background",
+      "freshness_label": "143 days old · background",
       "pressure_categories": [
         "river ecology",
         "funding / grant",
@@ -2791,7 +2744,7 @@
       ],
       "score": 94,
       "freshness_status": "fresh",
-      "freshness_label": "81 days old",
+      "freshness_label": "82 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2815,6 +2768,47 @@
       }
     },
     {
+      "id": "c15944002653fd1a",
+      "title": "Louth TD Erin McGreehan urges expansion of septic tank repair grants - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjI2U3E3Nnl4a3d2bUdhdVdOcXdEZjJoWEx2OUpna2xNdElaa2duTEgxZlBpSHBwNERWYXBPbUlBeGt6R2huT3A0SUNHNTVsd25KdVlyLUo2bDZQMHBFd1ZSU3h0UDl1WS1PRm9ieEwxZzNqNDFEb1RiRE8xU0xYWUVTS1RETTl4RnhZN3JpTWZWLVlZQUE2NnZWbXFZb1VDdVpfWGtWcDVLTWZiZlZWdDdWRFgyekEwTkNaRFZaTENLVTQ?oc=5",
+      "summary": "Louth TD Erin McGreehan urges expansion of septic tank repair grants Irish Independent",
+      "published": "2026-07-10",
+      "source_id": "google-news-meath-louth-fingal-catchment",
+      "source_name": "Google News: Meath Louth Fingal catchment signals",
+      "publisher": "Google News: Meath Louth Fingal catchment signals",
+      "section": "grants-opportunities",
+      "theme": "grant",
+      "tags": [
+        "septic-wastewater",
+        "grant"
+      ],
+      "score": 93,
+      "freshness_status": "reference",
+      "freshness_label": "107 days old · background",
+      "pressure_categories": [
+        "septic / domestic wastewater",
+        "funding / grant",
+        "policy / governance"
+      ],
+      "local_relevance": {
+        "score": 72,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "fingal",
+          "louth",
+          "meath"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support septic / domestic wastewater, funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Medium",
+        "score": 63,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
       "id": "8ca1831d502d0bca",
       "title": "Major traffic relief scheme for Julianstown in Meath moves forward - Irish Independent",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRTRXY29hNGZRa2xFbERsbWRCY2o1SmNMQi1BRFhRalZtWVJwY3A0ampCRkVfODBlSEhuOUVVb3k5YVZVcndoTVBuSXdfc2M0STBxUENWcjIwMTV0anBKMmVaTktGRzkxSFNIRmk3S2RJRjN2XzFFTjA5OHVwY2RDSzY0ZnczdjZrV1pCd2FVc3BqSDRENktseE5STGhZaHdLdll2ZHo5YjBMSU1TdXpSbG5lN2JsTERjaV9aa3N0OVQ?oc=5",
@@ -2831,7 +2825,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "317 days old · background",
+      "freshness_label": "318 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2866,7 +2860,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "443 days old · background",
+      "freshness_label": "444 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -2901,7 +2895,7 @@
       ],
       "score": 92,
       "freshness_status": "reference",
-      "freshness_label": "164 days old · background",
+      "freshness_label": "165 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2937,7 +2931,7 @@
       ],
       "score": 92,
       "freshness_status": "reference",
-      "freshness_label": "360 days old · background",
+      "freshness_label": "361 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3074,7 +3068,7 @@
       ],
       "score": 91,
       "freshness_status": "reference",
-      "freshness_label": "94 days old · background",
+      "freshness_label": "95 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3128,35 +3122,6 @@
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
     },
     {
-      "id": "009fd7cf0c55d70e",
-      "title": "Almost six out of ten septic tanks fail inspection, putting Ireland's drinking water wells and rivers at risk - Water Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT1JYLVNZLUFQSVA2WERCWHR5NDJsc2NZZXRvV2JadzNmYmthSEExbHJPQkxqb3ZpcS0zWEtQUTJRbTlUOHd3Z3ZPcmVNR1NXTEpyLTBTTk5UR2JDVTM4cGlYSnZjV3EyYl9YRTRWbE1CSmNyU3FKVUtJck1PMC0zcEJhbGlxMnc1X2xqWVM5UUQwUW5ENTVvdjRoQXVrNjhCQVRkNTk1TVd0Z1BMdVdCcWVWRjBZcGdwbE82T2RhZC14RW02R0VPeUc1Y3U3WmFzRjdJSGo2QUFKUVdESFRKbFN5MmtaUQ?oc=5",
-      "summary": "Almost six out of ten septic tanks fail inspection, putting Ireland's drinking water wells and rivers at risk Water Magazine",
-      "published": "2026-05-19",
-      "source_id": "google-news-septic-tank-grants-ireland",
-      "source_name": "Google News: septic tanks and domestic wastewater Ireland",
-      "publisher": "Google News: septic tanks and domestic wastewater Ireland",
-      "section": "waterbody-evidence-alerts",
-      "theme": "septic-wastewater",
-      "tags": [
-        "septic-wastewater"
-      ],
-      "score": 90,
-      "freshness_status": "reference",
-      "freshness_label": "158 days old · background",
-      "pressure_categories": [
-        "septic / domestic wastewater"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Potential catchment-pressure signal: septic or domestic wastewater issues can affect groundwater, small streams, bathing waters, and local engagement priorities."
-    },
-    {
       "id": "4771a9e3024f4d2b",
       "title": "Do Riparian Buffers Protect Stream Invertebrate Communities in South American Atlantic Forest Agricultural Areas?",
       "url": "https://doi.org/10.1007/s00267-017-0938-9",
@@ -3207,7 +3172,7 @@
       ],
       "score": 89,
       "freshness_status": "fresh",
-      "freshness_label": "21 days old",
+      "freshness_label": "22 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -3240,7 +3205,7 @@
       ],
       "score": 89,
       "freshness_status": "fresh",
-      "freshness_label": "32 days old",
+      "freshness_label": "33 days old",
       "pressure_categories": [
         "agricultural runoff",
         "policy / governance"
@@ -3339,7 +3304,7 @@
       ],
       "score": 88,
       "freshness_status": "fresh",
-      "freshness_label": "1 days old",
+      "freshness_label": "2 days old",
       "pressure_categories": [
         "agricultural runoff",
         "habitat / biodiversity"
@@ -3369,7 +3334,7 @@
       ],
       "score": 88,
       "freshness_status": "reference",
-      "freshness_label": "122 days old · background",
+      "freshness_label": "123 days old · background",
       "pressure_categories": [
         "manure / slurry timing",
         "slurry-manure-timing",
@@ -3403,7 +3368,7 @@
       ],
       "score": 88,
       "freshness_status": "reference",
-      "freshness_label": "129 days old · background",
+      "freshness_label": "130 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3472,7 +3437,7 @@
       ],
       "score": 87,
       "freshness_status": "reference",
-      "freshness_label": "156 days old · background",
+      "freshness_label": "157 days old · background",
       "pressure_categories": [
         "agricultural runoff",
         "funding / grant",
@@ -3584,7 +3549,7 @@
       ],
       "score": 86,
       "freshness_status": "reference",
-      "freshness_label": "129 days old · background",
+      "freshness_label": "130 days old · background",
       "pressure_categories": [
         "citizen science / monitoring"
       ],
@@ -3614,7 +3579,7 @@
       ],
       "score": 85,
       "freshness_status": "fresh",
-      "freshness_label": "32 days old",
+      "freshness_label": "33 days old",
       "pressure_categories": [
         "agricultural runoff",
         "policy / governance"
@@ -3644,7 +3609,7 @@
       ],
       "score": 85,
       "freshness_status": "fresh",
-      "freshness_label": "59 days old",
+      "freshness_label": "60 days old",
       "pressure_categories": [
         "septic / domestic wastewater"
       ],
@@ -3674,7 +3639,7 @@
       ],
       "score": 85,
       "freshness_status": "reference",
-      "freshness_label": "899 days old · background",
+      "freshness_label": "900 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant"
@@ -3863,7 +3828,7 @@
       ],
       "score": 83,
       "freshness_status": "fresh",
-      "freshness_label": "65 days old",
+      "freshness_label": "66 days old",
       "pressure_categories": [
         "habitat / biodiversity"
       ],
@@ -3892,7 +3857,7 @@
       ],
       "score": 83,
       "freshness_status": "reference",
-      "freshness_label": "141 days old · background",
+      "freshness_label": "142 days old · background",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -3921,7 +3886,7 @@
       ],
       "score": 83,
       "freshness_status": "reference",
-      "freshness_label": "141 days old · background",
+      "freshness_label": "142 days old · background",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -3936,9 +3901,9 @@
     },
     {
       "id": "3ee2cf1ee3f5eee3",
-      "title": "Calls for Government to introduce better grant system to upgrade septic tanks - Radio Kerry",
+      "title": "Calls for Government to introduce better grant system to upgrade septic tanks - RadioKerry.ie",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV1BoUzAzX242UHlEWS05WXhYdjYyeTdaR3o2ODZCWmJyamNlMnRWMkd2bWxmRWpVZUlTZ0dEN0VNMGJMZHFTZmV6akhqeUxLaktzOEgxVTV2b1JPUS1USFE4R2xKN1Fydi1pVmxIQVR3TWRSVnpMVVdSREQ0T0JkTC1aRGRudTUwS3BkTm1zZFFJX2k2RWphMnNpdlhWNzdXQ0xaTWJEYkJPdmprN093MThlZXBzdw?oc=5",
-      "summary": "Calls for Government to introduce better grant system to upgrade septic tanks Radio Kerry",
+      "summary": "Calls for Government to introduce better grant system to upgrade septic tanks RadioKerry.ie",
       "published": "2025-05-16",
       "source_id": "google-news-septic-tank-grants-ireland",
       "source_name": "Google News: septic tanks and domestic wastewater Ireland",
@@ -3951,7 +3916,7 @@
       ],
       "score": 83,
       "freshness_status": "reference",
-      "freshness_label": "526 days old · background",
+      "freshness_label": "527 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant"
@@ -4048,7 +4013,7 @@
       ],
       "score": 81,
       "freshness_status": "reference",
-      "freshness_label": "158 days old · background",
+      "freshness_label": "159 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "policy / governance"
@@ -4078,7 +4043,7 @@
       ],
       "score": 81,
       "freshness_status": "reference",
-      "freshness_label": "158 days old · background",
+      "freshness_label": "159 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "policy / governance"
@@ -4149,6 +4114,40 @@
         "matched_terms": []
       },
       "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures."
+    },
+    {
+      "id": "c0bf376e23da6e77",
+      "title": "River Basin Management Service launches Catchment Support Fund 2027",
+      "url": "https://riverbasin.ie/river-basin-management-service-launches-catchment-support-fund-2027/",
+      "summary": "River Basin Management Service launches Catchment Support Fund 2027",
+      "published": null,
+      "source_id": "lawpro",
+      "source_name": "LAWPRO",
+      "publisher": "LAWPRO",
+      "section": "grants-opportunities",
+      "theme": "catchment",
+      "tags": [
+        "catchment"
+      ],
+      "score": 80,
+      "freshness_status": "reference",
+      "freshness_label": "Date unknown",
+      "pressure_categories": [
+        "funding / grant",
+        "policy / governance"
+      ],
+      "local_relevance": {
+        "score": 0,
+        "label": "Transferable relevance",
+        "matched_terms": []
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Low",
+        "score": 53,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
     }
   ]
 }
