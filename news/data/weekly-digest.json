@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-25T09:55:34.166732+00:00",
-  "latest_generated_at": "2026-10-25T09:55:21.897220+00:00",
+  "generated_at": "2026-10-26T11:16:24.819231+00:00",
+  "latest_generated_at": "2026-10-26T11:16:12.102962+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
     "planning-infrastructure": 21,
-    "ireland-catchment-practice": 16,
+    "ireland-catchment-practice": 15,
     "research-papers": 36,
     "grants-opportunities": 15,
-    "waterbody-evidence-alerts": 27
+    "waterbody-evidence-alerts": 28
   },
   "top_pressure_categories": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "pressure": "agricultural runoff",
-      "count": 39
+      "count": 38
     },
     {
       "pressure": "policy / governance",
@@ -33,7 +33,7 @@
     },
     {
       "pressure": "habitat / biodiversity",
-      "count": 24
+      "count": 23
     },
     {
       "pressure": "citizen science / monitoring",
@@ -57,7 +57,7 @@
     },
     {
       "pressure": "septic / domestic wastewater",
-      "count": 6
+      "count": 7
     }
   ],
   "items": [
@@ -70,7 +70,7 @@
       "published": "2026-09-22",
       "score": 89,
       "practical_score": 123.0,
-      "freshness_label": "33 days old",
+      "freshness_label": "34 days old",
       "pressure_categories": [
         "agricultural runoff",
         "policy / governance"
@@ -95,7 +95,7 @@
       "published": "2026-09-22",
       "score": 97,
       "practical_score": 137.0,
-      "freshness_label": "33 days old",
+      "freshness_label": "34 days old",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -123,7 +123,7 @@
       "published": "2026-10-14",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "11 days old",
+      "freshness_label": "12 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
