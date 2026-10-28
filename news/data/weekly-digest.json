@@ -1,51 +1,55 @@
 {
-  "generated_at": "2026-10-27T10:42:17.576810+00:00",
-  "latest_generated_at": "2026-10-27T10:42:04.575196+00:00",
+  "generated_at": "2026-10-28T11:26:23.076739+00:00",
+  "latest_generated_at": "2026-10-28T11:26:10.645892+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
-    "planning-infrastructure": 22,
-    "ireland-catchment-practice": 17,
+    "planning-infrastructure": 18,
+    "grants-opportunities": 17,
+    "ireland-catchment-practice": 18,
     "research-papers": 36,
-    "grants-opportunities": 16,
-    "waterbody-evidence-alerts": 24
+    "waterbody-evidence-alerts": 26
   },
   "top_pressure_categories": [
     {
       "pressure": "NbS / restoration",
-      "count": 40
+      "count": 42
     },
     {
       "pressure": "agricultural runoff",
-      "count": 39
+      "count": 36
+    },
+    {
+      "pressure": "policy / governance",
+      "count": 35
     },
     {
       "pressure": "water quality",
       "count": 34
     },
     {
-      "pressure": "policy / governance",
-      "count": 34
-    },
-    {
       "pressure": "planning / infrastructure",
-      "count": 30
+      "count": 25
     },
     {
       "pressure": "habitat / biodiversity",
-      "count": 24
-    },
-    {
-      "pressure": "citizen science / monitoring",
       "count": 23
     },
     {
+      "pressure": "citizen science / monitoring",
+      "count": 22
+    },
+    {
       "pressure": "funding / grant",
-      "count": 17
+      "count": 18
     },
     {
       "pressure": "nutrients",
       "count": 12
+    },
+    {
+      "pressure": "septic / domestic wastewater",
+      "count": 8
     },
     {
       "pressure": "sediment / hydromorphology",
@@ -54,10 +58,6 @@
     {
       "pressure": "incident / alert",
       "count": 7
-    },
-    {
-      "pressure": "septic / domestic wastewater",
-      "count": 4
     }
   ],
   "items": [
@@ -70,7 +70,7 @@
       "published": "2026-09-22",
       "score": 89,
       "practical_score": 123.0,
-      "freshness_label": "35 days old",
+      "freshness_label": "36 days old",
       "pressure_categories": [
         "agricultural runoff",
         "policy / governance"
@@ -87,43 +87,42 @@
       "action_relevance": "General practical signal: may help the Trust track agricultural runoff, policy / governance, policy, funding, monitoring, or community action."
     },
     {
-      "id": "eacb66a6299c9e28",
-      "title": "Louth County Council told first sign of life evident in River Glyde after 20,000 fish kill - Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzZrVlZDRndycFNvWVlfZThjWkM1TUtOOGZ4RUNYeTc4TzRGeFpMZmZjcWtBXy0wb1VPUDQ5dG1Ea3hnQVlXTVlDWEY3d21ZeTRNN3hJbTdFc2gwWTFyX2xhVzR1VC1tMDFiS3RxeG9BWWZNb1NyUThUNW1LTGQyVXFBU0REMW9kZHR4X1VfYVB2eUIydkFDSzdmb29OYUF3aWFzZjdKWnFLZ1RaRm1YVlJleFVUYXJTUUhBUlEydDZxVE9oQ0F5aDE2dmI0M0FpZzFpRTJ1ZTk3UHRRWXRR?oc=5",
+      "id": "f267f41d7ce3e689",
+      "title": "Agri jobs: Meath water quality EIP seeks community animator 01 October 2026 Premium - Irish Farmers Journal",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTJHUFJXOGFnTTBPa052S2dCVnVXeE9qNHUyUnl1YXR1UDU4N01OZGVBenBTYU1EYm9ycElxZHA2NEtkVjlmcUdiRW5lSS1PTjFJSDZlUnhabG5NTDBBV3JPeGpvM2VPd2d4S2RyX3RVMjM2TkNlVUlKeVJ2Y0czbTh4STdwT2lvOFNTblhyRElqc3NCdUxrYzVMQUVsN2xwdWtPcG55Vi1XNi1Ea2c?oc=5",
       "section": "waterbody-evidence-alerts",
       "source_name": "Google News: Meath Louth Fingal catchment signals",
-      "published": "2026-09-22",
-      "score": 97,
-      "practical_score": 137.0,
-      "freshness_label": "35 days old",
+      "published": "2026-10-03",
+      "score": 89,
+      "practical_score": 129.0,
+      "freshness_label": "25 days old",
       "pressure_categories": [
-        "incident / alert"
+        "agricultural runoff"
       ],
       "local_relevance": {
-        "score": 90,
+        "score": 72,
         "label": "High local relevance",
         "matched_terms": [
           "Ireland",
           "fingal",
           "louth",
-          "louth county council",
           "meath"
         ]
       },
       "opportunity_fit": null,
       "research_use_type": null,
-      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
+      "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
     },
     {
-      "id": "56b9c538d44d60e6",
-      "title": "Road layout and limited land availability may hamper safe pedestrian crossing works at Laytown station, cllrs told - Meath Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbkNSeGNWMW9BdFpvejVtZjd2aGdxMnlndF9Da2ZEYWgxRy11WVAycUJIQk0wRW5aamRrcDJINWdlVXdZdGQxeUZ0bHZsek9GQng0b2JKV0t1dUdYeGUtWjNjNkFOMnNmNEQ1UnBDSlR3MnNic1plVGRCUGwtVDE0cEVpNzVYYXhMR21jcjN0WFFjX1RuVjE2VFhJOVZzSExyZmkyNktLM2xWTF9RVW0tTlpmbF9ySWFvVHZCN2FyaEl3MVBsV1dGZ2M0YVVBTkdKa2lfNkNQekFaN2NLOWlKbkpkQ1hxRDhkU3lV?oc=5",
+      "id": "b0251d564a177c36",
+      "title": "Julianstown Traffic Relief Scheme at heart of new residents’ group - Drogheda Life",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVZlVGFaTVRSTGZEemFob1E3ZkRCQ2NuaXU0M2ktdW5rR1lCWU1QWFBZYzJ1N3JCV2w4dTRRdVlidmFvaDVBVkNGVjNTSlk5QTNPanlzM3Z6dU5GMjdxSm9QSjlZTF9sWmxoanNKTEZiVEZZLWEweE9KZHRIWWJrVEc0Rm1oQQ?oc=5",
       "section": "planning-infrastructure",
       "source_name": "Google News: East Meath planning and infrastructure",
-      "published": "2026-10-14",
+      "published": "2026-09-29",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "13 days old",
+      "freshness_label": "29 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -133,7 +132,8 @@
         "matched_terms": [
           "delvin",
           "east meath",
-          "laytown",
+          "julianstown",
+          "julianstown traffic relief scheme",
           "meath",
           "nanny",
           "nanny-delvin"
@@ -144,21 +144,18 @@
       "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred."
     },
     {
-      "id": "ec191fbb891667ed",
-      "title": "Skip to main content",
-      "url": "https://www.fisheriesireland.ie/news",
+      "id": "d351d5392ad83ae0",
+      "title": "Scotland funds nature recovery projects including river restoration - Water Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSzRKRVdqaDZoZkhJREFzZ2E1Z1NmYzRTTnFWb1RBcEdrMEJ3UlNmX3IwcW5rMFRZUTdKWGl2MlRSaENXVmpXcVU2V05sR2Z5VEtyblhha01pc1VZU3N6N1B6dHR0OERYcGtvbnc0Rmh5ek5LNjRqaWZZbzdiMEFWdHlZLThUU1RIMC1YdVYyNlBLX1laczVHZWJZTVZJTE1IMDhYRGxoNjZjX3p3NUxkRQ?oc=5",
       "section": "grants-opportunities",
-      "source_name": "Inland Fisheries Ireland",
-      "published": null,
-      "score": 100,
-      "practical_score": 147.0,
-      "freshness_label": "Date unknown",
+      "source_name": "Google News: Ireland water NbS",
+      "published": "2026-10-26",
+      "score": 78,
+      "practical_score": 118.0,
+      "freshness_label": "2 days old",
       "pressure_categories": [
-        "agricultural runoff",
-        "habitat / biodiversity",
-        "incident / alert",
         "funding / grant",
-        "planning / infrastructure"
+        "NbS / restoration"
       ],
       "local_relevance": {
         "score": 10,
@@ -169,12 +166,12 @@
       },
       "opportunity_fit": {
         "fit": "Medium",
-        "score": 71,
+        "score": 63,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
       },
       "research_use_type": null,
-      "action_relevance": "Funding signal for the Trust: check whether this can support agricultural runoff, habitat / biodiversity, incident / alert, citizen science, engagement, or small catchment actions."
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, NbS / restoration, citizen science, engagement, or small catchment actions."
     },
     {
       "id": "2ba35c94b1962cac",
@@ -185,7 +182,7 @@
       "published": "2022-02-27",
       "score": 100,
       "practical_score": 142.0,
-      "freshness_label": "2022 · 153 citations · open access",
+      "freshness_label": "2022 · 154 citations · open access",
       "pressure_categories": [
         "water quality",
         "agricultural runoff",
