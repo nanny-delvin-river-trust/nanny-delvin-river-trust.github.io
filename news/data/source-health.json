@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T11:26:23.075413+00:00",
-  "latest_generated_at": "2026-10-28T11:26:10.645892+00:00",
+  "generated_at": "2026-10-29T11:36:47.838196+00:00",
+  "latest_generated_at": "2026-10-29T11:36:35.560558+00:00",
   "total_items": 115,
   "total_sources": 33,
   "sources_active": 20,
@@ -8,19 +8,19 @@
   "sources_failed": 1,
   "items_by_section": {
     "planning-infrastructure": 18,
-    "grants-opportunities": 17,
-    "ireland-catchment-practice": 18,
+    "ireland-catchment-practice": 20,
     "research-papers": 36,
-    "waterbody-evidence-alerts": 26
+    "grants-opportunities": 17,
+    "waterbody-evidence-alerts": 24
   },
   "annotation_coverage": {
     "action_relevance": 115,
     "pressure_categories": 115,
     "local_relevance": 79,
     "opportunity_fit": 17,
-    "research_use_type": 56
+    "research_use_type": 57
   },
-  "archive_snapshots": 87,
+  "archive_snapshots": 88,
   "sources": [
     {
       "id": "google-news-nanny-delvin-local",
@@ -33,8 +33,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 2,
-      "discovered_hint_count": 12,
-      "elapsed_ms": 85,
+      "discovered_hint_count": 9,
+      "elapsed_ms": 100,
       "error": null
     },
     {
@@ -48,8 +48,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 55,
-      "elapsed_ms": 126,
+      "discovered_hint_count": 56,
+      "elapsed_ms": 124,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "http_status": 200,
       "current_item_count": 7,
       "discovered_hint_count": 10,
-      "elapsed_ms": 104,
+      "elapsed_ms": 88,
       "error": null
     },
     {
@@ -77,9 +77,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 9,
-      "discovered_hint_count": 19,
-      "elapsed_ms": 112,
+      "current_item_count": 10,
+      "discovered_hint_count": 20,
+      "elapsed_ms": 91,
       "error": null
     },
     {
@@ -92,9 +92,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 2,
-      "discovered_hint_count": 11,
-      "elapsed_ms": 87,
+      "current_item_count": 1,
+      "discovered_hint_count": 10,
+      "elapsed_ms": 83,
       "error": null
     },
     {
@@ -108,8 +108,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 30,
-      "elapsed_ms": 100,
+      "discovered_hint_count": 78,
+      "elapsed_ms": 122,
       "error": null
     },
     {
@@ -122,9 +122,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 1,
-      "discovered_hint_count": 30,
-      "elapsed_ms": 106,
+      "current_item_count": 4,
+      "discovered_hint_count": 75,
+      "elapsed_ms": 144,
       "error": null
     },
     {
@@ -137,9 +137,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 7,
+      "current_item_count": 9,
       "discovered_hint_count": 100,
-      "elapsed_ms": 152,
+      "elapsed_ms": 138,
       "error": null
     },
     {
@@ -153,8 +153,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 3,
-      "discovered_hint_count": 27,
-      "elapsed_ms": 87,
+      "discovered_hint_count": 68,
+      "elapsed_ms": 130,
       "error": null
     },
     {
@@ -168,8 +168,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 17,
-      "elapsed_ms": 107,
+      "discovered_hint_count": 61,
+      "elapsed_ms": 125,
       "error": null
     },
     {
@@ -183,8 +183,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 46,
-      "elapsed_ms": 105,
+      "discovered_hint_count": 9,
+      "elapsed_ms": 97,
       "error": null
     },
     {
@@ -199,7 +199,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 33,
-      "elapsed_ms": 115,
+      "elapsed_ms": 90,
       "error": null
     },
     {
@@ -214,7 +214,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 92,
-      "elapsed_ms": 890,
+      "elapsed_ms": 896,
       "error": null
     },
     {
@@ -229,7 +229,7 @@
       "http_status": 307,
       "current_item_count": 0,
       "discovered_hint_count": 0,
-      "elapsed_ms": 239,
+      "elapsed_ms": 123,
       "error": null
     },
     {
@@ -242,9 +242,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 1,
-      "discovered_hint_count": 10,
-      "elapsed_ms": 87,
+      "current_item_count": 2,
+      "discovered_hint_count": 49,
+      "elapsed_ms": 123,
       "error": null
     },
     {
@@ -258,8 +258,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 31,
-      "elapsed_ms": 102,
+      "discovered_hint_count": 73,
+      "elapsed_ms": 138,
       "error": null
     },
     {
@@ -273,8 +273,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 48,
-      "elapsed_ms": 108,
+      "discovered_hint_count": 49,
+      "elapsed_ms": 109,
       "error": null
     },
     {
@@ -289,7 +289,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 10,
-      "elapsed_ms": 91,
+      "elapsed_ms": 85,
       "error": null
     },
     {
@@ -303,8 +303,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 30,
-      "elapsed_ms": 87,
+      "discovered_hint_count": 32,
+      "elapsed_ms": 103,
       "error": null
     },
     {
@@ -318,8 +318,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 16,
-      "elapsed_ms": 87,
+      "discovered_hint_count": 18,
+      "elapsed_ms": 77,
       "error": null
     },
     {
@@ -332,9 +332,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 7,
-      "discovered_hint_count": 48,
-      "elapsed_ms": 92,
+      "current_item_count": 1,
+      "discovered_hint_count": 15,
+      "elapsed_ms": 86,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 10,
-      "elapsed_ms": 91,
+      "elapsed_ms": 97,
       "error": null
     },
     {
@@ -364,7 +364,7 @@
       "http_status": 200,
       "current_item_count": 5,
       "discovered_hint_count": 143,
-      "elapsed_ms": 1103,
+      "elapsed_ms": 1321,
       "error": null
     },
     {
@@ -378,8 +378,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 6,
-      "discovered_hint_count": 114,
-      "elapsed_ms": 980,
+      "discovered_hint_count": 115,
+      "elapsed_ms": 1061,
       "error": null
     },
     {
@@ -394,7 +394,7 @@
       "http_status": 200,
       "current_item_count": 6,
       "discovered_hint_count": 224,
-      "elapsed_ms": 383,
+      "elapsed_ms": 376,
       "error": null
     },
     {
@@ -409,7 +409,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 180,
-      "elapsed_ms": 776,
+      "elapsed_ms": 826,
       "error": null
     },
     {
@@ -424,7 +424,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 424,
-      "elapsed_ms": 937,
+      "elapsed_ms": 882,
       "error": null
     },
     {
@@ -439,7 +439,7 @@
       "http_status": 200,
       "current_item_count": 3,
       "discovered_hint_count": 82,
-      "elapsed_ms": 965,
+      "elapsed_ms": 778,
       "error": null
     },
     {
@@ -454,7 +454,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 35,
-      "elapsed_ms": 2015,
+      "elapsed_ms": 1797,
       "error": null
     },
     {
@@ -469,7 +469,7 @@
       "http_status": 404,
       "current_item_count": 0,
       "discovered_hint_count": 0,
-      "elapsed_ms": 123,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -484,7 +484,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 105,
-      "elapsed_ms": 87,
+      "elapsed_ms": 81,
       "error": null
     },
     {
@@ -499,7 +499,7 @@
       "http_status": 200,
       "current_item_count": 12,
       "discovered_hint_count": 94,
-      "elapsed_ms": 671,
+      "elapsed_ms": 726,
       "error": null
     },
     {
@@ -514,7 +514,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 109,
-      "elapsed_ms": 1036,
+      "elapsed_ms": 1012,
       "error": null
     }
   ]
