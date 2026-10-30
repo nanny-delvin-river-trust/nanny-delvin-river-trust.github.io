@@ -1,26 +1,22 @@
 {
-  "generated_at": "2026-10-29T11:36:47.839373+00:00",
-  "latest_generated_at": "2026-10-29T11:36:35.560558+00:00",
+  "generated_at": "2026-10-30T11:29:01.540971+00:00",
+  "latest_generated_at": "2026-10-30T11:28:44.478546+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
-    "planning-infrastructure": 18,
-    "ireland-catchment-practice": 20,
+    "planning-infrastructure": 19,
+    "grants-opportunities": 19,
+    "ireland-catchment-practice": 13,
     "research-papers": 36,
-    "grants-opportunities": 17,
-    "waterbody-evidence-alerts": 24
+    "waterbody-evidence-alerts": 28
   },
   "top_pressure_categories": [
     {
       "pressure": "NbS / restoration",
-      "count": 42
+      "count": 46
     },
     {
       "pressure": "agricultural runoff",
-      "count": 38
-    },
-    {
-      "pressure": "policy / governance",
       "count": 35
     },
     {
@@ -28,52 +24,56 @@
       "count": 34
     },
     {
+      "pressure": "policy / governance",
+      "count": 32
+    },
+    {
       "pressure": "planning / infrastructure",
-      "count": 27
+      "count": 28
     },
     {
       "pressure": "habitat / biodiversity",
-      "count": 23
+      "count": 27
     },
     {
       "pressure": "citizen science / monitoring",
-      "count": 23
+      "count": 20
     },
     {
       "pressure": "funding / grant",
-      "count": 17
+      "count": 19
     },
     {
       "pressure": "nutrients",
       "count": 12
     },
     {
-      "pressure": "incident / alert",
-      "count": 8
-    },
-    {
       "pressure": "sediment / hydromorphology",
       "count": 7
     },
     {
-      "pressure": "general catchment signal",
-      "count": 4
+      "pressure": "septic / domestic wastewater",
+      "count": 6
+    },
+    {
+      "pressure": "incident / alert",
+      "count": 6
     }
   ],
   "items": [
     {
-      "id": "ed7e5772f11355c7",
-      "title": "How is Lough Neagh's water quality monitored? - Department of Agriculture, Environment and Rural Affairs",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQREdKQXVkTEQwcjFqZ3VicHR0dVQ0eHFOWFBIYjJBMUhGaFRCLU42MmJrbFlRWFlzRU5XM2U1emItMzBWMm0xMlBKWms5ZTc3M0dnN2RjaGM1bDdGNGdpUUh2a0EzVHZCUjAySEpYRXJVaUtLeTlycGlRN2dkRlZJZThTSQ?oc=5",
+      "id": "b1a780cd84a20d90",
+      "title": "Reflections on the last two months of Mainstreaming Nature-based Solutions in Northern Ireland - The Rivers Trust",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWNFLXFMU2t6LXJJMFlCRERoMTZPcU9nOXZZR2swZm1xY1dzX2VkWFJrR2puaWVmYmZrTXNYejBJUTBLSV9lemN6MnNZdzNwWVMzb3BPRUlOQ1ptVUF4a1RsNnVQOGlZbmR2OGJ2QzhFc21BRUd4QUlUdUFjZVotbXFmNmF2M3ZSRThVQjhkU2w5VjBMV0ZCdXd1VFNCdw?oc=5",
       "section": "ireland-catchment-practice",
-      "source_name": "Google News: Ireland river water quality",
-      "published": "2026-09-22",
-      "score": 89,
-      "practical_score": 123.0,
-      "freshness_label": "37 days old",
+      "source_name": "Google News: Ireland water NbS",
+      "published": "2026-10-29",
+      "score": 97,
+      "practical_score": 130.0,
+      "freshness_label": "1 days old",
       "pressure_categories": [
-        "agricultural runoff",
-        "policy / governance"
+        "habitat / biodiversity",
+        "NbS / restoration"
       ],
       "local_relevance": {
         "score": 10,
@@ -83,36 +83,35 @@
         ]
       },
       "opportunity_fit": null,
-      "research_use_type": null,
-      "action_relevance": "General practical signal: may help the Trust track agricultural runoff, policy / governance, policy, funding, monitoring, or community action."
+      "research_use_type": "NbS effectiveness",
+      "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures."
     },
     {
-      "id": "eacb66a6299c9e28",
-      "title": "Louth County Council told first sign of life evident in River Glyde after 20,000 fish kill - Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzZrVlZDRndycFNvWVlfZThjWkM1TUtOOGZ4RUNYeTc4TzRGeFpMZmZjcWtBXy0wb1VPUDQ5dG1Ea3hnQVlXTVlDWEY3d21ZeTRNN3hJbTdFc2gwWTFyX2xhVzR1VC1tMDFiS3RxeG9BWWZNb1NyUThUNW1LTGQyVXFBU0REMW9kZHR4X1VfYVB2eUIydkFDSzdmb29OYUF3aWFzZjdKWnFLZ1RaRm1YVlJleFVUYXJTUUhBUlEydDZxVE9oQ0F5aDE2dmI0M0FpZzFpRTJ1ZTk3UHRRWXRR?oc=5",
+      "id": "f267f41d7ce3e689",
+      "title": "Agri jobs: Meath water quality EIP seeks community animator 01 October 2026 Premium - Irish Farmers Journal",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTJHUFJXOGFnTTBPa052S2dCVnVXeE9qNHUyUnl1YXR1UDU4N01OZGVBenBTYU1EYm9ycElxZHA2NEtkVjlmcUdiRW5lSS1PTjFJSDZlUnhabG5NTDBBV3JPeGpvM2VPd2d4S2RyX3RVMjM2TkNlVUlKeVJ2Y0czbTh4STdwT2lvOFNTblhyRElqc3NCdUxrYzVMQUVsN2xwdWtPcG55Vi1XNi1Ea2c?oc=5",
       "section": "waterbody-evidence-alerts",
       "source_name": "Google News: Meath Louth Fingal catchment signals",
-      "published": "2026-09-22",
-      "score": 97,
-      "practical_score": 137.0,
-      "freshness_label": "37 days old",
+      "published": "2026-10-03",
+      "score": 89,
+      "practical_score": 129.0,
+      "freshness_label": "27 days old",
       "pressure_categories": [
-        "incident / alert"
+        "agricultural runoff"
       ],
       "local_relevance": {
-        "score": 90,
+        "score": 72,
         "label": "High local relevance",
         "matched_terms": [
           "Ireland",
           "fingal",
           "louth",
-          "louth county council",
           "meath"
         ]
       },
       "opportunity_fit": null,
       "research_use_type": null,
-      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
+      "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
     },
     {
       "id": "b0251d564a177c36",
@@ -123,7 +122,7 @@
       "published": "2026-09-29",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "30 days old",
+      "freshness_label": "31 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -153,7 +152,7 @@
       "published": "2026-10-23",
       "score": 78,
       "practical_score": 125.0,
-      "freshness_label": "6 days old",
+      "freshness_label": "7 days old",
       "pressure_categories": [
         "river ecology",
         "funding / grant",
