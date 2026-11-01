@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-31T10:59:50.694787+00:00",
-  "latest_generated_at": "2026-10-31T10:59:35.150855+00:00",
+  "generated_at": "2026-11-01T11:54:50.462482+00:00",
+  "latest_generated_at": "2026-11-01T11:54:39.426902+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
-    "planning-infrastructure": 21,
-    "ireland-catchment-practice": 15,
+    "planning-infrastructure": 22,
+    "grants-opportunities": 17,
+    "ireland-catchment-practice": 12,
     "research-papers": 36,
-    "grants-opportunities": 16,
-    "waterbody-evidence-alerts": 27
+    "waterbody-evidence-alerts": 28
   },
   "top_pressure_categories": [
     {
@@ -17,39 +17,35 @@
     },
     {
       "pressure": "agricultural runoff",
-      "count": 37
-    },
-    {
-      "pressure": "water quality",
-      "count": 34
+      "count": 35
     },
     {
       "pressure": "policy / governance",
       "count": 34
     },
     {
+      "pressure": "water quality",
+      "count": 34
+    },
+    {
       "pressure": "planning / infrastructure",
-      "count": 29
+      "count": 32
     },
     {
       "pressure": "habitat / biodiversity",
-      "count": 25
+      "count": 27
     },
     {
       "pressure": "citizen science / monitoring",
-      "count": 20
+      "count": 19
     },
     {
       "pressure": "funding / grant",
-      "count": 16
+      "count": 17
     },
     {
       "pressure": "nutrients",
       "count": 12
-    },
-    {
-      "pressure": "incident / alert",
-      "count": 8
     },
     {
       "pressure": "sediment / hydromorphology",
@@ -57,7 +53,11 @@
     },
     {
       "pressure": "septic / domestic wastewater",
-      "count": 5
+      "count": 6
+    },
+    {
+      "pressure": "incident / alert",
+      "count": 6
     }
   ],
   "items": [
@@ -70,7 +70,7 @@
       "published": "2026-10-29",
       "score": 97,
       "practical_score": 130.0,
-      "freshness_label": "2 days old",
+      "freshness_label": "3 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "NbS / restoration"
@@ -87,32 +87,31 @@
       "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures."
     },
     {
-      "id": "eacb66a6299c9e28",
-      "title": "Louth County Council told first sign of life evident in River Glyde after 20,000 fish kill - Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzZrVlZDRndycFNvWVlfZThjWkM1TUtOOGZ4RUNYeTc4TzRGeFpMZmZjcWtBXy0wb1VPUDQ5dG1Ea3hnQVlXTVlDWEY3d21ZeTRNN3hJbTdFc2gwWTFyX2xhVzR1VC1tMDFiS3RxeG9BWWZNb1NyUThUNW1LTGQyVXFBU0REMW9kZHR4X1VfYVB2eUIydkFDSzdmb29OYUF3aWFzZjdKWnFLZ1RaRm1YVlJleFVUYXJTUUhBUlEydDZxVE9oQ0F5aDE2dmI0M0FpZzFpRTJ1ZTk3UHRRWXRR?oc=5",
+      "id": "f267f41d7ce3e689",
+      "title": "Agri jobs: Meath water quality EIP seeks community animator 01 October 2026 Premium - Irish Farmers Journal",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTJHUFJXOGFnTTBPa052S2dCVnVXeE9qNHUyUnl1YXR1UDU4N01OZGVBenBTYU1EYm9ycElxZHA2NEtkVjlmcUdiRW5lSS1PTjFJSDZlUnhabG5NTDBBV3JPeGpvM2VPd2d4S2RyX3RVMjM2TkNlVUlKeVJ2Y0czbTh4STdwT2lvOFNTblhyRElqc3NCdUxrYzVMQUVsN2xwdWtPcG55Vi1XNi1Ea2c?oc=5",
       "section": "waterbody-evidence-alerts",
       "source_name": "Google News: Meath Louth Fingal catchment signals",
-      "published": "2026-09-22",
-      "score": 97,
-      "practical_score": 137.0,
-      "freshness_label": "39 days old",
+      "published": "2026-10-03",
+      "score": 89,
+      "practical_score": 129.0,
+      "freshness_label": "29 days old",
       "pressure_categories": [
-        "incident / alert"
+        "agricultural runoff"
       ],
       "local_relevance": {
-        "score": 90,
+        "score": 72,
         "label": "High local relevance",
         "matched_terms": [
           "Ireland",
           "fingal",
           "louth",
-          "louth county council",
           "meath"
         ]
       },
       "opportunity_fit": null,
       "research_use_type": null,
-      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
+      "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
     },
     {
       "id": "56b9c538d44d60e6",
@@ -123,7 +122,7 @@
       "published": "2026-10-14",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "17 days old",
+      "freshness_label": "18 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -152,7 +151,7 @@
       "published": "2026-10-26",
       "score": 78,
       "practical_score": 118.0,
-      "freshness_label": "5 days old",
+      "freshness_label": "6 days old",
       "pressure_categories": [
         "funding / grant",
         "NbS / restoration"
