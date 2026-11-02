@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-01T11:54:50.461179+00:00",
-  "latest_generated_at": "2026-11-01T11:54:39.426902+00:00",
+  "generated_at": "2026-11-02T13:39:35.310548+00:00",
+  "latest_generated_at": "2026-11-02T13:39:18.973940+00:00",
   "total_items": 115,
   "total_sources": 33,
-  "sources_active": 20,
-  "sources_checked_no_current_items": 12,
+  "sources_active": 17,
+  "sources_checked_no_current_items": 15,
   "sources_failed": 1,
   "items_by_section": {
-    "planning-infrastructure": 22,
+    "planning-infrastructure": 21,
     "grants-opportunities": 17,
-    "ireland-catchment-practice": 12,
+    "ireland-catchment-practice": 16,
     "research-papers": 36,
-    "waterbody-evidence-alerts": 28
+    "waterbody-evidence-alerts": 25
   },
   "annotation_coverage": {
     "action_relevance": 115,
@@ -20,7 +20,7 @@
     "opportunity_fit": 17,
     "research_use_type": 55
   },
-  "archive_snapshots": 91,
+  "archive_snapshots": 92,
   "sources": [
     {
       "id": "google-news-nanny-delvin-local",
@@ -32,9 +32,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 3,
+      "current_item_count": 2,
       "discovered_hint_count": 11,
-      "elapsed_ms": 22,
+      "elapsed_ms": 51,
       "error": null
     },
     {
@@ -48,8 +48,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 54,
-      "elapsed_ms": 34,
+      "discovered_hint_count": 53,
+      "elapsed_ms": 67,
       "error": null
     },
     {
@@ -62,9 +62,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 8,
+      "current_item_count": 7,
       "discovered_hint_count": 10,
-      "elapsed_ms": 19,
+      "elapsed_ms": 48,
       "error": null
     },
     {
@@ -78,8 +78,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 14,
-      "discovered_hint_count": 58,
-      "elapsed_ms": 33,
+      "discovered_hint_count": 57,
+      "elapsed_ms": 68,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 10,
-      "elapsed_ms": 18,
+      "elapsed_ms": 46,
       "error": null
     },
     {
@@ -108,8 +108,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 77,
-      "elapsed_ms": 40,
+      "discovered_hint_count": 26,
+      "elapsed_ms": 52,
       "error": null
     },
     {
@@ -123,8 +123,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 1,
-      "discovered_hint_count": 25,
-      "elapsed_ms": 22,
+      "discovered_hint_count": 30,
+      "elapsed_ms": 54,
       "error": null
     },
     {
@@ -137,9 +137,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 2,
-      "discovered_hint_count": 32,
-      "elapsed_ms": 24,
+      "current_item_count": 7,
+      "discovered_hint_count": 100,
+      "elapsed_ms": 85,
       "error": null
     },
     {
@@ -152,9 +152,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 4,
-      "discovered_hint_count": 24,
-      "elapsed_ms": 21,
+      "current_item_count": 5,
+      "discovered_hint_count": 32,
+      "elapsed_ms": 55,
       "error": null
     },
     {
@@ -168,8 +168,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 15,
-      "elapsed_ms": 20,
+      "discovered_hint_count": 61,
+      "elapsed_ms": 74,
       "error": null
     },
     {
@@ -180,11 +180,11 @@
       "scope": "ireland",
       "url": "https://news.google.com/rss/search?q=%28fish%20kill%20OR%20pollution%20incident%20OR%20algal%20bloom%20OR%20sewage%20overflow%29%20%28river%20OR%20lake%20OR%20estuary%20OR%20lagoon%29%20Ireland&hl=en-IE&gl=IE&ceid=IE:en",
       "host": "news.google.com",
-      "status": "active",
+      "status": "checked-no-current-items",
       "http_status": 200,
-      "current_item_count": 1,
-      "discovered_hint_count": 46,
-      "elapsed_ms": 31,
+      "current_item_count": 0,
+      "discovered_hint_count": 10,
+      "elapsed_ms": 46,
       "error": null
     },
     {
@@ -198,8 +198,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 1,
-      "discovered_hint_count": 34,
-      "elapsed_ms": 27,
+      "discovered_hint_count": 33,
+      "elapsed_ms": 54,
       "error": null
     },
     {
@@ -214,7 +214,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 92,
-      "elapsed_ms": 458,
+      "elapsed_ms": 693,
       "error": null
     },
     {
@@ -229,7 +229,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 343,
-      "elapsed_ms": 2947,
+      "elapsed_ms": 5135,
       "error": null
     },
     {
@@ -244,7 +244,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 10,
-      "elapsed_ms": 18,
+      "elapsed_ms": 50,
       "error": null
     },
     {
@@ -255,11 +255,11 @@
       "scope": "ireland birds ecology",
       "url": "https://news.google.com/rss/search?q=%28wetland%20birds%20OR%20waterbirds%20OR%20waders%20OR%20shorebirds%20OR%20estuary%20birds%20OR%20wintering%20birds%29%20%28Ireland%20OR%20Irish%29%20%28estuary%20OR%20river%20OR%20lagoon%20OR%20wetland%20OR%20saltmarsh%29&hl=en-IE&gl=IE&ceid=IE:en",
       "host": "news.google.com",
-      "status": "active",
+      "status": "checked-no-current-items",
       "http_status": 200,
-      "current_item_count": 1,
-      "discovered_hint_count": 74,
-      "elapsed_ms": 38,
+      "current_item_count": 0,
+      "discovered_hint_count": 73,
+      "elapsed_ms": 73,
       "error": null
     },
     {
@@ -274,7 +274,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 49,
-      "elapsed_ms": 31,
+      "elapsed_ms": 62,
       "error": null
     },
     {
@@ -289,7 +289,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 10,
-      "elapsed_ms": 20,
+      "elapsed_ms": 47,
       "error": null
     },
     {
@@ -303,8 +303,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 29,
-      "elapsed_ms": 25,
+      "discovered_hint_count": 10,
+      "elapsed_ms": 51,
       "error": null
     },
     {
@@ -318,8 +318,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 19,
-      "elapsed_ms": 21,
+      "discovered_hint_count": 22,
+      "elapsed_ms": 51,
       "error": null
     },
     {
@@ -332,9 +332,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 6,
-      "discovered_hint_count": 49,
-      "elapsed_ms": 32,
+      "current_item_count": 5,
+      "discovered_hint_count": 48,
+      "elapsed_ms": 81,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 10,
-      "elapsed_ms": 18,
+      "elapsed_ms": 48,
       "error": null
     },
     {
@@ -364,7 +364,7 @@
       "http_status": 200,
       "current_item_count": 5,
       "discovered_hint_count": 143,
-      "elapsed_ms": 792,
+      "elapsed_ms": 905,
       "error": null
     },
     {
@@ -379,7 +379,7 @@
       "http_status": 200,
       "current_item_count": 4,
       "discovered_hint_count": 115,
-      "elapsed_ms": 772,
+      "elapsed_ms": 1079,
       "error": null
     },
     {
@@ -394,7 +394,7 @@
       "http_status": 200,
       "current_item_count": 6,
       "discovered_hint_count": 224,
-      "elapsed_ms": 253,
+      "elapsed_ms": 391,
       "error": null
     },
     {
@@ -409,7 +409,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 180,
-      "elapsed_ms": 520,
+      "elapsed_ms": 1015,
       "error": null
     },
     {
@@ -420,11 +420,11 @@
       "scope": "ireland institutional",
       "url": "https://www.npws.ie/news",
       "host": "www.npws.ie",
-      "status": "active",
+      "status": "checked-no-current-items",
       "http_status": 200,
-      "current_item_count": 1,
+      "current_item_count": 0,
       "discovered_hint_count": 424,
-      "elapsed_ms": 844,
+      "elapsed_ms": 1001,
       "error": null
     },
     {
@@ -439,7 +439,7 @@
       "http_status": 200,
       "current_item_count": 3,
       "discovered_hint_count": 82,
-      "elapsed_ms": 601,
+      "elapsed_ms": 868,
       "error": null
     },
     {
@@ -454,7 +454,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 35,
-      "elapsed_ms": 1754,
+      "elapsed_ms": 2164,
       "error": null
     },
     {
@@ -469,7 +469,7 @@
       "http_status": 404,
       "current_item_count": 0,
       "discovered_hint_count": 0,
-      "elapsed_ms": 16,
+      "elapsed_ms": 42,
       "error": null
     },
     {
@@ -484,7 +484,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 105,
-      "elapsed_ms": 41,
+      "elapsed_ms": 56,
       "error": null
     },
     {
@@ -499,7 +499,7 @@
       "http_status": 200,
       "current_item_count": 13,
       "discovered_hint_count": 94,
-      "elapsed_ms": 777,
+      "elapsed_ms": 737,
       "error": null
     },
     {
@@ -514,7 +514,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 109,
-      "elapsed_ms": 565,
+      "elapsed_ms": 890,
       "error": null
     }
   ]
