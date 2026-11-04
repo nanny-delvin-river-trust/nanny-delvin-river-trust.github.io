@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-03T12:53:04.209512+00:00",
-  "latest_generated_at": "2026-11-03T12:52:51.693916+00:00",
+  "generated_at": "2026-11-04T13:06:00.109976+00:00",
+  "latest_generated_at": "2026-11-04T13:05:46.273972+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
     "planning-infrastructure": 21,
-    "ireland-catchment-practice": 14,
     "research-papers": 36,
-    "grants-opportunities": 19,
+    "ireland-catchment-practice": 15,
+    "grants-opportunities": 18,
     "waterbody-evidence-alerts": 25
   },
   "top_pressure_categories": [
     {
       "pressure": "NbS / restoration",
-      "count": 46
+      "count": 40
     },
     {
       "pressure": "agricultural runoff",
-      "count": 36
+      "count": 35
     },
     {
       "pressure": "water quality",
@@ -25,7 +25,7 @@
     },
     {
       "pressure": "policy / governance",
-      "count": 32
+      "count": 33
     },
     {
       "pressure": "planning / infrastructure",
@@ -36,11 +36,11 @@
       "count": 25
     },
     {
-      "pressure": "funding / grant",
+      "pressure": "citizen science / monitoring",
       "count": 20
     },
     {
-      "pressure": "citizen science / monitoring",
+      "pressure": "funding / grant",
       "count": 19
     },
     {
@@ -52,11 +52,11 @@
       "count": 8
     },
     {
-      "pressure": "sediment / hydromorphology",
-      "count": 7
+      "pressure": "general catchment signal",
+      "count": 4
     },
     {
-      "pressure": "septic / domestic wastewater",
+      "pressure": "sediment / hydromorphology",
       "count": 3
     }
   ],
@@ -70,7 +70,7 @@
       "published": "2026-10-29",
       "score": 97,
       "practical_score": 130.0,
-      "freshness_label": "5 days old",
+      "freshness_label": "6 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "NbS / restoration"
@@ -95,7 +95,7 @@
       "published": "2026-09-22",
       "score": 97,
       "practical_score": 137.0,
-      "freshness_label": "42 days old",
+      "freshness_label": "43 days old",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -123,7 +123,7 @@
       "published": "2026-10-14",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "20 days old",
+      "freshness_label": "21 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -144,19 +144,18 @@
       "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred."
     },
     {
-      "id": "314bda6b85bd082a",
-      "title": "Back Burn river restoration celebrates completion with recognition in prestigious nature awards - Water Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLTlnSnd1akNhMGRvYjBhWVlRX2FBcjVpLS1ScWRXTDl6SUJIUFFqNzRTOVp2Zjh5bzlVQzhLMFR0c2tQMThDbFVyR1VqZlR1MHZ0alB0bl9GeUV6VXlTQ0pHdWtyQjBHcFU2RG13N0tEaTd6SFkyVjRKYUhCNUhUVVFMYWl2VmozU1l6d3ZfRUpVREpacjZZc0FpalVCbmJLX3UwQk4xX3FwUjJ0cDVoRXpaZVVrd1k1NlZDaU9LY0xWcnkxXzJKTmlUZmJIQXB0TjFraUFB?oc=5",
+      "id": "43df410dcaeed8b9",
+      "title": "LEADER Targeted Call for Biodiversity and Sustainable Use of Water Resources (Ireland) - fundsforNGOs - Grants and Resources for Sustainability",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc21QbDhqZ1pPdEMwTDdGbjZnY1hPX0F5TG1GVmU4ZFdwZmhUWU45X0FBUkFiS29NblRTOHk5MDZxVXlLMzR4aTFRVkNmb09GSUhadXFGTjRmSTNxekROLVZFWWVfRldWMERZRURndlEtTnFYX2dkMGswcXQ5M2VkZWF2NFNPWmVfcHhrRkFjTUhiUmh4SDZMWkVlNncxd1JhNXU4ZWE0ZVpQZnpqMXFNOFZQRFo1RlczamI2SGF6NzFJNjDSAcgBQVVfeXFMTmVvN3ZsTUFoa0JxbXRfbGs2d0VMRm1mUEFqVDdIUnhOcVZZbUZEa0x5VFBmWldwMFdHRWc0ZkhEOUs0WFNwaFJfN2dxeVEtTlhpVV9IY29ZZWo4eFNwYnNaZWI4bEpGNXIyd0RqdVc0Y1Y4MW5qNnZJRUhESGI1ZzhyVHZJMGdsajVtX2RSUFUxS1FJTUt5V0t3UVV1S3pSY1VOMEZZNnJBSjdUNVdkNmFUajVhU210dVhZQUxZNkU1TUtsLXJ4TEQ?oc=5",
       "section": "grants-opportunities",
-      "source_name": "Google News: river ecology Ireland",
-      "published": "2026-10-23",
-      "score": 78,
-      "practical_score": 125.0,
-      "freshness_label": "11 days old",
+      "source_name": "Google News: water and biodiversity grants Ireland",
+      "published": "2026-11-02",
+      "score": 84,
+      "practical_score": 127.0,
+      "freshness_label": "2 days old",
       "pressure_categories": [
-        "river ecology",
-        "funding / grant",
-        "NbS / restoration"
+        "habitat / biodiversity",
+        "funding / grant"
       ],
       "local_relevance": {
         "score": 10,
@@ -166,30 +165,29 @@
         ]
       },
       "opportunity_fit": {
-        "fit": "Medium",
-        "score": 63,
+        "fit": "High",
+        "score": 77,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
       },
       "research_use_type": null,
-      "action_relevance": "Funding signal for the Trust: check whether this can support river ecology, funding / grant, NbS / restoration, citizen science, engagement, or small catchment actions."
+      "action_relevance": "Funding signal for the Trust: check whether this can support habitat / biodiversity, funding / grant, citizen science, engagement, or small catchment actions."
     },
     {
-      "id": "2ba35c94b1962cac",
-      "title": "Riparian Buffers as a Critical Landscape Feature: Insights for Riverscape Conservation and Policy Renovations",
-      "url": "https://doi.org/10.3390/d14030172",
+      "id": "99a6234cdd9b55a1",
+      "title": "Nutrient removal by subsurface flow constructed wetland in the farm Mezaciruli",
+      "url": "https://doi.org/10.22616/rrd.23.2017.024",
       "section": "research-papers",
-      "source_name": "Diversity",
-      "published": "2022-02-27",
+      "source_name": "Research for Rural Development/Research for Rural Development (Online)",
+      "published": "2017-12-15",
       "score": 100,
-      "practical_score": 142.0,
-      "freshness_label": "2022 · 156 citations · open access",
+      "practical_score": 139.0,
+      "freshness_label": "2017 · 10 citations · open access",
       "pressure_categories": [
         "water quality",
         "agricultural runoff",
         "sediment / hydromorphology",
-        "NbS / restoration",
-        "habitat / biodiversity"
+        "NbS / restoration"
       ],
       "local_relevance": null,
       "opportunity_fit": null,
