@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-04T13:05:46.281851+00:00",
+  "generated_at": "2026-11-05T13:19:22.383028+00:00",
   "snapshots": [
+    {
+      "date": "2026-11-05",
+      "path": "data/archive/2026-11-05.json",
+      "count": 115,
+      "generated_at": "2026-11-05T13:19:22.365801+00:00"
+    },
     {
       "date": "2026-11-04",
       "path": "data/archive/2026-11-04.json",
