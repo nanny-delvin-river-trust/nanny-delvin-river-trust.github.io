@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T13:19:22.365801+00:00",
+  "generated_at": "2026-11-06T13:02:37.576489+00:00",
   "note": "Source-led daily radar for Nanny-Delvin: practical Irish catchment signals, waterbody evidence/alerts, grants/opportunities, and research ranked by Trust usefulness.",
   "sections": [
     {
@@ -28,7 +28,7 @@
       "description": "Scholarly evidence ranked for practical Nanny-Delvin usefulness: Ireland first, comparable temperate systems second, and transferable NbS / water-quality evidence where it helps action."
     }
   ],
-  "count": 115,
+  "count": 113,
   "items": [
     {
       "id": "b0251d564a177c36",
@@ -47,7 +47,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "37 days old",
+      "freshness_label": "38 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -89,7 +89,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "37 days old",
+      "freshness_label": "38 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -125,7 +125,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "40 days old",
+      "freshness_label": "41 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -167,7 +167,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "50 days old",
+      "freshness_label": "51 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -203,7 +203,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "52 days old",
+      "freshness_label": "53 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -239,7 +239,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "59 days old",
+      "freshness_label": "60 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -279,7 +279,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "65 days old",
+      "freshness_label": "66 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -320,7 +320,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "79 days old",
+      "freshness_label": "80 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -362,7 +362,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "94 days old · background",
+      "freshness_label": "95 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -397,7 +397,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "100 days old · background",
+      "freshness_label": "101 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -439,7 +439,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "107 days old · background",
+      "freshness_label": "108 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -481,7 +481,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "109 days old · background",
+      "freshness_label": "110 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -521,7 +521,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "118 days old · background",
+      "freshness_label": "119 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant",
@@ -560,7 +560,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "140 days old · background",
+      "freshness_label": "141 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -603,7 +603,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "259 days old · background",
+      "freshness_label": "260 days old · background",
       "pressure_categories": [
         "funding / grant",
         "planning / infrastructure"
@@ -652,7 +652,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "260 days old · background",
+      "freshness_label": "261 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -675,73 +675,6 @@
         "status": "candidate",
         "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
       }
-    },
-    {
-      "id": "f0152736e995084c",
-      "title": "Intensification of Constructed Wetlands for Nutrient Removal From Agricultural Runoff",
-      "url": "https://doi.org/10.1002/eco.70261",
-      "summary": "ABSTRACT Inspired by nature‐based solutions, constructed wetlands are increasingly acknowledged as effective wastewater treatment tools, with diverse structural designs suited to various contexts. In the present work, two typologies of these systems, a full‐scale farm wetland and three pilot scale systems, were tested in terms of nitrogen and phosphorus removal from agricultural runoff, as well as their potential to maintain treatment performance under intensified conditions and reduced space requirements. The farm wetland, a full‐scale surface flow wetland operating for more than 20 years on an agricultural farm in Italy, was monitored for different years. It showed high water retention rates (> 60% in most monitored years and up to 100% in some years) and high nutrient retention efficiencies, with TN retention generally exceeding 65% and TP retention exceeding 46%. However, the size of this system might be an obstacle to its wider app",
-      "published": "2026-01-01",
-      "source_id": "openalex",
-      "source_name": "Ecohydrology",
-      "publisher": "Ecohydrology",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2026 · 1 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.1002/eco.70261",
-      "cited_by_count": 1,
-      "openalex_id": "https://openalex.org/W7202041974",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
-    },
-    {
-      "id": "d95d41fb3ecc55f8",
-      "title": "Phosphorus Removal in Constructed Treatment Wetlands: A Systematic Review",
-      "url": "https://doi.org/10.3390/w17223301",
-      "summary": "Free water surface constructed wetlands are widely used for phosphorus removal from polluted waters, yet their effectiveness varies across wetland types, designs, and environmental conditions, creating uncertainty about their broader application. Building on prior reviews, this study applies stricter screening criteria and includes the literature until 2023 to deliver a more robust and updated global assessment of phosphorus retention performance. From 71 peer-reviewed studies, statistical analysis and models are applied to identify the principal design and loading parameters governing phosphorus retention. Notably, 90% of the wetlands included exhibited net retention, efficiencies ranged from −245% to 99% (median of 43.9%). Wetland area, hydraulic loading rate, hydraulic retention time, and phosphorus loading rate significantly influenced retention. Larger wetlands (>10 ha) and those with low hydraulic loadings (<10 m/year) displayed h",
-      "published": "2025-11-18",
-      "source_id": "openalex",
-      "source_name": "Water",
-      "publisher": "Water",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2025 · 8 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.3390/w17223301",
-      "cited_by_count": 8,
-      "openalex_id": "https://openalex.org/W4416332204",
-      "pressure_categories": [
-        "water quality",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, NbS / restoration."
     },
     {
       "id": "178f8f9f600960b0",
@@ -833,7 +766,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "443 days old · background",
+      "freshness_label": "444 days old · background",
       "pressure_categories": [
         "nutrients",
         "habitat / biodiversity",
@@ -847,39 +780,6 @@
         ]
       },
       "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures."
-    },
-    {
-      "id": "e492fd3e0dc9cab7",
-      "title": "Technical structure and influencing factors of nitrogen and phosphorus removal in constructed wetlands",
-      "url": "https://doi.org/10.2166/wst.2023.414",
-      "summary": "Constructed wetlands purify water quality by synergistically removing nitrogen and phosphorus pollutants from water, among other pollutants such as organic matter through a physical, chemical, and biological composite remediation mechanism formed between plants, fillers, and microorganisms. Compared with large-scale centralized wastewater treatment systems with high cost and energy consumption, the construction and operation costs of artificial wetlands are relatively low, do not require large-scale equipment and high energy consumption treatment processes, and have the characteristics of green, environmental protection, and sustainability. Gradually, constructed wetlands are widely used to treat nitrogen and phosphorus substances in wastewater. Therefore, this article discusses in detail the role and interaction of the main technical structures (plants, microorganisms, and fillers) involved in nitrogen and phosphorus removal in constru",
-      "published": "2023-12-21",
-      "source_id": "openalex",
-      "source_name": "Water Science & Technology",
-      "publisher": "Water Science & Technology",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2023 · 35 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.2166/wst.2023.414",
-      "cited_by_count": 35,
-      "openalex_id": "https://openalex.org/W4390059274",
-      "pressure_categories": [
-        "water quality",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, NbS / restoration."
     },
     {
       "id": "5d6b6c5c3f4b2372",
@@ -916,41 +816,6 @@
       ],
       "research_use_type": "Review / evidence synthesis",
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, sediment / hydromorphology."
-    },
-    {
-      "id": "eae12a16e498b263",
-      "title": "Wetland nitrogen removal from agricultural runoff in a changing climate",
-      "url": "https://doi.org/10.1016/j.scitotenv.2023.164336",
-      "summary": "Wetlands in agricultural areas mitigate eutrophication by intercepting nutrient transports from land to sea. The role of wetlands for nutrient removal may become even more important in the future because of the expected increase in agricultural runoff due to climate change. Because denitrification is temperature dependent, wetland nitrogen (N) removal usually peaks during the warm summer. However, climate change scenarios for the northern temperate zone predict decreased summer and increased winter flows. Future wetlands may therefore shift towards lower hydraulic loading rate and N load during summer. We hypothesised that low summer N loads would decrease annual wetland N removal and tested this by examining 1.5-3 years of continuous N removal data from created agricultural wetlands in two regions in southern Sweden (East and West) during different periods. West wetlands showed relatively stable hydraulic loads throughout the year, whe",
-      "published": "2023-05-24",
-      "source_id": "openalex",
-      "source_name": "The Science of The Total Environment",
-      "publisher": "The Science of The Total Environment",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access",
-        "temperate-transfer"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2023 · 21 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.1016/j.scitotenv.2023.164336",
-      "cited_by_count": 21,
-      "openalex_id": "https://openalex.org/W4378072465",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
     },
     {
       "id": "0f904cfcfd9096d8",
@@ -1026,145 +891,6 @@
       "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, sediment / hydromorphology."
     },
     {
-      "id": "9975135875a58ce6",
-      "title": "A Review on Constructed Treatment Wetlands for Removal of Pollutants in the Agricultural Runoff",
-      "url": "https://doi.org/10.3390/su132413578",
-      "summary": "Constructed wetland (CW) is a popular sustainable best management practice for treating different wastewaters. While there are many articles on the removal of pollutants from different wastewaters, a comprehensive and critical review on the removal of pollutants other than nutrients that occur in agricultural field runoff and wastewater from animal facilities, including pesticides, insecticides, veterinary medicine, and antimicrobial-resistant genes are currently unavailable. Consequently, this paper summarized recent findings on the occurrence of such pollutants in the agricultural runoff water, their removal by different wetlands (surface flow, subsurface horizontal flow, subsurface vertical flow, and hybrid), and removal mechanisms, and analyzed the factors that affect the removal. The information is then used to highlight the current research gaps and needs for resilient and sustainable treatment systems. Factors, including contamin",
-      "published": "2021-12-08",
-      "source_id": "openalex",
-      "source_name": "Sustainability",
-      "publisher": "Sustainability",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access",
-        "highly-cited"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2021 · 65 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.3390/su132413578",
-      "cited_by_count": 65,
-      "openalex_id": "https://openalex.org/W4200243687",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
-    },
-    {
-      "id": "3a91b5d7b28998ee",
-      "title": "The Use of Constructed Wetland for Mitigating Nitrogen and Phosphorus from Agricultural Runoff: A Review",
-      "url": "https://doi.org/10.3390/w13040476",
-      "summary": "The loss of nitrogen and phosphate fertilizers in agricultural runoff is a global environmental problem, attracting worldwide attention. In the last decades, the constructed wetland has been increasingly used for mitigating the loss of nitrogen and phosphate from agricultural runoff, while the substrate, plants, and wetland structure design remain far from clearly understood. In this paper, the optimum substrates and plant species were identified by reviewing their treatment capacity from the related studies. Specifically, the top three suitable substrates are gravel, zeolite, and slag. In terms of the plant species, emergent plants are the most widely used in the constructed wetlands. Eleocharis dulcis, Typha orientalis, and Scirpus validus are the top three optimum emergent plant species. Submerged plants (Hydrilla verticillata, Ceratophyllum demersum, and Vallisneria natans), free-floating plants (Eichhornia crassipes and Lemna minor",
-      "published": "2021-02-12",
-      "source_id": "openalex",
-      "source_name": "Water",
-      "publisher": "Water",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access",
-        "highly-cited"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2021 · 86 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.3390/w13040476",
-      "cited_by_count": 86,
-      "openalex_id": "https://openalex.org/W3129729599",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "NbS / restoration",
-        "habitat / biodiversity"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
-    },
-    {
-      "id": "54fe567b803f286a",
-      "title": "Constructed Wetlands for Water Quality Improvement: A Synthesis on Nutrient Reduction from Agricultural Effluents",
-      "url": "https://doi.org/10.13031/trans.13976",
-      "summary": "Abstract. Excess nutrients from agricultural settings contribute to surface water and groundwater impairment. Constructed wetlands have been widely used for water quality protection in various agricultural systems. We used a synthesis approach to document the performance of constructed wetlands for nutrient removal from a range of landscapes and geographic regions with the following objectives: (1) review the current use of constructed wetlands in agricultural applications, (2) summarize the nutrient removal efficiency of constructed wetlands, and (3) identify the geographic usage and costs associated with constructed wetlands. We reviewed over 130 publications and reports to characterize nutrient removal performance for the following types of agricultural effluents: cropland surface and subsurface drainage, and wastewater from livestock production, greenhouse, aquaculture, and hydroponic systems. Data from the reviewed studies indicate",
-      "published": "2021-01-01",
-      "source_id": "openalex",
-      "source_name": "Transactions of the ASABE",
-      "publisher": "Transactions of the ASABE",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2021 · 36 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.13031/trans.13976",
-      "cited_by_count": 36,
-      "openalex_id": "https://openalex.org/W3130500292",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
-    },
-    {
-      "id": "eed41a4cc94c2f3e",
-      "title": "Design, Operation and Optimization of Constructed Wetland for Removal of Pollutant",
-      "url": "https://doi.org/10.3390/ijerph17228339",
-      "summary": "Constructed wetlands (CWs) are affordable and reliable green technologies for the treatment of various types of wastewater. Compared to conventional treatment systems, CWs offer an environmentally friendly approach, are low cost, have fewer operational and maintenance requirements, and have a high potential for being applied in developing countries, particularly in small rural communities. However, the sustainable management and successful application of these systems remain a challenge. Therefore, after briefly providing basic information on wetlands and summarizing the classification and use of current CWs, this study aims to provide and inspire sustainable solutions for the performance and application of CWs by giving a comprehensive review of CWs' application and the recent development of their sustainable design, operation, and optimization for wastewater treatment. To accomplish this objective, thee design and management parameter",
-      "published": "2020-11-11",
-      "source_id": "openalex",
-      "source_name": "International Journal of Environmental Research and Public Health",
-      "publisher": "International Journal of Environmental Research and Public Health",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access",
-        "highly-cited"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2020 · 212 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.3390/ijerph17228339",
-      "cited_by_count": 212,
-      "openalex_id": "https://openalex.org/W3099570657",
-      "pressure_categories": [
-        "water quality",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, NbS / restoration."
-    },
-    {
       "id": "dbf06683280f8d0a",
       "title": "Riparian buffer effectiveness as a function of buffer design and input loads",
       "url": "https://doi.org/10.1002/jeq2.20149",
@@ -1198,110 +924,6 @@
       ],
       "research_use_type": "Review / evidence synthesis",
       "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, sediment / hydromorphology."
-    },
-    {
-      "id": "be9d0c179df182d3",
-      "title": "Biogeochemical and climate drivers of wetland phosphorus and nitrogen release: Implications for nutrient legacies and eutrophication risk",
-      "url": "https://doi.org/10.1002/jeq2.20155",
-      "summary": "The dynamics and processes of nutrient cycling and release were examined for a lowland wetland-pond system, draining woodland in southern England. Hydrochemical and meteorological data were analyzed from 1997 to 2017, along with high-resolution in situ sensor measurements from 2016 to 2017. The results showed that even a relatively pristine wetland can become a source of highly bioavailable phosphorus (P), nitrogen (N), and silicon (Si) during low-flow periods of high ecological sensitivity. The drivers of nutrient release were primary production and accumulation of biomass, which provided a carbon (C) source for microbial respiration and, via mineralization, a source of bioavailable nutrients for P and N co-limited microorganisms. During high-intensity nutrient release events, the dominant N-cycling process switched from denitrification to nitrate ammonification, and a positive feedback cycle of P and N release was sustained over sever",
-      "published": "2020-09-22",
-      "source_id": "openalex",
-      "source_name": "Journal of Environmental Quality",
-      "publisher": "Journal of Environmental Quality",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access",
-        "highly-cited",
-        "temperate-transfer"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2020 · 54 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.1002/jeq2.20155",
-      "cited_by_count": 54,
-      "openalex_id": "https://openalex.org/W3088387940",
-      "pressure_categories": [
-        "water quality",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, NbS / restoration."
-    },
-    {
-      "id": "464b79877ae4e0d8",
-      "title": "Effects of Water Depth and Phosphorus Availability on Nitrogen Removal in Agricultural Wetlands",
-      "url": "https://doi.org/10.3390/w11122626",
-      "summary": "Excess nitrogen (N) from agricultural runoff is a cause of pollution in aquatic ecosystems. Created free water surface (FWS) wetlands can be used as buffering systems to lower the impacts of nutrients from agricultural runoff. The purpose of this paper was to evaluate critical factors for N removal in FWS wetlands receiving high nitrate (NO3−) loads from agriculture. The study was performed in 12 experimental FWS wetlands in southern Sweden, receiving drainage water from an agricultural field area. The effects of water depth (mean depth of 0.4 m and 0.6 m, respectively) and phosphorus (P) availability (with or without additional P load) were investigated from July to October. The experiment was performed in a two-way design, with three wetlands of each combination of depth and P availability. The effects of P availability on the removal of NO3− and total N were strongly significant, with higher absolute N removal rates per wetland area",
-      "published": "2019-12-13",
-      "source_id": "openalex",
-      "source_name": "Water",
-      "publisher": "Water",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2019 · 18 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.3390/w11122626",
-      "cited_by_count": 18,
-      "openalex_id": "https://openalex.org/W2996287390",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
-    },
-    {
-      "id": "8aa051169b877afa",
-      "title": "Runoff pH Influences Nutrient Removal Efficacy of Floating Treatment Wetland Systems",
-      "url": "https://doi.org/10.21273/horttech04299-19",
-      "summary": "Floating treatment wetlands (FTWs), a modified constructed wetland technology, can be deployed in ponds for the treatment of nursery and greenhouse irrigation runoff. The pH of nursery and greenhouse operation irrigation water varies from 3.3 to 10.4 across the United States. Water flow rate, plant species selection, and variable nutrient inputs influence the remediation efficacy of FTWs and may interact with the pH of inflow water to change nutrient remediation dynamics. Therefore, an experiment was designed to quantify the effect of pH on the growth and nutrient uptake capacity of three macrophyte species using a mesocosm FTW system. ‘Rising Sun’ japanese iris ( Iris ensata ), bushy bluestem ( Andropogon glomeratus ), and maidencane ( Panicum hemitomon ) were grown for two 6-week periods and exposed to five pH treatment levels representing the range of nursery and greenhouse irrigation runoff, 4.5, 5.5, 6.5, 7.2, and 8.5, for a total",
-      "published": "2019-10-02",
-      "source_id": "openalex",
-      "source_name": "HortTechnology",
-      "publisher": "HortTechnology",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2019 · 14 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.21273/horttech04299-19",
-      "cited_by_count": 14,
-      "openalex_id": "https://openalex.org/W2977725467",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "NbS / restoration",
-        "habitat / biodiversity"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
     },
     {
       "id": "7c67db657d90ff3c",
@@ -1362,11 +984,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2018 · 113 citations · open access",
+      "freshness_label": "2018 · 114 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.1021/acs.est.8b01036",
-      "cited_by_count": 113,
+      "cited_by_count": 114,
       "openalex_id": "https://openalex.org/W2802755228",
       "pressure_categories": [
         "water quality",
@@ -1412,112 +1034,6 @@
       ],
       "research_use_type": "Review / evidence synthesis",
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, sediment / hydromorphology, NbS / restoration."
-    },
-    {
-      "id": "99a6234cdd9b55a1",
-      "title": "Nutrient removal by subsurface flow constructed wetland in the farm Mezaciruli",
-      "url": "https://doi.org/10.22616/rrd.23.2017.024",
-      "summary": "A pilot-scale horizontal subsurface flow constructed wetland was installed at the farm Mezaciruli, Zalenieki county, Jelgava region, in the middle part of Latvia, in August 2014 to improve stormwater quality collected from the farmyard and demonstrate applicability of constructed wetland as a convenient treatment option for contaminated surface runoff.The examined water treatment system consists of a sedimentation pond as a pretreatment plant, a water pump, a water distribution well, and a horizontal subsurface flow constructed wetland with the surface area of 160 m 2 .During the observation period of 27 months (2014 -2016) water quality parameters such as total suspended solids (TSS), nitrate nitrogen (NO 3 -N), ammonium nitrogen (NH 4 -N), total nitrogen (TN), orthophosphate phosphorus (PO 4 -P), and total phosphorus (TP) were monitored and nutrient removal efficiency of the system was examined.Water samples collected at the inlet and",
-      "published": "2017-12-15",
-      "source_id": "openalex",
-      "source_name": "Research for Rural Development/Research for Rural Development (Online)",
-      "publisher": "Research for Rural Development/Research for Rural Development (Online)",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2017 · 10 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.22616/rrd.23.2017.024",
-      "cited_by_count": 10,
-      "openalex_id": "https://openalex.org/W2792779339",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "sediment / hydromorphology",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, sediment / hydromorphology."
-    },
-    {
-      "id": "94a0e0cb76c29551",
-      "title": "How effective are created or restored freshwater wetlands for nitrogen and phosphorus removal? A systematic review",
-      "url": "https://doi.org/10.1186/s13750-016-0060-0",
-      "summary": "Abstract Background Eutrophication of aquatic environments is a major environmental problem in large parts of the world. In Europe, EU legislation (the Water Framework Directive and the Marine Strategy Framework Directive), international conventions (OSPAR, HELCOM) and national environmental objectives emphasize the need to reduce the input of nutrients to freshwater and marine environments. A widely used method to achieve this is to allow water to pass through a created or restored wetland. However, the large variation in measured nutrient removal rates in such wetlands calls for a systematic review. Methods Searches for primary studies were performed in electronic databases and on the internet. One author performed the screening of all retrieved articles at the title and abstract level. To check that the screening was consistent and complied with the agreed inclusion/exclusion criteria, subsets of 100 articles were screened by the oth",
-      "published": "2016-05-04",
-      "source_id": "openalex",
-      "source_name": "Environmental Evidence",
-      "publisher": "Environmental Evidence",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access",
-        "highly-cited",
-        "ireland-first"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2016 · 259 citations · open access",
-      "practical_fit": "High practical fit · Ireland / direct relevance",
-      "geographic_relevance": "Ireland / direct relevance",
-      "doi": "https://doi.org/10.1186/s13750-016-0060-0",
-      "cited_by_count": 259,
-      "openalex_id": "https://openalex.org/W2109326402",
-      "pressure_categories": [
-        "water quality",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, NbS / restoration."
-    },
-    {
-      "id": "1603db32f7d06de4",
-      "title": "Carbon and nitrogen dynamics and greenhouse gas emissions in constructed wetlands treating wastewater: a review",
-      "url": "https://doi.org/10.5194/hess-20-109-2016",
-      "summary": "Abstract. The nitrogen (N) removal efficiency of constructed wetlands (CWs) is very inconsistent and does not alone explain if the removed species are reduced by physical attenuation or if they are transformed to other reactive forms (pollution swapping). There are many pathways for the removed N to remain in the system: accumulation in the sediments, leaching to groundwater (nitrate-NO3- and ammonium-NH4+), emission to atmosphere via nitrous oxide- N2O and ammonia and/or conversion to N2 gas and adsorption to sediments. The kinetics of these pathways/processes varies with CWs management and therefore needs to be studied quantitatively for the sustainable use of CWs. For example, the quality of groundwater underlying CWs with regards to the reactive N (Nr) species is largely unknown. Equally, there is a dearth of information on the extent of Nr accumulation in soils and discharge to surface waters and air. Moreover, CWs are rich in diss",
-      "published": "2016-01-18",
-      "source_id": "openalex",
-      "source_name": "Hydrology and earth system sciences",
-      "publisher": "Hydrology and earth system sciences",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access",
-        "highly-cited"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2016 · 91 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.5194/hess-20-109-2016",
-      "cited_by_count": 91,
-      "openalex_id": "https://openalex.org/W2287376826",
-      "pressure_categories": [
-        "water quality",
-        "sediment / hydromorphology",
-        "NbS / restoration",
-        "habitat / biodiversity"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, sediment / hydromorphology, NbS / restoration."
     },
     {
       "id": "ndrt-site-citizen-science",
@@ -2308,7 +1824,7 @@
       ],
       "score": 99,
       "freshness_status": "reference",
-      "freshness_label": "227 days old · background",
+      "freshness_label": "228 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2332,39 +1848,6 @@
         "status": "candidate",
         "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
       }
-    },
-    {
-      "id": "3cf605aa50c92e13",
-      "title": "Pathways of Nitrogen and Phosphorus Utilization and Removal from Cyanobacteria Wastewater by Combining Constructed Wetlands with Aerobic Reactors",
-      "url": "https://doi.org/10.3390/su14148819",
-      "summary": "Due to its low C/N ratio and high concentrations of nitrogen and phosphorus, the effluent of anaerobic cyanobacteria fermentation cannot be directly discharged without further treatment. To effectively reduce nutrient loads and utilize the nutrient resources of biogas slurry generated from the anaerobic digestion of stored algae, two different aerobic treatment units (AUs) were combined with an ecological treatment unit (EU) to create two different treatment systems. The two AUEU systems paired a constructed wetland (CW) with either a cascade biological contact reactor (CBCR) or a carrousel oxidation ditch reactor (CODR). In this paper, the water quality characteristics of biogas slurry were measured, and comprehensive experiments on the two trial-treatment systems were carried out to validate their performance in removing pollutants and utilizing resources. Furthermore, the pollutant removal efficiencies of the combined systems, along",
-      "published": "2022-07-19",
-      "source_id": "openalex",
-      "source_name": "Sustainability",
-      "publisher": "Sustainability",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access"
-      ],
-      "score": 99,
-      "freshness_status": "reference",
-      "freshness_label": "2022 · 8 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.3390/su14148819",
-      "cited_by_count": 8,
-      "openalex_id": "https://openalex.org/W4285797193",
-      "pressure_categories": [
-        "water quality",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, NbS / restoration."
     },
     {
       "id": "21f24029aa194c3a",
@@ -2403,42 +1886,6 @@
       "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, sediment / hydromorphology."
     },
     {
-      "id": "d129980449bdf5d0",
-      "title": "Nitrogen and phosphorus retention in Danish restored wetlands",
-      "url": "https://doi.org/10.1007/s13280-019-01181-2",
-      "summary": "Wetland restoration is considered an effective mitigation method for decreasing nitrogen (N) losses from agricultural land. However, when former cropland becomes rewetted, there is a risk that phosphorus (P) accumulated in soils will be released downstream. Here, we evaluate N and P retention in eight restored wetlands in Denmark monitored for 1 year using a mass balance approach. The wetlands represented different types, for instance, lakes and wet meadows, and ages (3–13 years). We also show the results from a long-term monitoring station established in 1973, located downstream a lake that was re-established in 2006. All restored wetlands removed total N (42–305 kg N ha −1 year −1 ), while some wetlands acted as source of total P and others as a sink (− 2.8 to 10 kg P ha −1 year −1 ). Our study confirms that restored wetlands are effective at removing N, whereas P can be released for several years after restoration.",
-      "published": "2019-04-16",
-      "source_id": "openalex",
-      "source_name": "AMBIO",
-      "publisher": "AMBIO",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access",
-        "highly-cited"
-      ],
-      "score": 98,
-      "freshness_status": "reference",
-      "freshness_label": "2019 · 63 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.1007/s13280-019-01181-2",
-      "cited_by_count": 63,
-      "openalex_id": "https://openalex.org/W2939281178",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "NbS / restoration",
-        "citizen science / monitoring"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
-    },
-    {
       "id": "b1a780cd84a20d90",
       "title": "Reflections on the last two months of Mainstreaming Nature-based Solutions in Northern Ireland - The Rivers Trust",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWNFLXFMU2t6LXJJMFlCRERoMTZPcU9nOXZZR2swZm1xY1dzX2VkWFJrR2puaWVmYmZrTXNYejBJUTBLSV9lemN6MnNZdzNwWVMzb3BPRUlOQ1ptVUF4a1RsNnVQOGlZbmR2OGJ2QzhFc21BRUd4QUlUdUFjZVotbXFmNmF2M3ZSRThVQjhkU2w5VjBMV0ZCdXd1VFNCdw?oc=5",
@@ -2454,7 +1901,7 @@
       ],
       "score": 97,
       "freshness_status": "fresh",
-      "freshness_label": "7 days old",
+      "freshness_label": "8 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "NbS / restoration"
@@ -2468,114 +1915,6 @@
       },
       "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures.",
       "research_use_type": "NbS effectiveness"
-    },
-    {
-      "id": "2720dfa0154e9a3c",
-      "title": "Large Constructed Wetlands for Phosphorus Control: A Review",
-      "url": "https://doi.org/10.3390/w8060243",
-      "summary": "This paper reviews aspects of the performance of large (>40 ha) constructed treatment wetlands intended for phosphorus control. Thirty-seven such wetlands have been built and have good data records, with a median size of 754 ha. All are successfully removing phosphorus from a variety of waters. Period of record median concentration reductions were 71%, load reductions 0.77 gP·m−2·year−1, and rate coefficients 12.5 m·year−1. Large wetlands have a narrower performance spectrum than the larger group of all sizes. Some systems display startup trends, ranging to several years, likely resulting from antecedent soil and vegetation conditions. There are internal longitudinal gradients in concentration, which vary with lateral position and flow conditions. Accretion in inlet zones may require attention. Concentrations are reduced to plateau values, in the range of about 10–50 mgP·m−3. Vegetation type has an effect upon performance measures, and",
-      "published": "2016-06-07",
-      "source_id": "openalex",
-      "source_name": "Water",
-      "publisher": "Water",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access",
-        "highly-cited"
-      ],
-      "score": 97,
-      "freshness_status": "reference",
-      "freshness_label": "2016 · 116 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.3390/w8060243",
-      "cited_by_count": 116,
-      "openalex_id": "https://openalex.org/W2414582601",
-      "pressure_categories": [
-        "water quality",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, NbS / restoration."
-    },
-    {
-      "id": "38ead0bdd3ed16af",
-      "title": "Funding Available for Small Dam Removal and River Restoration - fundsforNGOs - Grants and Resources for Sustainability",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGkyWWU2a0lRbGsyMU1PNGItUC13elJDdm95VU9LZnNFbXdVYUFPdHg3Z2JKMWh1QTFUNzRRMlY4NUIwa2JkRGNpcm5HbjR1aEhQbXFGMmprNGgtMDZWRFc4b0NUZG1lYlNaa2Fqekc3RDh0UVB5dEllNldnSjVOVC1adUpzbmY2MzIwQUY3aldYdFlHYkdWMnhQaUhwMUctbkR2QTYxLUlEZ9IBrwFBVV95cUxQSVktMUx2T0dCVXhEaG9sNEdJMmdSMXdxSncyYUdGQ2JQU0RhODV0TTlXNFNxcmZUM2k0UFZOTkkxdmtYcUhYZmxSeGNVRlBiajVhejlmOUNnOGc1WDI0UmlqSlYtWldzTHhUWVd1bEowWjVxY29CaEZxakg1QnhiekZST1NPLXRCRDF5QUV2VkxBSzZGRnVELW5nWVAyTmp0SlppT1R1Q0ZuUS1SSXRz?oc=5",
-      "summary": "Funding Available for Small Dam Removal and River Restoration fundsforNGOs - Grants and Resources for Sustainability",
-      "published": "2026-06-04",
-      "source_id": "google-news-river-ecology-ireland",
-      "source_name": "Google News: river ecology Ireland",
-      "publisher": "Google News: river ecology Ireland",
-      "section": "grants-opportunities",
-      "theme": "grant",
-      "tags": [
-        "river-restoration",
-        "grant"
-      ],
-      "score": 96,
-      "freshness_status": "reference",
-      "freshness_label": "154 days old · background",
-      "pressure_categories": [
-        "river ecology",
-        "funding / grant",
-        "NbS / restoration"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Funding signal for the Trust: check whether this can support river ecology, funding / grant, NbS / restoration, citizen science, engagement, or small catchment actions.",
-      "opportunity_fit": {
-        "fit": "Medium",
-        "score": 63,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      }
-    },
-    {
-      "id": "4f9c8c9a4cf25975",
-      "title": "Nutrient removal in a slow-flowing constructed wetland treating aquaculture effluent",
-      "url": "https://doi.org/10.3354/aei00411",
-      "summary": "Danish model trout farms (MTFs) use stream-like constructed wetlands for effluent polishing, and the industry is keen to improve wetland removal efficiency. To facilitate this, we examined longitudinal and seasonal nutrient removals in an MTF wetland with a hydraulic retention time (HRT) of 1.7 d, a free water surface (FWS) area of 7510 m2, and a volume of 6008 m3. Biweekly, 24-h composite water samples were obtained for 1 yr at 6 sampling stations along the wetland. Assuming plug flow conditions, reductions in particulate and dissolved nutrient concentrations were modelled as first-order removal processes, and removal rate constants (k1,A, m d-1) were plotted to reveal seasonal fluctuations. Particulate phosphorus and organic matterk1,Afluctuated more or less randomly through the year, reflecting that particulate nutrient removal predominantly takes place by sedimentation. In contrast, dissolved nitrogen, phosphorus, and organic matter",
-      "published": "2021-06-23",
-      "source_id": "openalex",
-      "source_name": "Aquaculture Environment Interactions",
-      "publisher": "Aquaculture Environment Interactions",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access"
-      ],
-      "score": 96,
-      "freshness_status": "reference",
-      "freshness_label": "2021 · 13 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.3354/aei00411",
-      "cited_by_count": 13,
-      "openalex_id": "https://openalex.org/W3199095278",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "sediment / hydromorphology",
-        "NbS / restoration",
-        "citizen science / monitoring"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, sediment / hydromorphology."
     },
     {
       "id": "367ecf406579ca52",
@@ -2614,108 +1953,6 @@
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
     },
     {
-      "id": "f7b3170e85632f5f",
-      "title": "Constructed Wetlands as a Landscape Management Practice for Nutrient Removal from Agricultural Runoff—A Local Practice Case on the East Coast of Taiwan",
-      "url": "https://doi.org/10.3390/w13212973",
-      "summary": "Runoff with excessive nutrients from rice paddy fields that releases into the Pacific Ocean has been a possible cause of water body pollution and harm to marine life. Constructed wetlands had developed for decades but were rarely implemented in treating agricultural pollution in Taiwan. Moreover, the environmental policies haven’t provided enough instructions, support, or compensation for the establishment of this practice. The rice paddy field that was chosen in this study is located in Xinshe, Taiwan. It is close to the Pacific Ocean where coral reefs are nearby and fishery resource is abundant. In this study, the northern half of the whole organic field was chosen, and the contributing area is approximately 1 × 105 m2. Four plots of constructed wetlands (approximately 17.5 m wide, 16.7 m long, and 0.2 m deep each, covering 1164.74 m2 of the total area) and employing surface flow were established as CW treatment. Water spinach (Ipomoe",
-      "published": "2021-10-21",
-      "source_id": "openalex",
-      "source_name": "Water",
-      "publisher": "Water",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access"
-      ],
-      "score": 95,
-      "freshness_status": "reference",
-      "freshness_label": "2021 · 9 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.3390/w13212973",
-      "cited_by_count": 9,
-      "openalex_id": "https://openalex.org/W3206926668",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
-    },
-    {
-      "id": "7b47e492bd124f7a",
-      "title": "In Situ Nutrient Removal from Rural Runoff by A New Type Aerobic/Anaerobic/Aerobic Water Spinach Wetlands",
-      "url": "https://doi.org/10.3390/w11051100",
-      "summary": "Rural runoff with abundant nutrients has become a great threat to aquatic environment. Hence, more and more attention has been focused on nutrients removal. In this study, an improved aerobic/anaerobic/aerobic three-stage water spinach constructed wetland (O-A-O-CW) was used to improve the removal of nitrogen and phosphorus of rural runoff. The removal rate of the target pollutants in O-A-O-CW was compared with the common matrix flow wetland as well as the no-plant wetland. The results showed that the O-A-O-CW significantly increased the chemical oxygen demand, total phosphorus, ammonium-nitrogen, nitrate, and total nitrogen removal rate, and the corresponding removal rate was 55.85%, 81.70%, 76.64%, 89.78%, and 67.68%, respectively. Moreover, the best hydraulic condition of the wetland, including hydraulic retention time and hydraulic loading, was determined, which were 2 days and 0.45 m3·m−2·day−1, respectively. Furthermore, the remov",
-      "published": "2019-05-26",
-      "source_id": "openalex",
-      "source_name": "Water",
-      "publisher": "Water",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access"
-      ],
-      "score": 95,
-      "freshness_status": "reference",
-      "freshness_label": "2019 · 6 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.3390/w11051100",
-      "cited_by_count": 6,
-      "openalex_id": "https://openalex.org/W2945714298",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
-    },
-    {
-      "id": "7aadb87571ec331d",
-      "title": "Improving Urban Stormwater Runoff Quality by Nutrient Removal through Floating Treatment Wetlands and Vegetation Harvest",
-      "url": "https://doi.org/10.1038/s41598-017-07439-7",
-      "summary": "Abstract Two floating treatment wetlands (FTWs) in experimental tanks were compared in terms of their effectiveness on removing nutrients. The results showed that the FTWs were dominated by emergent wetland plants and were constructed to remove nutrients from simulated urban stormwater. Iris pseudacorus and Thalia dealbata wetland systems were effective in reducing the nutrient. T. dealbata FTWs showed higher nutrient removal performance than I. pseudacorus FTWs. Nitrogen (N) and phosphorous (P) removal rates in water by T. dealbata FTWs were 3.95 ± 0.19 and 0.15 ± 0.01 g/m2/day, respectively. For I. pseudacorus FTWs, the TN and TP removal rates were 3.07 ± 0.15 and 0.14 ± 0.01 g/m2/day, respectively. The maximum absolute growth rate for T. dealbata corresponded directly with the maximum mean nutrient removal efficiency during the 5th stage. At harvest, N and P uptak of T. dealbata was 23.354 ± 1.366 g and 1.489 ± 0.077 g per plant, res",
-      "published": "2017-07-26",
-      "source_id": "openalex",
-      "source_name": "Scientific Reports",
-      "publisher": "Scientific Reports",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access"
-      ],
-      "score": 95,
-      "freshness_status": "reference",
-      "freshness_label": "2017 · 40 citations · open access",
-      "practical_fit": "High practical fit · General transferable evidence",
-      "geographic_relevance": "General transferable evidence",
-      "doi": "https://doi.org/10.1038/s41598-017-07439-7",
-      "cited_by_count": 40,
-      "openalex_id": "https://openalex.org/W2737660414",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
-    },
-    {
       "id": "7214de15481363da",
       "title": "Skip to main content",
       "url": "https://www.epa.ie/our-services/monitoring--assessment/freshwater--marine/",
@@ -2752,6 +1989,75 @@
       "research_use_type": "Monitoring method"
     },
     {
+      "id": "9d4f816c777e7175",
+      "title": "Investigating relationships between climate controls and nutrient flux in surface waters, sediments, and subsurface pathways in an agricultural clay catchment of the Great Lakes Basin",
+      "url": "https://doi.org/10.1016/j.scitotenv.2022.160979",
+      "summary": "Water quality within agricultural catchments is governed by management practices and climate conditions that control the transport, storage, and exchange of nutrients between components of the hydrologic cycle. This study aims to improve knowledge of nitrogen (N) and phosphorus (P) transport in low permeability agricultural watersheds by considering spatial and temporal trends of surface water nutrient concentrations in relation to hydroclimatic drivers, sediment quality, shallow hyporheic exchange, groundwater quality, and tile drain discharge over a 14-month field study in a clay hydrosystem of the Lake Huron basin, one of the five Great Lakes. Results found that events of varying magnitude and intensity enhanced nutrient release from overland flow and subsurface pathways. Tile drain discharge was found to be a consistent and elevated source of P and N to surface waters when flowing, mobilizing both diffuse nutrients from fertilizer a",
+      "published": "2022-12-19",
+      "source_id": "openalex",
+      "source_name": "The Science of The Total Environment",
+      "publisher": "The Science of The Total Environment",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access"
+      ],
+      "score": 94,
+      "freshness_status": "reference",
+      "freshness_label": "2022 · 19 citations · open access",
+      "practical_fit": "High practical fit · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.1016/j.scitotenv.2022.160979",
+      "cited_by_count": 19,
+      "openalex_id": "https://openalex.org/W4312052215",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "sediment / hydromorphology",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, sediment / hydromorphology."
+    },
+    {
+      "id": "abe5f6596f89bdaf",
+      "title": "Fit-for-purpose phosphorus management: do riparian buffers qualify in catchments with sandy soils?",
+      "url": "https://doi.org/10.1007/s10661-013-3586-4",
+      "summary": "Hillslope runoff and leaching studies, catchment-scale water quality measurements and P retention and release characteristics of stream bank and catchment soils were used to better understand reasons behind the reported ineffectiveness of riparian buffers for phosphorus (P) management in catchments with sandy soils from south-west Western Australia (WA). Catchment-scale water quality measurements of 60 % particulate P (PP) suggest that riparian buffers should improve water quality; however, runoff and leaching studies show 20 times more water and 2 to 3 orders of magnitude more P are transported through leaching than runoff processes. The ratio of filterable reactive P (FRP) to total P (TP) in surface runoff from the plots was 60 %, and when combined with leachate, 96 to 99 % of P lost from hillslopes was FRP, in contrast with 40 % measured as FRP at the large catchment scale. Measurements of the P retention and release characteristics",
+      "published": "2014-01-06",
+      "source_id": "openalex",
+      "source_name": "Environmental Monitoring and Assessment",
+      "publisher": "Environmental Monitoring and Assessment",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access"
+      ],
+      "score": 94,
+      "freshness_status": "reference",
+      "freshness_label": "2014 · 18 citations · open access",
+      "practical_fit": "High practical fit · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.1007/s10661-013-3586-4",
+      "cited_by_count": 18,
+      "openalex_id": "https://openalex.org/W2044286780",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
+    },
+    {
       "id": "8ca1831d502d0bca",
       "title": "Major traffic relief scheme for Julianstown in Meath moves forward - Irish Independent",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRTRXY29hNGZRa2xFbERsbWRCY2o1SmNMQi1BRFhRalZtWVJwY3A0ampCRkVfODBlSEhuOUVVb3k5YVZVcndoTVBuSXdfc2M0STBxUENWcjIwMTV0anBKMmVaTktGRzkxSFNIRmk3S2RJRjN2XzFFTjA5OHVwY2RDSzY0ZnczdjZrV1pCd2FVc3BqSDRENktseE5STGhZaHdLdll2ZHo5YjBMSU1TdXpSbG5lN2JsTERjaV9aa3N0OVQ?oc=5",
@@ -2768,7 +2074,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "329 days old · background",
+      "freshness_label": "330 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2803,7 +2109,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "455 days old · background",
+      "freshness_label": "456 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -2838,7 +2144,7 @@
       ],
       "score": 92,
       "freshness_status": "reference",
-      "freshness_label": "98 days old · background",
+      "freshness_label": "99 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2860,41 +2166,6 @@
         "status": "candidate",
         "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
       }
-    },
-    {
-      "id": "17ff6e6679c20914",
-      "title": "Using enhanced wetlands for nitrogen removal in an agricultural watershed",
-      "url": "https://doi.org/10.2489/jswc.69.5.145a",
-      "summary": "Excess nitrogen (N) in temperate watersheds has been associated with an array of environmental problems, including polluted wells and surface water. The hypoxic zone in the Gulf of Mexico has created a particular focus on N loads in the Mississippi River Basin. Nitrogen sources include urban runoff; atmospheric deposition; point sources, such as waste-water treatment plants; and nonpoint sources, such as runoff from agricultural lands. Approximately two-thirds of the N load of the Mississippi River is from agriculture, underscoring the importance of balancing productive farming with water quality improvement (Goolsby and Battaglin 2000).",
-      "published": "2014-09-01",
-      "source_id": "openalex",
-      "source_name": "Journal of Soil and Water Conservation",
-      "publisher": "Journal of Soil and Water Conservation",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access",
-        "temperate-transfer"
-      ],
-      "score": 92,
-      "freshness_status": "reference",
-      "freshness_label": "2014 · 1 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.2489/jswc.69.5.145a",
-      "cited_by_count": 1,
-      "openalex_id": "https://openalex.org/W2107047229",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
     },
     {
       "id": "21ff63a6bc12bb25",
@@ -2950,7 +2221,7 @@
       ],
       "score": 91,
       "freshness_status": "reference",
-      "freshness_label": "106 days old · background",
+      "freshness_label": "107 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3019,7 +2290,7 @@
       ],
       "score": 90,
       "freshness_status": "reference",
-      "freshness_label": "170 days old · background",
+      "freshness_label": "171 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater"
       ],
@@ -3031,6 +2302,41 @@
         ]
       },
       "action_relevance": "Potential catchment-pressure signal: septic or domestic wastewater issues can affect groundwater, small streams, bathing waters, and local engagement priorities."
+    },
+    {
+      "id": "2f02d09f78561a88",
+      "title": "Influence of wetlands on nutrients in headwaters of agricultural catchments",
+      "url": "https://doi.org/10.1002/hyp.14866",
+      "summary": "Abstract We investigated the influence of land cover on nutrient concentrations (295 samples) in headwater streams over a 2‐year period in 10 agriculture‐dominated subcatchments (163–8373 ha) in southern Ontario Canada. In this region, monitoring and research on nutrient dynamics in headwater wetlands is sparse. Our results indicated a significant positive correlation (Pearson coefficient ρ = 0.320) between soluble reactive phosphorus (SRP) in the headwater streams and the percentage of wetlands in these agriculture‐dominated catchments. This result suggests that headwater wetlands, and other wet riparian zones, are key sources of SRP in the headwater streams. Nitrate concentrations were positively correlated with % agricultural land cover (ρ = 0.316), consistent with previous studies, while SRP concentrations were negatively correlated with % agricultural land cover (ρ = −0.325). There was a significant positive correlation between SRP",
+      "published": "2023-03-29",
+      "source_id": "openalex",
+      "source_name": "Hydrological Processes",
+      "publisher": "Hydrological Processes",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access"
+      ],
+      "score": 90,
+      "freshness_status": "reference",
+      "freshness_label": "2023 · 4 citations · open access",
+      "practical_fit": "High practical fit · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.1002/hyp.14866",
+      "cited_by_count": 4,
+      "openalex_id": "https://openalex.org/W4361202326",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "NbS / restoration",
+        "citizen science / monitoring"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
     },
     {
       "id": "4771a9e3024f4d2b",
@@ -3084,7 +2390,7 @@
       ],
       "score": 90,
       "freshness_status": "reference",
-      "freshness_label": "5769 days old · background",
+      "freshness_label": "5770 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3118,7 +2424,7 @@
       ],
       "score": 89,
       "freshness_status": "fresh",
-      "freshness_label": "33 days old",
+      "freshness_label": "34 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -3150,7 +2456,7 @@
       ],
       "score": 89,
       "freshness_status": "fresh",
-      "freshness_label": "47 days old",
+      "freshness_label": "48 days old",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3164,10 +2470,46 @@
       "action_relevance": "General practical signal: may help the Trust track general catchment signal, policy, funding, monitoring, or community action."
     },
     {
+      "id": "f530a93d5e880689",
+      "title": "The Comprehensive Reduction Capacity of Five Riparian Vegetation Buffer Strips for Primary Pollutants in Surface Runoff",
+      "url": "https://doi.org/10.3390/app13063898",
+      "summary": "Most studies on the effects of plants on reducing pollutants in surface runoff focus on the elimination of a single pollutant by a single plant species. We take into account the fact that natural riparian herbaceous vegetation buffer strips remove multiple pollutants at the same time, and vegetation species need to be selected according to actual conditions. In an indoor simulation, processed soil samples were taken, and collected rainwater was used to prepare standard solutions for simulating surface runoff, which includes five primary water pollutants: total suspended solids (TSS), total nitrogen (TN), total phosphorus (TP), ammonia nitrogen (NH3-N), and chemical oxygen demand (COD). Pollutant concentrations were measured after the experiments. We found that the reduction capacity of vegetation buffer strips differs due to the differentiation of biological structure and growth characteristics. Dichondra repens Forst and Cynodon dactyl",
+      "published": "2023-03-19",
+      "source_id": "openalex",
+      "source_name": "Applied Sciences",
+      "publisher": "Applied Sciences",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access"
+      ],
+      "score": 89,
+      "freshness_status": "reference",
+      "freshness_label": "2023 · 13 citations · open access",
+      "practical_fit": "High practical fit · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.3390/app13063898",
+      "cited_by_count": 13,
+      "openalex_id": "https://openalex.org/W4327956212",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "sediment / hydromorphology",
+        "NbS / restoration",
+        "habitat / biodiversity"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, sediment / hydromorphology."
+    },
+    {
       "id": "22fb4e4e3c35145b",
-      "title": "Previous Funding Results Yearly grant reports of projects funded by the Heritage Council Grants offered in 2025",
+      "title": "Previous Funding Results Yearly grant reports of projects funded by the Heritage Council.",
       "url": "https://www.heritagecouncil.ie/funding/funded-projects/previously-funded-projects",
-      "summary": "Previous Funding Results Yearly grant reports of projects funded by the Heritage Council Grants offered in 2025",
+      "summary": "Previous Funding Results Yearly grant reports of projects funded by the Heritage Council.",
       "published": null,
       "source_id": "heritage-council-funding",
       "source_name": "Heritage Council Funding",
@@ -3212,7 +2554,7 @@
       ],
       "score": 88,
       "freshness_status": "fresh",
-      "freshness_label": "0 days old",
+      "freshness_label": "1 days old",
       "pressure_categories": [
         "policy / governance"
       ],
@@ -3227,6 +2569,41 @@
         ]
       },
       "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
+    },
+    {
+      "id": "d36390723a4ea96e",
+      "title": "Floods and water quality in Canada: A review of the interactions with urbanization, agriculture and forestry",
+      "url": "https://doi.org/10.1080/07011784.2015.1010181",
+      "summary": "Water quality remains a major issue in Canada. This paper reviews recent research on the impacts of urbanization, agriculture and forestry on water quality in Canada. Specific water quality issues such as mining, sewage treatment and waste treatment are not included in this paper. For each land use, a brief summary of the dominant processes linking runoff to water quality is provided and recent findings are summarized. With respect to urbanized watersheds, the relatively large proportion of impervious areas, lower vegetation cover and the presence of high-density drainage systems alter surface water routing and timing of peak flows. High concentrations of heavy metals are considered to be the most important water quality problem in urban runoff, but nutrients, pathogens, concentration of pharmaceuticals and water temperature also often contribute. In watersheds dominated by agricultural activities, overland flow is an important vector o",
+      "published": "2015-04-08",
+      "source_id": "openalex",
+      "source_name": "Canadian Water Resources Journal / Revue canadienne des ressources hydriques",
+      "publisher": "Canadian Water Resources Journal / Revue canadienne des ressources hydriques",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access",
+        "highly-cited"
+      ],
+      "score": 88,
+      "freshness_status": "reference",
+      "freshness_label": "2015 · 59 citations · open access",
+      "practical_fit": "High practical fit · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.1080/07011784.2015.1010181",
+      "cited_by_count": 59,
+      "openalex_id": "https://openalex.org/W2014989241",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
     },
     {
       "id": "heritage-council-grants-watch",
@@ -3284,7 +2661,7 @@
       ],
       "score": 87,
       "freshness_status": "reference",
-      "freshness_label": "167 days old · background",
+      "freshness_label": "168 days old · background",
       "pressure_categories": [
         "habitat / biodiversity",
         "funding / grant",
@@ -3323,7 +2700,7 @@
       ],
       "score": 87,
       "freshness_status": "reference",
-      "freshness_label": "168 days old · background",
+      "freshness_label": "169 days old · background",
       "pressure_categories": [
         "agricultural runoff",
         "funding / grant",
@@ -3398,7 +2775,7 @@
       ],
       "score": 87,
       "freshness_status": "reference",
-      "freshness_label": "2336 days old · background",
+      "freshness_label": "2337 days old · background",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -3455,6 +2832,39 @@
       }
     },
     {
+      "id": "32a1f30fdd9cb7f5",
+      "title": "NUTRIENT RETENTION BY RIPARIAN FORESTED BUFFERS IN WESTERN MARYLAND: DO THEY WORK AND ARE THEY WORTH IT?",
+      "url": "https://doi.org/10.13016/ugbb-utwr",
+      "summary": "Riparian buffers are a best management practice (BMP) implemented to improve water quality. In 1997, Maryland established the Conservation Reserve Enhancement Program (CREP) to give landowners incentives to install riparian buffers that would help restore the Chesapeake Bay. Although many studies support riparian buffers as a BMP, many have also reported a wide range of nutrient reductions. It is uncertain what factors control buffer function, yet they continue to be installed with high expectations. Water quality predictions become less accurate in hydrogeologically complex systems such as the Ridge and Valley (R&V) physiographic province. The purpose of this research was to assess the riparian buffer’s nutrient removal function of dissolved nitrogen and phosphorus in the R&V to understand the hydrologic controls further. Throughout western Maryland, we conducted two synoptic stream chemistry studies that contained forest buffers plant",
+      "published": "2021-01-01",
+      "source_id": "openalex",
+      "source_name": "University Libraries (University of Maryland)",
+      "publisher": "University Libraries (University of Maryland)",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access"
+      ],
+      "score": 86,
+      "freshness_status": "reference",
+      "freshness_label": "2021 · 0 citations · open access",
+      "practical_fit": "High practical fit · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.13016/ugbb-utwr",
+      "cited_by_count": 0,
+      "openalex_id": "https://openalex.org/W3199926011",
+      "pressure_categories": [
+        "water quality",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, NbS / restoration."
+    },
+    {
       "id": "c52d191b7337e86a",
       "title": "Ireland's septic tank problem - University College Dublin",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zOG9SeEtSRzlvWkxvOFdQa2g4U1FYYzRDaVd1V1RWLU1TNk10NExtMGlPTUdWOHh1OTQ1MGNkN3NUU2VxeUxwdHl0OVFSeWs0dWtUUU0tZjMyb3NqczBZakJWMlB1b0Q1S3p3Y1NDTEItaV9LSjFjNUUyd29PUQ?oc=5",
@@ -3470,7 +2880,7 @@
       ],
       "score": 85,
       "freshness_status": "fresh",
-      "freshness_label": "71 days old",
+      "freshness_label": "72 days old",
       "pressure_categories": [
         "septic / domestic wastewater"
       ],
@@ -3659,7 +3069,7 @@
       ],
       "score": 84,
       "freshness_status": "fresh",
-      "freshness_label": "3 days old",
+      "freshness_label": "4 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "funding / grant"
@@ -3696,7 +3106,7 @@
       ],
       "score": 84,
       "freshness_status": "reference",
-      "freshness_label": "106 days old · background",
+      "freshness_label": "107 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3718,6 +3128,145 @@
         "status": "candidate",
         "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
       }
+    },
+    {
+      "id": "cfacd82d4ed58411",
+      "title": "Cape Cod grant will help fill gaps in water quality data - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNk4tdlRPNlF3eFJhTWZsRS1DaE1rREtkWWw4V3RpSndOb0tqU0FORjJHdG5rYU1JeUozTm9uUk5UTkpCS3RVVGx4akVyVWxFb3prS3JnSEs3c3cyV0tBZVZvSjNOb1Y3a3h2RDJlSEJpbXFMRjJSZTJWMGJyV3NzcVhPQktKNU9jYWsw?oc=5",
+      "summary": "Cape Cod grant will help fill gaps in water quality data Yahoo",
+      "published": "2026-11-05",
+      "source_id": "google-news-community-water-grants",
+      "source_name": "Google News: water and biodiversity grants Ireland",
+      "publisher": "Google News: water and biodiversity grants Ireland",
+      "section": "grants-opportunities",
+      "theme": "water-quality",
+      "tags": [
+        "water-quality",
+        "grant"
+      ],
+      "score": 83,
+      "freshness_status": "fresh",
+      "freshness_label": "1 days old",
+      "pressure_categories": [
+        "habitat / biodiversity",
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support habitat / biodiversity, funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "High",
+        "score": 77,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
+      "id": "48ac5ebc0ac686cf",
+      "title": "Teenager dies while swimming in River Nanny in Meath - RTE.ie",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPakRWSm9oT1RhVVBJQWdBMXU1dUt4R2VWc0ludHFGU3pZamgxOHRGQ3hTamNxc3BnT0xESXhmRkZCWFpKUjhUQkRocmdxLVU4aVJWMnZTd24zWnoxZmkya3JzUFB5bU5DdTI2SUF2TVdIQ0haWEsxaFk3M2ttMHgwMHprWWVUWGxIUzV0Rm1GM2Q0WXBmLXg2Y24wX01hQ1VwQXR0Ymx3?oc=5",
+      "summary": "Teenager dies while swimming in River Nanny in Meath RTE.ie",
+      "published": "2025-06-20",
+      "source_id": "google-news-nanny-delvin-local",
+      "source_name": "Google News: Nanny-Delvin local catchment",
+      "publisher": "Google News: Nanny-Delvin local catchment",
+      "section": "ireland-catchment-practice",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local"
+      ],
+      "score": 83,
+      "freshness_status": "reference",
+      "freshness_label": "504 days old · background",
+      "pressure_categories": [
+        "general catchment signal"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "delvin",
+          "meath",
+          "nanny",
+          "nanny-delvin",
+          "river nanny"
+        ]
+      },
+      "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
+    },
+    {
+      "id": "50e19169612a30ad",
+      "title": "Potential of different buffer zones as nature-based solutions to mitigate agricultural runoff nutrients in the subtropics",
+      "url": "https://doi.org/10.1016/j.ecoleng.2024.107354",
+      "summary": "Open the source to inspect the abstract, journal, DOI, and publication metadata.",
+      "published": "2024-08-05",
+      "source_id": "openalex",
+      "source_name": "Ecological Engineering",
+      "publisher": "Ecological Engineering",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access"
+      ],
+      "score": 83,
+      "freshness_status": "reference",
+      "freshness_label": "2024 · 23 citations · open access",
+      "practical_fit": "High practical fit · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.1016/j.ecoleng.2024.107354",
+      "cited_by_count": 23,
+      "openalex_id": "https://openalex.org/W4401338956",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
+    },
+    {
+      "id": "bf9b78b945bf028b",
+      "title": "Soil Evolution after Riparian Buffer Installation",
+      "url": "https://doi.org/10.5772/intechopen.112885",
+      "summary": "Riparian buffers are engineered landscapes designed to protect fresh-water resources and to promote esthetics, soil and habitat health, reduce flooding, and provide economic benefits. An emerging attribute of riparian buffers is the preservation and accumulation of soil organic carbon. This review discusses riparian buffers to support and protect ecosystem services, the potential to sequester carbon, and the presentation of a case study to demonstrate soil fertility enhancement and soil organic matter accumulation. The riparian buffer involved in this study was in east-central Missouri and the stand age was approximately 18 years. Within the riparian buffer, soil organic matter averaged 3.4%, whereas in the adjacent production field soil organic matter averaged 1.7%, showing that the riparian buffer significantly supported soil carbon capture and preservation. Similarly, ammonium and sulfate concentrations were significantly greater in",
+      "published": "2023-10-25",
+      "source_id": "openalex",
+      "source_name": "Sustainable development",
+      "publisher": "Sustainable development",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access"
+      ],
+      "score": 83,
+      "freshness_status": "reference",
+      "freshness_label": "2023 · 0 citations · open access",
+      "practical_fit": "High practical fit · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.5772/intechopen.112885",
+      "cited_by_count": 0,
+      "openalex_id": "https://openalex.org/W4387940159",
+      "pressure_categories": [
+        "water quality",
+        "NbS / restoration",
+        "habitat / biodiversity"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, NbS / restoration, habitat / biodiversity."
     },
     {
       "id": "c2d1907c71dc4d72",
@@ -3827,7 +3376,7 @@
       ],
       "score": 81,
       "freshness_status": "fresh",
-      "freshness_label": "0 days old",
+      "freshness_label": "1 days old",
       "pressure_categories": [
         "funding / grant"
       ],
@@ -3974,25 +3523,25 @@
       }
     },
     {
-      "id": "33ce47adf34f312f",
-      "title": "Water Quality on Wane in Famed Killarney Lake – November 4th, 2026 - Radio Kerry",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHBNMF9RdEdzMWswbnF6OUtrYl9lblV3c2E0N2l2YVdPUUJLYV82cHM5RVg4a3Bkb1NkVTgycmJiUHQ4ZmVQWGdULTQ0eElsS1RUdndGaTFoNGhwam5pVmVkdS1ZQlpvTEVqTDcxZmJBdDg4Z0Fwa0d4MzloYncxeXRiME1QWnlDZ0UwZHIxVkg0VldERFhrMU9LdjQ2aVJXeG1NT2hWNzE5ZUI3WXpGdmcwbW9ZODM2?oc=5",
-      "summary": "Water Quality on Wane in Famed Killarney Lake – November 4th, 2026 Radio Kerry",
-      "published": "2026-11-04",
+      "id": "671b4825c8293dc5",
+      "title": "Investigation into 'major fish kill' after pollution incident - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmdDFoTHF4aXpZMHg4ekJsbEk0YV9TWnFTclNWc3NFRE05YTVmMmtYeldtdzFOUDdHWVVCaWNSekZSbnZGa3FFUTdFcjhrcGxYLVlBSXBsSWQ3bElROVE?oc=5",
+      "summary": "Investigation into 'major fish kill' after pollution incident BBC",
+      "published": "2026-11-05",
       "source_id": "google-news-ireland-river-water-quality",
       "source_name": "Google News: Ireland river water quality",
       "publisher": "Google News: Ireland river water quality",
       "section": "ireland-catchment-practice",
-      "theme": "water-quality",
+      "theme": "incident-alert",
       "tags": [
         "water-quality",
-        "lake"
+        "incident-alert"
       ],
-      "score": 79,
+      "score": 78,
       "freshness_status": "fresh",
       "freshness_label": "1 days old",
       "pressure_categories": [
-        "general catchment signal"
+        "incident / alert"
       ],
       "local_relevance": {
         "score": 10,
@@ -4001,7 +3550,41 @@
           "Ireland"
         ]
       },
-      "action_relevance": "General practical signal: may help the Trust track general catchment signal, policy, funding, monitoring, or community action."
+      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
+    },
+    {
+      "id": "1ac6b0bf138cd647",
+      "title": "Prescribed fire effects on sediment and nutrient exports in forested environments: A review",
+      "url": "https://doi.org/10.1002/jeq2.20108",
+      "summary": "This review examines the impact of prescribed fire on the water quality variables (a) sediment load and (b) limiting macronutrients in forested environments globally. We aim to characterize the forested environments subject to prescribed fire, to discuss factors of the fire regime that contribute to water quality concerns, and to offer insight into the effect of precipitation timing and study scale on constituent exports. High fuel consumption during fire increases the risk of erosion and constituent export during precipitation, though high fuel consumption during prescribed fire is uncommon in forested environments. Small-scale studies examining sediment yield after prescribed fire may fail to capture the effect of landscape-scale spatial variability, and watershed-scale studies accounting for such variability are lacking. Although small-plot studies confirm that prescribed fire can alter hydrologic inputs, the environmental impact of",
+      "published": "2020-05-23",
+      "source_id": "openalex",
+      "source_name": "Journal of Environmental Quality",
+      "publisher": "Journal of Environmental Quality",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access"
+      ],
+      "score": 78,
+      "freshness_status": "reference",
+      "freshness_label": "2020 · 32 citations · open access",
+      "practical_fit": "Useful practical evidence · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.1002/jeq2.20108",
+      "cited_by_count": 32,
+      "openalex_id": "https://openalex.org/W3026819047",
+      "pressure_categories": [
+        "water quality",
+        "sediment / hydromorphology",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, sediment / hydromorphology, NbS / restoration."
     },
     {
       "id": "115628dbe70505ad",
@@ -4020,7 +3603,7 @@
       ],
       "score": 77,
       "freshness_status": "reference",
-      "freshness_label": "355 days old · background",
+      "freshness_label": "356 days old · background",
       "pressure_categories": [
         "birds / wetland ecology",
         "habitat / biodiversity"
@@ -4050,7 +3633,7 @@
       ],
       "score": 77,
       "freshness_status": "reference",
-      "freshness_label": "462 days old · background",
+      "freshness_label": "463 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -4081,7 +3664,7 @@
       ],
       "score": 77,
       "freshness_status": "reference",
-      "freshness_label": "916 days old · background",
+      "freshness_label": "917 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant",
@@ -4103,34 +3686,6 @@
       }
     },
     {
-      "id": "2045b32a20bef3af",
-      "title": "'Several hundred' fish killed due to sewage pollution in River Tolka - RTE.ie",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkRmc5RVVFcjNzUXBJZ0oxcG9PbU4zMzhkYmlKYmtqWlItSmRSRnZfZGtLVE5WU1RyTjdzWTlIR0dpaTdpdDN1RjJQNjBRWnBidmNtMjJhUTdSQWFnclFsNDcwaHdzdkROSDJPNjBxR09YUnl6bTVmZkt1aUM?oc=5",
-      "summary": "'Several hundred' fish killed due to sewage pollution in River Tolka RTE.ie",
-      "published": "2017-07-19",
-      "source_id": "google-news-fish-kill-pollution",
-      "source_name": "Google News: fish kills and pollution",
-      "publisher": "Google News: fish kills and pollution",
-      "section": "waterbody-evidence-alerts",
-      "theme": "water-quality",
-      "tags": [
-        "water-quality",
-        "incident-alert"
-      ],
-      "score": 76,
-      "freshness_status": "reference",
-      "freshness_label": "3396 days old · background",
-      "pressure_categories": [
-        "incident / alert"
-      ],
-      "local_relevance": {
-        "score": 0,
-        "label": "Transferable relevance",
-        "matched_terms": []
-      },
-      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
-    },
-    {
       "id": "6084518e3a88ff19",
       "title": "Local voices and actions essential in Ireland’s water quality journey - Teagasc | Agriculture and Food Development Authority",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdDJLYm54TlgzX3ZlTi0zQ1RsZnNFYnNfdUxjWkxtV1NiS2ROYUpleFRmaERxRG1rWU5vWmhJMEM1RDRKMDF1NDBuSHo3SDQtZFJ5cHZOZzYtemNvYXRpOHZqQk8wZEtzNWRrRERqRmJTdGdzLWNkSmNWQTJUenlWM3hkRDNseEhmRzNIaEpkWjY3VWdhYi1oLXZsR19CbUNLeWRieG5rSWhQd0k?oc=5",
@@ -4147,7 +3702,7 @@
       ],
       "score": 75,
       "freshness_status": "fresh",
-      "freshness_label": "59 days old",
+      "freshness_label": "60 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -4159,6 +3714,395 @@
         ]
       },
       "action_relevance": "General practical signal: may help the Trust track agricultural runoff, policy, funding, monitoring, or community action."
+    },
+    {
+      "id": "4cd3adc54792cc94",
+      "title": "Soil erosion control in tree plantations on steep slopes: Runoff water and sediment trapping efficiency of riparian grass buffer in mountainous humid tropics",
+      "url": "https://doi.org/10.1016/j.ecoleng.2025.107537",
+      "summary": "Riparian grass buffers reduce the velocity of water flowing over the soil surface during storms, capturing surface runoff (SR) and trapping soil particles eroded from cultivated slopes. Rarely quantified under steep slope conditions (>45 %), this phenomenon probably occurs in many mountain agroecosystems in the humid tropics. In Southeast Asia, teak plantations are often established on steep slopes where they can lead to significant soil loss (SL), particularly when the understory is removed. Therefore, we aimed to: quantify the effect of riparian grass buffers on SR and SL downstream of a teak plantation; and estimate the trapping efficiency of riparian grass buffers for water (WTE) and sediment (STE). Field measurements were carried out in Northern Lao PDR during the2014 rainy season, considering riparian zones with contrasted ground covers: (1) uncovered (URZ - 7-year-old teak trees with mean grass and litter densities of 7 % (SD 2 %",
+      "published": "2025-02-01",
+      "source_id": "openalex",
+      "source_name": "Ecological Engineering",
+      "publisher": "Ecological Engineering",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access"
+      ],
+      "score": 73,
+      "freshness_status": "reference",
+      "freshness_label": "2025 · 10 citations · open access",
+      "practical_fit": "Useful practical evidence · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.1016/j.ecoleng.2025.107537",
+      "cited_by_count": 10,
+      "openalex_id": "https://openalex.org/W4407063529",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "sediment / hydromorphology",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, sediment / hydromorphology."
+    },
+    {
+      "id": "114342b61b719e25",
+      "title": "Relationships Among Nutrient and Sediment Fluxes, Hydrological Variability, Fire, and Land Cover in Coastal California Catchments",
+      "url": "https://doi.org/10.1029/2017jg004119",
+      "summary": "Abstract Catchments along California's coast, and those with mediterranean climates elsewhere, experience large seasonal and interannual variations in rainfall, and occasional fires; land cover varies from natural vegetation to agricultural and urban development. Multiyear sampling of streams, with intensive collections during rainfall, and continuous measurements of stage, was used to determine the magnitude and variation of concentrations and fluxes of nutrients and suspended sediments during rainfall events and per year from catchments bordering the Santa Barbara Channel. Annual rainfall varied from 18 to 122 cm in water years 2002 through 2015. Hydrological variability, catchment topography, and land cover have strong statistical relationships to nutrient and suspended sediment fluxes. The link between nutrient fluxes and runoff during storms was strongest in sites with greater portions of impervious surfaces. The occurrence of fire",
+      "published": "2018-08-01",
+      "source_id": "openalex",
+      "source_name": "Journal of Geophysical Research Biogeosciences",
+      "publisher": "Journal of Geophysical Research Biogeosciences",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access"
+      ],
+      "score": 72,
+      "freshness_status": "reference",
+      "freshness_label": "2018 · 29 citations · open access",
+      "practical_fit": "Useful practical evidence · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.1029/2017jg004119",
+      "cited_by_count": 29,
+      "openalex_id": "https://openalex.org/W2885119181",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "sediment / hydromorphology",
+        "NbS / restoration",
+        "citizen science / monitoring"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, sediment / hydromorphology."
+    },
+    {
+      "id": "96f4ebde9d3f0d7f",
+      "title": "Inhibiting Effects of Vegetation on the Characteristics of Runoff and Sediment Yield on Riparian Slope along the Lower Yellow River",
+      "url": "https://doi.org/10.3390/su11133685",
+      "summary": "Riparian vegetation plays a vital role in soil and water conservation and river health maintenance. However, its inhibiting effects on water and soil loss are limited by different factors, such as slope gradient, vegetation coverage and their interaction. Therefore, this study quantified the inhibiting effect of riparian vegetation on the runoff, sediment and hydraulic characteristics of overland flow, and assessed its relative contribution to slope gradient. Specifically, we selected a riparian slope along the lower Yellow River as a case, and used a field-simulated rainfall experiment under specific rainfall intensity (90 mm/h), different vegetation coverage (0%, 15% and 30%) and slope gradients (5°, 10°, 15° and 20°). The results showed that the presence of vegetation can reduce the slope runoff rate and erosion rate. However, greater slope gradients can result in a lowering of the inhibiting effects of riparian vegetation on sedimen",
+      "published": "2019-07-04",
+      "source_id": "openalex",
+      "source_name": "Sustainability",
+      "publisher": "Sustainability",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access"
+      ],
+      "score": 70,
+      "freshness_status": "reference",
+      "freshness_label": "2019 · 20 citations · open access",
+      "practical_fit": "Useful practical evidence · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.3390/su11133685",
+      "cited_by_count": 20,
+      "openalex_id": "https://openalex.org/W2955246246",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "sediment / hydromorphology",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, sediment / hydromorphology."
+    },
+    {
+      "id": "5c7312f529528320",
+      "title": "Scaling effects of riparian peatlands on stable isotopes in runoff and DOC mobilisation",
+      "url": "https://doi.org/10.1016/j.jhydrol.2017.03.056",
+      "summary": "Open the source to inspect the abstract, journal, DOI, and publication metadata.",
+      "published": "2017-03-27",
+      "source_id": "openalex",
+      "source_name": "Journal of Hydrology",
+      "publisher": "Journal of Hydrology",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access",
+        "highly-cited"
+      ],
+      "score": 69,
+      "freshness_status": "reference",
+      "freshness_label": "2017 · 50 citations · open access",
+      "practical_fit": "Useful practical evidence · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.1016/j.jhydrol.2017.03.056",
+      "cited_by_count": 50,
+      "openalex_id": "https://openalex.org/W2599203173",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
+    },
+    {
+      "id": "c5ecf72b5a50ca8c",
+      "title": "Identification of prevailing storm runoff generation mechanisms in an intensively cultivated catchment",
+      "url": "https://doi.org/10.1515/johh-2015-0022",
+      "summary": "Abstract The fact that flash floods initiated in arable catchments are often accompanied by massive sediment and nutrient loads often leads to the assumption that surface runoff is the principle pathway by which runoff reaches watercourses. On the basis of an evaluation of several rainfall-runoff events in a representative agricultural catchment, we show that runoff from cultivated land may be generated in a way similar to that seen on forested slopes, where shallow subsurface runoff is the predominant pathway by which runoff makes its way to watercourses in most runoff events. To identify the predominant runoff pathway, we employed a combination of turbidity measurements and stream discharge data. Suspended sediment flux, a newly introduced index representing the ratio between precipitation duration and total sediment yield, and direction of the discharge-turbidity hysteresis loops were proposed as reflective indicators of the frequenc",
+      "published": "2015-06-25",
+      "source_id": "openalex",
+      "source_name": "Journal of Hydrology and Hydromechanics",
+      "publisher": "Journal of Hydrology and Hydromechanics",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access"
+      ],
+      "score": 69,
+      "freshness_status": "reference",
+      "freshness_label": "2015 · 27 citations · open access",
+      "practical_fit": "Useful practical evidence · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.1515/johh-2015-0022",
+      "cited_by_count": 27,
+      "openalex_id": "https://openalex.org/W2261579710",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "sediment / hydromorphology",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, sediment / hydromorphology."
+    },
+    {
+      "id": "86a1b19250319140",
+      "title": "The functionality of riparian zones in flat sandy catchments",
+      "url": "https://researchportal.murdoch.edu.au/esploro/outputs/doctoral/The-functionality-of-riparian-zones-in/991005542055607891",
+      "summary": "Intermittent streams and flat sandy catchments are common throughout the world. In south Western Australia, Ellen Brook provides a model landscape for the study of water quality issues associated with managing flat sandy coastal catchments, where the highly permeable sands have limited capacity to intercept and store nutrients arising from agricultural activity. Revegetating riparian zones is universally used as a best-management practice to intercept nutrients and improve stream condition. However, the riparian zone can only be effective in nutrient removal if there is interaction between runoff and riparian vegetation. Key elements driving this interaction are slope, providing flow through the riparian zone and a mechanism for uptake and storage of nutrients (e.g. reactive soils). In addition, riparian vegetation is known to provide a suite of environmental benefits, however, there is little information on the influence of riparian ve",
+      "published": "2014-01-01",
+      "source_id": "openalex",
+      "source_name": "Murdoch University Research Portal",
+      "publisher": "Murdoch University Research Portal",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access"
+      ],
+      "score": 67,
+      "freshness_status": "reference",
+      "freshness_label": "2014 · 2 citations · open access",
+      "practical_fit": "Background evidence · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": null,
+      "cited_by_count": 2,
+      "openalex_id": "https://openalex.org/W892601260",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
+    },
+    {
+      "id": "a296b6cfb8a4e055",
+      "title": "A review of source tracking techniques for fine sediment within a catchment",
+      "url": "https://doi.org/10.1007/s10653-017-9959-9",
+      "summary": "Open the source to inspect the abstract, journal, DOI, and publication metadata.",
+      "published": "2017-04-28",
+      "source_id": "openalex",
+      "source_name": "Environmental Geochemistry and Health",
+      "publisher": "Environmental Geochemistry and Health",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access"
+      ],
+      "score": 56,
+      "freshness_status": "reference",
+      "freshness_label": "2017 · 28 citations · open access",
+      "practical_fit": "Background evidence · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.1007/s10653-017-9959-9",
+      "cited_by_count": 28,
+      "openalex_id": "https://openalex.org/W2607544522",
+      "pressure_categories": [
+        "water quality",
+        "sediment / hydromorphology",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, sediment / hydromorphology, NbS / restoration."
+    },
+    {
+      "id": "9cc04198eb289f0c",
+      "title": "Agriculture impairs stream ecosystem functioning in a tropical catchment",
+      "url": "https://doi.org/10.1016/j.scitotenv.2020.140950",
+      "summary": "The expansion of agriculture is particularly worrying in tropical regions of the world, where native forests are being replaced by crops at alarming rates, with severe consequences for biodiversity and ecosystems. However, there is little information about the potential effects of agriculture on the functioning of tropical streams, which is essential if we are to assess the condition and ecological integrity of these ecosystems. We conducted a litter decomposition experiment in streams within a tropical catchment, which were subjected to different degrees of agricultural influence: low (protected area, PA), medium (buffer area, BA) and high (agricultural area, AA). We quantified decomposition rates of litter enclosed within coarse-mesh and fine-mesh bags, which allowed the distinction of microbial and detritivore-mediated decomposition pathways. We used litter of three riparian species representing a gradient in litter quality (Alnus ac",
+      "published": "2020-07-17",
+      "source_id": "openalex",
+      "source_name": "The Science of The Total Environment",
+      "publisher": "The Science of The Total Environment",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access",
+        "lower-transferability"
+      ],
+      "score": 52,
+      "freshness_status": "reference",
+      "freshness_label": "2020 · 38 citations · open access",
+      "practical_fit": "Background evidence · Lower geographic transferability",
+      "geographic_relevance": "Lower geographic transferability",
+      "doi": "https://doi.org/10.1016/j.scitotenv.2020.140950",
+      "cited_by_count": 38,
+      "openalex_id": "https://openalex.org/W3042687008",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "NbS / restoration",
+        "habitat / biodiversity"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
+    },
+    {
+      "id": "6192c710f622e7fa",
+      "title": "The effects of catchment and riparian forest quality on stream environmental conditions across a tropical rainforest and oil palm landscape in Malaysian Borneo",
+      "url": "https://doi.org/10.1002/eco.1827",
+      "summary": "Freshwaters provide valuable habitat and important ecosystem services but are threatened worldwide by habitat loss and degradation. In Southeast Asia, rainforest streams are particularly threatened by logging and conversion to oil palm, but we lack information on the impacts of this on freshwater environmental conditions, and the relative importance of catchment versus riparian-scale disturbance. We studied 16 streams in Sabah, Borneo, including old-growth forest, logged forest, and oil palm sites. We assessed forest quality in riparian zones and across the whole catchment and compared it with stream environmental conditions including water quality, structural complexity, and organic inputs. We found that streams with the highest riparian forest quality were nearly 4 °C cooler, over 20 cm deeper, had over 40% less sand, greater canopy cover, more stored leaf litter, and wider channels than oil palm streams with the lowest riparian fores",
+      "published": "2016-12-17",
+      "source_id": "openalex",
+      "source_name": "Ecohydrology",
+      "publisher": "Ecohydrology",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access",
+        "highly-cited",
+        "lower-transferability"
+      ],
+      "score": 50,
+      "freshness_status": "reference",
+      "freshness_label": "2016 · 88 citations · open access",
+      "practical_fit": "Background evidence · Lower geographic transferability",
+      "geographic_relevance": "Lower geographic transferability",
+      "doi": "https://doi.org/10.1002/eco.1827",
+      "cited_by_count": 88,
+      "openalex_id": "https://openalex.org/W2563529064",
+      "pressure_categories": [
+        "water quality",
+        "sediment / hydromorphology",
+        "NbS / restoration",
+        "habitat / biodiversity"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, sediment / hydromorphology, NbS / restoration."
+    },
+    {
+      "id": "41f63c4d88bdacc9",
+      "title": "Impacts of Agricultural Runoff on Freshwater Ecosystem Health and Water Quality",
+      "url": "https://doi.org/10.70102/aeef/v3i3/14",
+      "summary": "Agricultural runoff has been recognized as one of the most prevalent non-point sources of pollution affecting the water quality in rivers worldwide. In this study,examine the effects of agricultural runoff on the levels of various water quality indicators in the mixed-useriver basin that comprises both crop lands and peri-urban areas. Water samples were taken from twelve monitoring stations spread out in the study river and its tributaries during three periods, namely pre-monsoon, monsoon, and post-monsoon seasons. The parameters investigated include pH, DO, nitrate, phosphate, TSS, BOD, turbidity, and E. Coli Conclusively, the results showed that the quality of water significantly declined during the monsoon season, characterized by nitrate content of 8.7 ± 1.4 mg/L, phosphate content of 0.31 ± 0.07 mg/L, and a higher than WHO guidelines value of E. coli bacteria at over 310 CFU/100 ml. High Pearson correlation coefficients (r > 0.74,",
+      "published": "2025-09-30",
+      "source_id": "openalex",
+      "source_name": "Aquatic Ecosystems and Environmental Frontiers",
+      "publisher": "Aquatic Ecosystems and Environmental Frontiers",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access",
+        "lower-transferability"
+      ],
+      "score": 43,
+      "freshness_status": "reference",
+      "freshness_label": "2025 · 0 citations · open access",
+      "practical_fit": "Low-priority evidence · Lower geographic transferability",
+      "geographic_relevance": "Lower geographic transferability",
+      "doi": "https://doi.org/10.70102/aeef/v3i3/14",
+      "cited_by_count": 0,
+      "openalex_id": "https://openalex.org/W7222051954",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "NbS / restoration",
+        "citizen science / monitoring"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
+    },
+    {
+      "id": "1f490721e0baa8a1",
+      "title": "Phosphorus Forms in Sediments as Indicators of Anthropic Pressures in an Agricultural Catchment in Southern Brazil",
+      "url": "https://doi.org/10.1590/18069657rbcs20160569",
+      "summary": "Phosphorus (P) fractionation is a suitable procedure to ascertain P lability in sediments and is able to distinguish sources of P under different soil management practices in a catchment. Brazil is the second largest producer and the largest exporter of tobacco in the world. Inadequate management of cultivated areas exposes the soil to erosion processes, accelerating the transfer of sediment and P to water bodies, which leads to eutrophication. We evaluated the P forms in suspended sediments collected at two rainfall events in the stream of a small catchment in the state of Rio Grande do Sul. The samples were collected upstream and downstream areas in three sub-catchments with different degrees of anthropogenic pressure and in three phases of the hydrograph in the catchment outlet. The first rainfall event occurred during the fallow period, and the second one, during the period of transplanting the tobacco crop. The sediment P forms wer",
+      "published": "2017-12-02",
+      "source_id": "openalex",
+      "source_name": "Revista Brasileira de Ciência do Solo",
+      "publisher": "Revista Brasileira de Ciência do Solo",
+      "section": "research-papers",
+      "theme": "wetland-nbs",
+      "tags": [
+        "research",
+        "review",
+        "riparian-buffer",
+        "nutrients",
+        "open-access",
+        "lower-transferability"
+      ],
+      "score": 43,
+      "freshness_status": "reference",
+      "freshness_label": "2017 · 14 citations · open access",
+      "practical_fit": "Low-priority evidence · Lower geographic transferability",
+      "geographic_relevance": "Lower geographic transferability",
+      "doi": "https://doi.org/10.1590/18069657rbcs20160569",
+      "cited_by_count": 14,
+      "openalex_id": "https://openalex.org/W2771600868",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "sediment / hydromorphology",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, sediment / hydromorphology."
     }
   ]
 }

@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-11-05T13:19:34.737088+00:00",
-  "latest_generated_at": "2026-11-05T13:19:22.365801+00:00",
+  "generated_at": "2026-11-06T13:02:54.623542+00:00",
+  "latest_generated_at": "2026-11-06T13:02:37.576489+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
     "planning-infrastructure": 21,
     "grants-opportunities": 19,
-    "research-papers": 36,
-    "ireland-catchment-practice": 13,
-    "waterbody-evidence-alerts": 26
+    "research-papers": 34,
+    "ireland-catchment-practice": 14,
+    "waterbody-evidence-alerts": 25
   },
   "top_pressure_categories": [
     {
       "pressure": "NbS / restoration",
-      "count": 54
+      "count": 51
     },
     {
       "pressure": "water quality",
-      "count": 36
+      "count": 34
     },
     {
       "pressure": "agricultural runoff",
-      "count": 32
+      "count": 33
     },
     {
       "pressure": "policy / governance",
@@ -33,7 +33,7 @@
     },
     {
       "pressure": "habitat / biodiversity",
-      "count": 28
+      "count": 30
     },
     {
       "pressure": "funding / grant",
@@ -41,11 +41,11 @@
     },
     {
       "pressure": "citizen science / monitoring",
-      "count": 19
+      "count": 20
     },
     {
       "pressure": "sediment / hydromorphology",
-      "count": 12
+      "count": 19
     },
     {
       "pressure": "nutrients",
@@ -70,7 +70,7 @@
       "published": "2026-10-29",
       "score": 97,
       "practical_score": 130.0,
-      "freshness_label": "7 days old",
+      "freshness_label": "8 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "NbS / restoration"
@@ -95,7 +95,7 @@
       "published": "2026-10-03",
       "score": 89,
       "practical_score": 129.0,
-      "freshness_label": "33 days old",
+      "freshness_label": "34 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -122,7 +122,7 @@
       "published": "2026-09-29",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "37 days old",
+      "freshness_label": "38 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -152,7 +152,7 @@
       "published": "2026-11-02",
       "score": 84,
       "practical_score": 127.0,
-      "freshness_label": "3 days old",
+      "freshness_label": "4 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "funding / grant"
