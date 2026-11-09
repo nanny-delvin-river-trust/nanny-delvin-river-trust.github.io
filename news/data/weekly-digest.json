@@ -1,63 +1,62 @@
 {
-  "generated_at": "2026-11-08T12:00:37.633654+00:00",
-  "latest_generated_at": "2026-11-08T12:00:16.830153+00:00",
+  "generated_at": "2026-11-09T14:02:30.152855+00:00",
+  "latest_generated_at": "2026-11-09T14:02:14.669314+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
     "planning-infrastructure": 21,
-    "grants-opportunities": 20,
+    "grants-opportunities": 21,
     "ireland-catchment-practice": 12,
-    "research-papers": 36,
-    "waterbody-evidence-alerts": 26
+    "waterbody-evidence-alerts": 25
   },
   "top_pressure_categories": [
     {
-      "pressure": "NbS / restoration",
-      "count": 45
-    },
-    {
-      "pressure": "agricultural runoff",
-      "count": 34
-    },
-    {
-      "pressure": "water quality",
-      "count": 34
-    },
-    {
       "pressure": "policy / governance",
-      "count": 32
+      "count": 31
     },
     {
       "pressure": "planning / infrastructure",
       "count": 30
     },
     {
-      "pressure": "habitat / biodiversity",
-      "count": 28
+      "pressure": "funding / grant",
+      "count": 22
     },
     {
-      "pressure": "funding / grant",
-      "count": 21
+      "pressure": "habitat / biodiversity",
+      "count": 20
+    },
+    {
+      "pressure": "NbS / restoration",
+      "count": 19
     },
     {
       "pressure": "citizen science / monitoring",
-      "count": 19
+      "count": 16
     },
     {
       "pressure": "nutrients",
       "count": 12
     },
     {
-      "pressure": "sediment / hydromorphology",
-      "count": 7
+      "pressure": "agricultural runoff",
+      "count": 5
     },
     {
       "pressure": "incident / alert",
-      "count": 6
+      "count": 5
     },
     {
       "pressure": "septic / domestic wastewater",
       "count": 4
+    },
+    {
+      "pressure": "general catchment signal",
+      "count": 4
+    },
+    {
+      "pressure": "river ecology",
+      "count": 1
     }
   ],
   "items": [
@@ -70,7 +69,7 @@
       "published": "2026-10-29",
       "score": 97,
       "practical_score": 130.0,
-      "freshness_label": "10 days old",
+      "freshness_label": "11 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "NbS / restoration"
@@ -95,7 +94,7 @@
       "published": "2026-10-03",
       "score": 89,
       "practical_score": 129.0,
-      "freshness_label": "36 days old",
+      "freshness_label": "37 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -122,7 +121,7 @@
       "published": "2026-09-29",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "40 days old",
+      "freshness_label": "41 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -152,7 +151,7 @@
       "published": "2026-11-02",
       "score": 84,
       "practical_score": 127.0,
-      "freshness_label": "6 days old",
+      "freshness_label": "7 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "funding / grant"
@@ -172,28 +171,6 @@
       },
       "research_use_type": null,
       "action_relevance": "Funding signal for the Trust: check whether this can support habitat / biodiversity, funding / grant, citizen science, engagement, or small catchment actions."
-    },
-    {
-      "id": "2ba35c94b1962cac",
-      "title": "Riparian Buffers as a Critical Landscape Feature: Insights for Riverscape Conservation and Policy Renovations",
-      "url": "https://doi.org/10.3390/d14030172",
-      "section": "research-papers",
-      "source_name": "Diversity",
-      "published": "2022-02-27",
-      "score": 100,
-      "practical_score": 142.0,
-      "freshness_label": "2022 · 180 citations · open access",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "sediment / hydromorphology",
-        "NbS / restoration",
-        "habitat / biodiversity"
-      ],
-      "local_relevance": null,
-      "opportunity_fit": null,
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, sediment / hydromorphology."
     }
   ]
 }
