@@ -1,46 +1,51 @@
 {
-  "generated_at": "2026-11-09T14:02:30.152855+00:00",
-  "latest_generated_at": "2026-11-09T14:02:14.669314+00:00",
+  "generated_at": "2026-11-10T13:36:36.207527+00:00",
+  "latest_generated_at": "2026-11-10T13:36:23.635821+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
+    "research-papers": 36,
     "planning-infrastructure": 21,
-    "grants-opportunities": 21,
-    "ireland-catchment-practice": 12,
-    "waterbody-evidence-alerts": 25
+    "grants-opportunities": 19,
+    "ireland-catchment-practice": 13,
+    "waterbody-evidence-alerts": 26
   },
   "top_pressure_categories": [
+    {
+      "pressure": "NbS / restoration",
+      "count": 33
+    },
+    {
+      "pressure": "habitat / biodiversity",
+      "count": 31
+    },
     {
       "pressure": "policy / governance",
       "count": 31
     },
     {
       "pressure": "planning / infrastructure",
-      "count": 30
-    },
-    {
-      "pressure": "funding / grant",
-      "count": 22
-    },
-    {
-      "pressure": "habitat / biodiversity",
-      "count": 20
-    },
-    {
-      "pressure": "NbS / restoration",
-      "count": 19
+      "count": 29
     },
     {
       "pressure": "citizen science / monitoring",
-      "count": 16
+      "count": 28
+    },
+    {
+      "pressure": "water quality",
+      "count": 24
+    },
+    {
+      "pressure": "funding / grant",
+      "count": 20
+    },
+    {
+      "pressure": "agricultural runoff",
+      "count": 20
     },
     {
       "pressure": "nutrients",
       "count": 12
-    },
-    {
-      "pressure": "agricultural runoff",
-      "count": 5
     },
     {
       "pressure": "incident / alert",
@@ -51,12 +56,8 @@
       "count": 4
     },
     {
-      "pressure": "general catchment signal",
+      "pressure": "sediment / hydromorphology",
       "count": 4
-    },
-    {
-      "pressure": "river ecology",
-      "count": 1
     }
   ],
   "items": [
@@ -69,7 +70,7 @@
       "published": "2026-10-29",
       "score": 97,
       "practical_score": 130.0,
-      "freshness_label": "11 days old",
+      "freshness_label": "12 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "NbS / restoration"
@@ -94,7 +95,7 @@
       "published": "2026-10-03",
       "score": 89,
       "practical_score": 129.0,
-      "freshness_label": "37 days old",
+      "freshness_label": "38 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -121,7 +122,7 @@
       "published": "2026-09-29",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "41 days old",
+      "freshness_label": "42 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -151,7 +152,7 @@
       "published": "2026-11-02",
       "score": 84,
       "practical_score": 127.0,
-      "freshness_label": "7 days old",
+      "freshness_label": "8 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "funding / grant"
@@ -171,6 +172,27 @@
       },
       "research_use_type": null,
       "action_relevance": "Funding signal for the Trust: check whether this can support habitat / biodiversity, funding / grant, citizen science, engagement, or small catchment actions."
+    },
+    {
+      "id": "5d6b6c5c3f4b2372",
+      "title": "Soil erosion, sediment sources, connectivity and suspended sediment yields in UK temperate agricultural catchments: Discrepancies and reconciliation of field-based measurements",
+      "url": "https://doi.org/10.1016/j.jenvman.2023.119810",
+      "section": "research-papers",
+      "source_name": "Journal of Environmental Management",
+      "published": "2023-12-14",
+      "score": 100,
+      "practical_score": 139.0,
+      "freshness_label": "2023 · 33 citations · open access",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "sediment / hydromorphology",
+        "NbS / restoration"
+      ],
+      "local_relevance": null,
+      "opportunity_fit": null,
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, sediment / hydromorphology."
     }
   ]
 }
