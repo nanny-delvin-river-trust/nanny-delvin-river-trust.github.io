@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-11-16T13:47:31.472921+00:00",
-  "latest_generated_at": "2026-11-16T13:47:21.593845+00:00",
+  "generated_at": "2026-11-17T14:39:52.595324+00:00",
+  "latest_generated_at": "2026-11-17T14:39:38.408360+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
-    "ireland-catchment-practice": 17,
+    "ireland-catchment-practice": 18,
     "research-papers": 36,
     "planning-infrastructure": 19,
-    "grants-opportunities": 18,
-    "waterbody-evidence-alerts": 25
+    "grants-opportunities": 16,
+    "waterbody-evidence-alerts": 26
   },
   "top_pressure_categories": [
+    {
+      "pressure": "NbS / restoration",
+      "count": 38
+    },
     {
       "pressure": "habitat / biodiversity",
       "count": 34
     },
     {
-      "pressure": "NbS / restoration",
+      "pressure": "citizen science / monitoring",
       "count": 32
     },
     {
       "pressure": "policy / governance",
-      "count": 32
+      "count": 30
     },
     {
       "pressure": "planning / infrastructure",
-      "count": 29
-    },
-    {
-      "pressure": "citizen science / monitoring",
       "count": 28
     },
     {
       "pressure": "water quality",
-      "count": 24
-    },
-    {
-      "pressure": "agricultural runoff",
-      "count": 20
+      "count": 25
     },
     {
       "pressure": "funding / grant",
-      "count": 19
+      "count": 17
+    },
+    {
+      "pressure": "agricultural runoff",
+      "count": 15
     },
     {
       "pressure": "nutrients",
       "count": 12
     },
     {
+      "pressure": "general catchment signal",
+      "count": 7
+    },
+    {
       "pressure": "incident / alert",
       "count": 6
     },
     {
-      "pressure": "general catchment signal",
-      "count": 6
-    },
-    {
       "pressure": "sediment / hydromorphology",
-      "count": 4
+      "count": 5
     }
   ],
   "items": [
@@ -70,7 +70,7 @@
       "published": "2026-11-11",
       "score": 100,
       "practical_score": 130.0,
-      "freshness_label": "5 days old",
+      "freshness_label": "6 days old",
       "pressure_categories": [
         "NbS / restoration"
       ],
@@ -94,7 +94,7 @@
       "published": "2026-10-03",
       "score": 89,
       "practical_score": 129.0,
-      "freshness_label": "44 days old",
+      "freshness_label": "45 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -121,7 +121,7 @@
       "published": "2026-09-29",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "48 days old",
+      "freshness_label": "49 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -147,14 +147,13 @@
       "title": "Calls for septic tank grants to be extended to Mayo holiday homes - Ireland Live News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2Mxb2lmdVJPZG1EcjFBSkgwekVRMWtrXzJlSElCdVdNYkRZOWhvZ1lCaEdSNlMxNkRmYzh6WDJHdUNQSnZLN1VGTmlPaTBWVFRPWXpFZk8tRUJWam5mQVhMTkdMYmp2TTh3aFhZeW9GOVBiVEoyVFdoWXlSM094RjFpcjNMeDlqX3JzZmNKR004MVdYc3Y4bnBEVTA4aURMeFFPeTE0SEhKd29HMGYxb2JGNk9aaTA?oc=5",
       "section": "grants-opportunities",
-      "source_name": "Google News: water and biodiversity grants Ireland",
+      "source_name": "Google News: septic tanks and domestic wastewater Ireland",
       "published": "2026-11-13",
-      "score": 97,
-      "practical_score": 149.0,
-      "freshness_label": "3 days old",
+      "score": 99,
+      "practical_score": 141.0,
+      "freshness_label": "4 days old",
       "pressure_categories": [
         "septic / domestic wastewater",
-        "habitat / biodiversity",
         "funding / grant"
       ],
       "local_relevance": {
@@ -165,34 +164,35 @@
         ]
       },
       "opportunity_fit": {
-        "fit": "High",
-        "score": 77,
+        "fit": "Medium",
+        "score": 63,
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
       },
       "research_use_type": null,
-      "action_relevance": "Funding signal for the Trust: check whether this can support septic / domestic wastewater, habitat / biodiversity, funding / grant, citizen science, engagement, or small catchment actions."
+      "action_relevance": "Funding signal for the Trust: check whether this can support septic / domestic wastewater, funding / grant, citizen science, engagement, or small catchment actions."
     },
     {
-      "id": "5d6b6c5c3f4b2372",
-      "title": "Soil erosion, sediment sources, connectivity and suspended sediment yields in UK temperate agricultural catchments: Discrepancies and reconciliation of field-based measurements",
-      "url": "https://doi.org/10.1016/j.jenvman.2023.119810",
+      "id": "7c9dbea881190d14",
+      "title": "Making informed choices: implementing nature-based solutions for effective freshwater management in temperate catchments",
+      "url": "https://doi.org/10.1016/j.nbsj.2026.100367",
       "section": "research-papers",
-      "source_name": "Journal of Environmental Management",
-      "published": "2023-12-14",
+      "source_name": "Nature-Based Solutions",
+      "published": "2026-07-22",
       "score": 100,
-      "practical_score": 139.0,
-      "freshness_label": "2023 · 33 citations · open access",
+      "practical_score": 142.0,
+      "freshness_label": "2026 · 0 citations · open access",
       "pressure_categories": [
         "water quality",
         "agricultural runoff",
-        "sediment / hydromorphology",
-        "NbS / restoration"
+        "NbS / restoration",
+        "citizen science / monitoring",
+        "habitat / biodiversity"
       ],
       "local_relevance": null,
       "opportunity_fit": null,
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, sediment / hydromorphology."
+      "research_use_type": "Monitoring method",
+      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
     }
   ]
 }
