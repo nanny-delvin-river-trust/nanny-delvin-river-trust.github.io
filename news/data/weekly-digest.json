@@ -1,31 +1,27 @@
 {
-  "generated_at": "2026-11-17T14:39:52.595324+00:00",
-  "latest_generated_at": "2026-11-17T14:39:38.408360+00:00",
+  "generated_at": "2026-11-18T14:17:09.332441+00:00",
+  "latest_generated_at": "2026-11-18T14:16:56.083829+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
-    "ireland-catchment-practice": 18,
+    "ireland-catchment-practice": 15,
+    "planning-infrastructure": 20,
     "research-papers": 36,
-    "planning-infrastructure": 19,
-    "grants-opportunities": 16,
-    "waterbody-evidence-alerts": 26
+    "grants-opportunities": 19,
+    "waterbody-evidence-alerts": 25
   },
   "top_pressure_categories": [
     {
       "pressure": "NbS / restoration",
-      "count": 38
+      "count": 35
     },
     {
       "pressure": "habitat / biodiversity",
-      "count": 34
-    },
-    {
-      "pressure": "citizen science / monitoring",
-      "count": 32
+      "count": 31
     },
     {
       "pressure": "policy / governance",
-      "count": 30
+      "count": 29
     },
     {
       "pressure": "planning / infrastructure",
@@ -36,27 +32,31 @@
       "count": 25
     },
     {
-      "pressure": "funding / grant",
-      "count": 17
+      "pressure": "agricultural runoff",
+      "count": 25
     },
     {
-      "pressure": "agricultural runoff",
-      "count": 15
+      "pressure": "citizen science / monitoring",
+      "count": 23
+    },
+    {
+      "pressure": "funding / grant",
+      "count": 20
     },
     {
       "pressure": "nutrients",
       "count": 12
     },
     {
-      "pressure": "general catchment signal",
-      "count": 7
-    },
-    {
       "pressure": "incident / alert",
       "count": 6
     },
     {
-      "pressure": "sediment / hydromorphology",
+      "pressure": "general catchment signal",
+      "count": 6
+    },
+    {
+      "pressure": "septic / domestic wastewater",
       "count": 5
     }
   ],
@@ -70,7 +70,7 @@
       "published": "2026-11-11",
       "score": 100,
       "practical_score": 130.0,
-      "freshness_label": "6 days old",
+      "freshness_label": "7 days old",
       "pressure_categories": [
         "NbS / restoration"
       ],
@@ -86,31 +86,28 @@
       "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures."
     },
     {
-      "id": "5821ef6dd0c20b6f",
-      "title": "Agri jobs: Meath water quality EIP seeks community animator - Irish Farmers Journal",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUXZON2w4WXFFUUZYNmpwaXNEdkNFN3l5cldIajhBWXo0aDBPd0g3elFESFFoeW51bkRUaFZ1UHptVUVnaXVwcF9WVnRMbGIwODVKR1hPTlRRcUNsMkdOWlVuUXFUWk02SDhtYWFiTU5KMTBoRmZlRlRhYW9OSjJEOHE2VUthOHdHSGhrajk0X1VpVnBZQjN2cDkxVmgwR0N6UE5HLVViQ2M?oc=5",
+      "id": "c52d191b7337e86a",
+      "title": "Ireland's septic tank problem - University College Dublin",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zOG9SeEtSRzlvWkxvOFdQa2g4U1FYYzRDaVd1V1RWLU1TNk10NExtMGlPTUdWOHh1OTQ1MGNkN3NUU2VxeUxwdHl0OVFSeWs0dWtUUU0tZjMyb3NqczBZakJWMlB1b0Q1S3p3Y1NDTEItaV9LSjFjNUUyd29PUQ?oc=5",
       "section": "waterbody-evidence-alerts",
-      "source_name": "Google News: Meath Louth Fingal catchment signals",
-      "published": "2026-10-03",
-      "score": 89,
-      "practical_score": 129.0,
-      "freshness_label": "45 days old",
+      "source_name": "Google News: septic tanks Ireland",
+      "published": "2026-08-26",
+      "score": 85,
+      "practical_score": 117.0,
+      "freshness_label": "84 days old",
       "pressure_categories": [
-        "agricultural runoff"
+        "septic / domestic wastewater"
       ],
       "local_relevance": {
-        "score": 72,
-        "label": "High local relevance",
+        "score": 10,
+        "label": "Ireland-wide relevance",
         "matched_terms": [
-          "Ireland",
-          "fingal",
-          "louth",
-          "meath"
+          "Ireland"
         ]
       },
       "opportunity_fit": null,
       "research_use_type": null,
-      "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
+      "action_relevance": "Potential catchment-pressure signal: septic or domestic wastewater issues can affect groundwater, small streams, bathing waters, and local engagement priorities."
     },
     {
       "id": "b0251d564a177c36",
@@ -121,7 +118,7 @@
       "published": "2026-09-29",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "49 days old",
+      "freshness_label": "50 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -151,7 +148,7 @@
       "published": "2026-11-13",
       "score": 99,
       "practical_score": 141.0,
-      "freshness_label": "4 days old",
+      "freshness_label": "5 days old",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant"

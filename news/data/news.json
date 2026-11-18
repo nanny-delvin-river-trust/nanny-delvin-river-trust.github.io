@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:39:38.408360+00:00",
+  "generated_at": "2026-11-18T14:16:56.083829+00:00",
   "note": "Source-led daily radar for Nanny-Delvin: practical Irish catchment signals, waterbody evidence/alerts, grants/opportunities, and research ranked by Trust usefulness.",
   "sections": [
     {
@@ -46,7 +46,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "6 days old",
+      "freshness_label": "7 days old",
       "pressure_categories": [
         "NbS / restoration"
       ],
@@ -58,41 +58,6 @@
         ]
       },
       "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures."
-    },
-    {
-      "id": "43b0c4caaea28a32",
-      "title": "Otters appear to have declined throughout Ireland amid increased pressures on water quality, but remain ubiquitous",
-      "url": "https://doi.org/10.1017/s0030605325102391",
-      "summary": "Abstract Governments must report on the conservation status of species designated as protected. We assessed changes in the Near Threatened Eurasian otter Lutra lutra population throughout Ireland (the whole island) from the 1980s to the 2020s using four National Otter Surveys (6,060 sites surveyed) and citizen science data (10,980 records). In 2023–2024, otters were recorded at 65% (95% CI 62–68%) of sites in the Republic of Ireland and 66% (95% CI 58–74%) of sites in Northern Ireland. Rivers, lakes and coasts were included in the surveys. Long-term trends in the population estimate indicate a decline of 24−27% (or 3−18% after correction for negative methodological biases). Short-term trends indicated changes of −7% to +2% in the Republic of Ireland and −26% to −27% in Northern Ireland. Otters remain widespread, having been recorded in 95% of hectads (10 × 10 km squares), with no range reduction. They prefer wide, fast-flowing rivers wi",
-      "published": "2026-11-06",
-      "source_id": "openalex",
-      "source_name": "Oryx",
-      "publisher": "Oryx",
-      "section": "research-papers",
-      "theme": "citizen-science",
-      "tags": [
-        "research",
-        "ireland",
-        "citizen-science",
-        "monitoring",
-        "open-access",
-        "ireland-first"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2026 · 0 citations · open access",
-      "practical_fit": "High practical fit · Ireland / direct relevance",
-      "geographic_relevance": "Ireland / direct relevance",
-      "doi": "https://doi.org/10.1017/s0030605325102391",
-      "cited_by_count": 0,
-      "openalex_id": "https://openalex.org/W7225415282",
-      "pressure_categories": [
-        "water quality",
-        "citizen science / monitoring",
-        "habitat / biodiversity"
-      ],
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, citizen science / monitoring, habitat / biodiversity."
     },
     {
       "id": "b0251d564a177c36",
@@ -111,7 +76,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "49 days old",
+      "freshness_label": "50 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -153,7 +118,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "49 days old",
+      "freshness_label": "50 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -189,7 +154,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "52 days old",
+      "freshness_label": "53 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -231,7 +196,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "62 days old",
+      "freshness_label": "63 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -267,7 +232,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "64 days old",
+      "freshness_label": "65 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -303,7 +268,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "71 days old",
+      "freshness_label": "72 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -343,7 +308,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "77 days old",
+      "freshness_label": "78 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -384,7 +349,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "91 days old · background",
+      "freshness_label": "92 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -426,7 +391,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "106 days old · background",
+      "freshness_label": "107 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -461,7 +426,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "112 days old · background",
+      "freshness_label": "113 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -529,9 +494,9 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJHWDF5dHh0MkRpRVRGX0NFZ0pvdUpIcXMydDFxZTFrUHZnZ1V0dWFlTzNNVGhSMEh4dHlEbUhJWXF4c3FjYUhtdnFMVk5XMjdHYTk5T1M1MWpmM0dSbExFdkpkQ3NZNkNmWlBtUUhjQTlpLTNXc0g0QTRIUWRJUzA4a204MGJWYkd2VmpCYk50TDhqUm1MY19ZeDRwZHJ0NGRrNUJPZlpTQjRTa0c3NXgtc0NabklrX3c?oc=5",
       "summary": "Stephen McKee calls for rethink on Julianstown bypass options Irish Independent",
       "published": "2026-07-21",
-      "source_id": "google-news-julianstown-traffic-relief",
-      "source_name": "Google News: Julianstown Traffic Relief Scheme",
-      "publisher": "Google News: Julianstown Traffic Relief Scheme",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
       "section": "planning-infrastructure",
       "theme": "nanny-delvin-local",
       "tags": [
@@ -540,7 +505,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "119 days old · background",
+      "freshness_label": "120 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -550,8 +515,9 @@
         "matched_terms": [
           "Ireland",
           "delvin",
+          "east meath",
           "julianstown",
-          "julianstown traffic relief scheme",
+          "meath",
           "nanny",
           "nanny-delvin"
         ]
@@ -581,7 +547,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "121 days old · background",
+      "freshness_label": "122 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -605,6 +571,45 @@
       }
     },
     {
+      "id": "c15944002653fd1a",
+      "title": "Louth TD Erin McGreehan urges expansion of septic tank repair grants - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjI2U3E3Nnl4a3d2bUdhdVdOcXdEZjJoWEx2OUpna2xNdElaa2duTEgxZlBpSHBwNERWYXBPbUlBeGt6R2huT3A0SUNHNTVsd25KdVlyLUo2bDZQMHBFd1ZSU3h0UDl1WS1PRm9ieEwxZzNqNDFEb1RiRE8xU0xYWUVTS1RETTl4RnhZN3JpTWZWLVlZQUE2NnZWbXFZb1VDdVpfWGtWcDVLTWZiZlZWdDdWRFgyekEwTkNaRFZaTENLVTQ?oc=5",
+      "summary": "Louth TD Erin McGreehan urges expansion of septic tank repair grants Irish Independent",
+      "published": "2026-07-10",
+      "source_id": "google-news-septic-tank-grants-ireland",
+      "source_name": "Google News: septic tanks and domestic wastewater Ireland",
+      "publisher": "Google News: septic tanks and domestic wastewater Ireland",
+      "section": "grants-opportunities",
+      "theme": "grant",
+      "tags": [
+        "septic-wastewater",
+        "grant"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "131 days old · background",
+      "pressure_categories": [
+        "septic / domestic wastewater",
+        "funding / grant",
+        "policy / governance"
+      ],
+      "local_relevance": {
+        "score": 32,
+        "label": "Moderate local relevance",
+        "matched_terms": [
+          "Ireland",
+          "louth"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support septic / domestic wastewater, funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Medium",
+        "score": 63,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
+    },
+    {
       "id": "9ce089912b98a5f1",
       "title": "Four potential route options remain under consideration for the long-awaited Julianstown Traffic Relief Scheme - Meath Chronicle",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRzhqcy1DUjN0RFRxdlVhRDlhR213R0NMSWdtT2RxRlZ0V1ZnU1l0NXhSSEdyaFhkUWVLYVo3Q0hod2pxR0JqeTBKXzFZcVhLWHVBUGpfZFVyVVBYRzVGMk94S3hic0dWMmgyM0g5S1E0M1ZCWmR3Qnp3QWJYSUxUb1J2SmxuZVFwX3U5V3k4OHZBeUp6QnVVbWwwU3pXaHE3ZVNMRVFMcFpsbHZUU1RxZzkwMnlGTWdnTThOTUVqRTNaZU0zb0xNdmpEekxJYmZwU0JsYXJGbVFmNE9YMUZtME12cHcyWTQ?oc=5",
@@ -621,7 +626,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "152 days old · background",
+      "freshness_label": "153 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -647,74 +652,6 @@
       }
     },
     {
-      "id": "cfb6d018e4bd07d8",
-      "title": "Empowering Communities: How Citizen Science Transforms Water Monitoring",
-      "url": "https://doi.org/10.1007/978-3-032-15904-5_6",
-      "summary": "Citizen science has been increasingly adopted in research projects monitoring the ecological status of aquatic ecosystems and assessing pollutants across water resources. In the past years, the DCU Water Institute has hosted a number of projects that involve the general public in collecting environmental data in Irish freshwater environments. We present here an overview of these projects, detailing their scope, timeline, progress, and the citizen science activities conducted. These projects have investigated nutrient excess, visible signs of pollution, macroinvertebrate diversity, and emerging pollutants of concern, targeting either specific catchment areas or waterbodies throughout the whole country. The involvement of local communities has been key to gathering valuable information on Irish water quality, providing evidence to support local management of water resources. At the same time, it has been vital in raising awareness about w",
-      "published": "2026-05-01",
-      "source_id": "openalex",
-      "source_name": "Springer water",
-      "publisher": "Springer water",
-      "section": "research-papers",
-      "theme": "citizen-science",
-      "tags": [
-        "research",
-        "ireland",
-        "citizen-science",
-        "monitoring",
-        "open-access",
-        "ireland-first"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2026 · 0 citations · open access",
-      "practical_fit": "High practical fit · Ireland / direct relevance",
-      "geographic_relevance": "Ireland / direct relevance",
-      "doi": "https://doi.org/10.1007/978-3-032-15904-5_6",
-      "cited_by_count": 0,
-      "openalex_id": "https://openalex.org/W7171678716",
-      "pressure_categories": [
-        "water quality",
-        "citizen science / monitoring"
-      ],
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, citizen science / monitoring."
-    },
-    {
-      "id": "fc024430c63e525d",
-      "title": "Engaging Primary School Children in Environmental Education Through Citizen Science",
-      "url": "https://eprints.dkit.ie/id/eprint/1124/1/S.%20Perpetuo%20Rodrigues.pdf",
-      "summary": "This dissertation examines approaches to supporting Environmental Education (EE) by engaging primary school pupils in Citizen Science (CS) focused on freshwater conservation. In response to the decline in water quality in Ireland, the study compares two methods: a traditional paper-based approach and a digital approach using a mobile app designed to assist with macroinvertebrate-based water quality monitoring. The research explores how these approaches influence pupils’ engagement and self-efficacy in participating in CS. A quasi-experimental study was carried out in three Irish primary schools, with experimental groups using the app and control groups using paper-based methods. The workshops combined classroom learning with practical activities involving the identification of live macroinvertebrates, enabling pupils to explore their local ecosystems as citizen scientists. Quantitative data were collected on perceived usefulness, ease o",
-      "published": "2026-03-01",
-      "source_id": "openalex",
-      "source_name": "STOR (Dundalk Institute of Technology)",
-      "publisher": "STOR (Dundalk Institute of Technology)",
-      "section": "research-papers",
-      "theme": "citizen-science",
-      "tags": [
-        "research",
-        "ireland",
-        "citizen-science",
-        "monitoring",
-        "open-access",
-        "ireland-first"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2026 · 0 citations · open access",
-      "practical_fit": "High practical fit · Ireland / direct relevance",
-      "geographic_relevance": "Ireland / direct relevance",
-      "doi": null,
-      "cited_by_count": 0,
-      "openalex_id": "https://openalex.org/W7225539948",
-      "pressure_categories": [
-        "water quality",
-        "citizen science / monitoring"
-      ],
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, citizen science / monitoring."
-    },
-    {
       "id": "d3b5e12d567b4461",
       "title": "Over €35m allocated to Meath road network with additional funding for Julianstown bypass - Irish Independent",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeURJbmtSMFI1YmhXc092WEdKN1RiOGQyNWJoOWJLQ3Vna0dEUEN1Q3JyUER0UlZHbGZ2OE0yN3NIZEJhemFCanB5Mmg3ZkFtUjVkTlluay1qX0ZFSEswY08xcklWRXFSWmhjNmpVcEtoTVd2bGxZZkltcXR4NDdSZkNQaGVwSmZQdVJJUUQ2V3p5dmFVc192VDlIdjRPbUd3aE1RY1h2UHBHNzdURHBoalRwT3Vlell0SVV1Q3diNy13NW1IbTd4SnpKd0RTSUd3VTZ1amZnLWdYT3Rm?oc=5",
@@ -732,7 +669,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "271 days old · background",
+      "freshness_label": "272 days old · background",
       "pressure_categories": [
         "funding / grant",
         "planning / infrastructure"
@@ -781,7 +718,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "272 days old · background",
+      "freshness_label": "273 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -806,77 +743,6 @@
       }
     },
     {
-      "id": "a9fa8c8f56e7e57a",
-      "title": "What has happened to river macroinvertebrate biodiversity in England and Wales over the past 30 years?",
-      "url": "https://doi.org/10.1016/j.jenvman.2026.128954",
-      "summary": "Freshwater systems have experienced 200 years of escalating pressure from growing human populations, industrialisation and agricultural intensification leading to pollution and degraded biodiversity. In Europe and North America, the last 30 years have seen large-scale efforts to reduce river pollution via legislation such as the EU Urban Wastewater Treatment Directive and the US Clean Water Act. Concern over water quality in rivers has received increasing public interest over the past five years, and there are questions about the true impacts of pollution on wildlife. Recent evidence suggests that the richness and abundance of freshwater macroinvertebrates (a group commonly used as indicators of water quality) has improved, especially in formerly polluted urban rivers in developed Western countries, although more recently this recovery has slowed or plateaued. Here, we examine available evidence on changing macroinvertebrate biodiversit",
-      "published": "2026-02-13",
-      "source_id": "openalex",
-      "source_name": "Journal of Environmental Management",
-      "publisher": "Journal of Environmental Management",
-      "section": "research-papers",
-      "theme": "citizen-science",
-      "tags": [
-        "research",
-        "ireland",
-        "citizen-science",
-        "monitoring",
-        "open-access",
-        "temperate-transfer"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2026 · 5 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.1016/j.jenvman.2026.128954",
-      "cited_by_count": 5,
-      "openalex_id": "https://openalex.org/W7128785066",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "citizen science / monitoring",
-        "habitat / biodiversity"
-      ],
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, citizen science / monitoring."
-    },
-    {
-      "id": "0ebdce8247a5124a",
-      "title": "An effective roadmap for training and engagement of citizen scientists and community groups investigating freshwater quality: Urban Citizen’s 6.3.2 (Dublin, Ireland)",
-      "url": "https://doi.org/10.3389/fenvs.2025.1690383",
-      "summary": "Citizen science can considerably assist researchers in collecting environmental data, expanding the scope of projects and serving an educational purpose. However, there has been considerable debate on the importance of establishing proper methods to ensure data quality, and providing adequate training and engagement of volunteers, to maximise their participation. In this paper, we present the framework that we developed during Urban Citizen’s 6.3.2, a citizen science project monitoring water quality and macroinvertebrate biodiversity of urban rivers and streams in Dublin, Ireland. This framework was utilized for establishing the surveying methodology, recruiting our volunteers, training them as citizen scientists, engaging and supporting them during the data collection, and communicating results. We provide an overview of the citizens’ participation, their background and motivation, and their feedback on our training and engagement meth",
-      "published": "2025-11-14",
-      "source_id": "openalex",
-      "source_name": "Frontiers in Environmental Science",
-      "publisher": "Frontiers in Environmental Science",
-      "section": "research-papers",
-      "theme": "citizen-science",
-      "tags": [
-        "research",
-        "ireland",
-        "citizen-science",
-        "monitoring",
-        "open-access",
-        "ireland-first"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2025 · 3 citations · open access",
-      "practical_fit": "High practical fit · Ireland / direct relevance",
-      "geographic_relevance": "Ireland / direct relevance",
-      "doi": "https://doi.org/10.3389/fenvs.2025.1690383",
-      "cited_by_count": 3,
-      "openalex_id": "https://openalex.org/W4416233817",
-      "pressure_categories": [
-        "water quality",
-        "citizen science / monitoring",
-        "habitat / biodiversity"
-      ],
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, citizen science / monitoring, habitat / biodiversity."
-    },
-    {
       "id": "76068da8d74e6162",
       "title": "Wetland restoration can reduce nitrogen pollution and improve water quality in major European rivers - European Commission",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObFRUaTl0MEdDRzdac2ZMUzdWYXRyRktEd3NjX3I0S0d6WDFfVHB5ZUdPS2pTTnZiNksxUXVuSFVWLThTZ3VfdEN5MG1mb3dNcjJSWTBYTXJfTVB6M0pXWUhXNGtMbEVnNnN1dFNrQjZ1dlVFaWptd3RPYXdtWnByTlRYMkJnNnpVRHMyUFdoMWVZVkxPVnJtdF9XMnlwekJ2eFJRZHY2eUlyS3B0N01feGEyYW5jS0FfVElGT1RoRm53ZDV2MzBBblVUY3RQX25KNzJkSjd2cW11MmtfWWRONjFrTlhOUDZMREtDTzJrUDV1aDFtdGxGZ3V2NktOb1ZaaXN4b05B?oc=5",
@@ -894,7 +760,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "455 days old · background",
+      "freshness_label": "456 days old · background",
       "pressure_categories": [
         "nutrients",
         "habitat / biodiversity",
@@ -910,108 +776,74 @@
       "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures."
     },
     {
-      "id": "0ffb74b652b1edc2",
-      "title": "FreshWater Watch: Investigating the Health of Freshwater Ecosystems, from the Bottom Up",
-      "url": "https://doi.org/10.5334/cstp.754",
-      "summary": "Freshwater ecosystems are increasingly facing major global and local stressors, while monitoring surface water status by regulatory agencies is often limited by financial and political constraints. Citizen science–based approaches with robust quality control and training can support regulatory monitoring and decision-making. Herein, we outline the criteria used to develop a citizen science monitoring program for water quality, based on a standardized methodology designed to support the Agenda 2030 indicator 6.3.2 and the EU’s Water Framework Directive. We explore the evolution of protocols used to ensure data robustness and transferability and examine the utility of contextual information registered by citizen scientists. We present laboratory and field experiments conducted to validate chemical and optical methods. Using the data from more than 80 projects across 4 biogeographical regions, we explore consistencies and differences in se",
-      "published": "2025-01-08",
+      "id": "c3e66f63591e6856",
+      "title": "Trends and purposes of European river monitoring and restoration",
+      "url": "https://doi.org/10.1016/j.envsci.2025.104130",
+      "summary": "This study provides the first geospatial analysis of the trends and uptake of European river monitoring and restoration. European monitoring targets rivers draining agricultural and urban land, which leads to geospatial biases due to the co-occurrence with soils, topography, and river orders. Most notably, intermittent rivers and ephemeral streams are underrepresented due to lower monitoring intensities in Southern Europe, headwaters, and catchments with steeper slopes or less arable soils. Improving monitoring efforts in these ecosystems can advance our scientific understanding of complex linkages between ecological quality outcomes and specific stressors. Large differences were found in the spatial coverage of river monitoring and chemical status reporting between European river regions, which highlights comparability issues with the outcomes of Water Framework Directive river quality status due to the ’one-out-all-out’ principle. Che",
+      "published": "2025-06-09",
       "source_id": "openalex",
-      "source_name": "Citizen Science Theory and Practice",
-      "publisher": "Citizen Science Theory and Practice",
+      "source_name": "Environmental Science & Policy",
+      "publisher": "Environmental Science & Policy",
       "section": "research-papers",
-      "theme": "citizen-science",
+      "theme": "water-quality",
       "tags": [
         "research",
         "ireland",
-        "citizen-science",
-        "monitoring",
+        "water-quality",
+        "catchment",
+        "agriculture",
         "open-access",
         "ireland-first"
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2025 · 29 citations · open access",
+      "freshness_label": "2025 · 9 citations · open access",
       "practical_fit": "High practical fit · Ireland / direct relevance",
       "geographic_relevance": "Ireland / direct relevance",
-      "doi": "https://doi.org/10.5334/cstp.754",
-      "cited_by_count": 29,
-      "openalex_id": "https://openalex.org/W4406181415",
+      "doi": "https://doi.org/10.1016/j.envsci.2025.104130",
+      "cited_by_count": 9,
+      "openalex_id": "https://openalex.org/W4411143045",
       "pressure_categories": [
-        "water quality",
+        "agricultural runoff",
         "citizen science / monitoring"
       ],
       "research_use_type": "Monitoring method",
-      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, citizen science / monitoring."
+      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around agricultural runoff, citizen science / monitoring."
     },
     {
-      "id": "2dc119e4130789a8",
-      "title": "The forgotten forests: Incorporating temperate peat‐forming wet woodlands as nature‐based solutions into policy and practice",
-      "url": "https://doi.org/10.1002/2688-8319.12346",
-      "summary": "Abstract Peat‐forming wet woodlands (forested wetlands) are naturally occurring carbon‐dense ecosystems that have considerable potential to form an important part of net zero woodland establishment and peatland strategies, as well as provide crucial co‐benefits to restore biodiversity and regulate hydrological systems. Despite their potential, temperate peat‐forming wet woodlands have been widely lost, are critically understudied and are being overlooked in land‐use strategies. Unlike temperate ‘dry’ woodlands, some wet woodlands are peat forming and can store large amounts of carbon below‐ground in peat in addition to the carbon in the tree biomass. The complex structure of these peat‐forming wet woodlands creates high abiotic heterogeneity, resulting in a wide variety of microhabitats to support high levels of biodiversity, and this structural complexity can also increase water storage in the landscape and slow flood flows, providing",
-      "published": "2024-04-01",
+      "id": "4f19082db5e8db86",
+      "title": "Water Quality Assessment and Forecasting Along the Liffey and Andarax Rivers by Artificial Neural Network Techniques Toward Sustainable Water Resources Management",
+      "url": "https://doi.org/10.3390/w17030453",
+      "summary": "This research evaluates water quality in two contrasting hydro-climatic regions: the River Liffey in Ireland and the Andarax River in Spain. It utilizes an Artificial Neural Network (ANN) to simulate potential changes in key water-quality parameters based on field measurements. The ANN models showed strong predictive efficiency and performance, achieving R2 values of 0.89 for dissolved oxygen (DO), 0.98 for electrical conductivity (EC), 0.87 for pH, 0.95 for total dissolved solids (TDS), and 0.96 for turbidity. The root mean-square-error (RMSE) values for important parameters were DO (1.25 mg/L), EC (48.06 µS/cm), and turbidity (8.9 FNU). The models were able to capture complex nonlinear relationships under different environmental conditions. The results showed that DO levels in the Liffey will decline by up to 20% over the next decade due to rising nutrient pollution, while TDS levels in the Andarax River are expected to rise by approx",
+      "published": "2025-02-06",
       "source_id": "openalex",
-      "source_name": "Ecological Solutions and Evidence",
-      "publisher": "Ecological Solutions and Evidence",
+      "source_name": "Water",
+      "publisher": "Water",
       "section": "research-papers",
-      "theme": "river-restoration",
+      "theme": "water-quality",
       "tags": [
         "research",
-        "temperate",
-        "europe",
-        "nbs",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
         "open-access",
-        "temperate-transfer"
+        "ireland-first"
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2024 · 11 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.1002/2688-8319.12346",
-      "cited_by_count": 11,
-      "openalex_id": "https://openalex.org/W4399756071",
-      "pressure_categories": [
-        "NbS / restoration",
-        "habitat / biodiversity"
-      ],
-      "research_use_type": "Policy / governance",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for NbS / restoration, habitat / biodiversity."
-    },
-    {
-      "id": "5d6b6c5c3f4b2372",
-      "title": "Soil erosion, sediment sources, connectivity and suspended sediment yields in UK temperate agricultural catchments: Discrepancies and reconciliation of field-based measurements",
-      "url": "https://doi.org/10.1016/j.jenvman.2023.119810",
-      "summary": "Robust understanding of the fine-grained sediment cascades of temperate agricultural catchments is essential for supporting targeted management for addressing the widely reported sediment problem. Within the UK, many independent field-based measurements of soil erosion, sediment sources and catchment suspended sediment yields have been published. However, attempts to review and assess the compatibility of these measurements are limited. The data available suggest that landscape scale net soil erosion rates (∼38 t km−2 yr−1 for arable and ∼26 t km−2 yr−1 grassland) are comparable to the typical suspended sediment yield of a UK catchment (∼44 t km2 yr−1). This finding cannot, however, be reconciled easily with current prevailing knowledge that agricultural topsoils dominate sediment contributions to watercourses, and that catchment sediment delivery ratios are typically low. Channel bank erosion rates can be high at landscape scale (27 km",
-      "published": "2023-12-14",
-      "source_id": "openalex",
-      "source_name": "Journal of Environmental Management",
-      "publisher": "Journal of Environmental Management",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "riparian-buffer",
-        "nutrients",
-        "open-access",
-        "temperate-transfer"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2023 · 33 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.1016/j.jenvman.2023.119810",
-      "cited_by_count": 33,
-      "openalex_id": "https://openalex.org/W4389734089",
+      "freshness_label": "2025 · 14 citations · open access",
+      "practical_fit": "High practical fit · Ireland / direct relevance",
+      "geographic_relevance": "Ireland / direct relevance",
+      "doi": "https://doi.org/10.3390/w17030453",
+      "cited_by_count": 14,
+      "openalex_id": "https://openalex.org/W4407226042",
       "pressure_categories": [
         "water quality",
-        "agricultural runoff",
-        "sediment / hydromorphology",
-        "NbS / restoration"
+        "agricultural runoff"
       ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, sediment / hydromorphology."
+      "research_use_type": "Supporting evidence",
+      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, agricultural runoff."
     },
     {
       "id": "9f1293ec41781892",
@@ -1048,72 +880,41 @@
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for research evidence."
     },
     {
-      "id": "19a11edc32674f25",
-      "title": "Monitoring and Promoting Citizen Engagement in Assessing the Ecological Status of Ave River: A Case Study in Northern Portugal",
-      "url": "https://doi.org/10.19080/ijesnr.2023.32.556342",
-      "summary": "Monitoring the ecological status of rivers and evaluating the effectiveness of implemented measures are pivotal for achieving and maintaining a good status. Public participation plays a crucial role in the success of these efforts. This study aimed to assess the ecological status of the Ave River in Northern Portugal, while promoting citizen participation in the monitoring of river health. Over the course of a year, 11 sites along the Ave River were monitored using biological (benthic macroinvertebrates, macrophyte and phytobenthic communities), hydromorphological, and physico-chemical quality elements recommended by the Water Framework Directive. Additionally, four training sessions were held to encourage citizen engagement and foster responsible behaviors towards the rehabilitation of the river. The findings of this study revealed that the ecological status of Ave River varied from moderate to poor, with macroinvertebrates being the m",
-      "published": "2023-07-14",
+      "id": "f0321dffa6fd3996",
+      "title": "Assessing the impact of COVID-19 lockdown on surface water quality in Ireland using advanced Irish water quality index (IEWQI) model",
+      "url": "https://doi.org/10.1016/j.envpol.2023.122456",
+      "summary": "The COVID-19 pandemic has significantly impacted various aspects of life, including environmental conditions. Surface water quality (WQ) is one area affected by lockdowns imposed to control the virus's spread. Numerous recent studies have revealed the considerable impact of COVID-19 lockdowns on surface WQ. In response, this research aimed to assess the impact of COVID-19 lockdowns on surface water quality in Ireland using an advanced WQ model. To achieve this goal, six years of water quality monitoring data from 2017 to 2022 were collected for nine water quality indicators in Cork Harbour, Ireland, before, during, and after the lockdowns. These indicators include pH, water temperature (TEMP), salinity (SAL), biological oxygen demand (BOD5), dissolved oxygen (DOX), transparency (TRAN), and three nutrient enrichment indicators—dissolved inorganic nitrogen (DIN), molybdate reactive phosphorus (MRP), and total oxidized nitrogen (TON). The",
+      "published": "2023-09-04",
       "source_id": "openalex",
-      "source_name": "International Journal of Environmental Sciences & Natural Resources",
-      "publisher": "International Journal of Environmental Sciences & Natural Resources",
+      "source_name": "Environmental Pollution",
+      "publisher": "Environmental Pollution",
       "section": "research-papers",
-      "theme": "citizen-science",
+      "theme": "water-quality",
       "tags": [
         "research",
         "ireland",
-        "citizen-science",
-        "monitoring",
+        "water-quality",
+        "catchment",
+        "agriculture",
         "open-access",
+        "highly-cited",
         "ireland-first"
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2023 · 0 citations · open access",
+      "freshness_label": "2023 · 59 citations · open access",
       "practical_fit": "High practical fit · Ireland / direct relevance",
       "geographic_relevance": "Ireland / direct relevance",
-      "doi": "https://doi.org/10.19080/ijesnr.2023.32.556342",
-      "cited_by_count": 0,
-      "openalex_id": "https://openalex.org/W4385350878",
-      "pressure_categories": [
-        "citizen science / monitoring"
-      ],
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around citizen science / monitoring."
-    },
-    {
-      "id": "eae12a16e498b263",
-      "title": "Wetland nitrogen removal from agricultural runoff in a changing climate",
-      "url": "https://doi.org/10.1016/j.scitotenv.2023.164336",
-      "summary": "Wetlands in agricultural areas mitigate eutrophication by intercepting nutrient transports from land to sea. The role of wetlands for nutrient removal may become even more important in the future because of the expected increase in agricultural runoff due to climate change. Because denitrification is temperature dependent, wetland nitrogen (N) removal usually peaks during the warm summer. However, climate change scenarios for the northern temperate zone predict decreased summer and increased winter flows. Future wetlands may therefore shift towards lower hydraulic loading rate and N load during summer. We hypothesised that low summer N loads would decrease annual wetland N removal and tested this by examining 1.5-3 years of continuous N removal data from created agricultural wetlands in two regions in southern Sweden (East and West) during different periods. West wetlands showed relatively stable hydraulic loads throughout the year, whe",
-      "published": "2023-05-24",
-      "source_id": "openalex",
-      "source_name": "The Science of The Total Environment",
-      "publisher": "The Science of The Total Environment",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
-        "open-access",
-        "temperate-transfer"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2023 · 27 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.1016/j.scitotenv.2023.164336",
-      "cited_by_count": 27,
-      "openalex_id": "https://openalex.org/W4378072465",
+      "doi": "https://doi.org/10.1016/j.envpol.2023.122456",
+      "cited_by_count": 59,
+      "openalex_id": "https://openalex.org/W4386416063",
       "pressure_categories": [
         "water quality",
         "agricultural runoff",
-        "NbS / restoration"
+        "citizen science / monitoring"
       ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
+      "research_use_type": "Monitoring method",
+      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, agricultural runoff, citizen science / monitoring."
     },
     {
       "id": "510755cfa1fa8c83",
@@ -1137,11 +938,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2022 · 82 citations · open access",
+      "freshness_label": "2022 · 83 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.1111/1365-2664.14261",
-      "cited_by_count": 82,
+      "cited_by_count": 83,
       "openalex_id": "https://openalex.org/W4294832401",
       "pressure_categories": [
         "water quality",
@@ -1151,75 +952,185 @@
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, habitat / biodiversity."
     },
     {
-      "id": "fbbb3861e1bde3e5",
-      "title": "Opportunities, approaches and challenges to the engagement of citizens in filling small water body data gaps",
-      "url": "https://doi.org/10.1007/s10750-022-04973-y",
-      "summary": "Monitoring the condition (water quality, biodiversity, hydromorphology) of small water bodies presents a challenge for the relevant authorities in terms of time and resources (labour and financial) due to the extensive length of the stream network or the sheer number of small standing water bodies. Citizen science can help address information gaps, but the effort required should not be underestimated if such projects are to generate reliable and sustained data collection. The overall aim of this paper is to propose a framework for operationalisation of citizen science targeting collection of data from small water bodies. We first consider the data gaps and the elements (water chemistry, ecology, hydromorphology) to be addressed, in order to define where citizen science could best make an impact. We review examples of tools and methods that are appropriate for small water bodies, based on experience from a selection of freshwater citizen",
-      "published": "2022-08-31",
+      "id": "80262afa48e221ee",
+      "title": "Is water quality in British rivers “better than at any time since the end of the Industrial Revolution”?",
+      "url": "https://doi.org/10.1016/j.scitotenv.2022.157014",
+      "summary": "We explore the oft-repeated claim that river water quality in Great Britain is \"better now than at any time since the Industrial Revolution\". We review available data and ancillary evidence for seven different categories of water pollutants: (i) biochemical oxygen demand (BOD) and ammonia; (ii) heavy metals; (iii) sewage-associated organic pollutants (including hormone-like substances, personal care product and pharmaceutical compounds); (iv) macronutrients (nitrogen and phosphorus); (v) pesticides; (vi) acid deposition and (vii) other variables, including natural organic matter and pathogenic micro-organisms. With a few exceptions, observed data are scarce before 1970. However, we can speculate about some of the major water quality pressures which have existed before that. Point-source pollutants are likely to have increased with population growth, increased connection rates to sewerage and industrialisation, although the increased pro",
+      "published": "2022-06-27",
       "source_id": "openalex",
-      "source_name": "Hydrobiologia",
-      "publisher": "Hydrobiologia",
+      "source_name": "The Science of The Total Environment",
+      "publisher": "The Science of The Total Environment",
       "section": "research-papers",
-      "theme": "citizen-science",
+      "theme": "water-quality",
       "tags": [
         "research",
         "ireland",
-        "citizen-science",
-        "monitoring",
+        "water-quality",
+        "catchment",
+        "agriculture",
         "open-access",
-        "review",
+        "highly-cited",
+        "review"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "2022 · 162 citations · open access",
+      "practical_fit": "High practical fit · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.1016/j.scitotenv.2022.157014",
+      "cited_by_count": 162,
+      "openalex_id": "https://openalex.org/W4283591267",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff."
+    },
+    {
+      "id": "0176c463ab10b5b8",
+      "title": "Exploring adaptive capacity to phosphorus challenges through two United Kingdom river catchments",
+      "url": "https://doi.org/10.1016/j.envsci.2022.06.001",
+      "summary": "Phosphorus (P) is a critical natural resource for food production, but one that is subject to global supply vulnerabilities. P is also responsible for endemic eutrophication in waterbodies due to poor stewardship in the food chain. Catchments are natural social-ecologically bounded systems for P use in agriculture and water management. Stakeholders, such as farmers, water and sewerage service companies, local authorities, and environmental organisations mediate catchment adaptive capacity to P supply risks and P pollution in waterbodies. Adaptive capacity at this level has been insufficiently explored in addressing the P challenge, yet is essential to it. We address this gap by exploring through a qualitative study of stakeholders in two United Kingdom catchments. Our results suggest that the awareness and relevance of P-supply challenges is low in catchments, but the problem of waterbody vulnerability to excess P is of greater concern.",
+      "published": "2022-06-21",
+      "source_id": "openalex",
+      "source_name": "Environmental Science & Policy",
+      "publisher": "Environmental Science & Policy",
+      "section": "research-papers",
+      "theme": "water-quality",
+      "tags": [
+        "research",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
+        "open-access",
         "temperate-transfer"
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2022 · 43 citations · open access",
+      "freshness_label": "2022 · 9 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.1007/s10750-022-04973-y",
-      "cited_by_count": 43,
-      "openalex_id": "https://openalex.org/W4293802432",
+      "doi": "https://doi.org/10.1016/j.envsci.2022.06.001",
+      "cited_by_count": 9,
+      "openalex_id": "https://openalex.org/W4283361902",
       "pressure_categories": [
         "water quality",
-        "sediment / hydromorphology",
-        "citizen science / monitoring",
-        "habitat / biodiversity"
+        "agricultural runoff"
       ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, sediment / hydromorphology, citizen science / monitoring."
+      "research_use_type": "Supporting evidence",
+      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff."
     },
     {
-      "id": "41c1d5bf468d7c57",
-      "title": "A historical perspective on water governance in Republic of Ireland",
-      "url": "https://doi.org/10.59490/ijwg.10.2023.6486",
-      "summary": "This paper provides a historical perspective on the evolution of water governance in the Republic of Ireland where long-term shifts in agricultural activities, demographic characteristics, water and debates over drinking water supply charges have influenced water resources governance and the integration of management practices. Drawing on threads from the past, the paper first describes how water governance from the early 1950s focused on rural access to water, pollution control and monitoring. With the advent of the Water Framework Directive in 2003, the crux of policy and management practices changed, with 81% of present policies mirroring Integrated Water Resource Management principles. However, issues such as the implementation of drinking water supply water charges and equitable access to water resources remain controversial. Looking to the future, the effects of climate change and land use planning, as well as demographic changes",
-      "published": "2022-01-01",
+      "id": "1bba9b6818a369ed",
+      "title": "A review of technologies for closing the P loop in agriculture runoff: Contributing to the transition towards a circular economy",
+      "url": "https://doi.org/10.1016/j.ecoleng.2022.106571",
+      "summary": "Phosphorus (P) scarcity and the environmental hazards posed by P discharges have triggered the development of technologies for P sequestration and removal from waste streams. Agriculture runoff usually has P concentrations high enough to contribute to eutrophication and harmful algal blooms, but they are still too low for successful P removal with conventional technologies commonly applied in wastewater treatment. For this reason, realistic approaches to remove P from agricultural waste streams mainly include natural assimilation and constructed wetlands. Although these technologies have been implemented for some time, P removal is not always achieved to the needed extent and sometimes sufficient surface areas required are unattainable. Phosphorus sorbing materials, especially materials rich in calcium, have emerged to increase the removal potential of runoff treatment wetlands and at the same time sequester P for potential subsequent r",
+      "published": "2022-02-14",
       "source_id": "openalex",
-      "source_name": "International Journal of Water Governance",
-      "publisher": "International Journal of Water Governance",
+      "source_name": "Ecological Engineering",
+      "publisher": "Ecological Engineering",
       "section": "research-papers",
-      "theme": "citizen-science",
+      "theme": "water-quality",
       "tags": [
         "research",
         "ireland",
-        "citizen-science",
-        "monitoring",
+        "water-quality",
+        "catchment",
+        "agriculture",
+        "open-access",
+        "highly-cited",
+        "review"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "2022 · 53 citations · open access",
+      "practical_fit": "High practical fit · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.1016/j.ecoleng.2022.106571",
+      "cited_by_count": 53,
+      "openalex_id": "https://openalex.org/W4213296121",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
+    },
+    {
+      "id": "06e7b5a6586f23cd",
+      "title": "Catchment water quality in the year preceding and immediately following restoration of a drained afforested blanket bog",
+      "url": "https://doi.org/10.1007/s10533-021-00782-y",
+      "summary": "Abstract The restoration of drained afforested peatlands, through drain blocking and tree removal, is increasing in response to peatland restoration targets and policy incentives. In the short term, these intensive restoration operations may affect receiving watercourses and the biota that depend upon them. This study assessed the immediate effect of ‘forest-to-bog’ restoration by measuring stream and river water quality for a 15 month period pre- and post-restoration, in the Flow Country peatlands of northern Scotland. We found that the chemistry of streams draining restoration areas differed from that of control streams following restoration, with phosphate concentrations significantly higher (1.7–6.2 fold, mean 4.4) in restoration streams compared to the pre-restoration period. This led to a decrease in the pass rate (from 100 to 75%) for the target “good” quality threshold (based on EU Water Framework Directive guidelines) in rivers",
+      "published": "2021-03-30",
+      "source_id": "openalex",
+      "source_name": "Biogeochemistry",
+      "publisher": "Biogeochemistry",
+      "section": "research-papers",
+      "theme": "water-quality",
+      "tags": [
+        "research",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
         "open-access",
         "ireland-first"
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2022 · 8 citations · open access",
+      "freshness_label": "2021 · 14 citations · open access",
       "practical_fit": "High practical fit · Ireland / direct relevance",
       "geographic_relevance": "Ireland / direct relevance",
-      "doi": "https://doi.org/10.59490/ijwg.10.2023.6486",
-      "cited_by_count": 8,
-      "openalex_id": "https://openalex.org/W4391860790",
+      "doi": "https://doi.org/10.1007/s10533-021-00782-y",
+      "cited_by_count": 14,
+      "openalex_id": "https://openalex.org/W3145767931",
       "pressure_categories": [
-        "agricultural runoff",
-        "citizen science / monitoring"
+        "water quality",
+        "agricultural runoff"
       ],
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around agricultural runoff, citizen science / monitoring."
+      "research_use_type": "Policy / governance",
+      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, agricultural runoff."
+    },
+    {
+      "id": "3a91b5d7b28998ee",
+      "title": "The Use of Constructed Wetland for Mitigating Nitrogen and Phosphorus from Agricultural Runoff: A Review",
+      "url": "https://doi.org/10.3390/w13040476",
+      "summary": "The loss of nitrogen and phosphate fertilizers in agricultural runoff is a global environmental problem, attracting worldwide attention. In the last decades, the constructed wetland has been increasingly used for mitigating the loss of nitrogen and phosphate from agricultural runoff, while the substrate, plants, and wetland structure design remain far from clearly understood. In this paper, the optimum substrates and plant species were identified by reviewing their treatment capacity from the related studies. Specifically, the top three suitable substrates are gravel, zeolite, and slag. In terms of the plant species, emergent plants are the most widely used in the constructed wetlands. Eleocharis dulcis, Typha orientalis, and Scirpus validus are the top three optimum emergent plant species. Submerged plants (Hydrilla verticillata, Ceratophyllum demersum, and Vallisneria natans), free-floating plants (Eichhornia crassipes and Lemna minor",
+      "published": "2021-02-12",
+      "source_id": "openalex",
+      "source_name": "Water",
+      "publisher": "Water",
+      "section": "research-papers",
+      "theme": "water-quality",
+      "tags": [
+        "research",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
+        "open-access",
+        "highly-cited",
+        "review"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "2021 · 98 citations · open access",
+      "practical_fit": "High practical fit · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.3390/w13040476",
+      "cited_by_count": 98,
+      "openalex_id": "https://openalex.org/W3129729599",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "NbS / restoration",
+        "habitat / biodiversity"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, NbS / restoration."
     },
     {
       "id": "847ef26fdbfe7fc2",
@@ -1291,39 +1202,39 @@
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for NbS / restoration."
     },
     {
-      "id": "be9d0c179df182d3",
-      "title": "Biogeochemical and climate drivers of wetland phosphorus and nitrogen release: Implications for nutrient legacies and eutrophication risk",
-      "url": "https://doi.org/10.1002/jeq2.20155",
-      "summary": "The dynamics and processes of nutrient cycling and release were examined for a lowland wetland-pond system, draining woodland in southern England. Hydrochemical and meteorological data were analyzed from 1997 to 2017, along with high-resolution in situ sensor measurements from 2016 to 2017. The results showed that even a relatively pristine wetland can become a source of highly bioavailable phosphorus (P), nitrogen (N), and silicon (Si) during low-flow periods of high ecological sensitivity. The drivers of nutrient release were primary production and accumulation of biomass, which provided a carbon (C) source for microbial respiration and, via mineralization, a source of bioavailable nutrients for P and N co-limited microorganisms. During high-intensity nutrient release events, the dominant N-cycling process switched from denitrification to nitrate ammonification, and a positive feedback cycle of P and N release was sustained over sever",
-      "published": "2020-09-22",
+      "id": "2769dae787d86ecc",
+      "title": "Nitrogen and Phosphorus Loads in Greek Rivers: Implications for Management in Compliance with the Water Framework Directive",
+      "url": "https://doi.org/10.3390/w12061531",
+      "summary": "Reduction of nutrient loadings is often prioritized among other management measures for improving the water quality of freshwaters within the catchment. However, urban point sources and agriculture still thrive as the main drivers of nitrogen and phosphorus pollution in European rivers. With this article we present a nationwide assessment of nitrogen and phosphorus loads that 18 large rivers in Greece receive with the purpose to assess variability among seasons, catchments, and river types and distinguish relationships between loads and land uses of the catchment. We employed an extensive dataset of 636 field measurements of nutrient concentrations and river discharges to calculate nitrogen and phosphorus loads. Descriptive statistics and a cluster analysis were conducted to identify commonalties and differences among catchments and seasons. In addition a network analysis was conducted and its modularity feature was used to detect commo",
+      "published": "2020-05-27",
       "source_id": "openalex",
-      "source_name": "Journal of Environmental Quality",
-      "publisher": "Journal of Environmental Quality",
+      "source_name": "Water",
+      "publisher": "Water",
       "section": "research-papers",
-      "theme": "wetland-nbs",
+      "theme": "water-quality",
       "tags": [
         "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
         "open-access",
-        "highly-cited",
-        "temperate-transfer"
+        "ireland-first"
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2020 · 77 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.1002/jeq2.20155",
-      "cited_by_count": 77,
-      "openalex_id": "https://openalex.org/W3088387940",
+      "freshness_label": "2020 · 23 citations · open access",
+      "practical_fit": "High practical fit · Ireland / direct relevance",
+      "geographic_relevance": "Ireland / direct relevance",
+      "doi": "https://doi.org/10.3390/w12061531",
+      "cited_by_count": 23,
+      "openalex_id": "https://openalex.org/W3031968769",
       "pressure_categories": [
         "water quality",
-        "NbS / restoration"
+        "agricultural runoff"
       ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, NbS / restoration."
+      "research_use_type": "Policy / governance",
+      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, agricultural runoff."
     },
     {
       "id": "4b4da566d35d6d39",
@@ -1362,6 +1273,41 @@
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for NbS / restoration, habitat / biodiversity."
     },
     {
+      "id": "464b79877ae4e0d8",
+      "title": "Effects of Water Depth and Phosphorus Availability on Nitrogen Removal in Agricultural Wetlands",
+      "url": "https://doi.org/10.3390/w11122626",
+      "summary": "Excess nitrogen (N) from agricultural runoff is a cause of pollution in aquatic ecosystems. Created free water surface (FWS) wetlands can be used as buffering systems to lower the impacts of nutrients from agricultural runoff. The purpose of this paper was to evaluate critical factors for N removal in FWS wetlands receiving high nitrate (NO3−) loads from agriculture. The study was performed in 12 experimental FWS wetlands in southern Sweden, receiving drainage water from an agricultural field area. The effects of water depth (mean depth of 0.4 m and 0.6 m, respectively) and phosphorus (P) availability (with or without additional P load) were investigated from July to October. The experiment was performed in a two-way design, with three wetlands of each combination of depth and P availability. The effects of P availability on the removal of NO3− and total N were strongly significant, with higher absolute N removal rates per wetland area",
+      "published": "2019-12-13",
+      "source_id": "openalex",
+      "source_name": "Water",
+      "publisher": "Water",
+      "section": "research-papers",
+      "theme": "water-quality",
+      "tags": [
+        "research",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
+        "open-access"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "2019 · 21 citations · open access",
+      "practical_fit": "High practical fit · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.3390/w11122626",
+      "cited_by_count": 21,
+      "openalex_id": "https://openalex.org/W2996287390",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Supporting evidence",
+      "action_relevance": "Research signal: background evidence that may support practical catchment action around water quality, agricultural runoff, NbS / restoration."
+    },
+    {
       "id": "e7286ed0a2b84da9",
       "title": "Identification of conservation and restoration priority areas in the Danube River based on the multi-functionality of river-floodplain systems",
       "url": "https://doi.org/10.1016/j.scitotenv.2018.10.322",
@@ -1383,11 +1329,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2018 · 126 citations · open access",
+      "freshness_label": "2018 · 127 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.1016/j.scitotenv.2018.10.322",
-      "cited_by_count": 126,
+      "cited_by_count": 127,
       "openalex_id": "https://openalex.org/W2899179560",
       "pressure_categories": [
         "sediment / hydromorphology",
@@ -1396,6 +1342,42 @@
       ],
       "research_use_type": "Supporting evidence",
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for sediment / hydromorphology, NbS / restoration, habitat / biodiversity."
+    },
+    {
+      "id": "9dcd394f95c4613e",
+      "title": "Challenges of Reducing Phosphorus Based Water Eutrophication in the Agricultural Landscapes of Northwest Europe",
+      "url": "https://doi.org/10.3389/fmars.2018.00276",
+      "summary": "In this paper, we outline several recent insights for the priorities and challenges for future research for reducing phosphorus (P) based water eutrophication in the agricultural landscapes of Northwest Europe. We highlight that new research efforts best be focused on headwater catchments as they are a key influence on the initial chemistry of the larger river catchments, and here many management interventions are most effectively made. We emphasize the lack of understanding on how climate change will impact on P losses from agricultural landscapes. Particularly, the capability to disentangle current and future trends in P fluxes, due to climate change itself, from climate driven changes in agricultural management practices and P inputs. Knowing that, future climatic change trajectories for Western Europe will accelerate the release of the most bioavailable soil P. We stress the ambiguities created by the large varieties of sources and",
+      "published": "2018-08-23",
+      "source_id": "openalex",
+      "source_name": "Frontiers in Marine Science",
+      "publisher": "Frontiers in Marine Science",
+      "section": "research-papers",
+      "theme": "water-quality",
+      "tags": [
+        "research",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
+        "open-access",
+        "highly-cited",
+        "temperate-transfer"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "2018 · 181 citations · open access",
+      "practical_fit": "High practical fit · Comparable temperate relevance",
+      "geographic_relevance": "Comparable temperate relevance",
+      "doi": "https://doi.org/10.3389/fmars.2018.00276",
+      "cited_by_count": 181,
+      "openalex_id": "https://openalex.org/W2888317624",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff"
+      ],
+      "research_use_type": "Supporting evidence",
+      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff."
     },
     {
       "id": "b5b6cc54f6cf7e1e",
@@ -1431,147 +1413,40 @@
       "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around research evidence."
     },
     {
-      "id": "cc31a497bc89eada",
-      "title": "Nitrogen and Phosphorus Removal from Agricultural Runoff in Integrated Buffer Zones",
-      "url": "https://doi.org/10.1021/acs.est.8b01036",
-      "summary": "Integrated buffer zones (IBZs) represent a novel form of edge-of-field technology in Northwest Europe. Contrary to the common riparian buffer strips, IBZs collect tile drainage water from agricultural fields by combining a ditch-like pond (POND), where soil particles can settle, and a flow-through filter bed (FILTERBED) planted with Alnus glutinosa (L.), a European alder (black alder). The first experimental IBZ facility was constructed and thoroughly tested in Denmark for its capability to retain various nitrogen (N) and phosphorus (P) species within the first three years after construction. We calculated the water and nutrient budget for the total IBZ and for the two compartments, POND and FILTERBED, separately. Furthermore, a tracer experiment using sodium bromide was conducted in order to trace the water flow and estimate the hydraulic residence time in the FILTERBEDs. The monthly average removal efficiency amounted to 10-67% for to",
-      "published": "2018-05-07",
+      "id": "57d9dfb1fe72be7e",
+      "title": "Groundwater impacts on surface water quality and nutrient loads in lowland polder catchments: monitoring the greater Amsterdam area",
+      "url": "https://doi.org/10.5194/hess-22-487-2018",
+      "summary": "Abstract. The Amsterdam area, a highly manipulated delta area formed by polders and reclaimed lakes, struggles with high nutrient levels in its surface water system. The polders receive spatially and temporally variable amounts of water and nutrients via surface runoff, groundwater seepage, sewer leakage, and via water inlets from upstream polders. Diffuse anthropogenic sources, such as manure and fertiliser use and atmospheric deposition, add to the water quality problems in the polders. The major nutrient sources and pathways have not yet been clarified due to the complex hydrological system in lowland catchments with both urban and agricultural areas. In this study, the spatial variability of the groundwater seepage impact was identified by exploiting the dense groundwater and surface water monitoring networks in Amsterdam and its surrounding polders. A total of 25 variables (concentrations of total nitrogen (TN), total phosphorus (T",
+      "published": "2018-01-22",
       "source_id": "openalex",
-      "source_name": "Environmental Science & Technology",
-      "publisher": "Environmental Science & Technology",
+      "source_name": "Hydrology and earth system sciences",
+      "publisher": "Hydrology and earth system sciences",
       "section": "research-papers",
-      "theme": "wetland-nbs",
+      "theme": "water-quality",
       "tags": [
         "research",
-        "review",
-        "riparian-buffer",
-        "nutrients",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
         "open-access",
-        "highly-cited",
-        "temperate-transfer"
+        "highly-cited"
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2018 · 126 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.1021/acs.est.8b01036",
-      "cited_by_count": 126,
-      "openalex_id": "https://openalex.org/W2802755228",
+      "freshness_label": "2018 · 69 citations · open access",
+      "practical_fit": "High practical fit · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.5194/hess-22-487-2018",
+      "cited_by_count": 69,
+      "openalex_id": "https://openalex.org/W2596776062",
       "pressure_categories": [
         "water quality",
         "agricultural runoff",
-        "NbS / restoration",
-        "habitat / biodiversity"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
-    },
-    {
-      "id": "b384a6bfc8d77ed1",
-      "title": "Sediment and nutrient storage in a beaver engineered wetland",
-      "url": "https://doi.org/10.1002/esp.4398",
-      "summary": "Abstract Beavers, primarily through the building of dams, can deliver significant geomorphic modifications and result in changes to nutrient and sediment fluxes. Research is required to understand the implications and possible benefits of widespread beaver reintroduction across Europe. This study surveyed sediment depth, extent and carbon/nitrogen content in a sequence of beaver pond and dam structures in South West England, where a pair of Eurasian beavers ( Castor fiber ) were introduced to a controlled 1.8 ha site in 2011. Results showed that the 13 beaver ponds subsequently created hold a total of 101.53 ± 16.24 t of sediment, equating to a normalised average of 71.40 ± 39.65 kg m 2 . The ponds also hold 15.90 ± 2.50 t of carbon and 0.91 ± 0.15 t of nitrogen within the accumulated pond sediment. The size of beaver pond appeared to be the main control over sediment storage, with larger ponds holding a greater mass of sediment per uni",
-      "published": "2018-04-02",
-      "source_id": "openalex",
-      "source_name": "Earth Surface Processes and Landforms",
-      "publisher": "Earth Surface Processes and Landforms",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "riparian-buffer",
-        "nutrients",
-        "open-access",
-        "highly-cited",
-        "temperate-transfer"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2018 · 96 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.1002/esp.4398",
-      "cited_by_count": 96,
-      "openalex_id": "https://openalex.org/W2795535061",
-      "pressure_categories": [
-        "water quality",
-        "sediment / hydromorphology",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, sediment / hydromorphology, NbS / restoration."
-    },
-    {
-      "id": "335e24710c2566c2",
-      "title": "Combined impacts of future land-use and climate stressors on water resources and quality in groundwater and surface waterbodies of the upper Thames river basin, UK",
-      "url": "https://doi.org/10.1016/j.scitotenv.2018.03.052",
-      "summary": "It is widely acknowledged that waterbodies are becoming increasingly affected by a wide range of drivers of change arising from human activity. To illustrate how this can be quantified a linked modelling approach was applied in the Thames river basin in southern UK. Changes to river flows, water temperature, river and reservoir quality were predicted under three contrasting future \"storylines\"; one an extension of present day rates of economic development, the others representing more extreme and less sustainable visions. Modelling revealed that lower baseflow conditions will arise under all storylines. For the less extreme storyline river water quality is likely to deteriorate but reservoir quality will improve slightly. The two more extreme futures could not be supported by current management strategies to meet water demand. To satisfy these scenarios, transfer of river water from outside the Thames river basin would be necessary. Con",
-      "published": "2018-03-18",
-      "source_id": "openalex",
-      "source_name": "The Science of The Total Environment",
-      "publisher": "The Science of The Total Environment",
-      "section": "research-papers",
-      "theme": "citizen-science",
-      "tags": [
-        "research",
-        "ireland",
-        "citizen-science",
-        "monitoring",
-        "open-access",
-        "highly-cited",
-        "temperate-transfer"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2018 · 92 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.1016/j.scitotenv.2018.03.052",
-      "cited_by_count": 92,
-      "openalex_id": "https://openalex.org/W2792622668",
-      "pressure_categories": [
-        "water quality",
         "citizen science / monitoring"
       ],
       "research_use_type": "Monitoring method",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, citizen science / monitoring."
-    },
-    {
-      "id": "944e3109094b5bf2",
-      "title": "Getting the full picture: Assessing the complementarity of citizen science and agency monitoring data",
-      "url": "https://doi.org/10.1371/journal.pone.0188507",
-      "summary": "While the role of citizen science in engaging the public and providing large-scale datasets has been demonstrated, the nature of and potential for this science to supplement environmental monitoring efforts by government agencies has not yet been fully explored. To this end, the present study investigates the complementarity of a citizen science programme to agency monitoring of water quality. The Environment Agency (EA) is the governmental public body responsible for, among other duties, managing and monitoring water quality and water resources in England. FreshWater Watch (FWW) is a global citizen science project that supports community monitoring of freshwater quality. FWW and EA data were assessed for their spatio-temporal complementarity by comparing the geographical and seasonal coverage of nitrate (N-NO3) sampling across the River Thames catchment by the respective campaigns between spring 2013 and winter 2015. The analysis revea",
-      "published": "2017-12-06",
-      "source_id": "openalex",
-      "source_name": "PLoS ONE",
-      "publisher": "PLoS ONE",
-      "section": "research-papers",
-      "theme": "citizen-science",
-      "tags": [
-        "research",
-        "ireland",
-        "citizen-science",
-        "monitoring",
-        "open-access",
-        "highly-cited",
-        "temperate-transfer"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2017 · 111 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.1371/journal.pone.0188507",
-      "cited_by_count": 111,
-      "openalex_id": "https://openalex.org/W2773097426",
-      "pressure_categories": [
-        "water quality",
-        "citizen science / monitoring"
-      ],
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, citizen science / monitoring."
+      "action_relevance": "Monitoring evidence: potentially useful for Nanny Watch protocols, volunteer training, or interpreting field observations."
     },
     {
       "id": "d9b93ebbfa9923e6",
@@ -1595,11 +1470,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2016 · 1622 citations · open access",
+      "freshness_label": "2016 · 1624 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.1016/j.scitotenv.2016.11.106",
-      "cited_by_count": 1622,
+      "cited_by_count": 1624,
       "openalex_id": "https://openalex.org/W2557411037",
       "pressure_categories": [
         "NbS / restoration"
@@ -1608,73 +1483,187 @@
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for NbS / restoration."
     },
     {
-      "id": "94a0e0cb76c29551",
-      "title": "How effective are created or restored freshwater wetlands for nitrogen and phosphorus removal? A systematic review",
-      "url": "https://doi.org/10.1186/s13750-016-0060-0",
-      "summary": "Abstract Background Eutrophication of aquatic environments is a major environmental problem in large parts of the world. In Europe, EU legislation (the Water Framework Directive and the Marine Strategy Framework Directive), international conventions (OSPAR, HELCOM) and national environmental objectives emphasize the need to reduce the input of nutrients to freshwater and marine environments. A widely used method to achieve this is to allow water to pass through a created or restored wetland. However, the large variation in measured nutrient removal rates in such wetlands calls for a systematic review. Methods Searches for primary studies were performed in electronic databases and on the internet. One author performed the screening of all retrieved articles at the title and abstract level. To check that the screening was consistent and complied with the agreed inclusion/exclusion criteria, subsets of 100 articles were screened by the oth",
-      "published": "2016-05-04",
+      "id": "f53c7c484affc1b6",
+      "title": "An overview of the progress and challenges of peatland restoration in Western Europe",
+      "url": "https://doi.org/10.1111/rec.12415",
+      "summary": "Abstract Peatlands are the most efficient terrestrial carbon store on Earth, and deliver multiple other ecosystem services including climate regulation, water purification, preservation of ecological and archaeological records, etc. Disturbed and degraded peatlands do not provide the same ecological services and thus bear a significant cost to society. Because this cost may be alleviated by appropriate restoration measures, money is being invested in peatland restoration projects around the world. Here, we review over 25 years of restoration in Western Europe. First, we provide an overview of techniques used in different contexts and evaluate the status of the evidence base for restoration outcomes. Between 1993 and 2015, the EU‐LIFE nature programme alone invested 167.6M € in 80 projects, which aim to restore over 913 km2 of peatland habitats in Western European countries, mostly in protected sites part of the Natura 2000 EU network. T",
+      "published": "2016-08-17",
       "source_id": "openalex",
-      "source_name": "Environmental Evidence",
-      "publisher": "Environmental Evidence",
+      "source_name": "Restoration Ecology",
+      "publisher": "Restoration Ecology",
       "section": "research-papers",
-      "theme": "wetland-nbs",
+      "theme": "river-restoration",
       "tags": [
         "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
+        "temperate",
+        "europe",
+        "nbs",
         "open-access",
         "highly-cited",
-        "ireland-first"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2016 · 298 citations · open access",
-      "practical_fit": "High practical fit · Ireland / direct relevance",
-      "geographic_relevance": "Ireland / direct relevance",
-      "doi": "https://doi.org/10.1186/s13750-016-0060-0",
-      "cited_by_count": 298,
-      "openalex_id": "https://openalex.org/W2109326402",
-      "pressure_categories": [
-        "water quality",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, NbS / restoration."
-    },
-    {
-      "id": "ed06c803e9f460c7",
-      "title": "When is the best time to sample aquatic macroinvertebrates in ponds for biodiversity assessment?",
-      "url": "https://doi.org/10.1007/s10661-016-5178-6",
-      "summary": "Ponds are sites of high biodiversity and conservation value, yet there is little or no statutory monitoring of them across most of Europe. There are clear and standardised protocols for sampling aquatic macroinvertebrate communities in ponds, but the most suitable time(s) to undertake the survey(s) remains poorly specified. This paper examined the aquatic macroinvertebrate communities from 95 ponds within different land use types over three seasons (spring, summer and autumn) to determine the most appropriate time to undertake sampling to characterise biodiversity. The combined samples from all three seasons provided the most comprehensive record of the aquatic macroinvertebrate taxa recorded within ponds (alpha and gamma diversity). Samples collected during the autumn survey yielded significantly greater macroinvertebrate richness (76% of the total diversity) than either spring or summer surveys. Macroinvertebrate diversity was greates",
-      "published": "2016-02-26",
-      "source_id": "openalex",
-      "source_name": "Environmental Monitoring and Assessment",
-      "publisher": "Environmental Monitoring and Assessment",
-      "section": "research-papers",
-      "theme": "citizen-science",
-      "tags": [
-        "research",
-        "ireland",
-        "citizen-science",
-        "monitoring",
-        "open-access",
+        "review",
         "temperate-transfer"
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2016 · 47 citations · open access",
+      "freshness_label": "2016 · 326 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.1007/s10661-016-5178-6",
-      "cited_by_count": 47,
-      "openalex_id": "https://openalex.org/W2306051422",
+      "doi": "https://doi.org/10.1111/rec.12415",
+      "cited_by_count": 326,
+      "openalex_id": "https://openalex.org/W2512643886",
       "pressure_categories": [
-        "citizen science / monitoring",
         "habitat / biodiversity"
       ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for habitat / biodiversity."
+    },
+    {
+      "id": "e70f709b159f48ee",
+      "title": "Future agriculture with minimized phosphorus losses to waters: Research needs and direction",
+      "url": "https://doi.org/10.1007/s13280-014-0612-x",
+      "summary": "The series of papers in this issue of AMBIO represent technical presentations made at the 7th International Phosphorus Workshop (IPW7), held in September, 2013 in Uppsala, Sweden. At that meeting, the 150 delegates were involved in round table discussions on major, predetermined themes facing the management of agricultural phosphorus (P) for optimum production goals with minimal water quality impairment. The six themes were (1) P management in a changing world; (2) transport pathways of P from soil to water; (3) monitoring, modeling, and communication; (4) importance of manure and agricultural production systems for P management; (5) identification of appropriate mitigation measures for reduction of P loss; and (6) implementation of mitigation strategies to reduce P loss. This paper details the major challenges and research needs that were identified for each theme and identifies a future roadmap for catchment management that cost-effec",
+      "published": "2015-02-15",
+      "source_id": "openalex",
+      "source_name": "AMBIO",
+      "publisher": "AMBIO",
+      "section": "research-papers",
+      "theme": "water-quality",
+      "tags": [
+        "research",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
+        "open-access",
+        "highly-cited"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "2015 · 356 citations · open access",
+      "practical_fit": "High practical fit · General transferable evidence",
+      "geographic_relevance": "General transferable evidence",
+      "doi": "https://doi.org/10.1007/s13280-014-0612-x",
+      "cited_by_count": 356,
+      "openalex_id": "https://openalex.org/W2102771869",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "citizen science / monitoring"
+      ],
       "research_use_type": "Monitoring method",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for citizen science / monitoring, habitat / biodiversity."
+      "action_relevance": "Monitoring evidence: potentially useful for Nanny Watch protocols, volunteer training, or interpreting field observations."
+    },
+    {
+      "id": "39715435f2fe6162",
+      "title": "Do on-farm natural, restored, managed and constructed wetlands mitigate agricultural pollution in Great Britain and Ireland?: a systematic review",
+      "url": "http://nora.nerc.ac.uk/id/eprint/509502/1/N509502CR.pdf",
+      "summary": "Wetlands in agricultural landscapes offer a number of benefits to the landscape function in which they are set, reducing nutrient runoff, providing additional habitat mosaics and offering various ecosystem services. They require careful planning and maintenance in order to perform their optimum design function over a prolonged period of time. They should be treated as functional units of farm infrastructure rather than fit-and-forget systems. \\nA high priority topic within the Department for Environment, Food and Rural Affairs (DEFRA) water quality programme is the mitigation of pollution from agriculture. This programme was set up to meet the requirements of the European Water Framework Directive (WFD) EU (2000). Nutrient loss from agricultural land has been suggested as a major cause of elevated nutrient concentrations in surface waters in the UK. Nitrogen (N) and phosphorus (P) are of particular concern as an excess of either nutrien",
+      "published": "2015-01-01",
+      "source_id": "openalex",
+      "source_name": "NERC Open Research Archive (Natural Environment Research Council)",
+      "publisher": "NERC Open Research Archive (Natural Environment Research Council)",
+      "section": "research-papers",
+      "theme": "water-quality",
+      "tags": [
+        "research",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
+        "open-access",
+        "review",
+        "ireland-first"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "2015 · 8 citations · open access",
+      "practical_fit": "High practical fit · Ireland / direct relevance",
+      "geographic_relevance": "Ireland / direct relevance",
+      "doi": null,
+      "cited_by_count": 8,
+      "openalex_id": "https://openalex.org/W1496101810",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "NbS / restoration",
+        "habitat / biodiversity"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, agricultural runoff, NbS / restoration."
+    },
+    {
+      "id": "672fdaad07ca0485",
+      "title": "Do on-farm natural, restored, managed and constructed wetlands mitigate agricultural pollution in Great Britain and Ireland?",
+      "url": "http://usir.salford.ac.uk/id/eprint/33873/1/12414_WT0989_SystematicReview-finalreport.pdf",
+      "summary": "Wetlands in agricultural landscapes offer a number of benefits to the landscape function in which they are set, reducing nutrient runoff, providing additional habitat mosaics and offering various ecosystem services. They require careful planning and maintenance in order to perform their optimum design function over a prolonged period of time. They should be treated as functional units of farm infrastructure rather than fit-and-forget systems. A high priority topic within the Department for Environment, Food and Rural Affairs (DEFRA) water quality programme is the mitigation of pollution from agriculture. This programme was set up to meet the requirements of the European Water Framework Directive (WFD) EU (2000). Nutrient loss from agricultural land has been suggested as a major cause of elevated nutrient concentrations in surface waters in the UK. Nitrogen (N) and phosphorus (P) are of particular concern as an excess of either nutrient",
+      "published": "2015-01-01",
+      "source_id": "openalex",
+      "source_name": "University of Salford Institutional Repository (University of Salford)",
+      "publisher": "University of Salford Institutional Repository (University of Salford)",
+      "section": "research-papers",
+      "theme": "water-quality",
+      "tags": [
+        "research",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
+        "open-access",
+        "ireland-first"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "2015 · 2 citations · open access",
+      "practical_fit": "High practical fit · Ireland / direct relevance",
+      "geographic_relevance": "Ireland / direct relevance",
+      "doi": null,
+      "cited_by_count": 2,
+      "openalex_id": "https://openalex.org/W1533844060",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "NbS / restoration",
+        "habitat / biodiversity"
+      ],
+      "research_use_type": "NbS effectiveness",
+      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, agricultural runoff, NbS / restoration."
+    },
+    {
+      "id": "9397f9bcf2f25a95",
+      "title": "Agriculture and Eutrophication: Where Do We Go from Here?",
+      "url": "https://doi.org/10.3390/su6095853",
+      "summary": "The eutrophication of surface waters has become an endemic global problem. Nutrient loadings from agriculture are a major driver, but it remains very unclear what level of on-farm controls are necessary or can be justified to achieve water quality improvements. In this review article, we use the UK as an example of societies’ multiple stressors on water quality to explore the uncertainties and challenges in achieving a sustainable balance between useable water resources, diverse aquatic ecosystems and a viable agriculture. Our analysis shows that nutrient loss from agriculture is a challenging issue if farm productivity and profitability is to be maintained and increased. Legacy stores of nitrogen (N) and phosphorus (P) in catchments may be sufficient to sustain algal blooms and murky waters for decades to come and more innovation is needed to drawdown and recover these nutrients. Agriculture’s impact on eutrophication risk may also be",
+      "published": "2014-09-02",
+      "source_id": "openalex",
+      "source_name": "Sustainability",
+      "publisher": "Sustainability",
+      "section": "research-papers",
+      "theme": "water-quality",
+      "tags": [
+        "research",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
+        "open-access",
+        "highly-cited",
+        "review",
+        "temperate-transfer"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "2014 · 702 citations · open access",
+      "practical_fit": "High practical fit · Comparable temperate relevance",
+      "geographic_relevance": "Comparable temperate relevance",
+      "doi": "https://doi.org/10.3390/su6095853",
+      "cited_by_count": 702,
+      "openalex_id": "https://openalex.org/W2055208823",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff."
     },
     {
       "id": "14dd73ae6399f4df",
@@ -2465,7 +2454,7 @@
       ],
       "score": 99,
       "freshness_status": "fresh",
-      "freshness_label": "4 days old",
+      "freshness_label": "5 days old",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant"
@@ -2537,7 +2526,7 @@
       ],
       "score": 97,
       "freshness_status": "fresh",
-      "freshness_label": "19 days old",
+      "freshness_label": "20 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "NbS / restoration"
@@ -2551,6 +2540,42 @@
       },
       "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures.",
       "research_use_type": "NbS effectiveness"
+    },
+    {
+      "id": "5691d937ae8ea9e6",
+      "title": "The impact of cattle access on ecological water quality in streams: Examples from agricultural catchments within Ireland",
+      "url": "https://doi.org/10.1016/j.scitotenv.2015.12.120",
+      "summary": "Open the source to inspect the abstract, journal, DOI, and publication metadata.",
+      "published": "2016-01-09",
+      "source_id": "openalex",
+      "source_name": "The Science of The Total Environment",
+      "publisher": "The Science of The Total Environment",
+      "section": "research-papers",
+      "theme": "water-quality",
+      "tags": [
+        "research",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
+        "open-access",
+        "highly-cited",
+        "ireland-first"
+      ],
+      "score": 97,
+      "freshness_status": "reference",
+      "freshness_label": "2016 · 59 citations · open access",
+      "practical_fit": "High practical fit · Ireland / direct relevance",
+      "geographic_relevance": "Ireland / direct relevance",
+      "doi": "https://doi.org/10.1016/j.scitotenv.2015.12.120",
+      "cited_by_count": 59,
+      "openalex_id": "https://openalex.org/W2222889476",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff"
+      ],
+      "research_use_type": "Supporting evidence",
+      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, agricultural runoff."
     },
     {
       "id": "38ead0bdd3ed16af",
@@ -2569,7 +2594,7 @@
       ],
       "score": 96,
       "freshness_status": "reference",
-      "freshness_label": "144 days old · background",
+      "freshness_label": "145 days old · background",
       "pressure_categories": [
         "river ecology",
         "funding / grant",
@@ -2612,53 +2637,17 @@
       ],
       "score": 96,
       "freshness_status": "reference",
-      "freshness_label": "2021 · 60 citations · open access",
+      "freshness_label": "2021 · 61 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.3390/su132413549",
-      "cited_by_count": 60,
+      "cited_by_count": 61,
       "openalex_id": "https://openalex.org/W4200236288",
       "pressure_categories": [
         "NbS / restoration"
       ],
       "research_use_type": "NbS effectiveness",
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for NbS / restoration."
-    },
-    {
-      "id": "367ecf406579ca52",
-      "title": "Tracer‐based assessment of flow paths, storage and runoff generation in northern catchments: a review",
-      "url": "https://doi.org/10.1002/hyp.10412",
-      "summary": "Abstract We examine how tracer studies have enhanced our understanding of flow paths, residence times and sources of stream flow in northern catchments. We define northern catchments as non‐glacial sites in the temperate conifer/boreal/permafrost zone, focussing our review mainly on sites in North America and Europe. Improved empirical and theoretical understanding of hydrological functioning has advanced the analytical tools available for tracer‐based hydrograph separations, derivation of transit time distributions and tracer‐aided rainfall‐runoff models that are better able to link hydrological response to storage changes. However, the lack of comprehensive tracer data sets still hinders development of a generalized understanding of how northern catchments will respond to change. This paucity of empirical data leads to many outstanding research needs, particularly in rapidly changing areas that are already responding to climatic warmi",
-      "published": "2014-11-27",
-      "source_id": "openalex",
-      "source_name": "Hydrological Processes",
-      "publisher": "Hydrological Processes",
-      "section": "research-papers",
-      "theme": "wetland-nbs",
-      "tags": [
-        "research",
-        "review",
-        "riparian-buffer",
-        "nutrients",
-        "open-access",
-        "highly-cited",
-        "temperate-transfer"
-      ],
-      "score": 96,
-      "freshness_status": "reference",
-      "freshness_label": "2014 · 235 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.1002/hyp.10412",
-      "cited_by_count": 235,
-      "openalex_id": "https://openalex.org/W2168796148",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "NbS / restoration"
-      ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
     },
     {
       "id": "b2f6c9288508299e",
@@ -2696,41 +2685,6 @@
       ],
       "research_use_type": "Supporting evidence",
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, sediment / hydromorphology, citizen science / monitoring."
-    },
-    {
-      "id": "081dc673b6d8bfbf",
-      "title": "Surface water quality",
-      "url": "https://doi.org/10.4324/9780429448270-4",
-      "summary": "This chapter examines the types of water quality variables that are typically assessed and the processes that lead to their occurrence and nature in rivers, ponds and lakes. It then considers the natural processes and factors that control the spatial and temporal patterns of surface water chemistry including natural geology, seasonality and variability in surface water discharge. Humans have had large impacts upon surface water quality. The chapter will explain how changes in agricultural practices and urbanisation affect water quality, and the mitigation factors that are being used to try to reduce water pollution from these sources. The chapter also describes the causes of acid mine drainage, its impact on water quality and mitigation options that exist. The causes of acid rain, its impact on water quality and how legislation in Europe and North America has led to the reduction of acid rain are also discussed. Finally, the chapter exa",
-      "published": "2019-11-01",
-      "source_id": "openalex",
-      "source_name": "Routledge eBooks",
-      "publisher": "Routledge eBooks",
-      "section": "research-papers",
-      "theme": "citizen-science",
-      "tags": [
-        "research",
-        "ireland",
-        "citizen-science",
-        "monitoring",
-        "open-access",
-        "temperate-transfer"
-      ],
-      "score": 95,
-      "freshness_status": "reference",
-      "freshness_label": "2019 · 49 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.4324/9780429448270-4",
-      "cited_by_count": 49,
-      "openalex_id": "https://openalex.org/W1500078529",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "citizen science / monitoring"
-      ],
-      "research_use_type": "Monitoring method",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, citizen science / monitoring."
     },
     {
       "id": "7214de15481363da",
@@ -2804,39 +2758,75 @@
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, habitat / biodiversity."
     },
     {
-      "id": "17ff6e6679c20914",
-      "title": "Using enhanced wetlands for nitrogen removal in an agricultural watershed",
-      "url": "https://doi.org/10.2489/jswc.69.5.145a",
-      "summary": "Excess nitrogen (N) in temperate watersheds has been associated with an array of environmental problems, including polluted wells and surface water. The hypoxic zone in the Gulf of Mexico has created a particular focus on N loads in the Mississippi River Basin. Nitrogen sources include urban runoff; atmospheric deposition; point sources, such as waste-water treatment plants; and nonpoint sources, such as runoff from agricultural lands. Approximately two-thirds of the N load of the Mississippi River is from agriculture, underscoring the importance of balancing productive farming with water quality improvement (Goolsby and Battaglin 2000).",
-      "published": "2014-09-01",
+      "id": "67c36120ace4c8e2",
+      "title": "Small Water Bodies in Great Britain and Ireland: Ecosystem function, human-generated degradation, and options for restorative action",
+      "url": "https://doi.org/10.1016/j.scitotenv.2018.07.243",
+      "summary": "Open the source to inspect the abstract, journal, DOI, and publication metadata.",
+      "published": "2018-07-25",
       "source_id": "openalex",
-      "source_name": "Journal of Soil and Water Conservation",
-      "publisher": "Journal of Soil and Water Conservation",
+      "source_name": "The Science of The Total Environment",
+      "publisher": "The Science of The Total Environment",
       "section": "research-papers",
-      "theme": "wetland-nbs",
+      "theme": "water-quality",
       "tags": [
         "research",
-        "review",
-        "constructed-wetland",
-        "nutrients",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
         "open-access",
-        "temperate-transfer"
+        "highly-cited",
+        "ireland-first"
       ],
       "score": 94,
       "freshness_status": "reference",
-      "freshness_label": "2014 · 2 citations · open access",
-      "practical_fit": "High practical fit · Comparable temperate relevance",
-      "geographic_relevance": "Comparable temperate relevance",
-      "doi": "https://doi.org/10.2489/jswc.69.5.145a",
-      "cited_by_count": 2,
-      "openalex_id": "https://openalex.org/W2107047229",
+      "freshness_label": "2018 · 196 citations · open access",
+      "practical_fit": "High practical fit · Ireland / direct relevance",
+      "geographic_relevance": "Ireland / direct relevance",
+      "doi": "https://doi.org/10.1016/j.scitotenv.2018.07.243",
+      "cited_by_count": 196,
+      "openalex_id": "https://openalex.org/W2882980423",
       "pressure_categories": [
-        "water quality",
-        "agricultural runoff",
-        "NbS / restoration"
+        "agricultural runoff"
       ],
-      "research_use_type": "Review / evidence synthesis",
-      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff, NbS / restoration."
+      "research_use_type": "Supporting evidence",
+      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around agricultural runoff."
+    },
+    {
+      "id": "7bb6b10fd0ff213f",
+      "title": "Community groups in Longford invited to apply for funding to protect and improve local water quality - Longford Leader",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQlRaV2hMWHlYX2tsbmdQQ3pSZkVuMHlGYTFLbWpHNC1jQ2JDQkdOYzFfX3BfakJlV2ZtMmFuN2pmSVpnSjZGWTJhdXpoSXR0MlNDNXlxVTJXVTRkdWItbUxwdVIyQ3U4MFZxSjRlNXNGc3RDU0RvdjRQNld6bUJoRDVabHBYUVdJOGxHRlNMbEdTYXNPVXM2UlFfUDhJbGo0NlBDSVlKWmNXdlZYWjN3WndwZ18xSEl0cFZtV2ktSER6WHhMaHRUNUtLb1NrQ1FpdDUyczlVQThyWi1hTElNWHJhLU5OSFpHNlln?oc=5",
+      "summary": "Community groups in Longford invited to apply for funding to protect and improve local water quality Longford Leader",
+      "published": "2026-11-18",
+      "source_id": "google-news-ireland-river-water-quality",
+      "source_name": "Google News: Ireland river water quality",
+      "publisher": "Google News: Ireland river water quality",
+      "section": "grants-opportunities",
+      "theme": "water-quality",
+      "tags": [
+        "water-quality",
+        "grant"
+      ],
+      "score": 93,
+      "freshness_status": "fresh",
+      "freshness_label": "0 days old",
+      "pressure_categories": [
+        "funding / grant"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "High",
+        "score": 81,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
     },
     {
       "id": "8ca1831d502d0bca",
@@ -2855,7 +2845,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "341 days old · background",
+      "freshness_label": "342 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2890,7 +2880,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "467 days old · background",
+      "freshness_label": "468 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -2925,7 +2915,7 @@
       ],
       "score": 92,
       "freshness_status": "reference",
-      "freshness_label": "110 days old · background",
+      "freshness_label": "111 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3002,7 +2992,7 @@
       ],
       "score": 91,
       "freshness_status": "reference",
-      "freshness_label": "118 days old · background",
+      "freshness_label": "119 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3021,36 +3011,73 @@
       "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred."
     },
     {
-      "id": "5821ef6dd0c20b6f",
-      "title": "Agri jobs: Meath water quality EIP seeks community animator - Irish Farmers Journal",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUXZON2w4WXFFUUZYNmpwaXNEdkNFN3l5cldIajhBWXo0aDBPd0g3elFESFFoeW51bkRUaFZ1UHptVUVnaXVwcF9WVnRMbGIwODVKR1hPTlRRcUNsMkdOWlVuUXFUWk02SDhtYWFiTU5KMTBoRmZlRlRhYW9OSjJEOHE2VUthOHdHSGhrajk0X1VpVnBZQjN2cDkxVmgwR0N6UE5HLVViQ2M?oc=5",
-      "summary": "Agri jobs: Meath water quality EIP seeks community animator Irish Farmers Journal",
-      "published": "2026-10-03",
-      "source_id": "google-news-meath-louth-fingal-catchment",
-      "source_name": "Google News: Meath Louth Fingal catchment signals",
-      "publisher": "Google News: Meath Louth Fingal catchment signals",
-      "section": "waterbody-evidence-alerts",
-      "theme": "water-quality",
+      "id": "41f984755e4ecb54",
+      "title": "Climate change accelerates water and biogeochemical cycles in temperate agricultural catchments",
+      "url": "https://doi.org/10.1016/j.scitotenv.2024.175365",
+      "summary": "Climate change is expected to significantly deteriorate water quality in heavily managed agricultural landscapes, however, the exact mechanisms of these impacts are unknown. In this study we adopted a modelling approach to predict the multiple effects of climate change on hydrological and biogeochemical responses for dominant solutes and particulates in two agriculture-dominated temperate headwater catchments. We used climatic projections from three climatic models to simulate future flows, mobilisation and delivery of solutes and particulates. This allowed an examination of potential drivers by identifying changes in flow pathway distribution and key environmental variables. We found that future climate conditions will lead to a general increase in stream discharge as well as higher concentrations and loads of solutes and particulates. However, unlike previous studies, we observed a higher magnitude of change during the warmer part of",
+      "published": "2024-08-06",
+      "source_id": "openalex",
+      "source_name": "The Science of The Total Environment",
+      "publisher": "The Science of The Total Environment",
+      "section": "research-papers",
+      "theme": "river-restoration",
       "tags": [
-        "water-quality"
+        "research",
+        "temperate",
+        "europe",
+        "nbs",
+        "open-access",
+        "temperate-transfer"
       ],
-      "score": 89,
-      "freshness_status": "fresh",
-      "freshness_label": "45 days old",
+      "score": 91,
+      "freshness_status": "reference",
+      "freshness_label": "2024 · 20 citations · open access",
+      "practical_fit": "High practical fit · Comparable temperate relevance",
+      "geographic_relevance": "Comparable temperate relevance",
+      "doi": "https://doi.org/10.1016/j.scitotenv.2024.175365",
+      "cited_by_count": 20,
+      "openalex_id": "https://openalex.org/W4401380160",
       "pressure_categories": [
+        "water quality",
         "agricultural runoff"
       ],
+      "research_use_type": "Supporting evidence",
+      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff."
+    },
+    {
+      "id": "eb2788abced8f997",
+      "title": "East Meath Bridge Club - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVJFZXhBZzFKTEpRbGw2RzlHQ29QeDJrQ2poUGpsblI2bU5yWHkxU2haUFZYQ2t5dXMzdWFfa3VtUXlPNm5mZEhYb21PYVV6b3ZQTEVFXzBSVlVMaGU1WEJ4VVRrR19rSEZfbzlMY1UyS204OUlhUVdhYmxlU0hiMDB3c2NXUjlSTy1JY2RvQ2JTcllfY0doRQ?oc=5",
+      "summary": "East Meath Bridge Club Irish Independent",
+      "published": "2011-01-19",
+      "source_id": "google-news-east-meath-planning-infrastructure",
+      "source_name": "Google News: East Meath planning and infrastructure",
+      "publisher": "Google News: East Meath planning and infrastructure",
+      "section": "planning-infrastructure",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "planning-infrastructure"
+      ],
+      "score": 90,
+      "freshness_status": "reference",
+      "freshness_label": "5782 days old · background",
+      "pressure_categories": [
+        "planning / infrastructure"
+      ],
       "local_relevance": {
-        "score": 72,
+        "score": 100,
         "label": "High local relevance",
         "matched_terms": [
           "Ireland",
-          "fingal",
-          "louth",
-          "meath"
+          "delvin",
+          "east meath",
+          "meath",
+          "nanny",
+          "nanny-delvin"
         ]
       },
-      "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
+      "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred."
     },
     {
       "id": "8d6077857a8cecbb",
@@ -3068,7 +3095,7 @@
       ],
       "score": 89,
       "freshness_status": "fresh",
-      "freshness_label": "59 days old",
+      "freshness_label": "60 days old",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3170,7 +3197,7 @@
       ],
       "score": 87,
       "freshness_status": "reference",
-      "freshness_label": "2348 days old · background",
+      "freshness_label": "2349 days old · background",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -3242,7 +3269,7 @@
       ],
       "score": 86,
       "freshness_status": "reference",
-      "freshness_label": "182 days old · background",
+      "freshness_label": "183 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater"
       ],
@@ -3271,7 +3298,7 @@
       ],
       "score": 85,
       "freshness_status": "fresh",
-      "freshness_label": "83 days old",
+      "freshness_label": "84 days old",
       "pressure_categories": [
         "septic / domestic wastewater"
       ],
@@ -3460,7 +3487,7 @@
       ],
       "score": 84,
       "freshness_status": "fresh",
-      "freshness_label": "15 days old",
+      "freshness_label": "16 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "funding / grant"
@@ -3497,7 +3524,7 @@
       ],
       "score": 84,
       "freshness_status": "reference",
-      "freshness_label": "118 days old · background",
+      "freshness_label": "119 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3538,7 +3565,7 @@
       ],
       "score": 83,
       "freshness_status": "reference",
-      "freshness_label": "180 days old · background",
+      "freshness_label": "181 days old · background",
       "pressure_categories": [
         "agricultural runoff",
         "funding / grant",
@@ -3576,7 +3603,7 @@
       ],
       "score": 83,
       "freshness_status": "reference",
-      "freshness_label": "515 days old · background",
+      "freshness_label": "516 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3654,39 +3681,6 @@
         ]
       },
       "action_relevance": "General practical signal: may help the Trust track general catchment signal, policy, funding, monitoring, or community action."
-    },
-    {
-      "id": "192e6e336b60896b",
-      "title": "Minister Christopher O’Sullivan launches practical guide helping communities protect water quality, biodiversity and tackle climate change",
-      "url": "https://riverbasin.ie/minister-christopher-osullivan-launches-practical-guide-helping-communities-protect-water-quality-biodiversity-and-tackle-climate-change/",
-      "summary": "Minister Christopher O’Sullivan launches practical guide helping communities protect water quality, biodiversity and tackle climate change",
-      "published": null,
-      "source_id": "lawpro",
-      "source_name": "LAWPRO",
-      "publisher": "LAWPRO",
-      "section": "ireland-catchment-practice",
-      "theme": "water-quality",
-      "tags": [
-        "water-quality",
-        "biodiversity",
-        "planning-infrastructure"
-      ],
-      "score": 82,
-      "freshness_status": "reference",
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "habitat / biodiversity",
-        "policy / governance",
-        "planning / infrastructure"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "General practical signal: may help the Trust track habitat / biodiversity, policy / governance, planning / infrastructure, policy, funding, monitoring, or community action."
     },
     {
       "id": "21e9077cd2ec1012",
@@ -3813,6 +3807,35 @@
       }
     },
     {
+      "id": "c1ced3c4ee0723c6",
+      "title": "Philippa Naylor: River Restoration Builds Water Resilience - Sustainability Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR2stU3I4VnBDaDlnelkxOEVEMDVBcENCSFJfNkFrUFRTOFJCWEdOT2ZaYWdIdUNsc3pvcW1jX0s3MU5iWUlQS20zSC02VDVDcWRGMEhMU1d3VGVKX21GbUNzcUoya3BEOVh0bzU3Z1V6N1gwMVFHc2NPV1JWWlA1MS1ldUJNQjZfTXhIR2IzT0cxOUFkNmtB?oc=5",
+      "summary": "Philippa Naylor: River Restoration Builds Water Resilience Sustainability Magazine",
+      "published": "2026-11-17",
+      "source_id": "google-news-nbs-water-ireland",
+      "source_name": "Google News: Ireland water NbS",
+      "publisher": "Google News: Ireland water NbS",
+      "section": "ireland-catchment-practice",
+      "theme": "river-restoration",
+      "tags": [
+        "river-restoration"
+      ],
+      "score": 78,
+      "freshness_status": "fresh",
+      "freshness_label": "1 days old",
+      "pressure_categories": [
+        "NbS / restoration"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures."
+    },
+    {
       "id": "d351d5392ad83ae0",
       "title": "Scotland funds nature recovery projects including river restoration - Water Magazine",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSzRKRVdqaDZoZkhJREFzZ2E1Z1NmYzRTTnFWb1RBcEdrMEJ3UlNmX3IwcW5rMFRZUTdKWGl2MlRSaENXVmpXcVU2V05sR2Z5VEtyblhha01pc1VZU3N6N1B6dHR0OERYcGtvbnc0Rmh5ek5LNjRqaWZZbzdiMEFWdHlZLThUU1RIMC1YdVYyNlBLX1laczVHZWJZTVZJTE1IMDhYRGxoNjZjX3p3NUxkRQ?oc=5",
@@ -3828,7 +3851,7 @@
       ],
       "score": 78,
       "freshness_status": "fresh",
-      "freshness_label": "22 days old",
+      "freshness_label": "23 days old",
       "pressure_categories": [
         "funding / grant",
         "NbS / restoration"
@@ -3847,36 +3870,6 @@
         "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
         "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
       }
-    },
-    {
-      "id": "1b398587f40840b4",
-      "title": "Norfolk housing plans put river restoration at heart of new development approach - Water Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkJNZ1NxMy1xOUxDNHdZTjhFTTVlY0dXRVVZTlJjT3lwVFJNVjYxdG5XUzNWMGR5RjJHTW9Jbm9jdDduQVFPWkJrWHRsTjR6ejFSUms5WTkwcmhwUFZrbDA3cHZrQjdYYU5BR2RnQ01lRldvWXdPTWQ2NjNaSXduaDRoV3NycFRuTllkTTRmdjFycHlyRUxWa05zSEFvUE9JUGZPRHBucmM0RUo3NDZZVVp6ZDJzcm5ydTBwWTgtSWVCZw?oc=5",
-      "summary": "Norfolk housing plans put river restoration at heart of new development approach Water Magazine",
-      "published": "2026-09-21",
-      "source_id": "google-news-nbs-water-ireland",
-      "source_name": "Google News: Ireland water NbS",
-      "publisher": "Google News: Ireland water NbS",
-      "section": "ireland-catchment-practice",
-      "theme": "river-restoration",
-      "tags": [
-        "river-restoration",
-        "planning-infrastructure"
-      ],
-      "score": 78,
-      "freshness_status": "fresh",
-      "freshness_label": "57 days old",
-      "pressure_categories": [
-        "NbS / restoration"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures."
     },
     {
       "id": "ce31c91be025b881",
@@ -3925,7 +3918,7 @@
       ],
       "score": 77,
       "freshness_status": "reference",
-      "freshness_label": "367 days old · background",
+      "freshness_label": "368 days old · background",
       "pressure_categories": [
         "birds / wetland ecology",
         "habitat / biodiversity"
@@ -3955,7 +3948,7 @@
       ],
       "score": 77,
       "freshness_status": "reference",
-      "freshness_label": "474 days old · background",
+      "freshness_label": "475 days old · background",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3986,7 +3979,7 @@
       ],
       "score": 77,
       "freshness_status": "reference",
-      "freshness_label": "928 days old · background",
+      "freshness_label": "929 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant",
@@ -4008,24 +4001,25 @@
       }
     },
     {
-      "id": "1816fd6f63e57de1",
-      "title": "Driving action with The Rivers Trust to restore and protect freshwater ecosystems across the UK and Ireland - Hogan Lovells Cadwalader",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdnlvMlp4amNubWNUYVRRY3R5RldWS2hwUHpzOGVrQkxHaEFobkxWRFBBRzI3TXNfeXppZ09vZUwxa0VBVjE5ZE5VdXU4eVFzRFBieTVObGdSajg1cUFiY2JWWGpfWXdRaVBNX3YyUGFReExnRGtURkJiYUc3VkliUVRQOHRjQ1VNMHZlbTVqdG5DZ2pwLW1TNmt0Z0xjQQ?oc=5",
-      "summary": "Driving action with The Rivers Trust to restore and protect freshwater ecosystems across the UK and Ireland Hogan Lovells Cadwalader",
-      "published": "2026-07-06",
-      "source_id": "google-news-nbs-water-ireland",
-      "source_name": "Google News: Ireland water NbS",
-      "publisher": "Google News: Ireland water NbS",
-      "section": "ireland-catchment-practice",
-      "theme": "catchment",
+      "id": "c97e29f95978dd0a",
+      "title": "Longford musicians invited to apply for Music Capital Scheme funding - Ireland Live News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeTcyaGZab0g0TVRicDZYYnQ4bmJydjhfTzE0Wk9FOFFBWi1IUERWaGZ6S3FjV0cxNzBiZVQ0U29xTWlSUmFBR0JwVlZTbUhzQl85WjdfVnd0cGQ2elBZSUQ4RlI3cThkZHphZ0gtczUzaGR2MERuLUJFZk5aWGJHSHhvTjdoOUZTNHhKNmJFajNvNy1TQ3hjZXdSa3NqeTRPRlR1VjA5OUZPNmVEUUpWVXlXalRCb3V6amlFSUQwUS1kV21qOEE?oc=5",
+      "summary": "Longford musicians invited to apply for Music Capital Scheme funding Ireland Live News",
+      "published": "2026-11-18",
+      "source_id": "google-news-community-water-grants",
+      "source_name": "Google News: water and biodiversity grants Ireland",
+      "publisher": "Google News: water and biodiversity grants Ireland",
+      "section": "grants-opportunities",
+      "theme": "grant",
       "tags": [
-        "catchment"
+        "grant"
       ],
       "score": 75,
-      "freshness_status": "reference",
-      "freshness_label": "134 days old · background",
+      "freshness_status": "fresh",
+      "freshness_label": "0 days old",
       "pressure_categories": [
-        "general catchment signal"
+        "habitat / biodiversity",
+        "funding / grant"
       ],
       "local_relevance": {
         "score": 10,
@@ -4034,7 +4028,13 @@
           "Ireland"
         ]
       },
-      "action_relevance": "General practical signal: may help the Trust track general catchment signal, policy, funding, monitoring, or community action."
+      "action_relevance": "Funding signal for the Trust: check whether this can support habitat / biodiversity, funding / grant, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "High",
+        "score": 77,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
     },
     {
       "id": "f18f11527f0bdb9b",
@@ -4054,7 +4054,7 @@
       ],
       "score": 75,
       "freshness_status": "reference",
-      "freshness_label": "564 days old · background",
+      "freshness_label": "565 days old · background",
       "pressure_categories": [
         "habitat / biodiversity",
         "policy / governance",
@@ -4068,6 +4068,73 @@
         ]
       },
       "action_relevance": "General practical signal: may help the Trust track habitat / biodiversity, policy / governance, planning / infrastructure, policy, funding, monitoring, or community action."
+    },
+    {
+      "id": "a8db92d1436c6cae",
+      "title": "Ecohydrological Functioning of a Tropical Monsoon and a Temperate River Floodplain",
+      "url": "https://doi.org/10.33540/1733",
+      "summary": "Floodplains are important ecosystems that play a vital role in storing water during times of high river discharge. Unfortunately, many floodplains have become disconnected from their rivers. To properly manage rivers and their floodplains, we need to better understand the complex interactions between water, soil, plants, and animals. Studying rivers and floodplains that are minimally impacted by human intervention can provide valuable insights. In this thesis, we compare two relatively undisturbed rivers, the Narew in Poland and the Songkhram in Thailand, to explore similarities and differences between floodplains in temperate and tropical climates. We examine vegetation zoning and spatial patterns in water quality, composition, and nutrient availability, which are related to flood characteristics like duration, depth, and frequency. We found that both floodplains act as nutrient sinks, storing rather than releasing nutrients to the riv",
+      "published": "2023-04-17",
+      "source_id": "openalex",
+      "source_name": "Utrecht University Repository (Utrecht University)",
+      "publisher": "Utrecht University Repository (Utrecht University)",
+      "section": "research-papers",
+      "theme": "river-restoration",
+      "tags": [
+        "research",
+        "temperate",
+        "europe",
+        "nbs",
+        "open-access",
+        "temperate-transfer"
+      ],
+      "score": 75,
+      "freshness_status": "reference",
+      "freshness_label": "2023 · 0 citations · open access",
+      "practical_fit": "Useful practical evidence · Comparable temperate relevance",
+      "geographic_relevance": "Comparable temperate relevance",
+      "doi": "https://doi.org/10.33540/1733",
+      "cited_by_count": 0,
+      "openalex_id": "https://openalex.org/W4366136656",
+      "pressure_categories": [
+        "water quality",
+        "NbS / restoration"
+      ],
+      "research_use_type": "Supporting evidence",
+      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, NbS / restoration."
+    },
+    {
+      "id": "a73917a0b7860712",
+      "title": "Spatial targeting of nature‐based solutions for flood risk management within river catchments",
+      "url": "https://doi.org/10.1111/jfr3.12803",
+      "summary": "Abstract A wide range of nature‐based solutions for flood hazard management work by storing and slowing flow within catchments, and therefore, there is a need to identify the optimal locations for implementing these solutions. This paper presents a relative scoring‐based mapping of the likely locations that contribute to the flood peak. Targeting flow reduction and attenuating mitigation actions in these locations can be an effective way to reduce flood damages at impact points downstream. The presented tool, SCIMAP‐Flood, uses information on land cover, hydrological connectivity, flood generating rainfall patterns and hydrological travel time distributions to impacted communities to find the potential source areas of flood waters. The importance of each location in the catchment is weighted based on its contribution to the flood hazard at each of the downstream impact points. In the example application, SCIMAP‐Flood is applied at a 5‐m",
+      "published": "2022-03-21",
+      "source_id": "openalex",
+      "source_name": "Journal of Flood Risk Management",
+      "publisher": "Journal of Flood Risk Management",
+      "section": "research-papers",
+      "theme": "river-restoration",
+      "tags": [
+        "research",
+        "temperate",
+        "europe",
+        "nbs",
+        "open-access",
+        "temperate-transfer"
+      ],
+      "score": 75,
+      "freshness_status": "reference",
+      "freshness_label": "2022 · 44 citations · open access",
+      "practical_fit": "Useful practical evidence · Comparable temperate relevance",
+      "geographic_relevance": "Comparable temperate relevance",
+      "doi": "https://doi.org/10.1111/jfr3.12803",
+      "cited_by_count": 44,
+      "openalex_id": "https://openalex.org/W4291015766",
+      "pressure_categories": [
+        "research evidence"
+      ],
+      "research_use_type": "Supporting evidence",
+      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for research evidence."
     },
     {
       "id": "5f5144b382fcfd34",
@@ -4097,35 +4164,6 @@
         ]
       },
       "action_relevance": "General practical signal: may help the Trust track general catchment signal, policy, funding, monitoring, or community action."
-    },
-    {
-      "id": "dc55faad2bcc859a",
-      "title": "November 19 The Erne Catchment: A Border Runs Through It Join us on the 19th of November from 9:30am-3:30pm at the Waterways Ireland Headquarters, Co. Sligo, BT74 7JY",
-      "url": "https://riverbasin.ie/events/the-erne-catchment-a-border-runs-through-it/",
-      "summary": "November 19 The Erne Catchment: A Border Runs Through It Join us on the 19th of November from 9:30am-3:30pm at the Waterways Ireland Headquarters, Co. Sligo, BT74 7JY",
-      "published": null,
-      "source_id": "lawpro",
-      "source_name": "LAWPRO",
-      "publisher": "LAWPRO",
-      "section": "ireland-catchment-practice",
-      "theme": "catchment",
-      "tags": [
-        "catchment"
-      ],
-      "score": 75,
-      "freshness_status": "reference",
-      "freshness_label": "Date unknown",
-      "pressure_categories": [
-        "policy / governance"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "General practical signal: may help the Trust track policy / governance, policy, funding, monitoring, or community action."
     }
   ]
 }
