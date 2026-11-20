@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-19T14:31:51.911180+00:00",
-  "latest_generated_at": "2026-11-19T14:31:39.301403+00:00",
+  "generated_at": "2026-11-20T14:09:23.346687+00:00",
+  "latest_generated_at": "2026-11-20T14:09:10.464563+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
-    "grants-opportunities": 22,
-    "ireland-catchment-practice": 12,
+    "grants-opportunities": 18,
+    "ireland-catchment-practice": 13,
     "research-papers": 36,
-    "planning-infrastructure": 20,
-    "waterbody-evidence-alerts": 25
+    "planning-infrastructure": 22,
+    "waterbody-evidence-alerts": 26
   },
   "top_pressure_categories": [
-    {
-      "pressure": "habitat / biodiversity",
-      "count": 34
-    },
     {
       "pressure": "NbS / restoration",
       "count": 34
     },
     {
+      "pressure": "habitat / biodiversity",
+      "count": 32
+    },
+    {
       "pressure": "policy / governance",
-      "count": 30
+      "count": 32
     },
     {
       "pressure": "planning / infrastructure",
-      "count": 29
+      "count": 31
     },
     {
       "pressure": "citizen science / monitoring",
@@ -37,7 +37,7 @@
     },
     {
       "pressure": "funding / grant",
-      "count": 23
+      "count": 19
     },
     {
       "pressure": "agricultural runoff",
@@ -52,11 +52,11 @@
       "count": 6
     },
     {
-      "pressure": "septic / domestic wastewater",
-      "count": 5
+      "pressure": "sediment / hydromorphology",
+      "count": 4
     },
     {
-      "pressure": "sediment / hydromorphology",
+      "pressure": "general catchment signal",
       "count": 4
     }
   ],
@@ -70,7 +70,7 @@
       "published": "2026-11-11",
       "score": 100,
       "practical_score": 130.0,
-      "freshness_label": "8 days old",
+      "freshness_label": "9 days old",
       "pressure_categories": [
         "NbS / restoration"
       ],
@@ -86,23 +86,24 @@
       "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures."
     },
     {
-      "id": "5821ef6dd0c20b6f",
-      "title": "Agri jobs: Meath water quality EIP seeks community animator - Irish Farmers Journal",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUXZON2w4WXFFUUZYNmpwaXNEdkNFN3l5cldIajhBWXo0aDBPd0g3elFESFFoeW51bkRUaFZ1UHptVUVnaXVwcF9WVnRMbGIwODVKR1hPTlRRcUNsMkdOWlVuUXFUWk02SDhtYWFiTU5KMTBoRmZlRlRhYW9OSjJEOHE2VUthOHdHSGhrajk0X1VpVnBZQjN2cDkxVmgwR0N6UE5HLVViQ2M?oc=5",
+      "id": "2f0d6cc7c2681634",
+      "title": "Bridge over River Boyne linking Louth and Meath could be ‘Narrow Water part two’ - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMjlOTGdWR3pyb3NTeVotdDY5dUVNZ2V6LWZJUHNOUE42ekgwSmJHOFM5RG9SazFEbVlVbmdUYllSc3RMSW1zUVFacWg1cVlDQ1FadVJyeU1CaHRMRTVwWHJyckVKTXNhMEotazgzcmZDQ1VKdGtmWmRFSUZWZHdjYzJhTmpmc2JsSUR2U1BrSDg0WmdLUE5oN0lXOXJjNjB1LUNINXZDUnAyNHVabzRxOFQzd3RCVk0weVNTTndtUG1TRExiUDNycllnUFc2V3VS?oc=5",
       "section": "waterbody-evidence-alerts",
       "source_name": "Google News: Meath Louth Fingal catchment signals",
-      "published": "2026-10-03",
-      "score": 89,
-      "practical_score": 129.0,
-      "freshness_label": "47 days old",
+      "published": "2026-11-19",
+      "score": 99,
+      "practical_score": 134.0,
+      "freshness_label": "1 days old",
       "pressure_categories": [
-        "agricultural runoff"
+        "planning / infrastructure"
       ],
       "local_relevance": {
-        "score": 72,
+        "score": 88,
         "label": "High local relevance",
         "matched_terms": [
           "Ireland",
+          "boyne",
           "fingal",
           "louth",
           "meath"
@@ -121,7 +122,7 @@
       "published": "2026-09-29",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "51 days old",
+      "freshness_label": "52 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -151,7 +152,7 @@
       "published": "2026-11-18",
       "score": 100,
       "practical_score": 142.0,
-      "freshness_label": "1 days old",
+      "freshness_label": "2 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "funding / grant",
