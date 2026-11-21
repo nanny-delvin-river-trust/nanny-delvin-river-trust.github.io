@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-11-20T14:09:23.346687+00:00",
-  "latest_generated_at": "2026-11-20T14:09:10.464563+00:00",
+  "generated_at": "2026-11-21T13:34:23.182958+00:00",
+  "latest_generated_at": "2026-11-21T13:34:13.534874+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
-    "grants-opportunities": 18,
-    "ireland-catchment-practice": 13,
-    "research-papers": 36,
+    "grants-opportunities": 17,
+    "ireland-catchment-practice": 14,
     "planning-infrastructure": 22,
+    "research-papers": 35,
     "waterbody-evidence-alerts": 26
   },
   "top_pressure_categories": [
     {
       "pressure": "NbS / restoration",
-      "count": 34
+      "count": 56
     },
     {
-      "pressure": "habitat / biodiversity",
-      "count": 32
+      "pressure": "water quality",
+      "count": 35
     },
     {
       "pressure": "policy / governance",
-      "count": 32
+      "count": 31
     },
     {
       "pressure": "planning / infrastructure",
       "count": 31
     },
     {
-      "pressure": "citizen science / monitoring",
-      "count": 29
+      "pressure": "agricultural runoff",
+      "count": 26
     },
     {
-      "pressure": "water quality",
-      "count": 25
+      "pressure": "habitat / biodiversity",
+      "count": 24
+    },
+    {
+      "pressure": "citizen science / monitoring",
+      "count": 20
     },
     {
       "pressure": "funding / grant",
-      "count": 19
-    },
-    {
-      "pressure": "agricultural runoff",
       "count": 19
     },
     {
@@ -52,11 +52,11 @@
       "count": 6
     },
     {
-      "pressure": "sediment / hydromorphology",
+      "pressure": "septic / domestic wastewater",
       "count": 4
     },
     {
-      "pressure": "general catchment signal",
+      "pressure": "sediment / hydromorphology",
       "count": 4
     }
   ],
@@ -70,7 +70,7 @@
       "published": "2026-11-11",
       "score": 100,
       "practical_score": 130.0,
-      "freshness_label": "9 days old",
+      "freshness_label": "10 days old",
       "pressure_categories": [
         "NbS / restoration"
       ],
@@ -86,24 +86,23 @@
       "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures."
     },
     {
-      "id": "2f0d6cc7c2681634",
-      "title": "Bridge over River Boyne linking Louth and Meath could be ‘Narrow Water part two’ - Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMjlOTGdWR3pyb3NTeVotdDY5dUVNZ2V6LWZJUHNOUE42ekgwSmJHOFM5RG9SazFEbVlVbmdUYllSc3RMSW1zUVFacWg1cVlDQ1FadVJyeU1CaHRMRTVwWHJyckVKTXNhMEotazgzcmZDQ1VKdGtmWmRFSUZWZHdjYzJhTmpmc2JsSUR2U1BrSDg0WmdLUE5oN0lXOXJjNjB1LUNINXZDUnAyNHVabzRxOFQzd3RCVk0weVNTTndtUG1TRExiUDNycllnUFc2V3VS?oc=5",
+      "id": "5821ef6dd0c20b6f",
+      "title": "Agri jobs: Meath water quality EIP seeks community animator - Irish Farmers Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUXZON2w4WXFFUUZYNmpwaXNEdkNFN3l5cldIajhBWXo0aDBPd0g3elFESFFoeW51bkRUaFZ1UHptVUVnaXVwcF9WVnRMbGIwODVKR1hPTlRRcUNsMkdOWlVuUXFUWk02SDhtYWFiTU5KMTBoRmZlRlRhYW9OSjJEOHE2VUthOHdHSGhrajk0X1VpVnBZQjN2cDkxVmgwR0N6UE5HLVViQ2M?oc=5",
       "section": "waterbody-evidence-alerts",
       "source_name": "Google News: Meath Louth Fingal catchment signals",
-      "published": "2026-11-19",
-      "score": 99,
-      "practical_score": 134.0,
-      "freshness_label": "1 days old",
+      "published": "2026-10-03",
+      "score": 89,
+      "practical_score": 129.0,
+      "freshness_label": "49 days old",
       "pressure_categories": [
-        "planning / infrastructure"
+        "agricultural runoff"
       ],
       "local_relevance": {
-        "score": 88,
+        "score": 72,
         "label": "High local relevance",
         "matched_terms": [
           "Ireland",
-          "boyne",
           "fingal",
           "louth",
           "meath"
@@ -122,7 +121,7 @@
       "published": "2026-09-29",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "52 days old",
+      "freshness_label": "53 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -152,7 +151,7 @@
       "published": "2026-11-18",
       "score": 100,
       "practical_score": 142.0,
-      "freshness_label": "2 days old",
+      "freshness_label": "3 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "funding / grant",
@@ -176,25 +175,26 @@
       "action_relevance": "Funding signal for the Trust: check whether this can support habitat / biodiversity, funding / grant, policy / governance, citizen science, engagement, or small catchment actions."
     },
     {
-      "id": "a004ebb6ae505845",
-      "title": "A novel hybrid coagulation-constructed wetland system for the treatment of dairy wastewater",
-      "url": "https://doi.org/10.1016/j.scitotenv.2022.157567",
+      "id": "4f9c8c9a4cf25975",
+      "title": "Nutrient removal in a slow-flowing constructed wetland treating aquaculture effluent",
+      "url": "https://doi.org/10.3354/aei00411",
       "section": "research-papers",
-      "source_name": "The Science of The Total Environment",
-      "published": "2022-07-23",
-      "score": 100,
-      "practical_score": 139.0,
-      "freshness_label": "2022 · 86 citations · open access",
+      "source_name": "Aquaculture Environment Interactions",
+      "published": "2021-06-23",
+      "score": 96,
+      "practical_score": 142.0,
+      "freshness_label": "2021 · 13 citations · open access",
       "pressure_categories": [
         "water quality",
         "agricultural runoff",
         "sediment / hydromorphology",
-        "NbS / restoration"
+        "NbS / restoration",
+        "citizen science / monitoring"
       ],
       "local_relevance": null,
       "opportunity_fit": null,
-      "research_use_type": "NbS effectiveness",
-      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, agricultural runoff, sediment / hydromorphology."
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Evidence synthesis: useful for explaining why an intervention or monitoring approach is defensible for water quality, agricultural runoff, sediment / hydromorphology."
     }
   ]
 }
