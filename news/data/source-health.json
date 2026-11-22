@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-21T13:34:23.181440+00:00",
-  "latest_generated_at": "2026-11-21T13:34:13.534874+00:00",
-  "total_items": 114,
+  "generated_at": "2026-11-22T13:27:46.408247+00:00",
+  "latest_generated_at": "2026-11-22T13:27:34.029162+00:00",
+  "total_items": 115,
   "total_sources": 33,
-  "sources_active": 21,
-  "sources_checked_no_current_items": 11,
+  "sources_active": 23,
+  "sources_checked_no_current_items": 9,
   "sources_failed": 1,
   "items_by_section": {
-    "grants-opportunities": 17,
+    "grants-opportunities": 18,
     "ireland-catchment-practice": 14,
-    "planning-infrastructure": 22,
-    "research-papers": 35,
+    "research-papers": 36,
+    "planning-infrastructure": 21,
     "waterbody-evidence-alerts": 26
   },
   "annotation_coverage": {
-    "action_relevance": 114,
-    "pressure_categories": 114,
+    "action_relevance": 115,
+    "pressure_categories": 115,
     "local_relevance": 79,
     "opportunity_fit": 19,
     "research_use_type": 55
   },
-  "archive_snapshots": 111,
+  "archive_snapshots": 112,
   "sources": [
     {
       "id": "google-news-nanny-delvin-local",
@@ -30,11 +30,11 @@
       "scope": "nanny-delvin local",
       "url": "https://news.google.com/rss/search?q=%28%22Nanny%20Delvin%22%20OR%20%22Nanny-Delvin%22%20OR%20%22River%20Nanny%22%20OR%20%22River%20Delvin%22%20OR%20%22Nanny%20estuary%22%20OR%20%22Delvin%20river%22%29%20%28water%20OR%20river%20OR%20catchment%20OR%20pollution%20OR%20biodiversity%20OR%20restoration%20OR%20flooding%20OR%20estuary%29&hl=en-IE&gl=IE&ceid=IE:en",
       "host": "news.google.com",
-      "status": "active",
+      "status": "checked-no-current-items",
       "http_status": 200,
-      "current_item_count": 2,
-      "discovered_hint_count": 10,
-      "elapsed_ms": 38,
+      "current_item_count": 0,
+      "discovered_hint_count": 11,
+      "elapsed_ms": 334,
       "error": null
     },
     {
@@ -45,11 +45,11 @@
       "scope": "east meath local",
       "url": "https://news.google.com/rss/search?q=%28%22East%20Meath%22%20OR%20Laytown%20OR%20Bettystown%20OR%20Mornington%20OR%20Julianstown%20OR%20Gormanston%20OR%20Stamullen%20OR%20Duleek%20OR%20Sonairte%29%20%28water%20quality%20OR%20river%20OR%20estuary%20OR%20biodiversity%20OR%20pollution%20OR%20wetland%20OR%20flooding%29&hl=en-IE&gl=IE&ceid=IE:en",
       "host": "news.google.com",
-      "status": "checked-no-current-items",
+      "status": "active",
       "http_status": 200,
-      "current_item_count": 0,
+      "current_item_count": 1,
       "discovered_hint_count": 11,
-      "elapsed_ms": 34,
+      "elapsed_ms": 20,
       "error": null
     },
     {
@@ -62,9 +62,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 6,
+      "current_item_count": 7,
       "discovered_hint_count": 10,
-      "elapsed_ms": 38,
+      "elapsed_ms": 21,
       "error": null
     },
     {
@@ -77,9 +77,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 16,
-      "discovered_hint_count": 29,
-      "elapsed_ms": 42,
+      "current_item_count": 13,
+      "discovered_hint_count": 23,
+      "elapsed_ms": 23,
       "error": null
     },
     {
@@ -90,11 +90,11 @@
       "scope": "meath county council julianstown official project watch",
       "url": "https://news.google.com/rss/search?q=(%22Meath%20County%20Council%22%20OR%20Systra)%20(%22Julianstown%20Traffic%20Relief%20Scheme%22%20OR%20%22R132%20Julianstown%22%20OR%20Julianstown)&hl=en-IE&gl=IE&ceid=IE:en",
       "host": "news.google.com",
-      "status": "checked-no-current-items",
+      "status": "active",
       "http_status": 200,
-      "current_item_count": 0,
+      "current_item_count": 1,
       "discovered_hint_count": 10,
-      "elapsed_ms": 33,
+      "elapsed_ms": 22,
       "error": null
     },
     {
@@ -108,8 +108,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 30,
-      "elapsed_ms": 48,
+      "discovered_hint_count": 32,
+      "elapsed_ms": 29,
       "error": null
     },
     {
@@ -123,8 +123,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 1,
-      "discovered_hint_count": 31,
-      "elapsed_ms": 41,
+      "discovered_hint_count": 29,
+      "elapsed_ms": 25,
       "error": null
     },
     {
@@ -137,9 +137,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 2,
+      "current_item_count": 4,
       "discovered_hint_count": 32,
-      "elapsed_ms": 43,
+      "elapsed_ms": 26,
       "error": null
     },
     {
@@ -152,9 +152,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 7,
-      "discovered_hint_count": 29,
-      "elapsed_ms": 47,
+      "current_item_count": 6,
+      "discovered_hint_count": 68,
+      "elapsed_ms": 41,
       "error": null
     },
     {
@@ -168,8 +168,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 11,
-      "elapsed_ms": 36,
+      "discovered_hint_count": 16,
+      "elapsed_ms": 23,
       "error": null
     },
     {
@@ -180,11 +180,11 @@
       "scope": "ireland",
       "url": "https://news.google.com/rss/search?q=%28fish%20kill%20OR%20pollution%20incident%20OR%20algal%20bloom%20OR%20sewage%20overflow%29%20%28river%20OR%20lake%20OR%20estuary%20OR%20lagoon%29%20Ireland&hl=en-IE&gl=IE&ceid=IE:en",
       "host": "news.google.com",
-      "status": "checked-no-current-items",
+      "status": "active",
       "http_status": 200,
-      "current_item_count": 0,
-      "discovered_hint_count": 10,
-      "elapsed_ms": 32,
+      "current_item_count": 1,
+      "discovered_hint_count": 9,
+      "elapsed_ms": 20,
       "error": null
     },
     {
@@ -198,8 +198,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 1,
-      "discovered_hint_count": 79,
-      "elapsed_ms": 66,
+      "discovered_hint_count": 33,
+      "elapsed_ms": 30,
       "error": null
     },
     {
@@ -214,7 +214,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 95,
-      "elapsed_ms": 628,
+      "elapsed_ms": 572,
       "error": null
     },
     {
@@ -229,7 +229,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 347,
-      "elapsed_ms": 111,
+      "elapsed_ms": 2993,
       "error": null
     },
     {
@@ -244,7 +244,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 10,
-      "elapsed_ms": 39,
+      "elapsed_ms": 20,
       "error": null
     },
     {
@@ -258,8 +258,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 1,
-      "discovered_hint_count": 32,
-      "elapsed_ms": 44,
+      "discovered_hint_count": 73,
+      "elapsed_ms": 41,
       "error": null
     },
     {
@@ -273,8 +273,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 8,
-      "elapsed_ms": 34,
+      "discovered_hint_count": 9,
+      "elapsed_ms": 21,
       "error": null
     },
     {
@@ -289,7 +289,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 10,
-      "elapsed_ms": 36,
+      "elapsed_ms": 20,
       "error": null
     },
     {
@@ -304,7 +304,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 10,
-      "elapsed_ms": 35,
+      "elapsed_ms": 20,
       "error": null
     },
     {
@@ -318,8 +318,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 20,
-      "elapsed_ms": 39,
+      "discovered_hint_count": 21,
+      "elapsed_ms": 25,
       "error": null
     },
     {
@@ -333,8 +333,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 2,
-      "discovered_hint_count": 12,
-      "elapsed_ms": 36,
+      "discovered_hint_count": 13,
+      "elapsed_ms": 20,
       "error": null
     },
     {
@@ -347,9 +347,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 2,
-      "discovered_hint_count": 46,
-      "elapsed_ms": 52,
+      "current_item_count": 1,
+      "discovered_hint_count": 9,
+      "elapsed_ms": 18,
       "error": null
     },
     {
@@ -364,7 +364,7 @@
       "http_status": 200,
       "current_item_count": 5,
       "discovered_hint_count": 143,
-      "elapsed_ms": 896,
+      "elapsed_ms": 941,
       "error": null
     },
     {
@@ -379,7 +379,7 @@
       "http_status": 200,
       "current_item_count": 2,
       "discovered_hint_count": 117,
-      "elapsed_ms": 894,
+      "elapsed_ms": 880,
       "error": null
     },
     {
@@ -394,7 +394,7 @@
       "http_status": 200,
       "current_item_count": 6,
       "discovered_hint_count": 224,
-      "elapsed_ms": 344,
+      "elapsed_ms": 259,
       "error": null
     },
     {
@@ -409,7 +409,7 @@
       "http_status": 200,
       "current_item_count": 2,
       "discovered_hint_count": 181,
-      "elapsed_ms": 585,
+      "elapsed_ms": 595,
       "error": null
     },
     {
@@ -422,9 +422,9 @@
       "host": "www.npws.ie",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 2,
+      "current_item_count": 3,
       "discovered_hint_count": 425,
-      "elapsed_ms": 875,
+      "elapsed_ms": 890,
       "error": null
     },
     {
@@ -439,7 +439,7 @@
       "http_status": 200,
       "current_item_count": 3,
       "discovered_hint_count": 81,
-      "elapsed_ms": 647,
+      "elapsed_ms": 771,
       "error": null
     },
     {
@@ -454,7 +454,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 38,
-      "elapsed_ms": 2002,
+      "elapsed_ms": 1743,
       "error": null
     },
     {
@@ -469,7 +469,7 @@
       "http_status": 404,
       "current_item_count": 0,
       "discovered_hint_count": 0,
-      "elapsed_ms": 84,
+      "elapsed_ms": 48,
       "error": null
     },
     {
@@ -484,7 +484,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 107,
-      "elapsed_ms": 68,
+      "elapsed_ms": 54,
       "error": null
     },
     {
@@ -499,7 +499,7 @@
       "http_status": 200,
       "current_item_count": 13,
       "discovered_hint_count": 94,
-      "elapsed_ms": 621,
+      "elapsed_ms": 793,
       "error": null
     },
     {
@@ -514,7 +514,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 109,
-      "elapsed_ms": 855,
+      "elapsed_ms": 841,
       "error": null
     }
   ]
