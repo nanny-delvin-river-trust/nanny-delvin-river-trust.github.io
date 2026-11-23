@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:27:34.029162+00:00",
+  "generated_at": "2026-11-23T16:10:33.126176+00:00",
   "note": "Source-led daily radar for Nanny-Delvin: practical Irish catchment signals, waterbody evidence/alerts, grants/opportunities, and research ranked by Trust usefulness.",
   "sections": [
     {
@@ -31,42 +31,6 @@
   "count": 115,
   "items": [
     {
-      "id": "bf6003aa3e1f97a5",
-      "title": "Community groups in Limerick invited to apply for funding to improve local water quality - Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUzVnZ1IyTGV3SnZhSUd3VHpEc2tQQ2JrWkxQV0N2Z19sV0dDLTZPNDFnN1A1dlA1bDdCb1Z4RlcwZHU1TG16RURMc1VCTXU5em5WbW9yUXZfMUJlYnBnQVJzUWNKMDlIV2NEUHVUSmZ6WkxHX29VREpvMlhVSkVCQnU4cEQ5dElZdzlCbEswbGJGLWs4V0xuZ25Gc1RUYjJoTlo4cEUwWUdYOENuSnE0S21kNU1Zckt3WHZtT3VyYnhBcFlVeDl3RjJSVDVWaWxiSzl1MzBIbHFoVWd1Z2poUXd3?oc=5",
-      "summary": "Community groups in Limerick invited to apply for funding to improve local water quality Irish Independent",
-      "published": "2026-11-19",
-      "source_id": "google-news-ireland-river-water-quality",
-      "source_name": "Google News: Ireland river water quality",
-      "publisher": "Google News: Ireland river water quality",
-      "section": "grants-opportunities",
-      "theme": "water-quality",
-      "tags": [
-        "water-quality",
-        "grant"
-      ],
-      "score": 100,
-      "freshness_status": "fresh",
-      "freshness_label": "3 days old",
-      "pressure_categories": [
-        "funding / grant"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
-      "opportunity_fit": {
-        "fit": "High",
-        "score": 81,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      }
-    },
-    {
       "id": "4a091e9fa684a202",
       "title": "Skip to main content",
       "url": "https://www.npws.ie/news",
@@ -84,7 +48,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "4 days old",
+      "freshness_label": "5 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "funding / grant",
@@ -122,7 +86,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "11 days old",
+      "freshness_label": "12 days old",
       "pressure_categories": [
         "NbS / restoration"
       ],
@@ -187,7 +151,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "54 days old",
+      "freshness_label": "55 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -229,7 +193,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "54 days old",
+      "freshness_label": "55 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -265,7 +229,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "57 days old",
+      "freshness_label": "58 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -307,7 +271,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "67 days old",
+      "freshness_label": "68 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -343,7 +307,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "69 days old",
+      "freshness_label": "70 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -379,7 +343,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "76 days old",
+      "freshness_label": "77 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -419,7 +383,7 @@
       ],
       "score": 100,
       "freshness_status": "fresh",
-      "freshness_label": "82 days old",
+      "freshness_label": "83 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -460,7 +424,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "96 days old · background",
+      "freshness_label": "97 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -502,7 +466,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "111 days old · background",
+      "freshness_label": "112 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -537,7 +501,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "117 days old · background",
+      "freshness_label": "118 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -579,7 +543,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "124 days old · background",
+      "freshness_label": "125 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -621,7 +585,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "126 days old · background",
+      "freshness_label": "127 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -661,7 +625,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "157 days old · background",
+      "freshness_label": "158 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -772,7 +736,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "276 days old · background",
+      "freshness_label": "277 days old · background",
       "pressure_categories": [
         "funding / grant",
         "planning / infrastructure"
@@ -821,7 +785,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "277 days old · background",
+      "freshness_label": "278 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -898,7 +862,7 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "460 days old · background",
+      "freshness_label": "461 days old · background",
       "pressure_categories": [
         "nutrients",
         "habitat / biodiversity",
@@ -947,41 +911,6 @@
       ],
       "research_use_type": "Monitoring method",
       "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around agricultural runoff, citizen science / monitoring."
-    },
-    {
-      "id": "4f19082db5e8db86",
-      "title": "Water Quality Assessment and Forecasting Along the Liffey and Andarax Rivers by Artificial Neural Network Techniques Toward Sustainable Water Resources Management",
-      "url": "https://doi.org/10.3390/w17030453",
-      "summary": "This research evaluates water quality in two contrasting hydro-climatic regions: the River Liffey in Ireland and the Andarax River in Spain. It utilizes an Artificial Neural Network (ANN) to simulate potential changes in key water-quality parameters based on field measurements. The ANN models showed strong predictive efficiency and performance, achieving R2 values of 0.89 for dissolved oxygen (DO), 0.98 for electrical conductivity (EC), 0.87 for pH, 0.95 for total dissolved solids (TDS), and 0.96 for turbidity. The root mean-square-error (RMSE) values for important parameters were DO (1.25 mg/L), EC (48.06 µS/cm), and turbidity (8.9 FNU). The models were able to capture complex nonlinear relationships under different environmental conditions. The results showed that DO levels in the Liffey will decline by up to 20% over the next decade due to rising nutrient pollution, while TDS levels in the Andarax River are expected to rise by approx",
-      "published": "2025-02-06",
-      "source_id": "openalex",
-      "source_name": "Water",
-      "publisher": "Water",
-      "section": "research-papers",
-      "theme": "water-quality",
-      "tags": [
-        "research",
-        "ireland",
-        "water-quality",
-        "catchment",
-        "agriculture",
-        "open-access",
-        "ireland-first"
-      ],
-      "score": 100,
-      "freshness_status": "reference",
-      "freshness_label": "2025 · 14 citations · open access",
-      "practical_fit": "High practical fit · Ireland / direct relevance",
-      "geographic_relevance": "Ireland / direct relevance",
-      "doi": "https://doi.org/10.3390/w17030453",
-      "cited_by_count": 14,
-      "openalex_id": "https://openalex.org/W4407226042",
-      "pressure_categories": [
-        "water quality",
-        "agricultural runoff"
-      ],
-      "research_use_type": "Supporting evidence",
-      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, agricultural runoff."
     },
     {
       "id": "0ffb74b652b1edc2",
@@ -1109,11 +1038,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2022 · 84 citations · open access",
+      "freshness_label": "2022 · 86 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.1111/1365-2664.14261",
-      "cited_by_count": 84,
+      "cited_by_count": 86,
       "openalex_id": "https://openalex.org/W4294832401",
       "pressure_categories": [
         "water quality",
@@ -1252,11 +1181,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2021 · 14 citations · open access",
+      "freshness_label": "2021 · 15 citations · open access",
       "practical_fit": "High practical fit · Ireland / direct relevance",
       "geographic_relevance": "Ireland / direct relevance",
       "doi": "https://doi.org/10.1007/s10533-021-00782-y",
-      "cited_by_count": 14,
+      "cited_by_count": 15,
       "openalex_id": "https://openalex.org/W3145767931",
       "pressure_categories": [
         "water quality",
@@ -1392,11 +1321,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2020 · 229 citations · open access",
+      "freshness_label": "2020 · 230 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.3390/w12102788",
-      "cited_by_count": 229,
+      "cited_by_count": 230,
       "openalex_id": "https://openalex.org/W3092192496",
       "pressure_categories": [
         "NbS / restoration"
@@ -1462,11 +1391,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2020 · 465 citations · open access",
+      "freshness_label": "2020 · 470 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.2166/bgs.2020.932",
-      "cited_by_count": 465,
+      "cited_by_count": 470,
       "openalex_id": "https://openalex.org/W2999551343",
       "pressure_categories": [
         "NbS / restoration",
@@ -1497,11 +1426,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2018 · 128 citations · open access",
+      "freshness_label": "2018 · 129 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.1016/j.scitotenv.2018.10.322",
-      "cited_by_count": 128,
+      "cited_by_count": 129,
       "openalex_id": "https://openalex.org/W2899179560",
       "pressure_categories": [
         "sediment / hydromorphology",
@@ -1534,11 +1463,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2018 · 183 citations · open access",
+      "freshness_label": "2018 · 184 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.3389/fmars.2018.00276",
-      "cited_by_count": 183,
+      "cited_by_count": 184,
       "openalex_id": "https://openalex.org/W2888317624",
       "pressure_categories": [
         "water quality",
@@ -1546,6 +1475,43 @@
       ],
       "research_use_type": "Supporting evidence",
       "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff."
+    },
+    {
+      "id": "67c36120ace4c8e2",
+      "title": "Small Water Bodies in Great Britain and Ireland: Ecosystem function, human-generated degradation, and options for restorative action",
+      "url": "https://doi.org/10.1016/j.scitotenv.2018.07.243",
+      "summary": "Small, 1st and 2nd-order, headwater streams and ponds play essential roles in providing natural flood control, trapping sediments and contaminants, retaining nutrients, and maintaining biological diversity, which extend into downstream reaches, lakes and estuaries. However, the large geographic extent and high connectivity of these small water bodies with the surrounding terrestrial ecosystem makes them particularly vulnerable to growing land-use pressures and environmental change. The greatest pressure on the physical processes in these waters has been their extension and modification for agricultural and forestry drainage, resulting in highly modified discharge and temperature regimes that have implications for flood and drought control further downstream. The extensive length of the small stream network exposes rivers to a wide range of inputs, including nutrients, pesticides, heavy metals, sediment and emerging contaminants. Small w",
+      "published": "2018-07-25",
+      "source_id": "openalex",
+      "source_name": "The Science of The Total Environment",
+      "publisher": "The Science of The Total Environment",
+      "section": "research-papers",
+      "theme": "water-quality",
+      "tags": [
+        "research",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
+        "open-access",
+        "highly-cited",
+        "ireland-first"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "2018 · 197 citations · open access",
+      "practical_fit": "High practical fit · Ireland / direct relevance",
+      "geographic_relevance": "Ireland / direct relevance",
+      "doi": "https://doi.org/10.1016/j.scitotenv.2018.07.243",
+      "cited_by_count": 197,
+      "openalex_id": "https://openalex.org/W2882980423",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff",
+        "sediment / hydromorphology"
+      ],
+      "research_use_type": "Supporting evidence",
+      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, agricultural runoff, sediment / hydromorphology."
     },
     {
       "id": "b384a6bfc8d77ed1",
@@ -1569,11 +1535,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2018 · 99 citations · open access",
+      "freshness_label": "2018 · 100 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.1002/esp.4398",
-      "cited_by_count": 99,
+      "cited_by_count": 100,
       "openalex_id": "https://openalex.org/W2795535061",
       "pressure_categories": [
         "water quality",
@@ -1638,11 +1604,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2018 · 127 citations · open access",
+      "freshness_label": "2018 · 129 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.1021/acs.est.8b01036",
-      "cited_by_count": 127,
+      "cited_by_count": 129,
       "openalex_id": "https://openalex.org/W2802755228",
       "pressure_categories": [
         "water quality",
@@ -1675,11 +1641,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2017 · 115 citations · open access",
+      "freshness_label": "2017 · 117 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.1371/journal.pone.0188507",
-      "cited_by_count": 115,
+      "cited_by_count": 117,
       "openalex_id": "https://openalex.org/W2773097426",
       "pressure_categories": [
         "water quality",
@@ -1710,11 +1676,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2016 · 1665 citations · open access",
+      "freshness_label": "2016 · 1684 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.1016/j.scitotenv.2016.11.106",
-      "cited_by_count": 1665,
+      "cited_by_count": 1684,
       "openalex_id": "https://openalex.org/W2557411037",
       "pressure_categories": [
         "NbS / restoration"
@@ -1745,11 +1711,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2016 · 334 citations · open access",
+      "freshness_label": "2016 · 338 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.1111/rec.12415",
-      "cited_by_count": 334,
+      "cited_by_count": 338,
       "openalex_id": "https://openalex.org/W2512643886",
       "pressure_categories": [
         "habitat / biodiversity"
@@ -1780,11 +1746,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2016 · 302 citations · open access",
+      "freshness_label": "2016 · 308 citations · open access",
       "practical_fit": "High practical fit · Ireland / direct relevance",
       "geographic_relevance": "Ireland / direct relevance",
       "doi": "https://doi.org/10.1186/s13750-016-0060-0",
-      "cited_by_count": 302,
+      "cited_by_count": 308,
       "openalex_id": "https://openalex.org/W2109326402",
       "pressure_categories": [
         "water quality",
@@ -1938,6 +1904,43 @@
       "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, agricultural runoff, NbS / restoration."
     },
     {
+      "id": "9397f9bcf2f25a95",
+      "title": "Agriculture and Eutrophication: Where Do We Go from Here?",
+      "url": "https://doi.org/10.3390/su6095853",
+      "summary": "The eutrophication of surface waters has become an endemic global problem. Nutrient loadings from agriculture are a major driver, but it remains very unclear what level of on-farm controls are necessary or can be justified to achieve water quality improvements. In this review article, we use the UK as an example of societies’ multiple stressors on water quality to explore the uncertainties and challenges in achieving a sustainable balance between useable water resources, diverse aquatic ecosystems and a viable agriculture. Our analysis shows that nutrient loss from agriculture is a challenging issue if farm productivity and profitability is to be maintained and increased. Legacy stores of nitrogen (N) and phosphorus (P) in catchments may be sufficient to sustain algal blooms and murky waters for decades to come and more innovation is needed to drawdown and recover these nutrients. Agriculture’s impact on eutrophication risk may also be",
+      "published": "2014-09-02",
+      "source_id": "openalex",
+      "source_name": "Sustainability",
+      "publisher": "Sustainability",
+      "section": "research-papers",
+      "theme": "water-quality",
+      "tags": [
+        "research",
+        "ireland",
+        "water-quality",
+        "catchment",
+        "agriculture",
+        "open-access",
+        "highly-cited",
+        "review",
+        "temperate-transfer"
+      ],
+      "score": 100,
+      "freshness_status": "reference",
+      "freshness_label": "2014 · 723 citations · open access",
+      "practical_fit": "High practical fit · Comparable temperate relevance",
+      "geographic_relevance": "Comparable temperate relevance",
+      "doi": "https://doi.org/10.3390/su6095853",
+      "cited_by_count": 723,
+      "openalex_id": "https://openalex.org/W2055208823",
+      "pressure_categories": [
+        "water quality",
+        "agricultural runoff"
+      ],
+      "research_use_type": "Review / evidence synthesis",
+      "action_relevance": "Comparable-system evidence: useful where Nanny-Delvin needs transferable practice for water quality, agricultural runoff."
+    },
+    {
       "id": "14dd73ae6399f4df",
       "title": "Ecological restoration of rich fens in Europe and North America: from trial and error to an evidence‐based approach",
       "url": "https://doi.org/10.1111/brv.12102",
@@ -1960,11 +1963,11 @@
       ],
       "score": 100,
       "freshness_status": "reference",
-      "freshness_label": "2014 · 305 citations · open access",
+      "freshness_label": "2014 · 306 citations · open access",
       "practical_fit": "High practical fit · Comparable temperate relevance",
       "geographic_relevance": "Comparable temperate relevance",
       "doi": "https://doi.org/10.1111/brv.12102",
-      "cited_by_count": 305,
+      "cited_by_count": 306,
       "openalex_id": "https://openalex.org/W2166074394",
       "pressure_categories": [
         "water quality",
@@ -2726,7 +2729,7 @@
       ],
       "score": 99,
       "freshness_status": "reference",
-      "freshness_label": "244 days old · background",
+      "freshness_label": "245 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -2767,7 +2770,7 @@
       ],
       "score": 97,
       "freshness_status": "fresh",
-      "freshness_label": "24 days old",
+      "freshness_label": "25 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "NbS / restoration"
@@ -2799,7 +2802,7 @@
       ],
       "score": 97,
       "freshness_status": "reference",
-      "freshness_label": "135 days old · background",
+      "freshness_label": "136 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant",
@@ -2844,11 +2847,11 @@
       ],
       "score": 97,
       "freshness_status": "reference",
-      "freshness_label": "2016 · 59 citations · open access",
+      "freshness_label": "2016 · 60 citations · open access",
       "practical_fit": "High practical fit · Ireland / direct relevance",
       "geographic_relevance": "Ireland / direct relevance",
       "doi": "https://doi.org/10.1016/j.scitotenv.2015.12.120",
-      "cited_by_count": 59,
+      "cited_by_count": 60,
       "openalex_id": "https://openalex.org/W2222889476",
       "pressure_categories": [
         "water quality",
@@ -2856,44 +2859,6 @@
       ],
       "research_use_type": "Supporting evidence",
       "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around water quality, agricultural runoff."
-    },
-    {
-      "id": "38ead0bdd3ed16af",
-      "title": "Funding Available for Small Dam Removal and River Restoration - fundsforNGOs - Grants and Resources for Sustainability",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGkyWWU2a0lRbGsyMU1PNGItUC13elJDdm95VU9LZnNFbXdVYUFPdHg3Z2JKMWh1QTFUNzRRMlY4NUIwa2JkRGNpcm5HbjR1aEhQbXFGMmprNGgtMDZWRFc4b0NUZG1lYlNaa2Fqekc3RDh0UVB5dEllNldnSjVOVC1adUpzbmY2MzIwQUY3aldYdFlHYkdWMnhQaUhwMUctbkR2QTYxLUlEZ9IBrwFBVV95cUxQSVktMUx2T0dCVXhEaG9sNEdJMmdSMXdxSncyYUdGQ2JQU0RhODV0TTlXNFNxcmZUM2k0UFZOTkkxdmtYcUhYZmxSeGNVRlBiajVhejlmOUNnOGc1WDI0UmlqSlYtWldzTHhUWVd1bEowWjVxY29CaEZxakg1QnhiekZST1NPLXRCRDF5QUV2VkxBSzZGRnVELW5nWVAyTmp0SlppT1R1Q0ZuUS1SSXRz?oc=5",
-      "summary": "Funding Available for Small Dam Removal and River Restoration fundsforNGOs - Grants and Resources for Sustainability",
-      "published": "2026-06-26",
-      "source_id": "google-news-river-ecology-ireland",
-      "source_name": "Google News: river ecology Ireland",
-      "publisher": "Google News: river ecology Ireland",
-      "section": "grants-opportunities",
-      "theme": "grant",
-      "tags": [
-        "river-restoration",
-        "grant"
-      ],
-      "score": 96,
-      "freshness_status": "reference",
-      "freshness_label": "149 days old · background",
-      "pressure_categories": [
-        "river ecology",
-        "funding / grant",
-        "NbS / restoration"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Funding signal for the Trust: check whether this can support river ecology, funding / grant, NbS / restoration, citizen science, engagement, or small catchment actions.",
-      "opportunity_fit": {
-        "fit": "Medium",
-        "score": 63,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      }
     },
     {
       "id": "7214de15481363da",
@@ -2932,77 +2897,6 @@
       "research_use_type": "Monitoring method"
     },
     {
-      "id": "67c36120ace4c8e2",
-      "title": "Small Water Bodies in Great Britain and Ireland: Ecosystem function, human-generated degradation, and options for restorative action",
-      "url": "https://doi.org/10.1016/j.scitotenv.2018.07.243",
-      "summary": "Open the source to inspect the abstract, journal, DOI, and publication metadata.",
-      "published": "2018-07-25",
-      "source_id": "openalex",
-      "source_name": "The Science of The Total Environment",
-      "publisher": "The Science of The Total Environment",
-      "section": "research-papers",
-      "theme": "water-quality",
-      "tags": [
-        "research",
-        "ireland",
-        "water-quality",
-        "catchment",
-        "agriculture",
-        "open-access",
-        "highly-cited",
-        "ireland-first"
-      ],
-      "score": 94,
-      "freshness_status": "reference",
-      "freshness_label": "2018 · 196 citations · open access",
-      "practical_fit": "High practical fit · Ireland / direct relevance",
-      "geographic_relevance": "Ireland / direct relevance",
-      "doi": "https://doi.org/10.1016/j.scitotenv.2018.07.243",
-      "cited_by_count": 196,
-      "openalex_id": "https://openalex.org/W2882980423",
-      "pressure_categories": [
-        "agricultural runoff"
-      ],
-      "research_use_type": "Supporting evidence",
-      "action_relevance": "Ireland-first evidence: use this to support Trust decisions, engagement, or methods around agricultural runoff."
-    },
-    {
-      "id": "7bb6b10fd0ff213f",
-      "title": "Community groups in Longford invited to apply for funding to protect and improve local water quality - Longford Leader",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQlRaV2hMWHlYX2tsbmdQQ3pSZkVuMHlGYTFLbWpHNC1jQ2JDQkdOYzFfX3BfakJlV2ZtMmFuN2pmSVpnSjZGWTJhdXpoSXR0MlNDNXlxVTJXVTRkdWItbUxwdVIyQ3U4MFZxSjRlNXNGc3RDU0RvdjRQNld6bUJoRDVabHBYUVdJOGxHRlNMbEdTYXNPVXM2UlFfUDhJbGo0NlBDSVlKWmNXdlZYWjN3WndwZ18xSEl0cFZtV2ktSER6WHhMaHRUNUtLb1NrQ1FpdDUyczlVQThyWi1hTElNWHJhLU5OSFpHNlln?oc=5",
-      "summary": "Community groups in Longford invited to apply for funding to protect and improve local water quality Longford Leader",
-      "published": "2026-11-18",
-      "source_id": "google-news-nbs-water-ireland",
-      "source_name": "Google News: Ireland water NbS",
-      "publisher": "Google News: Ireland water NbS",
-      "section": "grants-opportunities",
-      "theme": "water-quality",
-      "tags": [
-        "water-quality",
-        "grant"
-      ],
-      "score": 93,
-      "freshness_status": "fresh",
-      "freshness_label": "4 days old",
-      "pressure_categories": [
-        "funding / grant"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, citizen science, engagement, or small catchment actions.",
-      "opportunity_fit": {
-        "fit": "High",
-        "score": 81,
-        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
-        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
-      }
-    },
-    {
       "id": "8ca1831d502d0bca",
       "title": "Major traffic relief scheme for Julianstown in Meath moves forward - Irish Independent",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRTRXY29hNGZRa2xFbERsbWRCY2o1SmNMQi1BRFhRalZtWVJwY3A0ampCRkVfODBlSEhuOUVVb3k5YVZVcndoTVBuSXdfc2M0STBxUENWcjIwMTV0anBKMmVaTktGRzkxSFNIRmk3S2RJRjN2XzFFTjA5OHVwY2RDSzY0ZnczdjZrV1pCd2FVc3BqSDRENktseE5STGhZaHdLdll2ZHo5YjBMSU1TdXpSbG5lN2JsTERjaV9aa3N0OVQ?oc=5",
@@ -3019,7 +2913,7 @@
       ],
       "score": 93,
       "freshness_status": "reference",
-      "freshness_label": "346 days old · background",
+      "freshness_label": "347 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3039,6 +2933,40 @@
       "action_relevance": "Planning/infrastructure watch: assess whether route selection, crossings, drainage, culverts, floodplain or riparian changes intersect the Nanny-Delvin catchment. This is a screening signal, not evidence that ecological harm has occurred."
     },
     {
+      "id": "54003a180edcf2bb",
+      "title": "River Delvin protected as Stamullen plant is closed - Dublin People",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR0ZhYm5RbV93Z25TUlc3X0p0bkhVTlVMbVhmYTdNQ05LbVFlaUJBQVNzb3l3OUxabmtMdm9nc2g5VWNIVUFvZXhiaVdnVTJvOFNEX2xQUWJJWjlKaVUzdkU0XzZteWRlUUlhX3c4ck0tQVRPYTJxbmR2eW5XUkM1RTZJWEMxTEpnR1RGTzhyUGHSAZABQVVfeXFMUEdGYWJuUW1fd2duU1JXN19KdG5IVU5VTG1YZmE3TUNOS21RZWlCQUFTc295dzlMWm5rTHZvZ3NoOVVjSFVBb2V4YmlXZ1UybzhTRF9sUFFiSVo5SmlVM3ZFNF82bXlkZVFJYV93OHJNLUFUT2EycW5kdnluV1JDNUU2SVhDMUxKZ0dURk84clBh?oc=5",
+      "summary": "River Delvin protected as Stamullen plant is closed Dublin People",
+      "published": "2025-08-07",
+      "source_id": "google-news-nanny-delvin-local",
+      "source_name": "Google News: Nanny-Delvin local catchment",
+      "publisher": "Google News: Nanny-Delvin local catchment",
+      "section": "ireland-catchment-practice",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local"
+      ],
+      "score": 93,
+      "freshness_status": "reference",
+      "freshness_label": "473 days old · background",
+      "pressure_categories": [
+        "general catchment signal"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "delvin",
+          "nanny",
+          "nanny-delvin",
+          "river delvin",
+          "stamullen"
+        ]
+      },
+      "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
+    },
+    {
       "id": "659f7a7d803f4c6a",
       "title": "Third Julianstown public meeting calls for traffic relief scheme to be paused - Drogheda Life",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMExoOGtJM0RlMkVSdHpIanhIOEx6ZHNxOXB3elMzeURvRUZIVV95NUl4X2hJR0xJaTZDYS15VU1vRXJFMk1UNFBnWndscDJrQUxEWDdQTWd6UVg2SFVhLVowS2tmeXdhX3B5ZzI1LVJvelMxb1BBTmRyeFBlcnNZS09xV0xQQU9IX1NFbkN2UkZwU3B2UnhsZ254bHN3MTVhWk14TEtn?oc=5",
@@ -3055,7 +2983,7 @@
       ],
       "score": 92,
       "freshness_status": "reference",
-      "freshness_label": "115 days old · background",
+      "freshness_label": "116 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3077,42 +3005,6 @@
         "status": "candidate",
         "reason": "Local planning or infrastructure signal with catchment relevance. Verify the river-corridor, riparian, drainage or crossing implications in the primary source before posting."
       }
-    },
-    {
-      "id": "54003a180edcf2bb",
-      "title": "River Delvin protected as Stamullen plant is closed - Dublin People",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR0ZhYm5RbV93Z25TUlc3X0p0bkhVTlVMbVhmYTdNQ05LbVFlaUJBQVNzb3l3OUxabmtMdm9nc2g5VWNIVUFvZXhiaVdnVTJvOFNEX2xQUWJJWjlKaVUzdkU0XzZteWRlUUlhX3c4ck0tQVRPYTJxbmR2eW5XUkM1RTZJWEMxTEpnR1RGTzhyUGHSAZABQVVfeXFMUEdGYWJuUW1fd2duU1JXN19KdG5IVU5VTG1YZmE3TUNOS21RZWlCQUFTc295dzlMWm5rTHZvZ3NoOVVjSFVBb2V4YmlXZ1UybzhTRF9sUFFiSVo5SmlVM3ZFNF82bXlkZVFJYV93OHJNLUFUT2EycW5kdnluV1JDNUU2SVhDMUxKZ0dURk84clBh?oc=5",
-      "summary": "River Delvin protected as Stamullen plant is closed Dublin People",
-      "published": "2025-08-07",
-      "source_id": "google-news-east-meath-water",
-      "source_name": "Google News: East Meath water and ecology",
-      "publisher": "Google News: East Meath water and ecology",
-      "section": "ireland-catchment-practice",
-      "theme": "nanny-delvin-local",
-      "tags": [
-        "nanny-delvin-local"
-      ],
-      "score": 92,
-      "freshness_status": "reference",
-      "freshness_label": "472 days old · background",
-      "pressure_categories": [
-        "general catchment signal"
-      ],
-      "local_relevance": {
-        "score": 100,
-        "label": "High local relevance",
-        "matched_terms": [
-          "Ireland",
-          "delvin",
-          "east meath",
-          "meath",
-          "nanny",
-          "nanny-delvin",
-          "river delvin",
-          "stamullen"
-        ]
-      },
-      "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
     },
     {
       "id": "21ff63a6bc12bb25",
@@ -3152,36 +3044,6 @@
       "research_use_type": "Policy / governance"
     },
     {
-      "id": "cd17a9447e4aaef8",
-      "title": "Public meeting announced on water quality in Louth - Ireland Live News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOWxUWXdTcmZqMmk4Q1NDUVp2VGNFa25RR0xidy1tUVNPZ0YwNVhVRV9oYWZqTFBTaDBheWlxc2JzZTB2c2d4UHF1dm5YZVRZZFNBN3hBRXo4VV9EQ2RiTmZCY2xkckZFSFA2UHMtX1Vvb0x0MWxRMjE2VWc1NV9PUkpncEljMjVObTdsd3k0QVl1cHJndjhycXVRd095ZFc3RWN0Rw?oc=5",
-      "summary": "Public meeting announced on water quality in Louth Ireland Live News",
-      "published": "2026-11-20",
-      "source_id": "google-news-ireland-river-water-quality",
-      "source_name": "Google News: Ireland river water quality",
-      "publisher": "Google News: Ireland river water quality",
-      "section": "ireland-catchment-practice",
-      "theme": "water-quality",
-      "tags": [
-        "water-quality"
-      ],
-      "score": 91,
-      "freshness_status": "fresh",
-      "freshness_label": "2 days old",
-      "pressure_categories": [
-        "general catchment signal"
-      ],
-      "local_relevance": {
-        "score": 32,
-        "label": "Moderate local relevance",
-        "matched_terms": [
-          "Ireland",
-          "louth"
-        ]
-      },
-      "action_relevance": "Local relevance signal: useful because it connects to Moderate local relevance and the Trust's catchment-facing work."
-    },
-    {
       "id": "c61c76feb7abb9fa",
       "title": "Packed Julianstown meeting calls for fair and transparent traffic relief process - Drogheda Life",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0NWZmhGX3k1NjgzRnVma2kwc29LTGMtdkpVa0p3aGxGQVRtbXdNSEc4ZXV4MndvT3lUU1RyUjdwcUZLWDNOS2dFak53MEI0NHZkZXZMei1BRlIweElCV2VKUHVPTkUtNGJyOVk0WDlwakRnSjJfMGh3emNaNkxQaV9oUVRxQ1g3V1lETDItWlNOVWRaQ1kyVDY2LUdTbDdHVkpicjBWMi1lQQ?oc=5",
@@ -3198,7 +3060,7 @@
       ],
       "score": 91,
       "freshness_status": "reference",
-      "freshness_label": "123 days old · background",
+      "freshness_label": "124 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3233,7 +3095,7 @@
       ],
       "score": 90,
       "freshness_status": "reference",
-      "freshness_label": "5786 days old · background",
+      "freshness_label": "5787 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3267,7 +3129,7 @@
       ],
       "score": 89,
       "freshness_status": "fresh",
-      "freshness_label": "50 days old",
+      "freshness_label": "51 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -3299,7 +3161,7 @@
       ],
       "score": 89,
       "freshness_status": "fresh",
-      "freshness_label": "64 days old",
+      "freshness_label": "65 days old",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3384,6 +3246,42 @@
       }
     },
     {
+      "id": "09e109d73c5e2985",
+      "title": "Naul man angry over Delvin River pollution incidents - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWRRRmtVMWJkQTJNNHRSdUpFcExILVVYeUtENWdhbDRSVU9VRnotZFBEektIVWN2TnJDbW9JYUg3WUV3S1FFLTkzbDZfNUJxQmZJX25zN2MwZzVhMGZ3dUhyRERMZVVjcjdMTDJLampSQ3BYWFlzeEFoV3U0MUpROWEzQ0V6ZmkxSkFnb1IxZ3ZKWXc1TmptZjdFX3ZHNWFGNHBqSzc1dS1lYTcyS1Fj?oc=5",
+      "summary": "Naul man angry over Delvin River pollution incidents Irish Independent",
+      "published": "2020-06-13",
+      "source_id": "google-news-nanny-delvin-local",
+      "source_name": "Google News: Nanny-Delvin local catchment",
+      "publisher": "Google News: Nanny-Delvin local catchment",
+      "section": "ireland-catchment-practice",
+      "theme": "nanny-delvin-local",
+      "tags": [
+        "nanny-delvin-local",
+        "water-quality",
+        "incident-alert"
+      ],
+      "score": 87,
+      "freshness_status": "reference",
+      "freshness_label": "2354 days old · background",
+      "pressure_categories": [
+        "incident / alert"
+      ],
+      "local_relevance": {
+        "score": 100,
+        "label": "High local relevance",
+        "matched_terms": [
+          "Ireland",
+          "delvin",
+          "delvin river",
+          "nanny",
+          "nanny-delvin",
+          "naul"
+        ]
+      },
+      "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
+    },
+    {
       "id": "7b04bf53b852d93d",
       "title": "November 24 Community Meeting: Natural Water Quality in Ardee MD Join us on the 24th of November from 7pm-9pm at the Ardee Parish Centre, Hale street, Ardee, Co. Louth, A92 X5DE",
       "url": "https://riverbasin.ie/events/community-meeting-natural-water-quality-in-ardee-md/",
@@ -3429,7 +3327,7 @@
       ],
       "score": 85,
       "freshness_status": "fresh",
-      "freshness_label": "88 days old",
+      "freshness_label": "89 days old",
       "pressure_categories": [
         "septic / domestic wastewater"
       ],
@@ -3618,7 +3516,7 @@
       ],
       "score": 84,
       "freshness_status": "fresh",
-      "freshness_label": "4 days old",
+      "freshness_label": "5 days old",
       "pressure_categories": [
         "funding / grant",
         "policy / governance",
@@ -3654,7 +3552,7 @@
       ],
       "score": 84,
       "freshness_status": "fresh",
-      "freshness_label": "20 days old",
+      "freshness_label": "21 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "funding / grant"
@@ -3691,7 +3589,7 @@
       ],
       "score": 84,
       "freshness_status": "reference",
-      "freshness_label": "123 days old · background",
+      "freshness_label": "124 days old · background",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -3732,7 +3630,7 @@
       ],
       "score": 83,
       "freshness_status": "reference",
-      "freshness_label": "185 days old · background",
+      "freshness_label": "186 days old · background",
       "pressure_categories": [
         "agricultural runoff",
         "funding / grant",
@@ -3814,37 +3712,6 @@
         ]
       },
       "action_relevance": "General practical signal: may help the Trust track general catchment signal, policy, funding, monitoring, or community action."
-    },
-    {
-      "id": "e9879e5eeba80cfc",
-      "title": "Minister visits Laois to launch community biodiversity guide - Ireland Live News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGdmdEx6UER1bWFlQm55d1l5MFM1QTZSb2tuUjNBVTZqdUlGQWs0WXQtdHlfNUFWbFJ3R0MzQUVSNmp5OU9hTVdROTFjYlJMVWZxTEZLZE9ZVVFkLWR6cE9wNEtRSC1pZVlSR1I2dHRrVTVqMEFRSkZQdE81VTZYSTlyd3JLdHpFRGpyNU82dThsd0NqOW9PUVVyYkxsXzdSNUxJcTVFb183Q1VTczUwQjNpUVNWU1k?oc=5",
-      "summary": "Minister visits Laois to launch community biodiversity guide Ireland Live News",
-      "published": "2026-11-12",
-      "source_id": "google-news-nbs-water-ireland",
-      "source_name": "Google News: Ireland water NbS",
-      "publisher": "Google News: Ireland water NbS",
-      "section": "ireland-catchment-practice",
-      "theme": "biodiversity",
-      "tags": [
-        "biodiversity",
-        "planning-infrastructure"
-      ],
-      "score": 82,
-      "freshness_status": "fresh",
-      "freshness_label": "10 days old",
-      "pressure_categories": [
-        "habitat / biodiversity",
-        "planning / infrastructure"
-      ],
-      "local_relevance": {
-        "score": 10,
-        "label": "Ireland-wide relevance",
-        "matched_terms": [
-          "Ireland"
-        ]
-      },
-      "action_relevance": "General practical signal: may help the Trust track habitat / biodiversity, planning / infrastructure, policy, funding, monitoring, or community action."
     },
     {
       "id": "21e9077cd2ec1012",
@@ -3971,11 +3838,11 @@
       }
     },
     {
-      "id": "e845d6c0f046bf6c",
-      "title": "Public meeting announced on water quality in Louth - LMFM",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNblVvcDhnSHhscmVBUjdCV0FQdVlqVFdBNFFMaWNjLTJnR1hHcWdib2tMOTF6QzlNcUVqd3JmTHV4Si1UTDlZVWxabk9qV1J0TlRoNmZ0VGR2bEoySHNSQ1Z2ZHZpcVJoNnpSVW5mQ2N2VUNvYml0YWxsYmtfcGVfb0tTYU5hS3dFZ3hxR0tZVQ?oc=5",
-      "summary": "Public meeting announced on water quality in Louth LMFM",
-      "published": "2026-11-20",
+      "id": "12eec9c4bcf51766",
+      "title": "Public meeting announced on water quality in Louth - Louth Live",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN015M2pwUEhvZzZUUVVFZmJZeXV1SFBHNkJhZ2QwLVpKVTNJWjdmM3ZvRUlPSDlKOHZDSDZoS3ZJS25aa0U3N2Itenl2Y05PZTA4V2hmNExySmtuMDVUeGktSnVDRkROUmdPaS1lVV9VMmNrNjVPLTBmRjVyQnQ3ZU9ucHRjUmJjY3hTNTExSVYyM1VJcTlRbFhn?oc=5",
+      "summary": "Public meeting announced on water quality in Louth Louth Live",
+      "published": "2026-11-22",
       "source_id": "google-news-ireland-river-water-quality",
       "source_name": "Google News: Ireland river water quality",
       "publisher": "Google News: Ireland river water quality",
@@ -3986,7 +3853,7 @@
       ],
       "score": 79,
       "freshness_status": "fresh",
-      "freshness_label": "2 days old",
+      "freshness_label": "1 days old",
       "pressure_categories": [
         "general catchment signal"
       ],
@@ -3999,6 +3866,42 @@
         ]
       },
       "action_relevance": "Local relevance signal: useful because it connects to Moderate local relevance and the Trust's catchment-facing work."
+    },
+    {
+      "id": "d351d5392ad83ae0",
+      "title": "Scotland funds nature recovery projects including river restoration - Water Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSzRKRVdqaDZoZkhJREFzZ2E1Z1NmYzRTTnFWb1RBcEdrMEJ3UlNmX3IwcW5rMFRZUTdKWGl2MlRSaENXVmpXcVU2V05sR2Z5VEtyblhha01pc1VZU3N6N1B6dHR0OERYcGtvbnc0Rmh5ek5LNjRqaWZZbzdiMEFWdHlZLThUU1RIMC1YdVYyNlBLX1laczVHZWJZTVZJTE1IMDhYRGxoNjZjX3p3NUxkRQ?oc=5",
+      "summary": "Scotland funds nature recovery projects including river restoration Water Magazine",
+      "published": "2026-10-26",
+      "source_id": "google-news-nbs-water-ireland",
+      "source_name": "Google News: Ireland water NbS",
+      "publisher": "Google News: Ireland water NbS",
+      "section": "grants-opportunities",
+      "theme": "river-restoration",
+      "tags": [
+        "river-restoration"
+      ],
+      "score": 78,
+      "freshness_status": "fresh",
+      "freshness_label": "28 days old",
+      "pressure_categories": [
+        "funding / grant",
+        "NbS / restoration"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, NbS / restoration, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Medium",
+        "score": 63,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
     },
     {
       "id": "ce31c91be025b881",
@@ -4047,7 +3950,7 @@
       ],
       "score": 77,
       "freshness_status": "reference",
-      "freshness_label": "372 days old · background",
+      "freshness_label": "373 days old · background",
       "pressure_categories": [
         "birds / wetland ecology",
         "habitat / biodiversity"
@@ -4060,6 +3963,35 @@
         ]
       },
       "action_relevance": "Ecology signal: bird and wetland indicators can help connect river, estuary, lagoon, saltmarsh, and habitat condition to visible biodiversity outcomes."
+    },
+    {
+      "id": "ff18d7e547d43e7b",
+      "title": "Chalk stream restoration paves the way for a historic reintroduction of endangered water voles to Surrey - The Rivers Trust",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0lxaGRNcEY3ZkdjaVVSanBVVW91M2pfaktzRmRCUlE1LVh6YWh4MzRCYUhTQ3MzOWl0TzZkM2k5aHRBS21sRG00MWpDTUs3QldSNjItV0pEak5iYXphNGs3bm9TX0N0VXBHYUwyQ2dBWVQ4OFYtTGdNaTNHREtoM1dYVGVmNXpIZnFGa1NRSGd2SFJKeFg1NzBLbHc?oc=5",
+      "summary": "Chalk stream restoration paves the way for a historic reintroduction of endangered water voles to Surrey The Rivers Trust",
+      "published": "2025-07-31",
+      "source_id": "google-news-nbs-water-ireland",
+      "source_name": "Google News: Ireland water NbS",
+      "publisher": "Google News: Ireland water NbS",
+      "section": "ireland-catchment-practice",
+      "theme": "river-restoration",
+      "tags": [
+        "river-restoration"
+      ],
+      "score": 77,
+      "freshness_status": "reference",
+      "freshness_label": "480 days old · background",
+      "pressure_categories": [
+        "general catchment signal"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "General practical signal: may help the Trust track general catchment signal, policy, funding, monitoring, or community action."
     },
     {
       "id": "238561121bcf4e2a",
@@ -4079,7 +4011,7 @@
       ],
       "score": 77,
       "freshness_status": "reference",
-      "freshness_label": "933 days old · background",
+      "freshness_label": "934 days old · background",
       "pressure_categories": [
         "septic / domestic wastewater",
         "funding / grant",
@@ -4118,7 +4050,7 @@
       ],
       "score": 75,
       "freshness_status": "reference",
-      "freshness_label": "569 days old · background",
+      "freshness_label": "570 days old · background",
       "pressure_categories": [
         "habitat / biodiversity",
         "policy / governance",
@@ -4150,7 +4082,7 @@
       ],
       "score": 75,
       "freshness_status": "reference",
-      "freshness_label": "870 days old · background",
+      "freshness_label": "871 days old · background",
       "pressure_categories": [
         "habitat / biodiversity",
         "incident / alert"
@@ -4161,6 +4093,71 @@
         "matched_terms": []
       },
       "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
+    },
+    {
+      "id": "5f5144b382fcfd34",
+      "title": "Water Quality in Ireland: Indicator Report",
+      "url": "https://www.epa.ie/publications/monitoring--assessment/freshwater--marine/water-quality-in-ireland-2025.php",
+      "summary": "Water Quality in Ireland: Indicator Report",
+      "published": null,
+      "source_id": "catchments-ie",
+      "source_name": "Catchments.ie",
+      "publisher": "Catchments.ie",
+      "section": "ireland-catchment-practice",
+      "theme": "water-quality",
+      "tags": [
+        "water-quality"
+      ],
+      "score": 75,
+      "freshness_status": "reference",
+      "freshness_label": "Date unknown",
+      "pressure_categories": [
+        "general catchment signal"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "General practical signal: may help the Trust track general catchment signal, policy, funding, monitoring, or community action."
+    },
+    {
+      "id": "f34880b1a1558280",
+      "title": "EPA Research Funding",
+      "url": "https://www.epa.ie/our-services/research/epa--research-funding/",
+      "summary": "EPA Research Funding",
+      "published": null,
+      "source_id": "epa-water",
+      "source_name": "EPA Ireland Water",
+      "publisher": "EPA Ireland Water",
+      "section": "grants-opportunities",
+      "theme": "grant",
+      "tags": [
+        "grant"
+      ],
+      "score": 75,
+      "freshness_status": "reference",
+      "freshness_label": "Date unknown",
+      "pressure_categories": [
+        "funding / grant",
+        "policy / governance"
+      ],
+      "local_relevance": {
+        "score": 10,
+        "label": "Ireland-wide relevance",
+        "matched_terms": [
+          "Ireland"
+        ]
+      },
+      "action_relevance": "Funding signal for the Trust: check whether this can support funding / grant, policy / governance, citizen science, engagement, or small catchment actions.",
+      "opportunity_fit": {
+        "fit": "Medium",
+        "score": 63,
+        "eligible_hint": "Likely worth checking for community, biodiversity, water-quality, education, or citizen-science eligibility.",
+        "action_needed": "Check deadline, applicant eligibility, match-funding needs, and whether NDRT or a partner body should lead."
+      }
     }
   ]
 }
