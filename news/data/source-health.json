@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-24T15:59:37.512161+00:00",
-  "latest_generated_at": "2026-11-24T15:59:27.693132+00:00",
+  "generated_at": "2026-11-25T15:46:38.226401+00:00",
+  "latest_generated_at": "2026-11-25T15:46:24.731060+00:00",
   "total_items": 115,
   "total_sources": 33,
-  "sources_active": 19,
-  "sources_checked_no_current_items": 13,
-  "sources_failed": 1,
+  "sources_active": 20,
+  "sources_checked_no_current_items": 11,
+  "sources_failed": 2,
   "items_by_section": {
-    "grants-opportunities": 17,
+    "grants-opportunities": 18,
     "ireland-catchment-practice": 18,
     "research-papers": 36,
-    "planning-infrastructure": 22,
-    "waterbody-evidence-alerts": 22
+    "planning-infrastructure": 20,
+    "waterbody-evidence-alerts": 23
   },
   "annotation_coverage": {
     "action_relevance": 115,
     "pressure_categories": 115,
     "local_relevance": 79,
-    "opportunity_fit": 18,
-    "research_use_type": 56
+    "opportunity_fit": 20,
+    "research_use_type": 57
   },
-  "archive_snapshots": 114,
+  "archive_snapshots": 115,
   "sources": [
     {
       "id": "google-news-nanny-delvin-local",
@@ -33,8 +33,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 2,
-      "discovered_hint_count": 10,
-      "elapsed_ms": 40,
+      "discovered_hint_count": 11,
+      "elapsed_ms": 58,
       "error": null
     },
     {
@@ -49,7 +49,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 12,
-      "elapsed_ms": 36,
+      "elapsed_ms": 58,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "http_status": 200,
       "current_item_count": 8,
       "discovered_hint_count": 13,
-      "elapsed_ms": 37,
+      "elapsed_ms": 57,
       "error": null
     },
     {
@@ -77,9 +77,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 14,
-      "discovered_hint_count": 60,
-      "elapsed_ms": 64,
+      "current_item_count": 11,
+      "discovered_hint_count": 23,
+      "elapsed_ms": 60,
       "error": null
     },
     {
@@ -90,11 +90,11 @@
       "scope": "meath county council julianstown official project watch",
       "url": "https://news.google.com/rss/search?q=(%22Meath%20County%20Council%22%20OR%20Systra)%20(%22Julianstown%20Traffic%20Relief%20Scheme%22%20OR%20%22R132%20Julianstown%22%20OR%20Julianstown)&hl=en-IE&gl=IE&ceid=IE:en",
       "host": "news.google.com",
-      "status": "checked-no-current-items",
+      "status": "active",
       "http_status": 200,
-      "current_item_count": 0,
-      "discovered_hint_count": 14,
-      "elapsed_ms": 37,
+      "current_item_count": 1,
+      "discovered_hint_count": 10,
+      "elapsed_ms": 59,
       "error": null
     },
     {
@@ -108,8 +108,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 76,
-      "elapsed_ms": 74,
+      "discovered_hint_count": 77,
+      "elapsed_ms": 103,
       "error": null
     },
     {
@@ -124,7 +124,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 29,
-      "elapsed_ms": 44,
+      "elapsed_ms": 70,
       "error": null
     },
     {
@@ -137,9 +137,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 7,
+      "current_item_count": 8,
       "discovered_hint_count": 100,
-      "elapsed_ms": 85,
+      "elapsed_ms": 104,
       "error": null
     },
     {
@@ -153,8 +153,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 5,
-      "discovered_hint_count": 30,
-      "elapsed_ms": 44,
+      "discovered_hint_count": 27,
+      "elapsed_ms": 69,
       "error": null
     },
     {
@@ -168,8 +168,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 13,
-      "elapsed_ms": 36,
+      "discovered_hint_count": 11,
+      "elapsed_ms": 58,
       "error": null
     },
     {
@@ -183,8 +183,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 9,
-      "elapsed_ms": 33,
+      "discovered_hint_count": 47,
+      "elapsed_ms": 74,
       "error": null
     },
     {
@@ -195,11 +195,11 @@
       "scope": "funding",
       "url": "https://news.google.com/rss/search?q=%28grant%20OR%20funding%20OR%20call%20OR%20scheme%29%20%28river%20OR%20water%20quality%20OR%20biodiversity%20OR%20wetland%20OR%20catchment%20OR%20citizen%20science%29%20Ireland&hl=en-IE&gl=IE&ceid=IE:en",
       "host": "news.google.com",
-      "status": "checked-no-current-items",
+      "status": "active",
       "http_status": 200,
-      "current_item_count": 0,
-      "discovered_hint_count": 77,
-      "elapsed_ms": 71,
+      "current_item_count": 1,
+      "discovered_hint_count": 75,
+      "elapsed_ms": 95,
       "error": null
     },
     {
@@ -214,7 +214,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 95,
-      "elapsed_ms": 693,
+      "elapsed_ms": 731,
       "error": null
     },
     {
@@ -229,7 +229,7 @@
       "http_status": 307,
       "current_item_count": 0,
       "discovered_hint_count": 0,
-      "elapsed_ms": 40,
+      "elapsed_ms": 119,
       "error": null
     },
     {
@@ -240,11 +240,11 @@
       "scope": "ireland river ecology",
       "url": "https://news.google.com/rss/search?q=%28river%20ecology%20OR%20freshwater%20ecology%20OR%20aquatic%20ecology%20OR%20macroinvertebrates%20OR%20fish%20passage%20OR%20habitat%20restoration%29%20%28Ireland%20OR%20Irish%29%20%28river%20OR%20stream%20OR%20catchment%20OR%20water%20quality%29&hl=en-IE&gl=IE&ceid=IE:en",
       "host": "news.google.com",
-      "status": "active",
-      "http_status": 200,
-      "current_item_count": 1,
-      "discovered_hint_count": 10,
-      "elapsed_ms": 34,
+      "status": "failed",
+      "http_status": 429,
+      "current_item_count": 0,
+      "discovered_hint_count": 0,
+      "elapsed_ms": 400,
       "error": null
     },
     {
@@ -259,7 +259,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 73,
-      "elapsed_ms": 69,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -273,8 +273,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 50,
-      "elapsed_ms": 57,
+      "discovered_hint_count": 48,
+      "elapsed_ms": 76,
       "error": null
     },
     {
@@ -289,7 +289,7 @@
       "http_status": 200,
       "current_item_count": 0,
       "discovered_hint_count": 10,
-      "elapsed_ms": 35,
+      "elapsed_ms": 57,
       "error": null
     },
     {
@@ -303,8 +303,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 10,
-      "elapsed_ms": 33,
+      "discovered_hint_count": 26,
+      "elapsed_ms": 63,
       "error": null
     },
     {
@@ -318,8 +318,8 @@
       "status": "checked-no-current-items",
       "http_status": 200,
       "current_item_count": 0,
-      "discovered_hint_count": 21,
-      "elapsed_ms": 40,
+      "discovered_hint_count": 48,
+      "elapsed_ms": 75,
       "error": null
     },
     {
@@ -332,9 +332,9 @@
       "host": "news.google.com",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 1,
-      "discovered_hint_count": 13,
-      "elapsed_ms": 35,
+      "current_item_count": 3,
+      "discovered_hint_count": 49,
+      "elapsed_ms": 76,
       "error": null
     },
     {
@@ -348,8 +348,8 @@
       "status": "active",
       "http_status": 200,
       "current_item_count": 1,
-      "discovered_hint_count": 9,
-      "elapsed_ms": 34,
+      "discovered_hint_count": 45,
+      "elapsed_ms": 76,
       "error": null
     },
     {
@@ -364,7 +364,7 @@
       "http_status": 200,
       "current_item_count": 5,
       "discovered_hint_count": 143,
-      "elapsed_ms": 1085,
+      "elapsed_ms": 1160,
       "error": null
     },
     {
@@ -377,9 +377,9 @@
       "host": "lawaters.ie",
       "status": "active",
       "http_status": 200,
-      "current_item_count": 2,
+      "current_item_count": 1,
       "discovered_hint_count": 118,
-      "elapsed_ms": 958,
+      "elapsed_ms": 1071,
       "error": null
     },
     {
@@ -394,7 +394,7 @@
       "http_status": 200,
       "current_item_count": 6,
       "discovered_hint_count": 224,
-      "elapsed_ms": 280,
+      "elapsed_ms": 470,
       "error": null
     },
     {
@@ -409,7 +409,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 181,
-      "elapsed_ms": 644,
+      "elapsed_ms": 970,
       "error": null
     },
     {
@@ -424,7 +424,7 @@
       "http_status": 200,
       "current_item_count": 3,
       "discovered_hint_count": 426,
-      "elapsed_ms": 869,
+      "elapsed_ms": 1030,
       "error": null
     },
     {
@@ -439,7 +439,7 @@
       "http_status": 200,
       "current_item_count": 4,
       "discovered_hint_count": 83,
-      "elapsed_ms": 521,
+      "elapsed_ms": 791,
       "error": null
     },
     {
@@ -454,7 +454,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 38,
-      "elapsed_ms": 1751,
+      "elapsed_ms": 2295,
       "error": null
     },
     {
@@ -469,7 +469,7 @@
       "http_status": 404,
       "current_item_count": 0,
       "discovered_hint_count": 0,
-      "elapsed_ms": 76,
+      "elapsed_ms": 758,
       "error": null
     },
     {
@@ -484,7 +484,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 107,
-      "elapsed_ms": 76,
+      "elapsed_ms": 71,
       "error": null
     },
     {
@@ -499,7 +499,7 @@
       "http_status": 200,
       "current_item_count": 13,
       "discovered_hint_count": 94,
-      "elapsed_ms": 831,
+      "elapsed_ms": 915,
       "error": null
     },
     {
@@ -514,7 +514,7 @@
       "http_status": 200,
       "current_item_count": 1,
       "discovered_hint_count": 109,
-      "elapsed_ms": 820,
+      "elapsed_ms": 1104,
       "error": null
     }
   ]

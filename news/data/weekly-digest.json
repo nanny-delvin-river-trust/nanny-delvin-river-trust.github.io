@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-11-24T15:59:37.513826+00:00",
-  "latest_generated_at": "2026-11-24T15:59:27.693132+00:00",
+  "generated_at": "2026-11-25T15:46:38.227931+00:00",
+  "latest_generated_at": "2026-11-25T15:46:24.731060+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
-    "grants-opportunities": 17,
+    "grants-opportunities": 18,
     "ireland-catchment-practice": 18,
     "research-papers": 36,
-    "planning-infrastructure": 22,
-    "waterbody-evidence-alerts": 22
+    "planning-infrastructure": 20,
+    "waterbody-evidence-alerts": 23
   },
   "top_pressure_categories": [
+    {
+      "pressure": "policy / governance",
+      "count": 34
+    },
     {
       "pressure": "NbS / restoration",
       "count": 34
     },
     {
-      "pressure": "policy / governance",
-      "count": 33
+      "pressure": "habitat / biodiversity",
+      "count": 31
     },
     {
       "pressure": "planning / infrastructure",
-      "count": 32
-    },
-    {
-      "pressure": "habitat / biodiversity",
       "count": 30
     },
     {
       "pressure": "citizen science / monitoring",
-      "count": 29
+      "count": 30
     },
     {
       "pressure": "water quality",
-      "count": 26
+      "count": 25
     },
     {
       "pressure": "agricultural runoff",
-      "count": 20
+      "count": 22
     },
     {
       "pressure": "funding / grant",
-      "count": 18
+      "count": 20
     },
     {
       "pressure": "nutrients",
@@ -49,7 +49,7 @@
     },
     {
       "pressure": "incident / alert",
-      "count": 8
+      "count": 7
     },
     {
       "pressure": "sediment / hydromorphology",
@@ -70,7 +70,7 @@
       "published": "2026-11-11",
       "score": 100,
       "practical_score": 130.0,
-      "freshness_label": "13 days old",
+      "freshness_label": "14 days old",
       "pressure_categories": [
         "NbS / restoration"
       ],
@@ -94,7 +94,7 @@
       "published": "2026-10-03",
       "score": 89,
       "practical_score": 129.0,
-      "freshness_label": "52 days old",
+      "freshness_label": "53 days old",
       "pressure_categories": [
         "agricultural runoff"
       ],
@@ -113,15 +113,15 @@
       "action_relevance": "Local relevance signal: useful because it connects to High local relevance and the Trust's catchment-facing work."
     },
     {
-      "id": "56b9c538d44d60e6",
-      "title": "Road layout and limited land availability may hamper safe pedestrian crossing works at Laytown station, cllrs told - Meath Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbkNSeGNWMW9BdFpvejVtZjd2aGdxMnlndF9Da2ZEYWgxRy11WVAycUJIQk0wRW5aamRrcDJINWdlVXdZdGQxeUZ0bHZsek9GQng0b2JKV0t1dUdYeGUtWjNjNkFOMnNmNEQ1UnBDSlR3MnNic1plVGRCUGwtVDE0cEVpNzVYYXhMR21jcjN0WFFjX1RuVjE2VFhJOVZzSExyZmkyNktLM2xWTF9RVW0tTlpmbF9ySWFvVHZCN2FyaEl3MVBsV1dGZ2M0YVVBTkdKa2lfNkNQekFaN2NLOWlKbkpkQ1hxRDhkU3lV?oc=5",
+      "id": "b0251d564a177c36",
+      "title": "Julianstown Traffic Relief Scheme at heart of new residents’ group - Drogheda Life",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVZlVGFaTVRSTGZEemFob1E3ZkRCQ2NuaXU0M2ktdW5rR1lCWU1QWFBZYzJ1N3JCV2w4dTRRdVlidmFvaDVBVkNGVjNTSlk5QTNPanlzM3Z6dU5GMjdxSm9QSjlZTF9sWmxoanNKTEZiVEZZLWEweE9KZHRIWWJrVEc0Rm1oQQ?oc=5",
       "section": "planning-infrastructure",
       "source_name": "Google News: East Meath planning and infrastructure",
-      "published": "2026-10-14",
+      "published": "2026-09-29",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "41 days old",
+      "freshness_label": "57 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -131,7 +131,8 @@
         "matched_terms": [
           "delvin",
           "east meath",
-          "laytown",
+          "julianstown",
+          "julianstown traffic relief scheme",
           "meath",
           "nanny",
           "nanny-delvin"
@@ -150,7 +151,7 @@
       "published": "2026-11-24",
       "score": 100,
       "practical_score": 149.0,
-      "freshness_label": "0 days old",
+      "freshness_label": "1 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "funding / grant",
