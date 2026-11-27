@@ -1,77 +1,78 @@
 {
-  "generated_at": "2026-11-26T15:28:19.301292+00:00",
-  "latest_generated_at": "2026-11-26T15:28:08.267093+00:00",
+  "generated_at": "2026-11-27T15:18:31.594988+00:00",
+  "latest_generated_at": "2026-11-27T15:18:18.655601+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
-    "grants-opportunities": 15,
-    "ireland-catchment-practice": 17,
+    "grants-opportunities": 19,
     "research-papers": 36,
-    "planning-infrastructure": 20,
-    "waterbody-evidence-alerts": 27
+    "planning-infrastructure": 22,
+    "ireland-catchment-practice": 9,
+    "waterbody-evidence-alerts": 29
   },
   "top_pressure_categories": [
     {
-      "pressure": "policy / governance",
-      "count": 35
-    },
-    {
-      "pressure": "NbS / restoration",
+      "pressure": "habitat / biodiversity",
       "count": 34
     },
     {
-      "pressure": "habitat / biodiversity",
-      "count": 30
+      "pressure": "planning / infrastructure",
+      "count": 33
     },
     {
-      "pressure": "citizen science / monitoring",
+      "pressure": "NbS / restoration",
+      "count": 33
+    },
+    {
+      "pressure": "policy / governance",
       "count": 29
     },
     {
-      "pressure": "planning / infrastructure",
-      "count": 28
-    },
-    {
       "pressure": "water quality",
-      "count": 26
+      "count": 24
     },
     {
-      "pressure": "agricultural runoff",
-      "count": 23
+      "pressure": "citizen science / monitoring",
+      "count": 24
     },
     {
       "pressure": "funding / grant",
-      "count": 16
+      "count": 21
+    },
+    {
+      "pressure": "agricultural runoff",
+      "count": 18
     },
     {
       "pressure": "nutrients",
       "count": 12
     },
     {
-      "pressure": "incident / alert",
-      "count": 9
+      "pressure": "septic / domestic wastewater",
+      "count": 8
     },
     {
-      "pressure": "septic / domestic wastewater",
-      "count": 6
+      "pressure": "incident / alert",
+      "count": 7
     },
     {
       "pressure": "sediment / hydromorphology",
-      "count": 5
+      "count": 3
     }
   ],
   "items": [
     {
-      "id": "5dd62ba826a7c1b1",
-      "title": "Inland Fisheries Ireland commits more than €1m to river restoration in 2027 - Water Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS0xOSy1zY3djbWU3YlJqQjlIckpVUlkydmZudzBHc2lVODRYWFhNMk9ZTlFkVmdoTXJiSDA3VFZFdmFJcTJnSVRDbkMwOEh1aXE5NEhRcHBJWk9rRmt0Ty1SX2MxOTNvd2RrMnZtMGQtWkppMXNBclh4eVFVVTdoU2hfcmYzdl9ER2p4b2ZHWC1RTGlnWldHR01GSkoxODM5Y1RtQzEyb3hvSkV3bGtBdzdYcG9IbGZqWnhV?oc=5",
+      "id": "b1a780cd84a20d90",
+      "title": "Reflections on the last two months of Mainstreaming Nature-based Solutions in Northern Ireland - The Rivers Trust",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWNFLXFMU2t6LXJJMFlCRERoMTZPcU9nOXZZR2swZm1xY1dzX2VkWFJrR2puaWVmYmZrTXNYejBJUTBLSV9lemN6MnNZdzNwWVMzb3BPRUlOQ1ptVUF4a1RsNnVQOGlZbmR2OGJ2QzhFc21BRUd4QUlUdUFjZVotbXFmNmF2M3ZSRThVQjhkU2w5VjBMV0ZCdXd1VFNCdw?oc=5",
       "section": "ireland-catchment-practice",
       "source_name": "Google News: Ireland water NbS",
-      "published": "2026-11-11",
-      "score": 100,
+      "published": "2026-10-29",
+      "score": 97,
       "practical_score": 130.0,
-      "freshness_label": "15 days old",
+      "freshness_label": "29 days old",
       "pressure_categories": [
+        "habitat / biodiversity",
         "NbS / restoration"
       ],
       "local_relevance": {
@@ -82,7 +83,7 @@
         ]
       },
       "opportunity_fit": null,
-      "research_use_type": null,
+      "research_use_type": "NbS effectiveness",
       "action_relevance": "Restoration signal: potentially useful for riparian, wetland, floodplain, habitat, or runoff-interception measures."
     },
     {
@@ -94,7 +95,7 @@
       "published": "2026-09-22",
       "score": 97,
       "practical_score": 137.0,
-      "freshness_label": "65 days old",
+      "freshness_label": "66 days old",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -114,15 +115,15 @@
       "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
     },
     {
-      "id": "b0251d564a177c36",
-      "title": "Julianstown Traffic Relief Scheme at heart of new residents’ group - Drogheda Life",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVZlVGFaTVRSTGZEemFob1E3ZkRCQ2NuaXU0M2ktdW5rR1lCWU1QWFBZYzJ1N3JCV2w4dTRRdVlidmFvaDVBVkNGVjNTSlk5QTNPanlzM3Z6dU5GMjdxSm9QSjlZTF9sWmxoanNKTEZiVEZZLWEweE9KZHRIWWJrVEc0Rm1oQQ?oc=5",
+      "id": "b87558ef7a1709f1",
+      "title": "Julianstown Traffic Relief Scheme backed after HGV vote, residents say - Drogheda Life",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzNEZjUEJIekhhTWJFUXVQMTRMQ0tFYTgtNXpIUjc1aEJveVUtS3ppeDQzSHpjMHozM2ExTjdPalR5YzhKa3hyY21EQzA4U1Y3NmVBZGFSeXBGLU9MVExwYmM0RzFuX3A2THZqeE50OVV0dl9LeTlj?oc=5",
       "section": "planning-infrastructure",
       "source_name": "Google News: East Meath planning and infrastructure",
-      "published": "2026-09-29",
+      "published": "2026-10-13",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "58 days old",
+      "freshness_label": "45 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -152,7 +153,7 @@
       "published": "2026-11-24",
       "score": 100,
       "practical_score": 149.0,
-      "freshness_label": "2 days old",
+      "freshness_label": "3 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "funding / grant",
