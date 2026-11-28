@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-11-27T15:18:31.594988+00:00",
-  "latest_generated_at": "2026-11-27T15:18:18.655601+00:00",
+  "generated_at": "2026-11-28T14:20:45.279033+00:00",
+  "latest_generated_at": "2026-11-28T14:20:34.477998+00:00",
   "title": "NDRT weekly practical digest",
   "summary": "One top practical signal from each operational lane, giving the Nanny-Delvin Rivers Trust a balanced digest across practice, evidence, planning, funding, and research.",
   "lane_counts": {
-    "grants-opportunities": 19,
+    "grants-opportunities": 17,
     "research-papers": 36,
-    "planning-infrastructure": 22,
-    "ireland-catchment-practice": 9,
-    "waterbody-evidence-alerts": 29
+    "planning-infrastructure": 20,
+    "ireland-catchment-practice": 19,
+    "waterbody-evidence-alerts": 23
   },
   "top_pressure_categories": [
     {
       "pressure": "habitat / biodiversity",
-      "count": 34
-    },
-    {
-      "pressure": "planning / infrastructure",
-      "count": 33
-    },
-    {
-      "pressure": "NbS / restoration",
-      "count": 33
+      "count": 35
     },
     {
       "pressure": "policy / governance",
+      "count": 32
+    },
+    {
+      "pressure": "NbS / restoration",
+      "count": 31
+    },
+    {
+      "pressure": "planning / infrastructure",
       "count": 29
     },
     {
-      "pressure": "water quality",
-      "count": 24
-    },
-    {
       "pressure": "citizen science / monitoring",
-      "count": 24
+      "count": 26
     },
     {
-      "pressure": "funding / grant",
-      "count": 21
+      "pressure": "water quality",
+      "count": 25
     },
     {
       "pressure": "agricultural runoff",
-      "count": 18
+      "count": 22
+    },
+    {
+      "pressure": "funding / grant",
+      "count": 19
     },
     {
       "pressure": "nutrients",
       "count": 12
     },
     {
-      "pressure": "septic / domestic wastewater",
-      "count": 8
+      "pressure": "incident / alert",
+      "count": 10
     },
     {
-      "pressure": "incident / alert",
-      "count": 7
+      "pressure": "general catchment signal",
+      "count": 5
     },
     {
       "pressure": "sediment / hydromorphology",
-      "count": 3
+      "count": 4
     }
   ],
   "items": [
@@ -70,7 +70,7 @@
       "published": "2026-10-29",
       "score": 97,
       "practical_score": 130.0,
-      "freshness_label": "29 days old",
+      "freshness_label": "30 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "NbS / restoration"
@@ -95,7 +95,7 @@
       "published": "2026-09-22",
       "score": 97,
       "practical_score": 137.0,
-      "freshness_label": "66 days old",
+      "freshness_label": "67 days old",
       "pressure_categories": [
         "incident / alert"
       ],
@@ -115,15 +115,15 @@
       "action_relevance": "Operational watch signal: this may indicate a water-quality incident, bathing-water concern, fish kill, pollution pathway, or public-reporting opportunity."
     },
     {
-      "id": "b87558ef7a1709f1",
-      "title": "Julianstown Traffic Relief Scheme backed after HGV vote, residents say - Drogheda Life",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzNEZjUEJIekhhTWJFUXVQMTRMQ0tFYTgtNXpIUjc1aEJveVUtS3ppeDQzSHpjMHozM2ExTjdPalR5YzhKa3hyY21EQzA4U1Y3NmVBZGFSeXBGLU9MVExwYmM0RzFuX3A2THZqeE50OVV0dl9LeTlj?oc=5",
+      "id": "b0251d564a177c36",
+      "title": "Julianstown Traffic Relief Scheme at heart of new residents’ group - Drogheda Life",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVZlVGFaTVRSTGZEemFob1E3ZkRCQ2NuaXU0M2ktdW5rR1lCWU1QWFBZYzJ1N3JCV2w4dTRRdVlidmFvaDVBVkNGVjNTSlk5QTNPanlzM3Z6dU5GMjdxSm9QSjlZTF9sWmxoanNKTEZiVEZZLWEweE9KZHRIWWJrVEc0Rm1oQQ?oc=5",
       "section": "planning-infrastructure",
       "source_name": "Google News: East Meath planning and infrastructure",
-      "published": "2026-10-13",
+      "published": "2026-09-29",
       "score": 100,
       "practical_score": 135.0,
-      "freshness_label": "45 days old",
+      "freshness_label": "60 days old",
       "pressure_categories": [
         "planning / infrastructure"
       ],
@@ -153,7 +153,7 @@
       "published": "2026-11-24",
       "score": 100,
       "practical_score": 149.0,
-      "freshness_label": "3 days old",
+      "freshness_label": "4 days old",
       "pressure_categories": [
         "habitat / biodiversity",
         "funding / grant",
